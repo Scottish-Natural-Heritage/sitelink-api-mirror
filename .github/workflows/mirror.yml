@@ -1,0 +1,28 @@
+name: Mirror latest Sitelink-API data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '21 5 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+      run: |-
+        npm run start
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add --all
+        timestamp=$(date --utc)
+        git commit --message="Latest data: ${timestamp}" || exit 0
+        git push
