@@ -41,10 +41,10 @@ export const validateSitesIndex = (sitesIndex) => {
 
     // If we've not got a sensible `first` value, it's invalid.
     if (sitesIndex.first === undefined || sitesIndex.first !== 1) { return false; }
-    
+
     // If we've not got a sensible `pageSize` value, it's invalid.
     if (sitesIndex.pageSize === undefined || sitesIndex.pageSize !== 0) { return false; }
-    
+
     // If we've not got a sensible `total` value, it's invalid.
     if (sitesIndex.total === undefined || sitesIndex.total < 1) { return false; }
 
@@ -57,7 +57,7 @@ export const validateSitesIndex = (sitesIndex) => {
 
 const saveSitesIndex = async (sitesIndex) => {
     // Pretty-print the json to make it easier for git to check diffs. 
-    const stringified = JSON.stringify(sitesIndex, undefined, '\t');    
+    const stringified = JSON.stringify(sitesIndex, undefined, '\t');
 
     // Save it as an 'index' file.
     const filePath = resolve(baseRoot, baseUrl, 'index.json');
@@ -95,7 +95,7 @@ const saveSite = async (site) => {
     const stringified = JSON.stringify(site, undefined, '\t');
 
     const filePath = resolve(baseRoot, baseUrl, `${site.id}`, 'index.json')
-    await writeFile(filePath, stringified, {encoding: 'utf8'});
+    await writeFile(filePath, stringified, { encoding: 'utf8' });
 }
 
 //#endregion
@@ -129,25 +129,61 @@ const fixedIndex = {
 // Save the index with the fixed URLs.
 await saveSitesIndex(fixedIndex);
 
-//
+// It's possible for a download from the origin API to fail, so we use a
+// queue to allow us to retry any failed downloads at the end.
+const siteQueue = [];
+
+// Loop over each of the sites in the index.
 for (const indexSite of sitesIndex.sites) {
-    //
+
+    // Make sure it's understandable as a 'site'.
     if (!validateIndexSite(indexSite)) {
         throw new Error('Could not validate site within index!');
     }
 
-    //
-    const site = await getSite(indexSite.url);
+    // Add it to the end of the queue.
+    siteQueue.push(indexSite);
+}
 
-    //
-    if (!validateSite(site)) {
-        throw new Error('Could not validate site!');
+// As long as we've a backlog of sites in our queue.
+while (siteQueue.length != 0) {
+
+    // Get the first site from the queue.
+    const indexSite = siteQueue.shift();
+
+    // The download and save might fail, so we need to `try` to do it.
+    try {
+        // Let the user know how we're getting on.
+        console.log(`Getting #${indexSite.id}.`);
+
+        // Grab the whole site JSON object.
+        const site = await getSite(indexSite.url);
+
+        // Make sure that the download parsed correctly.
+        if (!validateSite(site)) {
+            throw new Error('Could not validate site!');
+        }
+
+        // Fix the object so the URL references are relative to our potential
+        // new mirror location.
+        const { url, id, ...restOfSite } = site;
+        const newUrl = `/${baseUrl}/${id}`;
+        const fixedSite = { url: newUrl, id, ...restOfSite };
+
+        // Save the updated JSON to disk.
+        await saveSite(fixedSite);
+
+        // Let the user know how we did, and what's left to do.
+        console.log(`#${indexSite.id} done. ${siteQueue.length} sites to go.\n`);
+
+    // If any of that failed.
+    } catch {
+        // Let the user know it went 'wobbly'.
+        console.log(`#${indexSite.id} failed. Retrying later. ${siteQueue.length} sites to go.\n`);
+
+        // Add the site back on to the end of the queue again for later
+        // consumption.
+        siteQueue.push(indexSite);
     }
-
-    const { url, id, ...restOfSite } = site;
-    const newUrl = `/${baseUrl}/${id}`;
-    const fixedSite = { url: newUrl, id, ...restOfSite };
- 
-    await saveSite(fixedSite);
 }
 //#endregion
