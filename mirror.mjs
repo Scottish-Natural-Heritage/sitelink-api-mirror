@@ -35,6 +35,41 @@ const getSitesIndex = async (url) => {
     return data;
 }
 
+const pause = async (milliseconds) => {
+    // Wait for a wee bit before resolving the promise.
+    return new Promise(resolve => setTimeout(resolve, milliseconds));
+}
+
+const repeatedlyAttempt = async (func, args, attempts) => {
+    try {
+        // Try the function with the supplied arguments.
+        const result = await func(...args);
+
+        // Return the result if it's successful.
+        return result;
+        // If it failed...
+    } catch {
+        // Tell the user that one attempt failed.
+        console.log('Attempted, but failed.')
+
+        // If we still have some attempts...
+        if (attempts) {
+            // Tell the user how many remain.
+            console.log(`${attempts} attempts remain.`);
+
+            // Let the server catch it's breath for a couple of seconds in case
+            // we're hammering it in to the ground.
+            await pause(2000);
+
+            // Try again, crossing our fingers.
+            return await repeatedlyAttempt(func, args, --attempts);
+        }
+
+        // If we have no attempts left. Throw an error and stop.
+        throw new Error('Repeatedly attempted, but continually failed. Cannot continue.')
+    }
+}
+
 export const validateSitesIndex = (sitesIndex) => {
     // If we've got nothing, it's invalid.
     if (sitesIndex === undefined) { return false; }
@@ -107,7 +142,7 @@ const basePath = resolve(baseRoot, baseUrl);
 await mkdir(basePath, { recursive: true });
 
 // Grab the sites index
-const sitesIndex = await getSitesIndex(apiEndpoint);
+const sitesIndex = await repeatedlyAttempt(getSitesIndex, [apiEndpoint], 10)
 
 // Make sure we've downloaded it correctly.
 if (!validateSitesIndex(sitesIndex)) {
@@ -176,7 +211,7 @@ while (siteQueue.length != 0) {
         // Let the user know how we did, and what's left to do.
         console.log(`#${indexSite.id} done. ${siteQueue.length} sites to go.\n`);
 
-    // If any of that failed.
+        // If any of that failed.
     } catch {
         // Let the user know it went 'wobbly'.
         console.log(`#${indexSite.id} failed. Retrying later. ${siteQueue.length} sites to go.\n`);
@@ -184,6 +219,10 @@ while (siteQueue.length != 0) {
         // Add the site back on to the end of the queue again for later
         // consumption.
         siteQueue.push(indexSite);
+
+        // Let the server catch it's breath for a couple of seconds in case
+        // we're hammering it in to the ground.
+        await pause(2000);
     }
 }
 //#endregion
