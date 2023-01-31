@@ -1,0 +1,8 @@
+:8080
+
+root * ./mirror
+file_server {
+	index index.json
+	disable_canonical_uris
+	browse
+}
