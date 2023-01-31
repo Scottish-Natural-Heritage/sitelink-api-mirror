@@ -1,0 +1,111 @@
+{
+	"url": "/sitelink-api/v1/sites/8469",
+	"id": 8469,
+	"area": 2877.51,
+	"casework": [
+		{
+			"code": "35673",
+			"receivedDate": "2006-09-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "47783",
+			"receivedDate": "2008-04-07",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "51694",
+			"receivedDate": "2008-06-25",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "ALC151580",
+			"receivedDate": "2018-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM163883",
+			"receivedDate": "2021-07-09",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CGS154703",
+			"receivedDate": "2019-03-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS155939",
+			"receivedDate": "2019-06-21",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SPA",
+		"date": "2000-02-02",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-protection-areas-spas",
+		"status": "Current",
+		"type": "Special Protection Area"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Conservation Objectives",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8469/documents/29"
+		},
+		{
+			"type": "SPA Citation",
+			"size": 81,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8469/documents/16"
+		},
+		{
+			"type": "SPA Map",
+			"size": 3905,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8469/documents/45"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8469"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002551"
+		},
+		{
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002551.pdf"
+		}
+	],
+	"euCode": "UK9002551",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-07-01",
+			"name": "Dotterel (Charadrius morinellus), breeding",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100747"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Ben Alder",
+	"snhArea": "National Operations Central Highland"
+}

@@ -1,0 +1,61 @@
+{
+	"url": "/sitelink-api/v1/sites/1414",
+	"id": 1414,
+	"area": 3.9,
+	"casework": [
+		{
+			"code": "CPP159549",
+			"receivedDate": "2020-06-08",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-03-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 703,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1414/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 158,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1414/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1414/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1414/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1414"
+		}
+	],
+	"euCode": "135735",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-09-07",
+			"name": "Lowland calcareous grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102649"
+		}
+	],
+	"localAuthority": "East Dunbartonshire",
+	"name": "Sculliongour Limestone Quarry",
+	"snhArea": "National Operations West Central"
+}

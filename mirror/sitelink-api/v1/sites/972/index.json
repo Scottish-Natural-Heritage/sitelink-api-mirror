@@ -1,0 +1,71 @@
+{
+	"url": "/sitelink-api/v1/sites/972",
+	"id": 972,
+	"area": 2.38,
+	"casework": [
+		{
+			"code": "48591",
+			"receivedDate": "2008-05-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "71057",
+			"receivedDate": "2011-08-25",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-04-02",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/972/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/972/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 78,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/972/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 696,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/972/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=972"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1346"
+		}
+	],
+	"euCode": "136093",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-20",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103263"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Cleat",
+	"snhArea": "National Operations Central Highland"
+}

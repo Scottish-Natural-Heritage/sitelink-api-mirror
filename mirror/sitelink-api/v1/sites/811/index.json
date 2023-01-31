@@ -1,0 +1,97 @@
+{
+	"url": "/sitelink-api/v1/sites/811",
+	"id": 811,
+	"agreements": [
+		{
+			"area": 41.8,
+			"code": 1040,
+			"expiryDate": "2031-04-14",
+			"property": "Innishewan",
+			"term": 40,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 41.16,
+	"casework": [
+		{
+			"code": "32668",
+			"receivedDate": "2006-04-26",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "37619",
+			"receivedDate": "2006-10-23",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "37623",
+			"receivedDate": "2006-11-15",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "55133",
+			"receivedDate": "2009-05-27",
+			"response": "Information/Advice only",
+			"type": "Bracken Control (non EPA)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-01-12",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 598,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/811/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 227,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/811/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/811/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/811/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=811"
+		}
+	],
+	"euCode": "135223",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-05-15",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100238"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Innishewan Wood",
+	"snhArea": "National Operations South"
+}

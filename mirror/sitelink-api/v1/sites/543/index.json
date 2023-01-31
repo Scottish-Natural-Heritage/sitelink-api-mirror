@@ -1,0 +1,99 @@
+{
+	"url": "/sitelink-api/v1/sites/543",
+	"id": 543,
+	"area": 119.77,
+	"casework": [
+		{
+			"code": "9836",
+			"receivedDate": "2003-02-26",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "22374",
+			"receivedDate": "2001-08-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "CPP169026",
+			"receivedDate": "2022-10-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS149622",
+			"receivedDate": "2018-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP139094",
+			"receivedDate": "2015-11-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC157579",
+			"receivedDate": "2019-11-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-01-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 938,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/543/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 135,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/543/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/543/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/543/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=543"
+		}
+	],
+	"euCode": "134973",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-10-28",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100143"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Drumore Wood",
+	"snhArea": "National Operations South"
+}

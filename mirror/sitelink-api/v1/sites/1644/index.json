@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/1644",
+	"id": 1644,
+	"area": 142.93,
+	"casework": [
+		{
+			"code": "22146",
+			"receivedDate": "2004-12-08",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "45236",
+			"receivedDate": "2007-11-30",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "62134",
+			"receivedDate": "2010-06-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "67394",
+			"receivedDate": "2011-02-25",
+			"response": "B. Support",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "ALC135933",
+			"receivedDate": "2015-03-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159057",
+			"receivedDate": "2020-04-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN157226",
+			"receivedDate": "2019-05-13",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "CLC111269",
+			"receivedDate": "2012-01-24",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC115185",
+			"receivedDate": "2012-06-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM115298",
+			"receivedDate": "2012-06-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC163541",
+			"receivedDate": "2021-06-22",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP139167",
+			"receivedDate": "2015-11-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM156081",
+			"receivedDate": "2019-07-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP161545",
+			"receivedDate": "2020-12-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP154583",
+			"receivedDate": "2019-03-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC145653",
+			"receivedDate": "2017-04-26",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1644/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1737,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1644/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 116,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1644/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1644/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1644"
+		}
+	],
+	"euCode": "135652",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-17",
+			"name": "Oligotrophic loch",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100708"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-17",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111045"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Wood of Cree",
+	"snhArea": "National Operations South"
+}

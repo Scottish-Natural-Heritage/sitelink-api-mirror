@@ -1,0 +1,86 @@
+{
+	"url": "/sitelink-api/v1/sites/948",
+	"id": 948,
+	"area": 21.19,
+	"casework": [
+		{
+			"code": "CPA158009",
+			"receivedDate": "2020-01-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157731",
+			"receivedDate": "2019-12-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140884",
+			"receivedDate": "2016-04-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 567,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/948/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/948/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 90,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/948/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/948/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=948"
+		}
+	],
+	"euCode": "136023",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-06-18",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105955"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-08-21",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103695"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Little Loch Roag Valley Bog",
+	"snhArea": "National Operations West"
+}

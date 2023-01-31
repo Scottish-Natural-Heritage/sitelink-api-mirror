@@ -1,0 +1,133 @@
+{
+	"url": "/sitelink-api/v1/sites/37",
+	"id": 37,
+	"area": 54.66,
+	"casework": [
+		{
+			"code": "22940",
+			"receivedDate": "2005-01-28",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "42196",
+			"receivedDate": "2007-06-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "49905",
+			"receivedDate": "2008-06-18",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "56171",
+			"receivedDate": "2009-07-15",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "59174",
+			"receivedDate": "2009-12-01",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "GEN114737",
+			"receivedDate": "2012-05-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM159084",
+			"receivedDate": "2020-04-28",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CPP139828",
+			"receivedDate": "2016-01-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM138170",
+			"receivedDate": "2015-09-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA132293",
+			"receivedDate": "2014-07-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM158983",
+			"receivedDate": "2020-04-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-10-09",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/37/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 71,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/37/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1146,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/37/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/37/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=37"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2225"
+		}
+	],
+	"euCode": "135007",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-13",
+			"name": "Fluvial Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100731"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Allt a' Choire",
+	"snhArea": "National Operations Central Highland"
+}

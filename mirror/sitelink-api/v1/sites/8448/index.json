@@ -1,0 +1,76 @@
+{
+	"url": "/sitelink-api/v1/sites/8448",
+	"id": 8448,
+	"agreements": [
+		{
+			"area": 1157,
+			"code": 2687,
+			"expiryDate": "2029-12-31",
+			"property": "Estate of Dinnet & Kinord",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 157.73,
+	"casework": [
+		{
+			"code": "56443",
+			"receivedDate": "2009-08-04",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "68739",
+			"receivedDate": "2011-05-18",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "GEN165787",
+			"receivedDate": "2022-01-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "RAMSAR",
+		"date": "1999-05-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/ramsar-sites",
+		"status": "Current",
+		"type": "Ramsar Site"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Ramsar Site Citation",
+			"size": 197,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8448/documents/20"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8448"
+		},
+		{
+			"type": "Ramsar Site Information Sheet",
+			"url": "https://rsis.ramsar.org/RISapp/files/RISrep/GB1003RIS.pdf?language=en"
+		},
+		{
+			"type": "Ramsar Sites Information Service",
+			"url": "https://rsis.ramsar.org/ris/1003?language=en"
+		}
+	],
+	"euCode": "UK13049",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-12-10",
+			"name": "Greylag goose (Anser anser), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106970"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Muir of Dinnet",
+	"snhArea": "Tayside and Grampian"
+}

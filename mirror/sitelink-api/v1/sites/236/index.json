@@ -1,0 +1,155 @@
+{
+	"url": "/sitelink-api/v1/sites/236",
+	"id": 236,
+	"area": 8.55,
+	"casework": [
+		{
+			"code": "24021",
+			"receivedDate": "2005-03-21",
+			"response": "Information/Advice only",
+			"type": "Railways"
+		},
+		{
+			"code": "43803",
+			"receivedDate": "2007-09-20",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "66270",
+			"receivedDate": "2010-12-22",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CLC160522",
+			"receivedDate": "2020-09-14",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM166966",
+			"receivedDate": "2022-05-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP167100",
+			"receivedDate": "2022-05-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA152345",
+			"receivedDate": "2018-09-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC160331",
+			"receivedDate": "2020-08-10",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA165733",
+			"receivedDate": "2022-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC165038",
+			"receivedDate": "2021-11-08",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPP165328",
+			"receivedDate": "2021-12-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS164422",
+			"receivedDate": "2021-08-31",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155290",
+			"receivedDate": "2019-04-30",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC144116",
+			"receivedDate": "2016-12-15",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-06-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/236/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/236/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 105,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/236/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 540,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/236/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=236"
+		}
+	],
+	"euCode": "139913",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-13",
+			"name": "Fen meadow",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004921"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-08-04",
+			"name": "Scrub",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001692"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Bog Wood and Meadow",
+	"snhArea": "Tayside and Grampian"
+}

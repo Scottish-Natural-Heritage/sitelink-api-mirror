@@ -1,0 +1,162 @@
+{
+	"url": "/sitelink-api/v1/sites/1440",
+	"id": 1440,
+	"area": 8.45,
+	"casework": [
+		{
+			"code": "11984",
+			"receivedDate": "2003-07-01",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "15224",
+			"receivedDate": "2003-12-12",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "27707",
+			"receivedDate": "2005-09-09",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Non Trunk Roads"
+		},
+		{
+			"code": "29124",
+			"receivedDate": "2005-11-21",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "44580",
+			"receivedDate": "2007-10-09",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CDM151348",
+			"receivedDate": "2018-07-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA151855",
+			"receivedDate": "2018-08-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA152085",
+			"receivedDate": "2018-08-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC155425",
+			"receivedDate": "2019-04-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC148604",
+			"receivedDate": "2017-12-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2019-11-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 261,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1440/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 82,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1440/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1440/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1440/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1440"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1555"
+		}
+	],
+	"euCode": "135451",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-26",
+			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101366"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-08-08",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Broom",
+						"Gorse",
+						"Other (add species to the pressure comment)",
+						"Willow"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106345"
+		}
+	],
+	"localAuthority": "West Lothian",
+	"name": "Skolie Burn",
+	"snhArea": "National Operations South"
+}

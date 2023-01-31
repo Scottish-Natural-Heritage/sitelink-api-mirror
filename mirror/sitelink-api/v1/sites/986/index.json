@@ -1,0 +1,120 @@
+{
+	"url": "/sitelink-api/v1/sites/986",
+	"id": 986,
+	"area": 894.59,
+	"casework": [
+		{
+			"code": "68033",
+			"receivedDate": "2011-03-04",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "CGS147187",
+			"receivedDate": "2017-08-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM129447",
+			"receivedDate": "2014-02-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA115455",
+			"receivedDate": "2012-06-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN112515",
+			"receivedDate": "2012-02-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN167938",
+			"receivedDate": "2022-08-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS117762",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA150218",
+			"receivedDate": "2018-04-12",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/986/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/986/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 357,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/986/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 744,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/986/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=986"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=902"
+		}
+	],
+	"euCode": "136056",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-19",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105979"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-07-23",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102034"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Glencoul",
+	"snhArea": "National Operations North"
+}

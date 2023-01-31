@@ -1,0 +1,83 @@
+{
+	"url": "/sitelink-api/v1/sites/1254",
+	"id": 1254,
+	"area": 1.95,
+	"casework": [
+		{
+			"code": "65873",
+			"receivedDate": "2010-11-26",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "CDM159656",
+			"receivedDate": "2020-06-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167734",
+			"receivedDate": "2022-07-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM126129",
+			"receivedDate": "2013-09-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-05-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1254/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1254/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 49,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1254/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 554,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1254/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1254"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2118"
+		}
+	],
+	"euCode": "137016",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-08-17",
+			"name": "Llandovery",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000293"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Old Cambus Quarry",
+	"snhArea": "National Operations South"
+}

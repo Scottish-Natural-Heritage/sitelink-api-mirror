@@ -1,0 +1,132 @@
+{
+	"url": "/sitelink-api/v1/sites/1477",
+	"id": 1477,
+	"agreements": [
+		{
+			"area": 30.72,
+			"code": 6286,
+			"property": "Staffa",
+			"term": 0,
+			"type": "Approved Body Declaration (S.35)"
+		}
+	],
+	"area": 45.71,
+	"casework": [
+		{
+			"code": "27193",
+			"receivedDate": "2005-07-12",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "56744",
+			"receivedDate": "2009-07-01",
+			"response": "B. Support",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "ALC150739",
+			"receivedDate": "2018-05-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM166386",
+			"receivedDate": "2022-03-18",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM165198",
+			"receivedDate": "2021-11-23",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-06-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1477/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 485,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1477/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1477/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 69,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1477/documents/3"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1477"
+		}
+	],
+	"euCode": "135746",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-05-22",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106375"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-08",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106374"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-30",
+			"name": "Puffin (Fratercula arctica), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107504"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-17",
+			"name": "Shag (Phalacrocorax aristotelis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106376"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Staffa",
+	"snhArea": "National Operations West"
+}

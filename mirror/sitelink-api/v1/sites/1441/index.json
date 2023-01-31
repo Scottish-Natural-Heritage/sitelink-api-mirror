@@ -1,0 +1,139 @@
+{
+	"url": "/sitelink-api/v1/sites/1441",
+	"id": 1441,
+	"area": 41.03,
+	"casework": [
+		{
+			"code": "61661",
+			"receivedDate": "2010-05-18",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC133434",
+			"receivedDate": "2014-10-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130019",
+			"receivedDate": "2014-03-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP159244",
+			"receivedDate": "2020-05-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN163773",
+			"receivedDate": "2021-07-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA165585",
+			"receivedDate": "2022-01-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS166481",
+			"receivedDate": "2022-03-29",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "ALC131051",
+			"receivedDate": "2014-05-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC140904",
+			"receivedDate": "2016-04-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1994-03-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1441/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1441/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2140,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1441/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1441/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1441"
+		}
+	],
+	"euCode": "135125",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-08-08",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106346"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-10",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001002"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Skyreburn Grasslands",
+	"snhArea": "National Operations South"
+}

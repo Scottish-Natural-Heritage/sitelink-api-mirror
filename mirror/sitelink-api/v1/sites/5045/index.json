@@ -1,0 +1,186 @@
+{
+	"url": "/sitelink-api/v1/sites/5045",
+	"id": 5045,
+	"agreements": [
+		{
+			"area": 6.59,
+			"code": 259,
+			"property": "Buchanan Castle Woodlands",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 0,
+			"code": 3471,
+			"property": "Claddochside Farm",
+			"term": 0,
+			"type": "Partner Agreement (including NatureScot)"
+		},
+		{
+			"area": 6,
+			"code": 67,
+			"expiryDate": "2033-07-08",
+			"property": "Clairinsh",
+			"term": 25,
+			"type": "Land Lease"
+		},
+		{
+			"area": 86.2,
+			"code": 6389,
+			"expiryDate": "2037-03-14",
+			"property": "Crom Mhin - D of M",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 51.5,
+			"code": 4654,
+			"expiryDate": "2037-03-14",
+			"property": "Gartfairn, Crom Mhin - Ronald",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 55.9,
+			"code": 287,
+			"property": "Island of Inchcailloch",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 55.9,
+			"code": 7725,
+			"expiryDate": "2024-03-31",
+			"property": "Island of Inchcailloch",
+			"term": 10,
+			"type": "Lease (NatureScot Landlord)"
+		},
+		{
+			"area": 70,
+			"code": 5948,
+			"expiryDate": "2037-03-14",
+			"property": "Low Mains - Montrose Estates",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 0,
+			"code": 7657,
+			"property": "Servitude granted in disposition case 287 - Island of Inchcailloch",
+			"term": 0,
+			"type": "Servitude (to NatureScot land granted in disposition)"
+		},
+		{
+			"area": 7.4,
+			"code": 6596,
+			"expiryDate": "2037-09-28",
+			"property": "Torrinch",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 428,
+	"casework": [
+		{
+			"code": "14349",
+			"receivedDate": "2003-10-27",
+			"response": "Information/Advice only",
+			"type": "Catchment Plans"
+		},
+		{
+			"code": "19389",
+			"receivedDate": "2004-07-09",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "22366",
+			"receivedDate": "2004-12-10",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "30179",
+			"receivedDate": "2006-01-06",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "CDM158093",
+			"receivedDate": "2020-01-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR159499",
+			"receivedDate": "2020-06-10",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CEA116339",
+			"receivedDate": "2012-08-03",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CDM110381",
+			"receivedDate": "2011-11-22",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC162751",
+			"receivedDate": "2021-04-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC163622",
+			"receivedDate": "2021-06-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR155720",
+			"receivedDate": "2019-05-31",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM142146",
+			"receivedDate": "2016-07-12",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "NNR",
+		"date": "1987-10-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/national-nature-reserves",
+		"status": "Current",
+		"type": "National Nature Reserve"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "NNR Web Site",
+			"url": "https://www.nature.scot/enjoying-outdoors/places-visit/nnrs/loch-lomond-national-nature-reserve"
+		},
+		{
+			"type": "NNR Web Site",
+			"url": "https://www.rspb.org.uk/reserves-and-events/reserves-a-z/loch-lomond"
+		},
+		{
+			"type": "NNR Web Site",
+			"url": "https://www.lochlomond-trossachs.org/things-to-see/inchcailloch/"
+		}
+	],
+	"euCode": "11052",
+	"localAuthority": "West Dunbartonshire",
+	"name": "Loch Lomond",
+	"secondaryLocalAuthorities": [
+		"Stirling"
+	],
+	"snhArea": "National Operations South"
+}

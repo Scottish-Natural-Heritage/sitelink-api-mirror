@@ -1,0 +1,103 @@
+{
+	"url": "/sitelink-api/v1/sites/689",
+	"id": 689,
+	"area": 8.73,
+	"casework": [
+		{
+			"code": "9820",
+			"receivedDate": "2003-02-26",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "22740",
+			"receivedDate": "2005-01-18",
+			"response": "1. No Comment",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "29048",
+			"receivedDate": "2005-11-16",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "56412",
+			"receivedDate": "2009-08-03",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "59727",
+			"receivedDate": "2010-02-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CDM119620",
+			"receivedDate": "2012-12-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158752",
+			"receivedDate": "2020-03-18",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC125806",
+			"receivedDate": "2013-08-20",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-03",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 152,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/689/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/689/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 696,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/689/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/689/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=689"
+		}
+	],
+	"euCode": "135700",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-05-30",
+			"name": "Upland mixed ash woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000723"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Gills Burn and Mare Gill",
+	"snhArea": "National Operations West Central"
+}

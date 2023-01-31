@@ -1,0 +1,150 @@
+{
+	"url": "/sitelink-api/v1/sites/1092",
+	"id": 1092,
+	"area": 126.4,
+	"casework": [
+		{
+			"code": "14758",
+			"receivedDate": "2003-11-07",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "34992",
+			"receivedDate": "2006-08-25",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "59072",
+			"receivedDate": "2010-01-04",
+			"response": "Information/Advice only",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "CPP156642",
+			"receivedDate": "2019-08-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP149983",
+			"receivedDate": "2018-03-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN161388",
+			"receivedDate": "2020-12-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP161320",
+			"receivedDate": "2020-11-26",
+			"response": "Advice only",
+			"type": "Regional forest strategy"
+		},
+		{
+			"code": "CEA143178",
+			"receivedDate": "2016-10-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA143000",
+			"receivedDate": "2016-09-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM142947",
+			"receivedDate": "2016-09-19",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CPP144454",
+			"receivedDate": "2017-01-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA145200",
+			"receivedDate": "2017-03-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA145015",
+			"receivedDate": "2017-03-03",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-09-03",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1092/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1092/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 46,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1092/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 778,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1092/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1092"
+		}
+	],
+	"euCode": "136109",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-01-06",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111533"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Lon Leanachain",
+	"snhArea": "National Operations Central Highland"
+}

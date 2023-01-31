@@ -1,0 +1,167 @@
+{
+	"url": "/sitelink-api/v1/sites/361",
+	"id": 361,
+	"area": 22.66,
+	"casework": [
+		{
+			"code": "29244",
+			"receivedDate": "2005-11-08",
+			"response": "Information/Advice only",
+			"type": "Mineral Workings"
+		},
+		{
+			"code": "60690",
+			"receivedDate": "2010-02-19",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "67743",
+			"receivedDate": "2010-12-18",
+			"response": "Information/Advice only",
+			"type": "Core Paths Plans"
+		},
+		{
+			"code": "CDM135103",
+			"receivedDate": "2015-01-30",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CPA146520",
+			"receivedDate": "2017-04-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM134958",
+			"receivedDate": "2015-01-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN129495",
+			"receivedDate": "2014-02-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA120708",
+			"receivedDate": "2013-01-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC151008",
+			"receivedDate": "2018-05-08",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC163802",
+			"receivedDate": "2021-06-03",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC128723",
+			"receivedDate": "2013-12-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC128762",
+			"receivedDate": "2014-01-22",
+			"response": "S.12 SSSI consent not required",
+			"type": "Other"
+		},
+		{
+			"code": "CDM148120",
+			"receivedDate": "2017-11-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-04-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/361/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 64,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/361/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1051,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/361/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/361/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=361"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1500"
+		}
+	],
+	"euCode": "139926",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-21",
+			"name": "Permian - Triassic (red beds)",
+			"pressures": [
+				{
+					"name": "Extraction"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105553"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-21",
+			"name": "Permian - Triassic Reptilia",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Extraction"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107614"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Clashach - Covesea",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "Tayside and Grampian"
+}

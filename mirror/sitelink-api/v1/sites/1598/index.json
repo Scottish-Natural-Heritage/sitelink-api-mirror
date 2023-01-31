@@ -1,0 +1,185 @@
+{
+	"url": "/sitelink-api/v1/sites/1598",
+	"id": 1598,
+	"area": 66.51,
+	"casework": [
+		{
+			"code": "32906",
+			"receivedDate": "2006-05-26",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "52739",
+			"receivedDate": "2009-01-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "57181",
+			"receivedDate": "2009-08-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPA133214",
+			"receivedDate": "2014-09-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP135039",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "ALC133175",
+			"receivedDate": "2014-09-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130366",
+			"receivedDate": "2014-04-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156380",
+			"receivedDate": "2019-07-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC124087",
+			"receivedDate": "2013-06-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC149562",
+			"receivedDate": "2018-02-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146810",
+			"receivedDate": "2017-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC127010",
+			"receivedDate": "2013-10-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS154510",
+			"receivedDate": "2019-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC154911",
+			"receivedDate": "2019-03-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS157070",
+			"receivedDate": "2019-10-10",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC157190",
+			"receivedDate": "2019-10-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC154200",
+			"receivedDate": "2019-02-07",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC141560",
+			"receivedDate": "2016-05-25",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC141238",
+			"receivedDate": "2016-05-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-10-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1598/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 607,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1598/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1598/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 65,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1598/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1598"
+		}
+	],
+	"euCode": "135892",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-10-23",
+			"name": "Golden-rod case-bearer moth (Coleophora virgaureae)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107442"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-12",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107486"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-08-13",
+			"name": "Saltmarsh",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106497"
+		}
+	],
+	"localAuthority": "Orkney Islands",
+	"name": "Waulkmill",
+	"snhArea": "National Operations North"
+}

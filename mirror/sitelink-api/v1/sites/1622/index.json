@@ -1,0 +1,190 @@
+{
+	"url": "/sitelink-api/v1/sites/1622",
+	"id": 1622,
+	"area": 95.6,
+	"casework": [
+		{
+			"code": "21671",
+			"receivedDate": "2004-11-18",
+			"response": "NCA - Compensatory Management Agreement Offered",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "38860",
+			"receivedDate": "2007-02-15",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "38862",
+			"receivedDate": "2007-02-15",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "41172",
+			"receivedDate": "2007-04-16",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "57360",
+			"receivedDate": "2009-08-19",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "61763",
+			"receivedDate": "2010-05-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65115",
+			"receivedDate": "2010-10-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "65298",
+			"receivedDate": "2010-10-17",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "CLC132708",
+			"receivedDate": "2014-08-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC117196",
+			"receivedDate": "2012-09-04",
+			"response": "SSSI Consent Given",
+			"type": "Plant"
+		},
+		{
+			"code": "ALC115284",
+			"receivedDate": "2012-06-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR125249",
+			"receivedDate": "2013-07-25",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN153976",
+			"receivedDate": "2019-01-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-09-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2047,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1622/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1622/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1622/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 55,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1622/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1622"
+		}
+	],
+	"euCode": "134978",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-09-21",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106523"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-21",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Thistles"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Cattle",
+						"Sheep"
+					],
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106522"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2007-07-05",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101422"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Wether Hill",
+	"secondaryLocalAuthorities": [
+		"Fife"
+	],
+	"snhArea": "National Operations South"
+}

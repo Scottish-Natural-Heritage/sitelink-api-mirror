@@ -1,0 +1,144 @@
+{
+	"url": "/sitelink-api/v1/sites/511",
+	"id": 511,
+	"area": 36.52,
+	"casework": [
+		{
+			"code": "18138",
+			"receivedDate": "2004-02-27",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "17923",
+			"receivedDate": "2004-05-01",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "45132",
+			"receivedDate": "2007-11-29",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "59944",
+			"receivedDate": "2009-08-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CEA160642",
+			"receivedDate": "2020-09-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA160841",
+			"receivedDate": "2020-10-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA160877",
+			"receivedDate": "2020-10-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC117797",
+			"receivedDate": "2012-09-25",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC117749",
+			"receivedDate": "2012-09-25",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM115163",
+			"receivedDate": "2012-06-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC123223",
+			"receivedDate": "2013-05-09",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CEA163109",
+			"receivedDate": "2021-05-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC125644",
+			"receivedDate": "2013-08-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/511/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/511/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 56,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/511/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 710,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/511/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=511"
+		}
+	],
+	"euCode": "135246",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2010-08-27",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102813"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Dilty Moss",
+	"snhArea": "Tayside and Grampian"
+}

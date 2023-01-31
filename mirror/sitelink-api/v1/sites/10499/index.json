@@ -1,0 +1,65 @@
+{
+	"url": "/sitelink-api/v1/sites/10499",
+	"id": 10499,
+	"area": 15684.01,
+	"casework": [
+		{
+			"code": "CEA167443",
+			"receivedDate": "2022-06-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC150546",
+			"receivedDate": "2018-05-09",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA137465",
+			"receivedDate": "2015-06-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA141027",
+			"receivedDate": "2016-04-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "MPA(DR)",
+		"date": "2016-11-09",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/marine-natura-sites",
+		"status": "Current",
+		"type": "Demonstration and Research MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 3483,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10499/documents/49"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "https://www2.gov.scot/Resource/0050/00508669.pdf"
+		},
+		{
+			"type": "MPA Consultation Details",
+			"url": "https://www2.gov.scot/Topics/marine/marine-environment/mpanetwork/DandRMPAs/FairIsleDRMPA"
+		}
+	],
+	"euCode": "555595672",
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Fair Isle",
+	"secondaryLocalAuthorities": [
+		"Shetland Islands"
+	],
+	"snhArea": "National Operations North"
+}

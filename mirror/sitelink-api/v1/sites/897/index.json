@@ -1,0 +1,172 @@
+{
+	"url": "/sitelink-api/v1/sites/897",
+	"id": 897,
+	"agreements": [
+		{
+			"area": 2684.88,
+			"code": 8737,
+			"expiryDate": "2023-12-31",
+			"property": "Torloisk",
+			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
+			"term": 3,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 210.88,
+	"casework": [
+		{
+			"code": "12171",
+			"receivedDate": "2003-06-27",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "56566",
+			"receivedDate": "2009-04-28",
+			"response": "Information/Advice only",
+			"type": "Microrenewables"
+		},
+		{
+			"code": "CLC167671",
+			"receivedDate": "2022-07-11",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA124063",
+			"receivedDate": "2013-06-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC146597",
+			"receivedDate": "2017-07-04",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM137755",
+			"receivedDate": "2015-07-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM136788",
+			"receivedDate": "2015-05-14",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM132113",
+			"receivedDate": "2014-07-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA128021",
+			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA131348",
+			"receivedDate": "2014-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC131669",
+			"receivedDate": "2014-06-26",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC141853",
+			"receivedDate": "2016-06-23",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM144701",
+			"receivedDate": "2017-02-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142861",
+			"receivedDate": "2016-09-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-06-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/897/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/897/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2291,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/897/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 80,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/897/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=897"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=20"
+		}
+	],
+	"euCode": "135511",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-26",
+			"name": "Tertiary Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105931"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2021-05-20",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle",
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112874"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Lagganulva Wood",
+	"snhArea": "National Operations West"
+}

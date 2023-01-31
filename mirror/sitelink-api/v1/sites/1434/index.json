@@ -1,0 +1,62 @@
+{
+	"url": "/sitelink-api/v1/sites/1434",
+	"id": 1434,
+	"area": 2.93,
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1434/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1434/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 40,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1434/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 525,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1434/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1434"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=691"
+		}
+	],
+	"euCode": "134971",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-02-27",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102430"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Skelda Ness",
+	"snhArea": "National Operations North"
+}

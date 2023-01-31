@@ -1,0 +1,103 @@
+{
+	"url": "/sitelink-api/v1/sites/365",
+	"id": 365,
+	"agreements": [
+		{
+			"area": 54.86,
+			"code": 8892,
+			"expiryDate": "2024-09-30",
+			"property": "Glenhowl Farm",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 54.83,
+	"casework": [
+		{
+			"code": "27306",
+			"receivedDate": "2005-08-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "CGS151333",
+			"receivedDate": "2018-07-03",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "ALC162851",
+			"receivedDate": "2021-04-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166616",
+			"receivedDate": "2022-03-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS161479",
+			"receivedDate": "2020-12-10",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-10-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/365/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 195,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/365/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/365/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 547,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/365/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=365"
+		}
+	],
+	"euCode": "135709",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-07-19",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Thistles"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105557"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Cleugh",
+	"snhArea": "National Operations South"
+}

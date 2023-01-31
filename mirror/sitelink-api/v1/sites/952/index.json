@@ -1,0 +1,133 @@
+{
+	"url": "/sitelink-api/v1/sites/952",
+	"id": 952,
+	"agreements": [
+		{
+			"area": 338,
+			"code": 3201,
+			"expiryDate": "2026-06-30",
+			"property": "Scourie",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 75.97,
+	"casework": [
+		{
+			"code": "49282",
+			"receivedDate": "2008-07-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "ALC155682",
+			"receivedDate": "2019-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC115601",
+			"receivedDate": "2012-07-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM163182",
+			"receivedDate": "2021-05-20",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM160293",
+			"receivedDate": "2020-08-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA158836",
+			"receivedDate": "2020-03-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "COR144529",
+			"receivedDate": "2017-01-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 858,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/952/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/952/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 514,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/952/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/952/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=952"
+		}
+	],
+	"euCode": "139874",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-24",
+			"name": "Dragonfly assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105957"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-09-27",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105956"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-03-18",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000802"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch a' Mhuilinn",
+	"snhArea": "National Operations North"
+}

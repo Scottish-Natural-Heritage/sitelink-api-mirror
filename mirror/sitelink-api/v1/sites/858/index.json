@@ -1,0 +1,83 @@
+{
+	"url": "/sitelink-api/v1/sites/858",
+	"id": 858,
+	"area": 6.13,
+	"casework": [
+		{
+			"code": "36025",
+			"receivedDate": "2006-09-20",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "CGS167101",
+			"receivedDate": "2022-05-24",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN114731",
+			"receivedDate": "2012-05-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR151289",
+			"receivedDate": "2018-06-30",
+			"response": "Information only",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-09-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/858/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/858/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 227,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/858/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1092,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/858/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=858"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2705"
+		}
+	],
+	"euCode": "134961",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-01-08",
+			"name": "Dalradian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105911"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Kinlochlaggan Boulder Beds",
+	"snhArea": "National Operations Central Highland"
+}

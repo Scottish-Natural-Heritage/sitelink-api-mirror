@@ -1,0 +1,114 @@
+{
+	"url": "/sitelink-api/v1/sites/10232",
+	"id": 10232,
+	"agreements": [
+		{
+			"area": 0,
+			"code": 8605,
+			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
+			"term": 0,
+			"type": "Fishing Order"
+		}
+	],
+	"area": 11510.87,
+	"casework": [
+		{
+			"code": "68190",
+			"receivedDate": "2011-03-22",
+			"response": "Information/Advice only",
+			"type": "Freedom of Information Act - Information Request"
+		},
+		{
+			"code": "GEN160632",
+			"receivedDate": "2020-09-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "SIR119533",
+			"receivedDate": "2012-12-05",
+			"response": "Partial Release",
+			"type": "Environmental Information Regulations request"
+		},
+		{
+			"code": "SIR119273",
+			"receivedDate": "2012-11-27",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
+		},
+		{
+			"code": "GEN124489",
+			"receivedDate": "2013-03-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "SIR119131",
+			"receivedDate": "2012-11-21",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2019-02-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Fishing Order Map",
+			"size": 232,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10232/documents/61"
+		},
+		{
+			"type": "Conservation and Management Advice",
+			"size": 1090,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10232/documents/59"
+		},
+		{
+			"type": "Fishing Order",
+			"size": 109,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10232/documents/47"
+		},
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 12,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10232/documents/22"
+		},
+		{
+			"type": "SAC Map",
+			"size": 381,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10232/documents/46"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=10232"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030364.pdf"
+		}
+	],
+	"euCode": "UK0030364",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Reefs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "East Mingulay",
+	"secondaryLocalAuthorities": [
+		"Comhairle nan Eilean Siar (Western Isles)"
+	],
+	"snhArea": "National Operations West"
+}

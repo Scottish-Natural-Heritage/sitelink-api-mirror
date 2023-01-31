@@ -1,0 +1,131 @@
+{
+	"url": "/sitelink-api/v1/sites/1710",
+	"id": 1710,
+	"agreements": [
+		{
+			"area": 17000,
+			"code": 3441,
+			"expiryDate": "2056-03-31",
+			"property": "Glencanisp and Drumrunie Estate",
+			"term": 50,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 146.02,
+	"casework": [
+		{
+			"code": "23205",
+			"receivedDate": "2005-02-10",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "27754",
+			"receivedDate": "2005-09-13",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "35353",
+			"receivedDate": "2006-09-11",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "59821",
+			"receivedDate": "2010-02-10",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CPP115293",
+			"receivedDate": "2012-06-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA146213",
+			"receivedDate": "2017-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS152822",
+			"receivedDate": "2018-10-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM166273",
+			"receivedDate": "2022-03-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN140450",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP156816",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP147373",
+			"receivedDate": "2017-09-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1999-12-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1710/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1710/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 97,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1710/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 3582,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1710/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1710"
+		}
+	],
+	"euCode": "169956",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2021-07-12",
+			"name": "Black-throated diver (Gavia arctica), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005158"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Awe and Loch Ailsh",
+	"snhArea": "National Operations North"
+}

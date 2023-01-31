@@ -1,0 +1,71 @@
+{
+	"url": "/sitelink-api/v1/sites/893",
+	"id": 893,
+	"area": 6.05,
+	"casework": [
+		{
+			"code": "CLC163197",
+			"receivedDate": "2021-05-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP168539",
+			"receivedDate": "2022-09-27",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-09-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1264,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/893/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/893/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/893/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 125,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/893/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=893"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=858"
+		}
+	],
+	"euCode": "135624",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-10-27",
+			"name": "Palaeozoic Palaeobotany",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105925"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Laggan",
+	"snhArea": "National Operations West Central"
+}

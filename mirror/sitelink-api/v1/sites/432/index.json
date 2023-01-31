@@ -1,0 +1,151 @@
+{
+	"url": "/sitelink-api/v1/sites/432",
+	"id": 432,
+	"agreements": [
+		{
+			"area": 13.84,
+			"code": 4,
+			"expiryDate": "2040-07-22",
+			"property": "Lands of Rattray",
+			"term": 55,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 55.51,
+	"casework": [
+		{
+			"code": "16886",
+			"receivedDate": "2004-03-09",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "15878",
+			"receivedDate": "2004-01-28",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "25578",
+			"receivedDate": "2005-06-07",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Non Trunk Roads"
+		},
+		{
+			"code": "46917",
+			"receivedDate": "2008-03-12",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Trunk Roads"
+		},
+		{
+			"code": "57743",
+			"receivedDate": "2009-10-13",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "57014",
+			"receivedDate": "2009-08-31",
+			"response": "Information/Advice only",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "62652",
+			"receivedDate": "2010-07-08",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "COR138758",
+			"receivedDate": "2015-10-21",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/432/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 106,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/432/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1787,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/432/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/432/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=432"
+		}
+	],
+	"euCode": "135403",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-07-26",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105599"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-08-20",
+			"name": "Upland mixed ash woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001308"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-16",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "To be identified"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105598"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Craighall Gorge",
+	"snhArea": "Tayside and Grampian"
+}

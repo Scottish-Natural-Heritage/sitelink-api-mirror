@@ -1,0 +1,178 @@
+{
+	"url": "/sitelink-api/v1/sites/1375",
+	"id": 1375,
+	"area": 135.8,
+	"casework": [
+		{
+			"code": "21952",
+			"receivedDate": "2004-11-12",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "31499",
+			"receivedDate": "2006-03-16",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "41113",
+			"receivedDate": "2007-05-30",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Industrial Developments"
+		},
+		{
+			"code": "41235",
+			"receivedDate": "2007-06-04",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "CLC129520",
+			"receivedDate": "2014-02-28",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CPA136209",
+			"receivedDate": "2015-04-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155337",
+			"receivedDate": "2019-05-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP157903",
+			"receivedDate": "2020-01-10",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CLC151293",
+			"receivedDate": "2018-07-02",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC164279",
+			"receivedDate": "2021-08-25",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CDM126352",
+			"receivedDate": "2013-09-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN127939",
+			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC143192",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1375/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1375/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1375/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1768,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1375/documents/33"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1375"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2489"
+		}
+	],
+	"euCode": "135763",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-03-22",
+			"name": "Curlew (Numenius arquata), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106299"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-02-24",
+			"name": "Dalradian",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106298"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-03-22",
+			"name": "Eider (Somateria mollissima), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106300"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-03-22",
+			"name": "Purple sandpiper (Calidris maritima), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106301"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-03-22",
+			"name": "Turnstone (Arenaria interpres), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106302"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Rosehearty to Fraserburgh Coast",
+	"snhArea": "Tayside and Grampian"
+}

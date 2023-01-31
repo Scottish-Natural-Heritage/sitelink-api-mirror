@@ -1,0 +1,133 @@
+{
+	"url": "/sitelink-api/v1/sites/683",
+	"id": 683,
+	"area": 68.38,
+	"casework": [
+		{
+			"code": "13631",
+			"receivedDate": "2003-08-06",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "13632",
+			"receivedDate": "2003-08-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "38843",
+			"receivedDate": "2007-02-09",
+			"response": "Information/Advice only",
+			"type": "Trunk Roads"
+		},
+		{
+			"code": "42705",
+			"receivedDate": "2007-07-30",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "49542",
+			"receivedDate": "2008-07-25",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "60521",
+			"receivedDate": "2009-12-16",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "ALC151221",
+			"receivedDate": "2018-06-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA160356",
+			"receivedDate": "2020-09-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN134117",
+			"receivedDate": "2014-11-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1004,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/683/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 79,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/683/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/683/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/683/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=683"
+		}
+	],
+	"euCode": "135515",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-07-10",
+			"name": "Hydromorphological mire range",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107695"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-07-15",
+			"name": "Oligotrophic loch",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111685"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Geal and Dubh Lochs",
+	"snhArea": "National Operations West"
+}

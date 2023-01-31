@@ -1,0 +1,111 @@
+{
+	"url": "/sitelink-api/v1/sites/1511",
+	"id": 1511,
+	"area": 23.45,
+	"casework": [
+		{
+			"code": "ALC110451",
+			"receivedDate": "2011-12-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC121497",
+			"receivedDate": "2013-02-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "COR123231",
+			"receivedDate": "2013-05-13",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "ALC127458",
+			"receivedDate": "2013-11-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1511/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 533,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1511/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 127,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1511/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1511/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1511"
+		}
+	],
+	"euCode": "135427",
+	"features": [
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-09-24",
+			"name": "Lowland dry heath",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106403"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-07-27",
+			"name": "Lowland wet heath",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107712"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-05",
+			"name": "Upland birch woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106402"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Swinkie Muir",
+	"snhArea": "National Operations South"
+}

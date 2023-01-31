@@ -1,0 +1,118 @@
+{
+	"url": "/sitelink-api/v1/sites/1156",
+	"id": 1156,
+	"agreements": [
+		{
+			"area": 4.74,
+			"code": 841670,
+			"expiryDate": "2026-03-31",
+			"property": "Mill Wood - Meikle Ardrone",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 8.06,
+	"casework": [
+		{
+			"code": "CDM115900",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM117262",
+			"receivedDate": "2012-09-06",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163250",
+			"receivedDate": "2021-05-27",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CPA164007",
+			"receivedDate": "2021-06-07",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "ALC117717",
+			"receivedDate": "2012-09-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN122566",
+			"receivedDate": "2013-02-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA152731",
+			"receivedDate": "2018-10-08",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA154572",
+			"receivedDate": "2019-03-05",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 651,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1156/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 161,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1156/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 34,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1156/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1156/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1156"
+		}
+	],
+	"euCode": "135819",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-06-12",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000436"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Mill Wood",
+	"snhArea": "Tayside and Grampian"
+}

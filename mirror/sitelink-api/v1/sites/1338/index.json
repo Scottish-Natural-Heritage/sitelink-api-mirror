@@ -1,0 +1,123 @@
+{
+	"url": "/sitelink-api/v1/sites/1338",
+	"id": 1338,
+	"area": 165.66,
+	"casework": [
+		{
+			"code": "CLC114017",
+			"receivedDate": "2012-05-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM164808",
+			"receivedDate": "2021-10-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA136242",
+			"receivedDate": "2015-04-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS155110",
+			"receivedDate": "2019-04-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-06-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1338/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1338/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 815,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1338/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 163,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1338/documents/3"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1338"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1813"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=399"
+		}
+	],
+	"euCode": "139898",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-06-13",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109089"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-04-25",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106266"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-04-25",
+			"name": "Non-marine Devonian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106267"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-07-22",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102085"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-02",
+			"name": "Scottish primrose (Primula scotica)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102086"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Red Point Coast",
+	"snhArea": "National Operations North"
+}

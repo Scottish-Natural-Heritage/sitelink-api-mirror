@@ -1,0 +1,108 @@
+{
+	"url": "/sitelink-api/v1/sites/27",
+	"id": 27,
+	"area": 14.7,
+	"casework": [
+		{
+			"code": "17143",
+			"receivedDate": "2004-04-05",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "22494",
+			"receivedDate": "2004-10-12",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "32027",
+			"receivedDate": "2006-03-30",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "GEN115441",
+			"receivedDate": "2012-04-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC167305",
+			"receivedDate": "2022-06-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP165117",
+			"receivedDate": "2021-11-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP157699",
+			"receivedDate": "2019-12-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC161705",
+			"receivedDate": "2021-01-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-02",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/27/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 110,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/27/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/27/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 700,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/27/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=27"
+		}
+	],
+	"euCode": "135235",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-08-22",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101035"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Airhouse Wood",
+	"snhArea": "National Operations South"
+}

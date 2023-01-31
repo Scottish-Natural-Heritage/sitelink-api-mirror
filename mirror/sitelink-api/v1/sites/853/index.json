@@ -1,0 +1,120 @@
+{
+	"url": "/sitelink-api/v1/sites/853",
+	"id": 853,
+	"area": 10.93,
+	"casework": [
+		{
+			"code": "31669",
+			"receivedDate": "2006-03-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "37751",
+			"receivedDate": "2006-11-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "54037",
+			"receivedDate": "2009-03-31",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "GEN124691",
+			"receivedDate": "2013-07-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP122510",
+			"receivedDate": "2013-04-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC161945",
+			"receivedDate": "2021-01-28",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC148949",
+			"receivedDate": "2018-01-12",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA142001",
+			"receivedDate": "2016-07-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/853/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 142,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/853/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 34,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/853/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 560,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/853/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=853"
+		}
+	],
+	"euCode": "135283",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-07-27",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102901"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Kings Myre",
+	"snhArea": "Tayside and Grampian"
+}

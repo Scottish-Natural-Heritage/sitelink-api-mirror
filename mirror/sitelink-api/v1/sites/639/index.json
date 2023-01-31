@@ -1,0 +1,112 @@
+{
+	"url": "/sitelink-api/v1/sites/639",
+	"id": 639,
+	"area": 105.02,
+	"casework": [
+		{
+			"code": "34010",
+			"receivedDate": "2006-07-17",
+			"response": "1. No Comment",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "42091",
+			"receivedDate": "2007-07-09",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "42821",
+			"receivedDate": "2007-07-25",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "48761",
+			"receivedDate": "2008-06-25",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "54110",
+			"receivedDate": "2008-08-08",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "62917",
+			"receivedDate": "2010-07-20",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "70584",
+			"receivedDate": "2011-08-01",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "CPP166341",
+			"receivedDate": "2022-03-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-06-09",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1720,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/639/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/639/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/639/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 72,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/639/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=639"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2135"
+		}
+	],
+	"euCode": "135363",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-04-13",
+			"name": "Caledonian Igneous",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102848"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Fintulich",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,126 @@
+{
+	"url": "/sitelink-api/v1/sites/398",
+	"id": 398,
+	"area": 23.31,
+	"casework": [
+		{
+			"code": "19869",
+			"receivedDate": "2004-08-04",
+			"response": "Information/Advice only",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "25320",
+			"receivedDate": "2005-05-20",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "43729",
+			"receivedDate": "2007-07-20",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "70586",
+			"receivedDate": "2011-08-02",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "71268",
+			"receivedDate": "2011-09-13",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CPP115866",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP110288",
+			"receivedDate": "2011-12-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM118442",
+			"receivedDate": "2012-10-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC120059",
+			"receivedDate": "2013-01-07",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC115194",
+			"receivedDate": "2012-06-25",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC154686",
+			"receivedDate": "2019-03-07",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/398/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 85,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/398/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/398/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 155,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/398/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=398"
+		}
+	],
+	"euCode": "135167",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2008-07-04",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102785"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Connachan Marsh",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,141 @@
+{
+	"url": "/sitelink-api/v1/sites/316",
+	"id": 316,
+	"area": 99.31,
+	"casework": [
+		{
+			"code": "36094",
+			"receivedDate": "2006-10-10",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "36095",
+			"receivedDate": "2006-10-10",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "36115",
+			"receivedDate": "2006-10-10",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "42919",
+			"receivedDate": "2007-08-09",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Utilities"
+		},
+		{
+			"code": "41095",
+			"receivedDate": "2007-05-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "41620",
+			"receivedDate": "2007-05-10",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "53426",
+			"receivedDate": "2009-03-04",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "51873",
+			"receivedDate": "2008-11-27",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "CDM115888",
+			"receivedDate": "2012-07-17",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP163891",
+			"receivedDate": "2021-07-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM165575",
+			"receivedDate": "2022-01-11",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CEA142104",
+			"receivedDate": "2016-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP142812",
+			"receivedDate": "2016-09-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-06-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 82,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/316/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/316/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/316/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1929,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/316/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=316"
+		}
+	],
+	"euCode": "135272",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-05-27",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102771"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Carie and Cragganester Woods",
+	"snhArea": "Tayside and Grampian"
+}

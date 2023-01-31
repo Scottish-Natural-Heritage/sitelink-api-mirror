@@ -1,0 +1,106 @@
+{
+	"url": "/sitelink-api/v1/sites/10400",
+	"id": 10400,
+	"area": 162.95,
+	"casework": [
+		{
+			"code": "CDM148091",
+			"receivedDate": "2017-10-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR135030",
+			"receivedDate": "2015-01-26",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN168378",
+			"receivedDate": "2022-09-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP160088",
+			"receivedDate": "2020-08-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM156845",
+			"receivedDate": "2019-09-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN141588",
+			"receivedDate": "2016-05-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN141921",
+			"receivedDate": "2016-06-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN141917",
+			"receivedDate": "2016-06-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2015-01-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 205,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10400/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 4295,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10400/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 72,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10400/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 64,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10400/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=10400"
+		}
+	],
+	"euCode": "555560514",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-02-11",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111346"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Carlops Meltwater Channels",
+	"secondaryLocalAuthorities": [
+		"Midlothian"
+	],
+	"snhArea": "National Operations South"
+}

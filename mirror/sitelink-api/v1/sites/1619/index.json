@@ -1,0 +1,84 @@
+{
+	"url": "/sitelink-api/v1/sites/1619",
+	"id": 1619,
+	"area": 6.62,
+	"casework": [
+		{
+			"code": "23141",
+			"receivedDate": "2005-01-12",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "CPP111876",
+			"receivedDate": "2012-02-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP123205",
+			"receivedDate": "2013-05-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC131979",
+			"receivedDate": "2014-06-11",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-07-08",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 891,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1619/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1619/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 80,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1619/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1619/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1619"
+		}
+	],
+	"euCode": "135321",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-09-25",
+			"name": "Flood-plain fen",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106520"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Westerton Water Meadow",
+	"snhArea": "National Operations South"
+}

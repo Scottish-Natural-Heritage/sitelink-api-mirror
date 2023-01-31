@@ -1,0 +1,91 @@
+{
+	"url": "/sitelink-api/v1/sites/1517",
+	"id": 1517,
+	"area": 8.33,
+	"casework": [
+		{
+			"code": "18968",
+			"receivedDate": "2004-07-07",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "ALC145718",
+			"receivedDate": "2017-05-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC163954",
+			"receivedDate": "2021-07-30",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC164911",
+			"receivedDate": "2021-08-19",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-10-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 567,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1517/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1517/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 52,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1517/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1517/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1517"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=408"
+		}
+	],
+	"euCode": "135614",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-01-16",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100636"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Talnotry Mine",
+	"snhArea": "National Operations South"
+}

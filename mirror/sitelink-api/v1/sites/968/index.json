@@ -1,0 +1,103 @@
+{
+	"url": "/sitelink-api/v1/sites/968",
+	"id": 968,
+	"area": 98.98,
+	"casework": [
+		{
+			"code": "53438",
+			"receivedDate": "2009-03-04",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "CPP165088",
+			"receivedDate": "2021-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA166526",
+			"receivedDate": "2022-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC143635",
+			"receivedDate": "2016-11-08",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC144393",
+			"receivedDate": "2017-01-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-01-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/968/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/968/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 445,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/968/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 146,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/968/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=968"
+		}
+	],
+	"euCode": "139925",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-10-31",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102908"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-01",
+			"name": "Oligotrophic loch",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004965"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Loch Brandy",
+	"snhArea": "Tayside and Grampian"
+}

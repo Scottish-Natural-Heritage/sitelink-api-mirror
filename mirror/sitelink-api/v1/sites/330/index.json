@@ -1,0 +1,157 @@
+{
+	"url": "/sitelink-api/v1/sites/330",
+	"id": 330,
+	"agreements": [
+		{
+			"area": 135.4,
+			"code": 147,
+			"expiryDate": "2037-09-30",
+			"property": "Uppat Estate",
+			"term": 50,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 133.27,
+	"casework": [
+		{
+			"code": "36439",
+			"receivedDate": "2006-10-24",
+			"response": "Information/Advice only",
+			"type": "Freedom of Information Act - Information Request"
+		},
+		{
+			"code": "46874",
+			"receivedDate": "2008-03-11",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "ALC134615",
+			"receivedDate": "2014-12-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS133705",
+			"receivedDate": "2014-10-20",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "COR135352",
+			"receivedDate": "2015-02-17",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CDM129800",
+			"receivedDate": "2014-03-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA167768",
+			"receivedDate": "2022-07-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA120122",
+			"receivedDate": "2013-01-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "COR146751",
+			"receivedDate": "2017-07-16",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CGS139676",
+			"receivedDate": "2016-01-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP137090",
+			"receivedDate": "2015-06-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM136002",
+			"receivedDate": "2015-03-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA137873",
+			"receivedDate": "2015-08-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN125729",
+			"receivedDate": "2013-08-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1155,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/330/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/330/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/330/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 158,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/330/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=330"
+		}
+	],
+	"euCode": "136161",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2010-05-18",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101861"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Carrol Rock",
+	"snhArea": "National Operations North"
+}

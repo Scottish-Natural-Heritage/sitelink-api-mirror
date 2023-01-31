@@ -1,0 +1,113 @@
+{
+	"url": "/sitelink-api/v1/sites/152",
+	"id": 152,
+	"agreements": [
+		{
+			"area": 9.2,
+			"code": 8691,
+			"expiryDate": "2024-12-31",
+			"property": "Barnsmuir Coast",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 20.94,
+	"casework": [
+		{
+			"code": "25517",
+			"receivedDate": "2005-02-04",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Other Maritime"
+		},
+		{
+			"code": "25517",
+			"receivedDate": "2005-02-04",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Other Maritime"
+		},
+		{
+			"code": "ALC163199",
+			"receivedDate": "2021-05-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN144441",
+			"receivedDate": "2017-01-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/152/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 95,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/152/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/152/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1024,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/152/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=152"
+		}
+	],
+	"euCode": "135342",
+	"features": [
+		{
+			"category": "Coast",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-03",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"keywords": [
+						"Gorse"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104314"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-20",
+			"name": "Saltmarsh",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105396"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-20",
+			"name": "Shingle",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105395"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Barnsmuir Coast",
+	"snhArea": "National Operations South"
+}

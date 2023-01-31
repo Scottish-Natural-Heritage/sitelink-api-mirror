@@ -1,0 +1,136 @@
+{
+	"url": "/sitelink-api/v1/sites/519",
+	"id": 519,
+	"agreements": [
+		{
+			"area": 56.7,
+			"code": 30,
+			"expiryDate": "2079-09-10",
+			"property": "Doire Darach Pinewood",
+			"term": 99,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 119.81,
+	"casework": [
+		{
+			"code": "38603",
+			"receivedDate": "2007-02-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "57682",
+			"receivedDate": "2009-08-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CGS162424",
+			"receivedDate": "2021-03-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC168434",
+			"receivedDate": "2022-09-20",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC149145",
+			"receivedDate": "2018-01-29",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC132910",
+			"receivedDate": "2014-09-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP126523",
+			"receivedDate": "2013-09-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN154194",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA142770",
+			"receivedDate": "2016-09-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS143836",
+			"receivedDate": "2016-11-28",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/519/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/519/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/519/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 493,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/519/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=519"
+		}
+	],
+	"euCode": "135732",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-04-30",
+			"name": "Native pinewood",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100142"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Doire Darach",
+	"snhArea": "National Operations West"
+}

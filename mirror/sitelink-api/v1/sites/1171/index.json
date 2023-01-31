@@ -1,0 +1,175 @@
+{
+	"url": "/sitelink-api/v1/sites/1171",
+	"id": 1171,
+	"area": 456.36,
+	"casework": [
+		{
+			"code": "21065",
+			"receivedDate": "2004-11-02",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "24674",
+			"receivedDate": "2005-04-14",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "34696",
+			"receivedDate": "2006-08-11",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "34513",
+			"receivedDate": "2006-08-04",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "59615",
+			"receivedDate": "2010-01-28",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "71319",
+			"receivedDate": "2011-09-15",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "CPP134281",
+			"receivedDate": "2014-11-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP135838",
+			"receivedDate": "2015-03-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC153696",
+			"receivedDate": "2018-12-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP124624",
+			"receivedDate": "2013-07-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN150159",
+			"receivedDate": "2018-04-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC154873",
+			"receivedDate": "2019-03-25",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-08-04",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1171/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 253,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1171/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2293,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1171/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1171/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1171"
+		}
+	],
+	"euCode": "135663",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-12-06",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle",
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100585"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-16",
+			"name": "Cormorant (Phalacrocorax carbo), breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106118"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-07-15",
+			"name": "Oligotrophic loch",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100588"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Mochrum Lochs",
+	"snhArea": "National Operations South"
+}

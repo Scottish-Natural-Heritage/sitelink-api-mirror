@@ -1,0 +1,125 @@
+{
+	"url": "/sitelink-api/v1/sites/955",
+	"id": 955,
+	"area": 20.09,
+	"casework": [
+		{
+			"code": "30487",
+			"receivedDate": "2006-01-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "37028",
+			"receivedDate": "2006-11-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "34985",
+			"receivedDate": "2006-08-25",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "50517",
+			"receivedDate": "2008-08-22",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "62477",
+			"receivedDate": "2010-06-28",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "ALC166357",
+			"receivedDate": "2022-03-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN116262",
+			"receivedDate": "2012-07-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS152754",
+			"receivedDate": "2018-10-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP147108",
+			"receivedDate": "2017-08-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-07-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/955/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 720,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/955/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 50,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/955/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 133,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/955/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=955"
+		}
+	],
+	"euCode": "135933",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-07-27",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100916"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-10-09",
+			"name": "Open water transition fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001548"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Achnacloich",
+	"snhArea": "National Operations Central Highland"
+}

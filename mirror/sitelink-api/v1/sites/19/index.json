@@ -1,0 +1,62 @@
+{
+	"url": "/sitelink-api/v1/sites/19",
+	"id": 19,
+	"area": 2.8,
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-09-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 39,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/19/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/19/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 156,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/19/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 541,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/19/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=19"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=376"
+		}
+	],
+	"euCode": "135628",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-02-20",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000748"
+		}
+	],
+	"localAuthority": "South Ayrshire",
+	"name": "Afton Lodge",
+	"snhArea": "National Operations West Central"
+}

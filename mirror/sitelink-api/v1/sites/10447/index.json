@@ -1,0 +1,116 @@
+{
+	"url": "/sitelink-api/v1/sites/10447",
+	"id": 10447,
+	"area": 213000,
+	"casework": [
+		{
+			"code": "CPA160459",
+			"receivedDate": "2020-09-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA168189",
+			"receivedDate": "2022-08-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA168195",
+			"receivedDate": "2022-08-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC167791",
+			"receivedDate": "2022-07-22",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CPA167929",
+			"receivedDate": "2022-08-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC163140",
+			"receivedDate": "2021-05-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CEA166447",
+			"receivedDate": "2022-03-25",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "GEN139859",
+			"receivedDate": "2016-01-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA155018",
+			"receivedDate": "2019-03-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00457015.pdf"
+		},
+		{
+			"type": "JNCC MPA Site Details",
+			"url": "http://jncc.defra.gov.uk/page-6480"
+		}
+	],
+	"euCode": "555560478",
+	"features": [
+		{
+			"category": "Other invertebrates",
+			"name": "Ocean quahog aggregations (Arctica islandica)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Offshore sublittoral sediment (Marine)",
+			"name": "Offshore subtidal sands and gravels",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Quaternary geology and geomorphology",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Large-scale feature (Marine)",
+			"name": "Shelf banks and mounds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "UK Offshore waters (Scotland)",
+	"name": "Firth of Forth Banks Complex",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "JNCC"
+}

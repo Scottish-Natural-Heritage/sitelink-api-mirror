@@ -1,0 +1,170 @@
+{
+	"url": "/sitelink-api/v1/sites/32",
+	"id": 32,
+	"area": 35.58,
+	"casework": [
+		{
+			"code": "11329",
+			"receivedDate": "2003-04-16",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "24220",
+			"receivedDate": "2005-03-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "21572",
+			"receivedDate": "2004-11-15",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "28383",
+			"receivedDate": "2005-10-11",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "28231",
+			"receivedDate": "2005-09-14",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "52332",
+			"receivedDate": "2009-01-05",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "CPP135924",
+			"receivedDate": "2015-03-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP130282",
+			"receivedDate": "2014-04-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA163126",
+			"receivedDate": "2021-05-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN117779",
+			"receivedDate": "2012-06-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC162552",
+			"receivedDate": "2021-03-05",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN140357",
+			"receivedDate": "2016-03-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP123260",
+			"receivedDate": "2013-05-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC132177",
+			"receivedDate": "2014-07-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN162255",
+			"receivedDate": "2021-02-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC142105",
+			"receivedDate": "2016-07-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC142226",
+			"receivedDate": "2016-07-21",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 48,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/32/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 518,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/32/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/32/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/32/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=32"
+		}
+	],
+	"euCode": "135365",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-22",
+			"name": "Flood-plain fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105324"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-22",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105325"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Alemoor West Loch and Meadow",
+	"snhArea": "National Operations South"
+}

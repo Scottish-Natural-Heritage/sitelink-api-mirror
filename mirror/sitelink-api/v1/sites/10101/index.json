@@ -1,0 +1,37 @@
+{
+	"url": "/sitelink-api/v1/sites/10101",
+	"id": 10101,
+	"area": 54.7,
+	"casework": [
+		{
+			"code": "CGS122508",
+			"receivedDate": "2013-04-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN119558",
+			"receivedDate": "2012-12-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "LNR",
+		"date": "2007-11-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/local-designations/local-nature-reserves",
+		"status": "Current",
+		"type": "Local Nature Reserve"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "Local Authority Web Site",
+			"url": "http://www.merkinchlnr.org.uk/"
+		}
+	],
+	"euCode": "387440",
+	"localAuthority": "Highland",
+	"name": "Merkinch",
+	"snhArea": "National Operations Central Highland"
+}

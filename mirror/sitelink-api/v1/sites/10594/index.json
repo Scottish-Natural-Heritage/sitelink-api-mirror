@@ -1,0 +1,47 @@
+{
+	"url": "/sitelink-api/v1/sites/10594",
+	"id": 10594,
+	"area": 1184.36,
+	"designation": {
+		"code": "MPA(NC)",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "At consultation stage",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "Conservation and Management Advice",
+			"size": 1223,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10594/documents/59"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 2790,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10594/documents/50"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 1236,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10594/documents/51"
+		}
+	],
+	"euCode": "555715729",
+	"features": [
+		{
+			"category": "Fish",
+			"name": "Flapper skate (Dipturus intermedius)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Proposed Notified/Qualifying/Protected feature"
+		},
+		{
+			"category": "Quaternary geology and geomorphology",
+			"name": "Quaternary of Scotland - moraines, crag and tails, rock drumlin",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Proposed Notified/Qualifying/Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Red Rocks and Longay",
+	"snhArea": "National Operations Central Highland"
+}

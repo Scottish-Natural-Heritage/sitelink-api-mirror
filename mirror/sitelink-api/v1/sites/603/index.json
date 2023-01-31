@@ -1,0 +1,79 @@
+{
+	"url": "/sitelink-api/v1/sites/603",
+	"id": 603,
+	"area": 24.49,
+	"casework": [
+		{
+			"code": "70305",
+			"receivedDate": "2011-07-20",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "71105",
+			"receivedDate": "2011-08-10",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-20",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/603/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 109,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/603/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/603/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 580,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/603/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=603"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=850"
+		}
+	],
+	"euCode": "136080",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-04-20",
+			"name": "Moine",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105722"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Eilean Chlamail - Camas nan Ceann",
+	"snhArea": "National Operations Central Highland"
+}

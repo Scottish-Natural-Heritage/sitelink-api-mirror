@@ -1,0 +1,231 @@
+{
+	"url": "/sitelink-api/v1/sites/305",
+	"id": 305,
+	"area": 55.37,
+	"casework": [
+		{
+			"code": "18078",
+			"receivedDate": "2004-02-24",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "27318",
+			"receivedDate": "2005-08-02",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "66108",
+			"receivedDate": "2010-08-18",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "ALC158256",
+			"receivedDate": "2019-11-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN159251",
+			"receivedDate": "2020-05-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM115888",
+			"receivedDate": "2012-07-17",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC150975",
+			"receivedDate": "2018-06-07",
+			"response": "Conditioned objection",
+			"type": "Other"
+		},
+		{
+			"code": "GEN150450",
+			"receivedDate": "2018-04-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA149320",
+			"receivedDate": "2018-02-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN152370",
+			"receivedDate": "2018-09-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM152581",
+			"receivedDate": "2018-10-02",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC151551",
+			"receivedDate": "2018-07-12",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM149848",
+			"receivedDate": "2018-03-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165575",
+			"receivedDate": "2022-01-11",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "ALC123667",
+			"receivedDate": "2013-05-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA143594",
+			"receivedDate": "2016-11-07",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM148518",
+			"receivedDate": "2017-12-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS147127",
+			"receivedDate": "2017-08-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-11-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 91,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/305/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/305/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/305/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 507,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/305/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=305"
+		}
+	],
+	"euCode": "135251",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-08-12",
+			"name": "Fly assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105514"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-09-27",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111933"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-04-14",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107627"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-05-08",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103769"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Cambusurich Wood",
+	"snhArea": "National Operations South"
+}

@@ -1,0 +1,131 @@
+{
+	"url": "/sitelink-api/v1/sites/1509",
+	"id": 1509,
+	"area": 17.17,
+	"casework": [
+		{
+			"code": "38860",
+			"receivedDate": "2007-02-15",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "38862",
+			"receivedDate": "2007-02-15",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "41172",
+			"receivedDate": "2007-04-16",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "CLC132708",
+			"receivedDate": "2014-08-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CGS119624",
+			"receivedDate": "2012-12-04",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-06-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1509/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 133,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1509/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1509/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1278,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1509/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1509"
+		}
+	],
+	"euCode": "135259",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "To Be Denotified",
+			"lastVisitDate": "2012-06-20",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106400"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "To Be Denotified",
+			"lastVisitDate": "2012-06-20",
+			"name": "Transition grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106401"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-07-04",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000535"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Swallow Craig Den",
+	"snhArea": "National Operations South"
+}

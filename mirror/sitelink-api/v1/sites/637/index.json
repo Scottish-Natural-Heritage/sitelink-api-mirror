@@ -1,0 +1,82 @@
+{
+	"url": "/sitelink-api/v1/sites/637",
+	"id": 637,
+	"area": 1.91,
+	"casework": [
+		{
+			"code": "55917",
+			"receivedDate": "2009-06-09",
+			"response": "Information/Advice only",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "CPP119550",
+			"receivedDate": "2012-12-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA129310",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-01-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/637/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/637/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 535,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/637/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 208,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/637/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=637"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=826"
+		}
+	],
+	"euCode": "135771",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2005-07-27",
+			"name": "Permian - Triassic Reptilia",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103795"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Findrassie",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,70 @@
+{
+	"url": "/sitelink-api/v1/sites/10457",
+	"id": 10457,
+	"area": 25100,
+	"casework": [
+		{
+			"code": "CLC167238",
+			"receivedDate": "2022-05-31",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC168074",
+			"receivedDate": "2022-08-17",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC167399",
+			"receivedDate": "2022-06-21",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CEA166447",
+			"receivedDate": "2022-03-25",
+			"response": "Advice only",
+			"type": "SEA"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Designation Order",
+			"size": 110,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10457/documents/56"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00457013.pdf"
+		},
+		{
+			"type": "JNCC MPA Site Details",
+			"url": "http://jncc.defra.gov.uk/page-6490"
+		}
+	],
+	"euCode": "555560489",
+	"features": [
+		{
+			"category": "Fish",
+			"name": "Sandeels (Ammodytes marinus / Ammodytes tobianus) ",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "UK Offshore waters (Scotland)",
+	"name": "Turbot Bank",
+	"snhArea": "JNCC"
+}

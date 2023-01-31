@@ -1,0 +1,107 @@
+{
+	"url": "/sitelink-api/v1/sites/1036",
+	"id": 1036,
+	"area": 47.05,
+	"casework": [
+		{
+			"code": "38511",
+			"receivedDate": "2007-02-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "44704",
+			"receivedDate": "2007-11-08",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CGS117437",
+			"receivedDate": "2012-09-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS113220",
+			"receivedDate": "2012-04-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA140080",
+			"receivedDate": "2016-02-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC131069",
+			"receivedDate": "2014-05-27",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-06-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1036/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1036/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 60,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1036/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 552,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1036/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1036"
+		}
+	],
+	"euCode": "135803",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-09-16",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106015"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-08-09",
+			"name": "Wet woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001080"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Loch of Park",
+	"snhArea": "Tayside and Grampian"
+}

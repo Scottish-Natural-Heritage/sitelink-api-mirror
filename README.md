@@ -2,6 +2,8 @@
 
 Static mirror for NatureScot's Sitelink API
 
+Automation and version control inspired by [Simon Willison's work on git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/).
+
 ## Debug with VSCode
 
 ```json

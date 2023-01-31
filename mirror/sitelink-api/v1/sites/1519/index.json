@@ -1,0 +1,124 @@
+{
+	"url": "/sitelink-api/v1/sites/1519",
+	"id": 1519,
+	"area": 58.69,
+	"casework": [
+		{
+			"code": "30276",
+			"receivedDate": "2006-01-23",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "64375",
+			"receivedDate": "2011-03-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "71063",
+			"receivedDate": "2011-08-30",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "ALC151802",
+			"receivedDate": "2018-08-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166384",
+			"receivedDate": "2022-03-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CEA132827",
+			"receivedDate": "2014-08-26",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1519/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1519/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 181,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1519/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1104,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1519/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1519"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2303"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1821"
+		}
+	],
+	"euCode": "136100",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-09",
+			"name": "Coastal Geomorphology of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107620"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-03",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106408"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-09",
+			"name": "Non-marine Devonian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107619"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Tarbat Ness",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "National Operations Central Highland"
+}

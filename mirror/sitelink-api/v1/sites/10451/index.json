@@ -1,0 +1,61 @@
+{
+	"url": "/sitelink-api/v1/sites/10451",
+	"id": 10451,
+	"area": 436500,
+	"casework": [
+		{
+			"code": "CPA168145",
+			"receivedDate": "2022-08-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Designation Order",
+			"size": 114,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10451/documents/56"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00457012.pdf"
+		},
+		{
+			"type": "JNCC MPA Site Details",
+			"url": "http://jncc.defra.gov.uk/page-6484"
+		}
+	],
+	"euCode": "555560479",
+	"features": [
+		{
+			"category": "Geomorphology",
+			"name": "Marine Geomorphology of the Scottish Shelf Seabed",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Fish",
+			"name": "Sandeels (Ammodytes marinus / Ammodytes tobianus) ",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "UK Offshore waters (Scotland)",
+	"name": "North-west Orkney",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "JNCC"
+}

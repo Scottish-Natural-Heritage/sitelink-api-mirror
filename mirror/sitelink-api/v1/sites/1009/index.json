@@ -1,0 +1,209 @@
+{
+	"url": "/sitelink-api/v1/sites/1009",
+	"id": 1009,
+	"area": 6211.05,
+	"casework": [
+		{
+			"code": "28655",
+			"receivedDate": "2005-10-26",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "41256",
+			"receivedDate": "2007-06-05",
+			"response": "NCA - Issued application for consent form",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "46312",
+			"receivedDate": "2008-02-11",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "47170",
+			"receivedDate": "2008-03-31",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "54306",
+			"receivedDate": "2009-04-22",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "56870",
+			"receivedDate": "2009-08-21",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "69285",
+			"receivedDate": "2011-06-01",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "69286",
+			"receivedDate": "2011-06-11",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "CDM147071",
+			"receivedDate": "2017-08-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA136010",
+			"receivedDate": "2015-04-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS128684",
+			"receivedDate": "2014-01-17",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS116976",
+			"receivedDate": "2012-08-27",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN115600",
+			"receivedDate": "2012-06-29",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP119793",
+			"receivedDate": "2012-12-13",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPA149732",
+			"receivedDate": "2018-03-09",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA163814",
+			"receivedDate": "2021-07-15",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA166032",
+			"receivedDate": "2022-02-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN139847",
+			"receivedDate": "2016-01-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS159208",
+			"receivedDate": "2020-05-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA155007",
+			"receivedDate": "2019-04-02",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA155058",
+			"receivedDate": "2019-04-09",
+			"response": "Advice only",
+			"type": "SRDP"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-07-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1009/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 201,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1009/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 37,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1009/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 618,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1009/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1009"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2974"
+		}
+	],
+	"euCode": "135072",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2011-06-21",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104927"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-05-16",
+			"name": "Breeding bird assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102040"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-05-14",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102041"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Meadie Peatlands",
+	"snhArea": "National Operations North"
+}

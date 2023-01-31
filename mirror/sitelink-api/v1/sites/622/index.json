@@ -1,0 +1,173 @@
+{
+	"url": "/sitelink-api/v1/sites/622",
+	"id": 622,
+	"area": 318.04,
+	"casework": [
+		{
+			"code": "45916",
+			"receivedDate": "2008-01-22",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "51988",
+			"receivedDate": "2008-11-17",
+			"response": "NCA - Issued application for consent form",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "67857",
+			"receivedDate": "2011-03-23",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "68829",
+			"receivedDate": "2011-05-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "64347",
+			"receivedDate": "2010-09-14",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CLC136422",
+			"receivedDate": "2015-03-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA147247",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM129316",
+			"receivedDate": "2014-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP167024",
+			"receivedDate": "2022-05-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP165639",
+			"receivedDate": "2021-12-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA166549",
+			"receivedDate": "2022-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA162724",
+			"receivedDate": "2021-04-01",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CEA137037",
+			"receivedDate": "2015-06-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN133890",
+			"receivedDate": "2014-10-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA126887",
+			"receivedDate": "2013-10-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA160119",
+			"receivedDate": "2020-08-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA142375",
+			"receivedDate": "2016-08-01",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-03-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2087,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/622/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 122,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/622/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/622/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/622/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=622"
+		}
+	],
+	"euCode": "135195",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2005-10-09",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101147"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-05-12",
+			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105744"
+		}
+	],
+	"localAuthority": "Midlothian",
+	"name": "Fala Flow",
+	"snhArea": "National Operations South"
+}

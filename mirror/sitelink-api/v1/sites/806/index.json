@@ -1,0 +1,81 @@
+{
+	"url": "/sitelink-api/v1/sites/806",
+	"id": 806,
+	"area": 36.48,
+	"casework": [
+		{
+			"code": "37763",
+			"receivedDate": "2006-12-11",
+			"response": "B. Support",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "GEN126064",
+			"receivedDate": "2013-09-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-03-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 456,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/806/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 48,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/806/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/806/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/806/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=806"
+		}
+	],
+	"euCode": "135513",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-26",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105866"
+		}
+	],
+	"localAuthority": "West Dunbartonshire",
+	"name": "Inchmurrin",
+	"snhArea": "National Operations South"
+}

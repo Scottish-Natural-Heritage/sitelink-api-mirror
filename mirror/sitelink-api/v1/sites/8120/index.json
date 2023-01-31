@@ -1,0 +1,181 @@
+{
+	"url": "/sitelink-api/v1/sites/8120",
+	"id": 8120,
+	"area": 244.23,
+	"casework": [
+		{
+			"code": "29948",
+			"receivedDate": "2006-01-09",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "44085",
+			"receivedDate": "2007-10-10",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "47320",
+			"receivedDate": "2008-04-08",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "48487",
+			"receivedDate": "2008-06-11",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "GEN130619",
+			"receivedDate": "2014-04-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN122434",
+			"receivedDate": "2013-03-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM121505",
+			"receivedDate": "2013-02-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS146755",
+			"receivedDate": "2017-07-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA151883",
+			"receivedDate": "2018-08-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM143115",
+			"receivedDate": "2016-09-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS140592",
+			"receivedDate": "2016-03-19",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP139854",
+			"receivedDate": "2016-01-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC138905",
+			"receivedDate": "2015-11-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC131578",
+			"receivedDate": "2014-06-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC128478",
+			"receivedDate": "2014-01-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM131309",
+			"receivedDate": "2014-06-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR129532",
+			"receivedDate": "2014-03-03",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR144572",
+			"receivedDate": "2017-02-14",
+			"response": "Resolved",
+			"type": "Complaints"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2000-10-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1982,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8120/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8120/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 387,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8120/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8120/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8120"
+		}
+	],
+	"euCode": "169714",
+	"features": [
+		{
+			"category": "Reptiles & amphibians",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-07-31",
+			"name": "Amphibian assemblage",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100492"
+		},
+		{
+			"category": "Reptiles & amphibians",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-07-31",
+			"name": "Great crested newt (Triturus cristatus)",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100493"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Burrow Head",
+	"snhArea": "National Operations South"
+}

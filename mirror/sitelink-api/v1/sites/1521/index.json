@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/1521",
+	"id": 1521,
+	"area": 1.83,
+	"casework": [
+		{
+			"code": "11878",
+			"receivedDate": "2003-06-26",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "56740",
+			"receivedDate": "2009-08-17",
+			"response": "B. Support",
+			"type": "Site Search"
+		},
+		{
+			"code": "CPP122304",
+			"receivedDate": "2013-04-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN166547",
+			"receivedDate": "2022-04-04",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-03-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1521/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 579,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1521/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 142,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1521/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1521/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1521"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1820"
+		}
+	],
+	"euCode": "135179",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-07-21",
+			"name": "Non-marine Devonian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000725"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Tay Bank Section",
+	"snhArea": "Tayside and Grampian"
+}

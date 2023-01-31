@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/8321",
+	"id": 8321,
+	"area": 3317.65,
+	"casework": [
+		{
+			"code": "6182",
+			"receivedDate": "2001-08-30",
+			"response": "Information/Advice only",
+			"type": "Road: Non Trunk Consultation"
+		},
+		{
+			"code": "5944",
+			"receivedDate": "2002-04-30",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Planning Related Casework"
+		},
+		{
+			"code": "24931",
+			"receivedDate": "2005-02-18",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "59262",
+			"receivedDate": "2010-01-12",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Microrenewables"
+		},
+		{
+			"code": "62552",
+			"receivedDate": "2010-07-06",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "63209",
+			"receivedDate": "2010-07-27",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "CPA135939",
+			"receivedDate": "2015-03-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA125055",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA128453",
+			"receivedDate": "2014-01-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA142199",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM145092",
+			"receivedDate": "2017-02-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 47,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8321/documents/22"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8321/documents/29"
+		},
+		{
+			"type": "SAC Map",
+			"size": 2005,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8321/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8321"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0019816"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0019816.pdf"
+		}
+	],
+	"euCode": "UK0019816",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-11",
+			"name": "Acid peat-stained lakes and ponds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109937"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-12-09",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103542"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-10-02",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109938"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-11-12",
+			"name": "Depressions on peat substrates",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003399"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Mointeach Scadabhaigh",
+	"snhArea": "National Operations West"
+}

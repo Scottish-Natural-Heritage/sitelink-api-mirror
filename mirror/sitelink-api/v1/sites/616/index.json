@@ -1,0 +1,102 @@
+{
+	"url": "/sitelink-api/v1/sites/616",
+	"id": 616,
+	"area": 33.3,
+	"casework": [
+		{
+			"code": "14284",
+			"receivedDate": "2003-09-18",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "40704",
+			"receivedDate": "2007-04-18",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "CLC135944",
+			"receivedDate": "2015-03-25",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA125882",
+			"receivedDate": "2013-08-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM132013",
+			"receivedDate": "2014-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC154562",
+			"receivedDate": "2019-03-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/616/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 69,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/616/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/616/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 708,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/616/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=616"
+		}
+	],
+	"euCode": "135808",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-08",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Dumping/ storage of materials"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101527"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Eslie Moss",
+	"snhArea": "Tayside and Grampian"
+}

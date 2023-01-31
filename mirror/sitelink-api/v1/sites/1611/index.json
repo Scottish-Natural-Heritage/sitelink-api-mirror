@@ -1,0 +1,155 @@
+{
+	"url": "/sitelink-api/v1/sites/1611",
+	"id": 1611,
+	"agreements": [
+		{
+			"area": 963,
+			"code": 6153,
+			"expiryDate": "2023-03-31",
+			"property": "North Achnabourin Common Grazings",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 2735.17,
+	"casework": [
+		{
+			"code": "54179",
+			"receivedDate": "2009-04-17",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Other Developments"
+		},
+		{
+			"code": "70340",
+			"receivedDate": "2011-07-22",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CGS116894",
+			"receivedDate": "2012-08-22",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS116893",
+			"receivedDate": "2012-08-22",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM167524",
+			"receivedDate": "2022-06-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS118577",
+			"receivedDate": "2012-10-30",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC159946",
+			"receivedDate": "2020-07-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA125700",
+			"receivedDate": "2013-08-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP141131",
+			"receivedDate": "2016-05-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2022-08-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1009,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1611/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 250,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1611/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 263,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1611/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 1064,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1611/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1611"
+		}
+	],
+	"euCode": "135128",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-05-08",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102162"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-12",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102163"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "West Strathnaver",
+	"snhArea": "National Operations North"
+}

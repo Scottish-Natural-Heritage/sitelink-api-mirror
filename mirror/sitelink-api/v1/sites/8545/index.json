@@ -1,0 +1,149 @@
+{
+	"url": "/sitelink-api/v1/sites/8545",
+	"id": 8545,
+	"area": 7801.71,
+	"casework": [
+		{
+			"code": "22784",
+			"receivedDate": "2005-01-18",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "34133",
+			"receivedDate": "2006-06-20",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "33376",
+			"receivedDate": "2006-05-22",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CDM158899",
+			"receivedDate": "2020-04-06",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC132097",
+			"receivedDate": "2014-07-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SPA",
+		"date": "2009-09-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-protection-areas-spas",
+		"status": "Current",
+		"type": "Special Protection Area"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Conservation Objectives",
+			"size": 36,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8545/documents/29"
+		},
+		{
+			"type": "SPA Map",
+			"size": 1280,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8545/documents/45"
+		},
+		{
+			"type": "SPA Citation",
+			"size": 57,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8545/documents/16"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8545"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9001121"
+		},
+		{
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9001121.pdf"
+		}
+	],
+	"euCode": "UK9001121",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107230"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107231"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-04",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107232"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-24",
+			"name": "Puffin (Fratercula arctica), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107233"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Razorbill (Alca torda), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107234"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Seabird assemblage, breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107229"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Shag (Phalacrocorax aristotelis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107235"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Mingulay and Berneray",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "National Operations West"
+}

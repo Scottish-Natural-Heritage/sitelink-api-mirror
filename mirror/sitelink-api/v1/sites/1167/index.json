@@ -1,0 +1,143 @@
+{
+	"url": "/sitelink-api/v1/sites/1167",
+	"id": 1167,
+	"area": 911.13,
+	"casework": [
+		{
+			"code": "22784",
+			"receivedDate": "2005-01-18",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "33376",
+			"receivedDate": "2006-05-22",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "37871",
+			"receivedDate": "2006-12-22",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "39789",
+			"receivedDate": "2007-03-08",
+			"response": "B. Support",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CDM158899",
+			"receivedDate": "2020-04-06",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC132097",
+			"receivedDate": "2014-07-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1167/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1167/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1167/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 745,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1167/documents/33"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1167"
+		}
+	],
+	"euCode": "136165",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106112"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106113"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-04",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106114"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Razorbill (Alca torda), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106115"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-21",
+			"name": "Seabird colony, breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107472"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Mingulay and Berneray",
+	"snhArea": "National Operations West"
+}

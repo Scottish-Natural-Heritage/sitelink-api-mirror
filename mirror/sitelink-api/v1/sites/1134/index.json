@@ -1,0 +1,124 @@
+{
+	"url": "/sitelink-api/v1/sites/1134",
+	"id": 1134,
+	"area": 297.3,
+	"casework": [
+		{
+			"code": "CLC148000",
+			"receivedDate": "2017-10-23",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "GEN160444",
+			"receivedDate": "2020-09-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160720",
+			"receivedDate": "2020-10-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160217",
+			"receivedDate": "2020-08-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN157531",
+			"receivedDate": "2019-10-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM166861",
+			"receivedDate": "2022-05-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164721",
+			"receivedDate": "2021-10-08",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA135486",
+			"receivedDate": "2015-02-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC135640",
+			"receivedDate": "2015-03-03",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162327",
+			"receivedDate": "2021-03-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-07-20",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1211,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1134/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1134/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1134/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 71,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1134/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1134"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=79"
+		}
+	],
+	"euCode": "136037",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-10-23",
+			"name": "Tertiary Igneous",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001152"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Meall a' Mhaoil",
+	"snhArea": "National Operations Central Highland"
+}

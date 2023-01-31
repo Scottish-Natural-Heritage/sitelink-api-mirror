@@ -1,0 +1,226 @@
+{
+	"url": "/sitelink-api/v1/sites/392",
+	"id": 392,
+	"area": 103.9,
+	"casework": [
+		{
+			"code": "22907",
+			"receivedDate": "2005-01-20",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "22913",
+			"receivedDate": "2005-02-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Water"
+		},
+		{
+			"code": "29393",
+			"receivedDate": "2005-11-30",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "35441",
+			"receivedDate": "2006-09-13",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "39706",
+			"receivedDate": "2007-02-23",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "51221",
+			"receivedDate": "2008-10-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "CPA116867",
+			"receivedDate": "2012-08-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM115917",
+			"receivedDate": "2012-07-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC167053",
+			"receivedDate": "2022-05-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS114063",
+			"receivedDate": "2012-05-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM117439",
+			"receivedDate": "2012-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN113299",
+			"receivedDate": "2012-03-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS152955",
+			"receivedDate": "2018-10-26",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN125707",
+			"receivedDate": "2013-08-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC159931",
+			"receivedDate": "2020-07-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN141170",
+			"receivedDate": "2016-05-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN148507",
+			"receivedDate": "2017-11-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-04-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 792,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/392/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 79,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/392/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/392/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/392/documents/28"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=392"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2653"
+		}
+	],
+	"euCode": "135760",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-29",
+			"name": "Dalradian",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000898"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-16",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111926"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-16",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111925"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-16",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111924"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-05-21",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101478"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-16",
+			"name": "Razorbill (Alca torda), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105575"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-04",
+			"name": "Sea wormwood (Seriphidium maritimum)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107766"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-16",
+			"name": "Seabird colony, breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111927"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Collieston to Whinnyfold Coast",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,115 @@
+{
+	"url": "/sitelink-api/v1/sites/1159",
+	"id": 1159,
+	"agreements": [
+		{
+			"area": 12.92,
+			"code": 8278,
+			"expiryDate": "2023-12-31",
+			"property": "West Glespin Farm",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 12.75,
+	"casework": [
+		{
+			"code": "62661",
+			"receivedDate": "2010-07-07",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CPP120570",
+			"receivedDate": "2013-01-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA164637",
+			"receivedDate": "2021-09-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN129481",
+			"receivedDate": "2014-02-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC131697",
+			"receivedDate": "2014-06-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA131729",
+			"receivedDate": "2014-06-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC156255",
+			"receivedDate": "2019-07-18",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1159/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 943,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1159/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 170,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1159/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1159/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1159"
+		}
+	],
+	"euCode": "135556",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2021-06-18",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005071"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Miller's Wood",
+	"snhArea": "National Operations West Central"
+}

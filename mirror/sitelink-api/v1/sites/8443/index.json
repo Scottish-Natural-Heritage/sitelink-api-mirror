@@ -1,0 +1,190 @@
+{
+	"url": "/sitelink-api/v1/sites/8443",
+	"id": 8443,
+	"area": 616.26,
+	"casework": [
+		{
+			"code": "19241",
+			"receivedDate": "2004-06-30",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "21422",
+			"receivedDate": "2004-10-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "26845",
+			"receivedDate": "2005-08-03",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "CLC129398",
+			"receivedDate": "2014-02-19",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC156026",
+			"receivedDate": "2019-06-27",
+			"response": "Conditioned objection",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC164716",
+			"receivedDate": "2021-10-07",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC119057",
+			"receivedDate": "2012-11-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC114954",
+			"receivedDate": "2012-06-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA146707",
+			"receivedDate": "2017-07-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM166550",
+			"receivedDate": "2022-04-04",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM157609",
+			"receivedDate": "2019-12-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162078",
+			"receivedDate": "2021-02-09",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "COR145269",
+			"receivedDate": "2017-04-25",
+			"response": "Information only",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "RAMSAR",
+		"date": "1995-11-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/ramsar-sites",
+		"status": "Current",
+		"type": "Ramsar Site"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Ramsar Site Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8443/documents/20"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8443"
+		},
+		{
+			"type": "Ramsar Site Information Sheet",
+			"url": "https://rsis.ramsar.org/RISapp/files/RISrep/GB778RIS.pdf?language=en"
+		},
+		{
+			"type": "Ramsar Sites Information Service",
+			"url": "https://rsis.ramsar.org/ris/778?language=en"
+		}
+	],
+	"euCode": "UK13041",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-08-20",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101592"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Goldeneye (Bucephala clangula), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-04-01",
+			"name": "Greylag goose (Anser anser), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101595"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-04-01",
+			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101598"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Sandwich tern (Sterna sandvicensis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Svalbard barnacle goose (Branta leucopsis), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Teal (Anas crecca), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-04-01",
+			"name": "Waterfowl assemblage, non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101602"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-03-01",
+			"name": "Whooper swan (Cygnus cygnus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111847"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Loch of Strathbeg",
+	"snhArea": "Tayside and Grampian"
+}

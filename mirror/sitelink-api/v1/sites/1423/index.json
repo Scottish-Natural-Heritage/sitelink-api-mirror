@@ -1,0 +1,163 @@
+{
+	"url": "/sitelink-api/v1/sites/1423",
+	"id": 1423,
+	"area": 71.9,
+	"casework": [
+		{
+			"code": "22180",
+			"receivedDate": "2004-12-13",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "32330",
+			"receivedDate": "2006-04-27",
+			"response": "B. Support",
+			"type": "Agricultural Business Diversification Scheme"
+		},
+		{
+			"code": "CLC116808",
+			"receivedDate": "2012-08-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM117262",
+			"receivedDate": "2012-09-06",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP120298",
+			"receivedDate": "2013-01-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN166108",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN137025",
+			"receivedDate": "2015-05-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS162329",
+			"receivedDate": "2021-02-18",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-11-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 34,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1423/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 62,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1423/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1423/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1513,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1423/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1423"
+		}
+	],
+	"euCode": "135050",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2004-07-27",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"keywords": [
+						"Gorse"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001929"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-09-03",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106337"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-30",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101714"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-06-29",
+			"name": "Lowland neutral grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107797"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Shiel Wood Pastures",
+	"snhArea": "Tayside and Grampian"
+}

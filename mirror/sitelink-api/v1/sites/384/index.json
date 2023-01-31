@@ -1,0 +1,258 @@
+{
+	"url": "/sitelink-api/v1/sites/384",
+	"id": 384,
+	"area": 156.31,
+	"casework": [
+		{
+			"code": "27883",
+			"receivedDate": "2005-07-19",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "25876",
+			"receivedDate": "2005-06-22",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "33132",
+			"receivedDate": "2006-01-16",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "31043",
+			"receivedDate": "2006-02-06",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "61549",
+			"receivedDate": "2010-01-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "58074",
+			"receivedDate": "2009-07-01",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "58076",
+			"receivedDate": "2009-07-02",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "59996",
+			"receivedDate": "2010-01-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65902",
+			"receivedDate": "2010-11-30",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "69827",
+			"receivedDate": "2011-04-18",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC167376",
+			"receivedDate": "2022-06-17",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167377",
+			"receivedDate": "2022-06-17",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS114028",
+			"receivedDate": "2012-03-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC151791",
+			"receivedDate": "2018-07-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130091",
+			"receivedDate": "2014-03-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP147138",
+			"receivedDate": "2017-08-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM141007",
+			"receivedDate": "2016-04-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-07-02",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2052,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/384/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/384/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/384/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 78,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/384/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=384"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1008"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=882"
+		}
+	],
+	"euCode": "135986",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-06-26",
+			"name": "Beetles",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103882"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-02-12",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105569"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-25",
+			"name": "Cambrian - Tremadoc",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103160"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-05-06",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103161"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-25",
+			"name": "Moine",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103162"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-05-28",
+			"name": "Rocky slopes (includes inland cliff, rocky outcrops, chasmophytic vegetation)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105568"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-10-01",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001218"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Coille Thogabhaig",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "National Operations Central Highland"
+}

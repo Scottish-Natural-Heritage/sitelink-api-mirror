@@ -1,0 +1,171 @@
+{
+	"url": "/sitelink-api/v1/sites/1603",
+	"id": 1603,
+	"area": 116.1,
+	"casework": [
+		{
+			"code": "10893",
+			"receivedDate": "2003-03-10",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "50225",
+			"receivedDate": "2008-08-21",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "48977",
+			"receivedDate": "2008-07-07",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "70959",
+			"receivedDate": "2011-08-23",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CDM129286",
+			"receivedDate": "2014-02-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129649",
+			"receivedDate": "2014-03-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC167481",
+			"receivedDate": "2022-06-27",
+			"response": "SSSI Consent Given",
+			"type": "Plant"
+		},
+		{
+			"code": "CPA121602",
+			"receivedDate": "2013-03-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM151987",
+			"receivedDate": "2018-08-20",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA125882",
+			"receivedDate": "2013-08-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM154998",
+			"receivedDate": "2019-04-05",
+			"response": "No Comment",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-10-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1716,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1603/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1603/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 38,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1603/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 58,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1603/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1603"
+		}
+	],
+	"euCode": "135116",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-04",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107765"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-10-04",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106501"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-08-31",
+			"name": "Lowland calcareous grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101741"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-10-04",
+			"name": "Lowland dry heath",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106503"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-29",
+			"name": "Lowland wet heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106502"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "West Bradieston and Craig of Garvock",
+	"snhArea": "Tayside and Grampian"
+}

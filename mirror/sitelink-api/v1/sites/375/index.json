@@ -1,0 +1,91 @@
+{
+	"url": "/sitelink-api/v1/sites/375",
+	"id": 375,
+	"agreements": [
+		{
+			"area": 16.8,
+			"code": 590,
+			"expiryDate": "2028-09-08",
+			"property": "Newhouse Farm",
+			"term": 40,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 48.4,
+	"casework": [
+		{
+			"code": "51567",
+			"receivedDate": "2008-09-25",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CDM112551",
+			"receivedDate": "2012-03-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP112557",
+			"receivedDate": "2012-03-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1996-07-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/375/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/375/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 354,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/375/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 193,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/375/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=375"
+		}
+	],
+	"euCode": "169762",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-01",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105561"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Cockinhead Moss",
+	"snhArea": "National Operations West Central"
+}

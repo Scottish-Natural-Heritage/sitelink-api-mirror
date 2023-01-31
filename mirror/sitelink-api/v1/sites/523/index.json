@@ -1,0 +1,168 @@
+{
+	"url": "/sitelink-api/v1/sites/523",
+	"id": 523,
+	"area": 64.24,
+	"casework": [
+		{
+			"code": "15320",
+			"receivedDate": "2003-12-01",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "50210",
+			"receivedDate": "2008-08-27",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "51369",
+			"receivedDate": "2008-10-29",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "53306",
+			"receivedDate": "2008-09-22",
+			"response": "Information/Advice only",
+			"type": "Mineral Workings"
+		},
+		{
+			"code": "52010",
+			"receivedDate": "2008-12-05",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CEA158385",
+			"receivedDate": "2020-02-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP115594",
+			"receivedDate": "2012-07-06",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CDM153211",
+			"receivedDate": "2018-11-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163717",
+			"receivedDate": "2021-07-06",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA165827",
+			"receivedDate": "2022-01-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM166392",
+			"receivedDate": "2022-03-14",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162053",
+			"receivedDate": "2021-02-05",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144761",
+			"receivedDate": "2017-02-14",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145331",
+			"receivedDate": "2017-03-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1993-09-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/523/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 157,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/523/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/523/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2410,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/523/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=523"
+		}
+	],
+	"euCode": "135126",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-10",
+			"name": "Bryophyte assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105669"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2007-09-06",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101115"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-09-11",
+			"name": "Valley fen",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101116"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Dolphinton - West Linton Fens and Grassland",
+	"snhArea": "National Operations South"
+}

@@ -1,0 +1,109 @@
+{
+	"url": "/sitelink-api/v1/sites/1660",
+	"id": 1660,
+	"agreements": [
+		{
+			"area": 31.94,
+			"code": 2819,
+			"expiryDate": "2023-02-25",
+			"property": "Defence Munitions, Beith",
+			"term": 20,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 32.5,
+	"casework": [
+		{
+			"code": "CLC129825",
+			"receivedDate": "2014-03-18",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM112551",
+			"receivedDate": "2012-03-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN150948",
+			"receivedDate": "2018-06-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC138351",
+			"receivedDate": "2015-09-02",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC138218",
+			"receivedDate": "2015-08-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC156161",
+			"receivedDate": "2019-07-11",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1996-07-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 755,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1660/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 108,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1660/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1660/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1660/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1660"
+		}
+	],
+	"euCode": "169672",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-03",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102507"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Bankhead Moss, Beith",
+	"snhArea": "National Operations West Central"
+}

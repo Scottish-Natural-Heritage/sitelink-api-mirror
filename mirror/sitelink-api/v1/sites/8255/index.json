@@ -1,0 +1,97 @@
+{
+	"url": "/sitelink-api/v1/sites/8255",
+	"id": 8255,
+	"agreements": [
+		{
+			"area": 54.09,
+			"code": 8048,
+			"expiryDate": "2022-05-31",
+			"property": "Sanaigmore",
+			"scheme": "Islay Goose Management Scheme 2017 - 2023",
+			"term": 3,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 375.8,
+	"casework": [
+		{
+			"code": "CDM165554",
+			"receivedDate": "2022-01-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "PAC159790",
+			"receivedDate": "2020-07-06",
+			"response": "Advice only",
+			"type": "Pre Grant Application Enquiry"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 41,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8255/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 475,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8255/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1149,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8255/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8255"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0019774"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0019774.pdf"
+		}
+	],
+	"euCode": "UK0019774",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-09-14",
+			"name": "Acid peat-stained lakes and ponds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100174"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-06-08",
+			"name": "Blanket bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100175"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-06-08",
+			"name": "Depressions on peat substrates",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100176"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Feur Lochain",
+	"snhArea": "National Operations West"
+}

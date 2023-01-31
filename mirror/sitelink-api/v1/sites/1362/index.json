@@ -1,0 +1,102 @@
+{
+	"url": "/sitelink-api/v1/sites/1362",
+	"id": 1362,
+	"area": 1.18,
+	"casework": [
+		{
+			"code": "30226",
+			"receivedDate": "2006-01-17",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "33084",
+			"receivedDate": "2006-05-18",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "48605",
+			"receivedDate": "2008-06-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CEA116615",
+			"receivedDate": "2012-08-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM167056",
+			"receivedDate": "2022-05-18",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC119839",
+			"receivedDate": "2012-12-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM143518",
+			"receivedDate": "2016-11-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 831,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1362/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 131,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1362/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1362/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1362/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1362"
+		}
+	],
+	"euCode": "139927",
+	"features": [
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-09-01",
+			"name": "Whorled Solomon's-seal (Polygonatum verticillatum)",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111913"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "River Lyon Bank",
+	"snhArea": "Tayside and Grampian"
+}

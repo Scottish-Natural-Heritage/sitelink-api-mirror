@@ -1,0 +1,152 @@
+{
+	"url": "/sitelink-api/v1/sites/1630",
+	"id": 1630,
+	"area": 66,
+	"casework": [
+		{
+			"code": "CPA133940",
+			"receivedDate": "2014-11-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM115900",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC163993",
+			"receivedDate": "2021-06-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM122819",
+			"receivedDate": "2013-04-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN113167",
+			"receivedDate": "2012-04-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM122629",
+			"receivedDate": "2013-04-10",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1995-11-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1796,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1630/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1630/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 57,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1630/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1630/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1630"
+		}
+	],
+	"euCode": "135147",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-13",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101744"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-07-09",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106526"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-05",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101746"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-05",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101747"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-13",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101748"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Whitehill",
+	"snhArea": "Tayside and Grampian"
+}

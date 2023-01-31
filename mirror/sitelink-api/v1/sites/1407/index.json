@@ -1,0 +1,137 @@
+{
+	"url": "/sitelink-api/v1/sites/1407",
+	"id": 1407,
+	"area": 17.46,
+	"casework": [
+		{
+			"code": "10926",
+			"receivedDate": "2003-03-31",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "22271",
+			"receivedDate": "2004-11-15",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "71415",
+			"receivedDate": "2011-04-13",
+			"response": "B. Support",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "COR146421",
+			"receivedDate": "2017-06-05",
+			"response": "Unresolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC110538",
+			"receivedDate": "2011-12-08",
+			"response": "SSSI Consent Given",
+			"type": "Bat Roost"
+		},
+		{
+			"code": "CLC163430",
+			"receivedDate": "2021-06-09",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CPP137243",
+			"receivedDate": "2015-06-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP140010",
+			"receivedDate": "2016-01-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC143559",
+			"receivedDate": "2016-10-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-05-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 999,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1407/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1407/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 71,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1407/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1407/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1407"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1564"
+		}
+	],
+	"euCode": "139863",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-10-04",
+			"name": "Carboniferous - Permian Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105010"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-05-09",
+			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107638"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-03-13",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000350"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Sauchie Craig Wood",
+	"snhArea": "National Operations South"
+}

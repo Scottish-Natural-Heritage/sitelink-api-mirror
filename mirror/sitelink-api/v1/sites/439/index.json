@@ -1,0 +1,79 @@
+{
+	"url": "/sitelink-api/v1/sites/439",
+	"id": 439,
+	"area": 53.62,
+	"casework": [
+		{
+			"code": "36749",
+			"receivedDate": "2006-11-07",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "36192",
+			"receivedDate": "2006-10-13",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "CGS125656",
+			"receivedDate": "2013-08-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC155810",
+			"receivedDate": "2019-06-06",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/439/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 93,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/439/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/439/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 506,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/439/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=439"
+		}
+	],
+	"euCode": "135374",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-28",
+			"name": "Subalpine calcareous grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105604"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Craigmead Meadows",
+	"snhArea": "National Operations South"
+}

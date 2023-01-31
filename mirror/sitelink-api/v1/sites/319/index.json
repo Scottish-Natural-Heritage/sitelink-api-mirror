@@ -1,0 +1,77 @@
+{
+	"url": "/sitelink-api/v1/sites/319",
+	"id": 319,
+	"area": 39.32,
+	"casework": [
+		{
+			"code": "58694",
+			"receivedDate": "2009-12-01",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CPP152759",
+			"receivedDate": "2018-10-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP149077",
+			"receivedDate": "2018-01-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-07-04",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/319/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 556,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/319/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/319/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 47,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/319/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=319"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=655"
+		}
+	],
+	"euCode": "135946",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-03-08",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000174"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Carn a' Bhealaich Mhoir",
+	"snhArea": "National Operations Central Highland"
+}

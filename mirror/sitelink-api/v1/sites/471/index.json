@@ -1,0 +1,109 @@
+{
+	"url": "/sitelink-api/v1/sites/471",
+	"id": 471,
+	"area": 62.66,
+	"casework": [
+		{
+			"code": "16052",
+			"receivedDate": "2004-02-05",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "15644",
+			"receivedDate": "2004-01-15",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "GEN161282",
+			"receivedDate": "2020-11-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS156635",
+			"receivedDate": "2019-08-23",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP119032",
+			"receivedDate": "2012-11-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP156554",
+			"receivedDate": "2019-08-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA155843",
+			"receivedDate": "2019-06-14",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPP161642",
+			"receivedDate": "2021-01-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA142748",
+			"receivedDate": "2016-08-31",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-09-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/471/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/471/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 842,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/471/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 95,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/471/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=471"
+		}
+	],
+	"euCode": "134982",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-21",
+			"name": "Native pinewood",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102803"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Crossbog Pinewood",
+	"snhArea": "Tayside and Grampian"
+}

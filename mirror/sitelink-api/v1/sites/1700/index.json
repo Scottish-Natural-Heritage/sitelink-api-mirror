@@ -1,0 +1,179 @@
+{
+	"url": "/sitelink-api/v1/sites/1700",
+	"id": 1700,
+	"area": 628.24,
+	"casework": [
+		{
+			"code": "17437",
+			"receivedDate": "2004-03-02",
+			"response": "1. No Comment",
+			"type": "Mineral Workings"
+		},
+		{
+			"code": "20913",
+			"receivedDate": "2004-05-19",
+			"response": "1. No Comment",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "18954",
+			"receivedDate": "2004-06-25",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Water"
+		},
+		{
+			"code": "50413",
+			"receivedDate": "2008-09-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "48294",
+			"receivedDate": "2008-06-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CDM130707",
+			"receivedDate": "2014-05-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168326",
+			"receivedDate": "2022-09-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153389",
+			"receivedDate": "2018-11-28",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA151046",
+			"receivedDate": "2018-05-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC163713",
+			"receivedDate": "2021-07-06",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC124154",
+			"receivedDate": "2013-06-17",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC161547",
+			"receivedDate": "2020-09-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA154039",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1999-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2213,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1700/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 36,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1700/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1700/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 91,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1700/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1700"
+		}
+	],
+	"euCode": "169742",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-06",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002105"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-18",
+			"name": "Machair",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106584"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-19",
+			"name": "Sand dunes",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106585"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Ceann a' Mhara to Loch a' Phuill",
+	"snhArea": "National Operations West"
+}

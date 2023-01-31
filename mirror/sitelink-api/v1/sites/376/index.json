@@ -1,0 +1,113 @@
+{
+	"url": "/sitelink-api/v1/sites/376",
+	"id": 376,
+	"agreements": [
+		{
+			"area": 5,
+			"code": 6764,
+			"expiryDate": "2027-05-14",
+			"property": "Ardvorlich Estate",
+			"term": 10,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 85.17,
+	"casework": [
+		{
+			"code": "22500",
+			"receivedDate": "2004-09-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "50853",
+			"receivedDate": "2008-08-05",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CGS167341",
+			"receivedDate": "2022-05-30",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC163570",
+			"receivedDate": "2021-06-22",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC131321",
+			"receivedDate": "2014-06-09",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-06-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 55,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/376/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 517,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/376/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/376/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/376/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=376"
+		}
+	],
+	"euCode": "135178",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2001-09-25",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Japanese Knotweed"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000610"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Coille Chriche",
+	"secondaryLocalAuthorities": [
+		"Stirling"
+	],
+	"snhArea": "National Operations South"
+}

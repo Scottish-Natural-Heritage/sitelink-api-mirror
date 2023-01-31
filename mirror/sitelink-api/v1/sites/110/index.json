@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/110",
+	"id": 110,
+	"area": 230.51,
+	"casework": [
+		{
+			"code": "CDM167494",
+			"receivedDate": "2022-06-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC123055",
+			"receivedDate": "2013-03-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166843",
+			"receivedDate": "2022-04-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC165916",
+			"receivedDate": "2022-02-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162894",
+			"receivedDate": "2021-04-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC164372",
+			"receivedDate": "2021-09-06",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC129256",
+			"receivedDate": "2014-02-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC143139",
+			"receivedDate": "2016-10-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC142250",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-10-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/110/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1550,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/110/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/110/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 111,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/110/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=110"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2307"
+		}
+	],
+	"euCode": "137014",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-01-25",
+			"name": "Caledonian Structures of the Southern Uplands",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100486"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-03",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Grazing - other"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105366"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-09",
+			"name": "Saltmarsh",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105368"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-09",
+			"name": "Shingle",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105367"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-07-27",
+			"name": "Vascular plant assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105369"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Back Bay to Carghidown",
+	"snhArea": "National Operations South"
+}

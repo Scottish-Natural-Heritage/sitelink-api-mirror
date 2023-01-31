@@ -1,0 +1,207 @@
+{
+	"url": "/sitelink-api/v1/sites/1601",
+	"id": 1601,
+	"area": 118.93,
+	"casework": [
+		{
+			"code": "21143",
+			"receivedDate": "2003-07-31",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "21145",
+			"receivedDate": "2004-02-11",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "21149",
+			"receivedDate": "2004-07-08",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "21217",
+			"receivedDate": "2004-07-29",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "34934",
+			"receivedDate": "2006-06-19",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "34923",
+			"receivedDate": "2006-05-15",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "45790",
+			"receivedDate": "2008-01-08",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "51454",
+			"receivedDate": "2008-09-22",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "52836",
+			"receivedDate": "2009-01-29",
+			"response": "B. Support",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "63794",
+			"receivedDate": "2010-08-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "72231",
+			"receivedDate": "2011-11-14",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "ALC145411",
+			"receivedDate": "2017-04-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC117342",
+			"receivedDate": "2012-09-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC112219",
+			"receivedDate": "2012-02-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR123284",
+			"receivedDate": "2013-05-14",
+			"response": "Unresolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "ALC145293",
+			"receivedDate": "2017-03-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151640",
+			"receivedDate": "2018-07-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM166400",
+			"receivedDate": "2022-03-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA164696",
+			"receivedDate": "2021-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN136567",
+			"receivedDate": "2015-05-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS141709",
+			"receivedDate": "2016-06-13",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 40,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1601/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1601/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1601/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 730,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1601/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1601"
+		}
+	],
+	"euCode": "136086",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-08",
+			"name": "Breeding bird assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103676"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-09-27",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106499"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-05-29",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106498"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "West Benbecula Lochs",
+	"snhArea": "National Operations West"
+}

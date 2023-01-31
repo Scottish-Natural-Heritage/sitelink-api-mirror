@@ -1,0 +1,197 @@
+{
+	"url": "/sitelink-api/v1/sites/808",
+	"id": 808,
+	"agreements": [
+		{
+			"area": 63.1,
+			"code": 8106,
+			"expiryDate": "2049-11-30",
+			"property": "Inchtavannach Island",
+			"term": 30,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 105.03,
+	"casework": [
+		{
+			"code": "13115",
+			"receivedDate": "2003-08-13",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "16017",
+			"receivedDate": "2004-02-03",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "27346",
+			"receivedDate": "2005-08-01",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "40061",
+			"receivedDate": "2007-02-20",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "CDM113526",
+			"receivedDate": "2012-04-16",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA163217",
+			"receivedDate": "2021-05-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM119383",
+			"receivedDate": "2012-11-30",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR152533",
+			"receivedDate": "2018-09-20",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM151250",
+			"receivedDate": "2018-06-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149271",
+			"receivedDate": "2018-02-01",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN164736",
+			"receivedDate": "2021-10-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR166266",
+			"receivedDate": "2022-03-07",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP137938",
+			"receivedDate": "2015-08-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "COR157600",
+			"receivedDate": "2019-12-03",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CPP143977",
+			"receivedDate": "2016-12-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "COR145391",
+			"receivedDate": "2017-04-05",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-03-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 491,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/808/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 83,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/808/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/808/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/808/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=808"
+		}
+	],
+	"euCode": "135523",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-04-07",
+			"name": "Capercaillie (Tetrao urogallus), breeding",
+			"pressures": [
+				{
+					"name": "Natural event"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104129"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-03-18",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech",
+						"European Larch",
+						"Rhododendron",
+						"Sitka Spruce"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000667"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Inchtavannach and Inchconnachan",
+	"snhArea": "National Operations West"
+}

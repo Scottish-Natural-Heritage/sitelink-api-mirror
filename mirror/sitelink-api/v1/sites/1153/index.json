@@ -1,0 +1,147 @@
+{
+	"url": "/sitelink-api/v1/sites/1153",
+	"id": 1153,
+	"area": 8.83,
+	"casework": [
+		{
+			"code": "57772",
+			"receivedDate": "2009-06-25",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "CLC113492",
+			"receivedDate": "2012-04-19",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM116797",
+			"receivedDate": "2012-08-20",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM121433",
+			"receivedDate": "2013-02-11",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "ALC119838",
+			"receivedDate": "2012-12-13",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA114124",
+			"receivedDate": "2012-05-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC114137",
+			"receivedDate": "2012-05-10",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM162615",
+			"receivedDate": "2021-03-30",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CPP165201",
+			"receivedDate": "2021-11-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM166482",
+			"receivedDate": "2022-03-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131020",
+			"receivedDate": "2014-05-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA131021",
+			"receivedDate": "2014-06-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA142001",
+			"receivedDate": "2016-07-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-11-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 896,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1153/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1153/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1153/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 118,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1153/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1153"
+		}
+	],
+	"euCode": "135448",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-08-07",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106110"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Mill Dam",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,77 @@
+{
+	"url": "/sitelink-api/v1/sites/1383",
+	"id": 1383,
+	"area": 0.33,
+	"casework": [
+		{
+			"code": "57533",
+			"receivedDate": "2009-09-29",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "59715",
+			"receivedDate": "2010-02-05",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "CPP158123",
+			"receivedDate": "2020-01-27",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-02-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 555,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1383/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1383/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1383/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 142,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1383/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1383"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2115"
+		}
+	],
+	"euCode": "135023",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-05-09",
+			"name": "Llandovery",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000449"
+		}
+	],
+	"localAuthority": "South Ayrshire",
+	"name": "Roughneuk Quarry",
+	"snhArea": "National Operations West Central"
+}

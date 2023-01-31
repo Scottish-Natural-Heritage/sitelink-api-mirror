@@ -1,0 +1,195 @@
+{
+	"url": "/sitelink-api/v1/sites/1351",
+	"id": 1351,
+	"area": 72.17,
+	"casework": [
+		{
+			"code": "38993",
+			"receivedDate": "2007-02-21",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "43288",
+			"receivedDate": "2007-08-24",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "GEN146277",
+			"receivedDate": "2017-06-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA117828",
+			"receivedDate": "2012-09-26",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CPP118778",
+			"receivedDate": "2012-11-02",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CLC165471",
+			"receivedDate": "2021-12-17",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165700",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM165951",
+			"receivedDate": "2022-02-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC165142",
+			"receivedDate": "2021-11-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165799",
+			"receivedDate": "2022-01-28",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166746",
+			"receivedDate": "2022-04-26",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CPP130578",
+			"receivedDate": "2014-04-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC162189",
+			"receivedDate": "2021-02-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPP141602",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1409,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1351"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2422"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2079"
+		}
+	],
+	"euCode": "135296",
+	"features": [
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-10-18",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001894"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-08-09",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105066"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-24",
+			"name": "Mollusc assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106275"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-01-16",
+			"name": "Old Red Sandstone Igneous",
+			"pressures": [
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001565"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-06-11",
+			"name": "Saltmarsh",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106274"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Rickle Craig - Scurdie Ness",
+	"snhArea": "Tayside and Grampian"
+}

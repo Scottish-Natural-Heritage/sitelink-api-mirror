@@ -1,0 +1,66 @@
+{
+	"url": "/sitelink-api/v1/sites/490",
+	"id": 490,
+	"area": 0.28,
+	"casework": [
+		{
+			"code": "ALC164456",
+			"receivedDate": "2021-09-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 498,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/490/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 11,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/490/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 69,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/490/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/490/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=490"
+		}
+	],
+	"euCode": "135885",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-10-18",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101514"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Dalnabo Quarry",
+	"snhArea": "Tayside and Grampian"
+}

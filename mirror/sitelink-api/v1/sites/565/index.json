@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/565",
+	"id": 565,
+	"area": 0.32,
+	"casework": [
+		{
+			"code": "15988",
+			"receivedDate": "2004-02-03",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "58315",
+			"receivedDate": "2009-11-11",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CPA155198",
+			"receivedDate": "2019-04-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC166070",
+			"receivedDate": "2022-02-17",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CEA156358",
+			"receivedDate": "2019-07-29",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-02-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/565/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 203,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/565/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/565/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 513,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/565/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=565"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2344"
+		}
+	],
+	"euCode": "135581",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-10-17",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000408"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Dundonald Burn",
+	"snhArea": "National Operations West Central"
+}

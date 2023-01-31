@@ -1,0 +1,108 @@
+{
+	"url": "/sitelink-api/v1/sites/8433",
+	"id": 8433,
+	"area": 2619.37,
+	"casework": [
+		{
+			"code": "43573",
+			"receivedDate": "2007-08-03",
+			"response": "Information/Advice only",
+			"type": "Fish Farms - Aquaculture Seabed Lease"
+		},
+		{
+			"code": "CEA124634",
+			"receivedDate": "2013-07-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA145663",
+			"receivedDate": "2017-04-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC141954",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC143336",
+			"receivedDate": "2016-10-19",
+			"response": "Advice only",
+			"type": "Marine Post Consent Activity"
+		},
+		{
+			"code": "CLC143338",
+			"receivedDate": "2016-10-19",
+			"response": "Advice only",
+			"type": "Marine Post Consent Activity"
+		}
+	],
+	"designation": {
+		"code": "RAMSAR",
+		"date": "1990-04-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/ramsar-sites",
+		"status": "Current",
+		"type": "Ramsar Site"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Ramsar Site Citation",
+			"size": 337,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8433/documents/20"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8433"
+		},
+		{
+			"type": "Ramsar Site Information Sheet",
+			"url": "https://rsis.ramsar.org/RISapp/files/RISrep/GB468RIS.pdf?language=en"
+		},
+		{
+			"type": "Ramsar Sites Information Service",
+			"url": "https://rsis.ramsar.org/ris/468?language=en"
+		}
+	],
+	"euCode": "UK13029",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Intertidal mudflats and sandflats",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionSummary": "Not Assessed",
+			"name": "Otter (Lutra lutra)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-05-28",
+			"name": "Saline lagoon",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003781"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-07-14",
+			"name": "Tidal rapids",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111267"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Loch an Duin",
+	"snhArea": "National Operations West"
+}

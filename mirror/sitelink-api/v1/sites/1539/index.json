@@ -1,0 +1,90 @@
+{
+	"url": "/sitelink-api/v1/sites/1539",
+	"id": 1539,
+	"area": 569.3,
+	"casework": [
+		{
+			"code": "CGS152817",
+			"receivedDate": "2018-10-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-04-06",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 88,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1539/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2045,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1539/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1539/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1539/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1539"
+		}
+	],
+	"euCode": "135867",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-07-25",
+			"name": "Blanket bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000729"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-20",
+			"name": "Breeding bird assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102458"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-09",
+			"name": "Red-throated diver (Gavia stellata), breeding",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111889"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-05-24",
+			"name": "Whimbrel (Numenius phaeopus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106423"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Tingon",
+	"snhArea": "National Operations North"
+}

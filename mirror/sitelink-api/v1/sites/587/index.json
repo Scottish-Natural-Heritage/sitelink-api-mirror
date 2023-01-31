@@ -1,0 +1,105 @@
+{
+	"url": "/sitelink-api/v1/sites/587",
+	"id": 587,
+	"area": 620.32,
+	"casework": [
+		{
+			"code": "ALC167633",
+			"receivedDate": "2022-07-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC158582",
+			"receivedDate": "2020-03-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM141494",
+			"receivedDate": "2016-05-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC142634",
+			"receivedDate": "2016-08-24",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC142641",
+			"receivedDate": "2016-08-24",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC142637",
+			"receivedDate": "2016-08-24",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM141495",
+			"receivedDate": "2016-05-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1996-01-08",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2061,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/587/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 59,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/587/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/587/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/587/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=587"
+		}
+	],
+	"euCode": "135144",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-20",
+			"name": "Blanket bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105704"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-24",
+			"name": "Breeding bird assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102204"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "East Mires and Lumbister",
+	"snhArea": "National Operations North"
+}

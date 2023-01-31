@@ -1,0 +1,84 @@
+{
+	"url": "/sitelink-api/v1/sites/8625",
+	"id": 8625,
+	"area": 484.37,
+	"casework": [
+		{
+			"code": "CGS113500",
+			"receivedDate": "2012-04-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM165862",
+			"receivedDate": "2022-02-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141614",
+			"receivedDate": "2016-06-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Conservation Advice Package",
+			"size": 220,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8625/documents/66"
+		},
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8625/documents/22"
+		},
+		{
+			"type": "SAC Map",
+			"size": 2809,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8625/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8625"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030348"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030348.pdf"
+		}
+	],
+	"euCode": "UK0030348",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2020-12-02",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"name": "Natural event"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112775"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "The Maim",
+	"snhArea": "Tayside and Grampian"
+}

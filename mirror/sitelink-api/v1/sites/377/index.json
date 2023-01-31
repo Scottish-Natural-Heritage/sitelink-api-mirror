@@ -1,0 +1,161 @@
+{
+	"url": "/sitelink-api/v1/sites/377",
+	"id": 377,
+	"area": 129.52,
+	"casework": [
+		{
+			"code": "19043",
+			"receivedDate": "2004-07-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "19158",
+			"receivedDate": "2004-07-14",
+			"response": "NCA - Issued application for consent form",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "58525",
+			"receivedDate": "2009-11-20",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CPA135604",
+			"receivedDate": "2015-02-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA135717",
+			"receivedDate": "2015-03-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN167211",
+			"receivedDate": "2022-05-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN151463",
+			"receivedDate": "2018-07-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC146372",
+			"receivedDate": "2017-06-20",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA143285",
+			"receivedDate": "2016-10-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP127969",
+			"receivedDate": "2013-11-29",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM144113",
+			"receivedDate": "2016-12-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145820",
+			"receivedDate": "2017-05-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-03-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/377/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/377/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 135,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/377/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 591,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/377/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=377"
+		}
+	],
+	"euCode": "135500",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-06-04",
+			"name": "Beetle assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100102"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-31",
+			"name": "Fly assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105562"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-08-08",
+			"name": "Native pinewood",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100104"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Coille Coire Chuilc",
+	"snhArea": "National Operations South"
+}

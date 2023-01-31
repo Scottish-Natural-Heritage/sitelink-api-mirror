@@ -1,0 +1,118 @@
+{
+	"url": "/sitelink-api/v1/sites/10408",
+	"id": 10408,
+	"area": 11400,
+	"casework": [
+		{
+			"code": "CPP157461",
+			"receivedDate": "2019-11-15",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CPA124027",
+			"receivedDate": "2013-06-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC137366",
+			"receivedDate": "2015-07-02",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC141935",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC137917",
+			"receivedDate": "2015-08-14",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC162392",
+			"receivedDate": "2021-03-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC142148",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CEA143369",
+			"receivedDate": "2016-10-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM144037",
+			"receivedDate": "2016-12-13",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 1929,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10408/documents/49"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 749,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10408/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 1341,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10408/documents/48"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 1820,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10408/documents/50"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "NatureScot Web Site",
+			"url": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas/nature-conservation-11"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00456489.pdf"
+		}
+	],
+	"euCode": "555560462",
+	"features": [
+		{
+			"category": "Birds - aggregations of breeding birds",
+			"name": "Black guillemot (Cepphus grylle)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "East Caithness Cliffs",
+	"secondaryLocalAuthorities": [
+		"Highland"
+	],
+	"snhArea": "National Operations North"
+}

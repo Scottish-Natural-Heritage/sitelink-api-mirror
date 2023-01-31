@@ -1,0 +1,103 @@
+{
+	"url": "/sitelink-api/v1/sites/755",
+	"id": 755,
+	"area": 1.53,
+	"casework": [
+		{
+			"code": "49646",
+			"receivedDate": "2008-07-28",
+			"response": "Information/Advice only",
+			"type": "Non Trunk Roads"
+		},
+		{
+			"code": "55188",
+			"receivedDate": "2009-06-08",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CDM120028",
+			"receivedDate": "2013-01-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA127670",
+			"receivedDate": "2013-11-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA154124",
+			"receivedDate": "2019-01-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140920",
+			"receivedDate": "2016-04-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-02-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/755/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 67,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/755/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/755/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 558,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/755/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=755"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1290"
+		}
+	],
+	"euCode": "139878",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-01-08",
+			"name": "Moine",
+			"pressures": [
+				{
+					"name": "Development"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001323"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Gutcher",
+	"snhArea": "National Operations North"
+}

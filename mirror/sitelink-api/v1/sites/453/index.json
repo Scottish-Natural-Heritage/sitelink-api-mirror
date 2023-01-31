@@ -1,0 +1,120 @@
+{
+	"url": "/sitelink-api/v1/sites/453",
+	"id": 453,
+	"area": 8.86,
+	"casework": [
+		{
+			"code": "24945",
+			"receivedDate": "2005-05-04",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "45602",
+			"receivedDate": "2007-08-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "47939",
+			"receivedDate": "2008-05-13",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CDM167272",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "GEN138098",
+			"receivedDate": "2015-08-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 757,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/453/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/453/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/453/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 60,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/453/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=453"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2493"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1818"
+		}
+	],
+	"euCode": "135037",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-12-18",
+			"name": "Non-marine Devonian",
+			"pressures": [
+				{
+					"name": "Natural event"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105612"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-06-21",
+			"name": "Old Red Sandstone Igneous",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101492"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Crawton Bay",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "Tayside and Grampian"
+}

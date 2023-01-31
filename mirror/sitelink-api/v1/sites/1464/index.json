@@ -1,0 +1,100 @@
+{
+	"url": "/sitelink-api/v1/sites/1464",
+	"id": 1464,
+	"area": 6.14,
+	"casework": [
+		{
+			"code": "45507",
+			"receivedDate": "2007-09-18",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "55917",
+			"receivedDate": "2009-06-09",
+			"response": "Information/Advice only",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "67740",
+			"receivedDate": "2010-11-19",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "GEN115025",
+			"receivedDate": "2012-06-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM119050",
+			"receivedDate": "2012-11-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA129310",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-07-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 578,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1464/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1464/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 58,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1464/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1464/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1464"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=816"
+		}
+	],
+	"euCode": "139893",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-02",
+			"name": "Permian - Triassic Reptilia",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106359"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Spynie Quarry",
+	"snhArea": "Tayside and Grampian"
+}

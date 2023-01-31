@@ -1,0 +1,133 @@
+{
+	"url": "/sitelink-api/v1/sites/8279",
+	"id": 8279,
+	"agreements": [
+		{
+			"area": 41.03,
+			"code": 255,
+			"property": "Keen of Hamar",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 2.35,
+			"code": 841770,
+			"expiryDate": "2026-03-31",
+			"property": "Keen of Hamar",
+			"term": 5,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 39.87,
+	"casework": [
+		{
+			"code": "13284",
+			"receivedDate": "2003-07-23",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "19352",
+			"receivedDate": "2004-07-13",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "50038",
+			"receivedDate": "2008-08-18",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "48177",
+			"receivedDate": "2008-05-28",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "54412",
+			"receivedDate": "2009-04-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "CDM168012",
+			"receivedDate": "2022-08-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA164293",
+			"receivedDate": "2021-09-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 44,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8279/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 490,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8279/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 707,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8279/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8279"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0012815"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0012815.pdf"
+		}
+	],
+	"euCode": "UK0012815",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-24",
+			"name": "Base-rich scree",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106793"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-10-07",
+			"name": "Dry heaths",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102316"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-24",
+			"name": "Grasslands on soils rich in heavy metals",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109845"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Keen of Hamar",
+	"snhArea": "National Operations North"
+}

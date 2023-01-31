@@ -1,0 +1,155 @@
+{
+	"url": "/sitelink-api/v1/sites/8323",
+	"id": 8323,
+	"area": 252.42,
+	"casework": [
+		{
+			"code": "46939",
+			"receivedDate": "2008-03-12",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Industrial Developments"
+		},
+		{
+			"code": "63391",
+			"receivedDate": "2010-07-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CDM145590",
+			"receivedDate": "2017-04-20",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP129386",
+			"receivedDate": "2014-02-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM155812",
+			"receivedDate": "2019-06-11",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "GEN167309",
+			"receivedDate": "2022-06-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM121545",
+			"receivedDate": "2013-02-26",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "GEN150125",
+			"receivedDate": "2018-04-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS152020",
+			"receivedDate": "2018-08-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA133516",
+			"receivedDate": "2014-10-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP127063",
+			"receivedDate": "2013-10-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA125329",
+			"receivedDate": "2013-08-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC131639",
+			"receivedDate": "2014-06-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM148295",
+			"receivedDate": "2017-11-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 36,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8323/documents/22"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1767,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8323/documents/46"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 403,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8323/documents/66"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8323"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0013618"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0013618.pdf"
+		}
+	],
+	"euCode": "UK0013618",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-03-20",
+			"name": "Bog woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100951"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-09-10",
+			"name": "Very wet mires often identified by an unstable 'quaking' surface",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106834"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Monadh Mor",
+	"snhArea": "National Operations Central Highland"
+}

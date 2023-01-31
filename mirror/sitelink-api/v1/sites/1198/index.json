@@ -1,0 +1,137 @@
+{
+	"url": "/sitelink-api/v1/sites/1198",
+	"id": 1198,
+	"agreements": [
+		{
+			"area": 87.1,
+			"code": 633,
+			"expiryDate": "2081-11-05",
+			"property": "Hempriggs",
+			"term": 92,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 182.93,
+	"casework": [
+		{
+			"code": "50372",
+			"receivedDate": "2008-09-02",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "70733",
+			"receivedDate": "2011-08-09",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CEA114436",
+			"receivedDate": "2012-05-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA112254",
+			"receivedDate": "2012-02-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS111661",
+			"receivedDate": "2012-02-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA124372",
+			"receivedDate": "2013-06-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM120518",
+			"receivedDate": "2013-01-22",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS114175",
+			"receivedDate": "2012-05-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS113851",
+			"receivedDate": "2012-05-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA125559",
+			"receivedDate": "2013-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS142563",
+			"receivedDate": "2016-08-18",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS142576",
+			"receivedDate": "2016-08-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-09-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1198/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1198/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 213,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1198/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 613,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1198/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1198"
+		}
+	],
+	"euCode": "135996",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-12",
+			"name": "Blanket bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102069"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Moss of Killimster",
+	"snhArea": "National Operations North"
+}

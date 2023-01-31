@@ -1,0 +1,120 @@
+{
+	"url": "/sitelink-api/v1/sites/444",
+	"id": 444,
+	"area": 94.15,
+	"casework": [
+		{
+			"code": "14438",
+			"receivedDate": "2003-10-10",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "43077",
+			"receivedDate": "2006-10-04",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "65181",
+			"receivedDate": "2010-10-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CEA157956",
+			"receivedDate": "2019-12-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC137803",
+			"receivedDate": "2015-08-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC132100",
+			"receivedDate": "2014-07-14",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC124766",
+			"receivedDate": "2013-07-09",
+			"response": "No comment",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-04-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/444/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/444/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 85,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/444/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 647,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/444/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=444"
+		}
+	],
+	"euCode": "135428",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-07-04",
+			"name": "Moth assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003391"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-23",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Goats"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100128"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Craig Royston Woods",
+	"snhArea": "National Operations South"
+}

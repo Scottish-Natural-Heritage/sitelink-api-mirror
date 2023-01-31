@@ -1,0 +1,128 @@
+{
+	"url": "/sitelink-api/v1/sites/1195",
+	"id": 1195,
+	"area": 3382.08,
+	"casework": [
+		{
+			"code": "35445",
+			"receivedDate": "2006-08-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "45741",
+			"receivedDate": "2008-01-08",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "ALC147083",
+			"receivedDate": "2017-08-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP160831",
+			"receivedDate": "2020-10-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN153640",
+			"receivedDate": "2018-12-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS154201",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP158933",
+			"receivedDate": "2020-04-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM159029",
+			"receivedDate": "2020-04-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158475",
+			"receivedDate": "2020-02-21",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147774",
+			"receivedDate": "2017-10-03",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1195/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1195/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 411,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1195/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2578,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1195/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1195"
+		}
+	],
+	"euCode": "135999",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-25",
+			"name": "Alpine heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102067"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-06-06",
+			"name": "Subalpine dry heath",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102068"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Morven and Scaraben",
+	"snhArea": "National Operations North"
+}

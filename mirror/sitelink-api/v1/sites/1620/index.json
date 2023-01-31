@@ -1,0 +1,151 @@
+{
+	"url": "/sitelink-api/v1/sites/1620",
+	"id": 1620,
+	"area": 8.32,
+	"casework": [
+		{
+			"code": "28838",
+			"receivedDate": "2005-11-04",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "49681",
+			"receivedDate": "2008-08-01",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "51522",
+			"receivedDate": "2008-11-07",
+			"response": "B. Support",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "52668",
+			"receivedDate": "2009-01-20",
+			"response": "B. Support",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "67688",
+			"receivedDate": "2011-03-22",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CDM147220",
+			"receivedDate": "2017-08-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM110530",
+			"receivedDate": "2011-12-14",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN111998",
+			"receivedDate": "2012-02-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC165174",
+			"receivedDate": "2021-11-19",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CPA166425",
+			"receivedDate": "2022-03-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP131821",
+			"receivedDate": "2014-06-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS142564",
+			"receivedDate": "2016-08-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-11-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 822,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1620/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1620/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 253,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1620/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1620/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1620"
+		}
+	],
+	"euCode": "136208",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-07",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004667"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-06-20",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106521"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Westfield Bridge",
+	"snhArea": "National Operations North"
+}

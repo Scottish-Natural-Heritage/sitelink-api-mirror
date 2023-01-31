@@ -1,0 +1,154 @@
+{
+	"url": "/sitelink-api/v1/sites/1428",
+	"id": 1428,
+	"agreements": [
+		{
+			"area": 13.4,
+			"code": 8231,
+			"expiryDate": "2022-12-31",
+			"property": "Fairfield Farm",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 5.75,
+			"code": 8544,
+			"expiryDate": "2024-10-31",
+			"property": "Land at Strewiebank",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 39.15,
+	"casework": [
+		{
+			"code": "22383",
+			"receivedDate": "2002-05-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "46780",
+			"receivedDate": "2008-03-05",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "46784",
+			"receivedDate": "2008-03-05",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "46789",
+			"receivedDate": "2008-02-28",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "46791",
+			"receivedDate": "2008-02-28",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "50639",
+			"receivedDate": "2008-08-01",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "50640",
+			"receivedDate": "2008-08-01",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "57209",
+			"receivedDate": "2009-08-31",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "59205",
+			"receivedDate": "2009-12-22",
+			"response": "B. Support",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "67907",
+			"receivedDate": "2011-03-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CGS165035",
+			"receivedDate": "2021-10-28",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "ALC121700",
+			"receivedDate": "2013-02-27",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1428/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1428/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1047,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1428/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 74,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1428/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1428"
+		}
+	],
+	"euCode": "135292",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2020-09-09",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Birch",
+						"Scots pine"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112451"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Shirgarton Moss",
+	"snhArea": "National Operations South"
+}

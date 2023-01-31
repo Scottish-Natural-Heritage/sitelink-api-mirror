@@ -1,0 +1,86 @@
+{
+	"url": "/sitelink-api/v1/sites/646",
+	"id": 646,
+	"area": 3.08,
+	"casework": [
+		{
+			"code": "54112",
+			"receivedDate": "2009-01-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "57966",
+			"receivedDate": "2009-07-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CGS115203",
+			"receivedDate": "2012-06-26",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-11-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/646/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 84,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/646/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/646/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 505,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/646/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=646"
+		}
+	],
+	"euCode": "135058",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-08-31",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107629"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-25",
+			"name": "Springs (including flushes)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105753"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Fodderletter",
+	"snhArea": "Tayside and Grampian"
+}

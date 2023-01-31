@@ -1,0 +1,113 @@
+{
+	"url": "/sitelink-api/v1/sites/8226",
+	"id": 8226,
+	"agreements": [
+		{
+			"area": 16.8,
+			"code": 590,
+			"expiryDate": "2028-09-08",
+			"property": "Newhouse Farm",
+			"term": 40,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 47.6,
+	"casework": [
+		{
+			"code": "CDM112551",
+			"receivedDate": "2012-03-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP112557",
+			"receivedDate": "2012-03-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC137435",
+			"receivedDate": "2015-07-08",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8226/documents/22"
+		},
+		{
+			"type": "SAC Map",
+			"size": 954,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8226/documents/46"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 499,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8226/documents/66"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8226"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0019761"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0019761.pdf"
+		}
+	],
+	"euCode": "UK0019761",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-01",
+			"name": "Active raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106725"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2002-10-25",
+			"name": "Degraded raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001247"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Cockinhead Moss",
+	"snhArea": "National Operations West Central"
+}

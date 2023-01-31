@@ -1,0 +1,132 @@
+{
+	"url": "/sitelink-api/v1/sites/878",
+	"id": 878,
+	"area": 5177.76,
+	"casework": [
+		{
+			"code": "19729",
+			"receivedDate": "2004-08-11",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "68651",
+			"receivedDate": "2011-05-13",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "ALC145691",
+			"receivedDate": "2017-04-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN153640",
+			"receivedDate": "2018-12-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS154201",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS116884",
+			"receivedDate": "2012-08-23",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM168606",
+			"receivedDate": "2022-10-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS118746",
+			"receivedDate": "2012-11-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP135892",
+			"receivedDate": "2015-03-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139848",
+			"receivedDate": "2016-01-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS139438",
+			"receivedDate": "2015-12-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS154502",
+			"receivedDate": "2019-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-09-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 38,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/878/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/878/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 148,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/878/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2627,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/878/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=878"
+		}
+	],
+	"euCode": "136045",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2005-07-21",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102008"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Knockfin Heights",
+	"snhArea": "National Operations North"
+}

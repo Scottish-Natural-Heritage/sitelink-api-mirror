@@ -1,0 +1,119 @@
+{
+	"url": "/sitelink-api/v1/sites/1435",
+	"id": 1435,
+	"area": 36.67,
+	"casework": [
+		{
+			"code": "CDM160782",
+			"receivedDate": "2020-09-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155169",
+			"receivedDate": "2019-04-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131495",
+			"receivedDate": "2014-06-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM127277",
+			"receivedDate": "2013-10-30",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM127039",
+			"receivedDate": "2013-10-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM159154",
+			"receivedDate": "2020-04-28",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN154624",
+			"receivedDate": "2019-03-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA156597",
+			"receivedDate": "2019-08-21",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-03-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1796,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1435/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1435/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1435/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 190,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1435/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1435"
+		}
+	],
+	"euCode": "139897",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-08-12",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech",
+						"Japanese Knotweed",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102655"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Skelmorlie Glen",
+	"snhArea": "National Operations West Central"
+}

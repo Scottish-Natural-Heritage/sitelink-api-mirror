@@ -1,0 +1,85 @@
+{
+	"url": "/sitelink-api/v1/sites/232",
+	"id": 232,
+	"area": 10.1,
+	"casework": [
+		{
+			"code": "26799",
+			"receivedDate": "2005-08-02",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CPP164209",
+			"receivedDate": "2021-08-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP135561",
+			"receivedDate": "2015-03-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN141059",
+			"receivedDate": "2016-04-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP141880",
+			"receivedDate": "2016-06-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-06-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/232/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/232/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 123,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/232/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/232/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=232"
+		}
+	],
+	"euCode": "135706",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-15",
+			"name": "Blanket bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105473"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Blood Moss",
+	"snhArea": "National Operations South"
+}

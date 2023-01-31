@@ -1,0 +1,208 @@
+{
+	"url": "/sitelink-api/v1/sites/8349",
+	"id": 8349,
+	"area": 1018.89,
+	"casework": [
+		{
+			"code": "20035",
+			"receivedDate": "2004-08-20",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "56805",
+			"receivedDate": "2009-08-18",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CDM150947",
+			"receivedDate": "2018-06-06",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CPA150693",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM151514",
+			"receivedDate": "2018-07-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA152810",
+			"receivedDate": "2018-10-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM154037",
+			"receivedDate": "2019-01-25",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 45,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8349/documents/22"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8349/documents/29"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1739,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8349/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8349"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030243"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030243.pdf"
+		}
+	],
+	"euCode": "UK0030243",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2022-06-09",
+			"name": "Alpine and subalpine calcareous grasslands",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005249"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-24",
+			"name": "Base-rich fens",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003162"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-06",
+			"name": "Hard-water springs depositing lime",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103332"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2022-06-09",
+			"name": "Limestone pavements",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005252"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-07",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103334"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2022-07-15",
+			"name": "Mountain willow scrub",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005254"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2022-06-09",
+			"name": "Plants in crevices on base-rich rocks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005255"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Rassal",
+	"snhArea": "National Operations Central Highland"
+}

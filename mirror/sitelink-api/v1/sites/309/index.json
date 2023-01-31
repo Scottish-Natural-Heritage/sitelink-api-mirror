@@ -1,0 +1,132 @@
+{
+	"url": "/sitelink-api/v1/sites/309",
+	"id": 309,
+	"area": 29.58,
+	"casework": [
+		{
+			"code": "49250",
+			"receivedDate": "2008-07-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC133824",
+			"receivedDate": "2014-10-28",
+			"response": "Conditioned objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC132912",
+			"receivedDate": "2014-08-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC163014",
+			"receivedDate": "2021-05-05",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC139452",
+			"receivedDate": "2015-12-14",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC140265",
+			"receivedDate": "2016-02-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC126117",
+			"receivedDate": "2013-09-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC132145",
+			"receivedDate": "2014-07-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM126803",
+			"receivedDate": "2013-10-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC131854",
+			"receivedDate": "2014-07-02",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CEA162025",
+			"receivedDate": "2021-02-04",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-01-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 195,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/309/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/309/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 847,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/309/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/309/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=309"
+		}
+	],
+	"euCode": "139846",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-09-15",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105517"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Cander Moss",
+	"snhArea": "National Operations West Central"
+}

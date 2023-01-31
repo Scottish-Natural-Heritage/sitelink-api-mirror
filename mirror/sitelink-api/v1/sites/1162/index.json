@@ -1,0 +1,98 @@
+{
+	"url": "/sitelink-api/v1/sites/1162",
+	"id": 1162,
+	"area": 25.51,
+	"casework": [
+		{
+			"code": "COR118519",
+			"receivedDate": "2012-10-29",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM150912",
+			"receivedDate": "2018-06-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC130649",
+			"receivedDate": "2014-05-02",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 518,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1162/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1162/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1162/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1162/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1162"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1994"
+		}
+	],
+	"euCode": "135031",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-01",
+			"name": "Non-marine Devonian",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111776"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-10-16",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000154"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Milton Ness",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "Tayside and Grampian"
+}

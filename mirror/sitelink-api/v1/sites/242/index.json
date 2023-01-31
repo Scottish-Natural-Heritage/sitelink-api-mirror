@@ -1,0 +1,114 @@
+{
+	"url": "/sitelink-api/v1/sites/242",
+	"id": 242,
+	"area": 20.14,
+	"casework": [
+		{
+			"code": "25779",
+			"receivedDate": "2005-05-19",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "29219",
+			"receivedDate": "2005-11-24",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "51129",
+			"receivedDate": "2008-10-15",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "48605",
+			"receivedDate": "2008-06-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "60102",
+			"receivedDate": "2010-02-15",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CPP114495",
+			"receivedDate": "2012-05-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP119698",
+			"receivedDate": "2012-12-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP165994",
+			"receivedDate": "2022-02-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/242/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/242/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 294,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/242/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 616,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/242/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=242"
+		}
+	],
+	"euCode": "135326",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2018-05-17",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105478"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Bolfracks Wood",
+	"snhArea": "Tayside and Grampian"
+}

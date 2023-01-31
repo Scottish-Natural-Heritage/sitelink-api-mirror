@@ -1,0 +1,127 @@
+{
+	"url": "/sitelink-api/v1/sites/1449",
+	"id": 1449,
+	"area": 32.65,
+	"casework": [
+		{
+			"code": "15914",
+			"receivedDate": "2004-01-30",
+			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "30469",
+			"receivedDate": "2005-09-27",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "30470",
+			"receivedDate": "2005-12-28",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "49209",
+			"receivedDate": "2008-06-25",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "55127",
+			"receivedDate": "2009-05-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CPP159549",
+			"receivedDate": "2020-06-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP159194",
+			"receivedDate": "2020-05-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP159400",
+			"receivedDate": "2020-05-27",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-03-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1449/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 651,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1449/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 182,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1449/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1449/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1449"
+		}
+	],
+	"euCode": "135607",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-03",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107419"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-07-03",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106349"
+		}
+	],
+	"localAuthority": "East Dunbartonshire",
+	"name": "South Braes",
+	"snhArea": "National Operations West Central"
+}

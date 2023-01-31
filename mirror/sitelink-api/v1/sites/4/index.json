@@ -1,0 +1,181 @@
+{
+	"url": "/sitelink-api/v1/sites/4",
+	"id": 4,
+	"area": 62.9,
+	"casework": [
+		{
+			"code": "27706",
+			"receivedDate": "2005-09-09",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "31634",
+			"receivedDate": "2006-03-24",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "31609",
+			"receivedDate": "2006-03-01",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "31436",
+			"receivedDate": "2006-03-15",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "31278",
+			"receivedDate": "2006-03-07",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "29757",
+			"receivedDate": "2005-12-20",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "31567",
+			"receivedDate": "2006-03-22",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "45803",
+			"receivedDate": "2007-12-20",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "CPA129330",
+			"receivedDate": "2014-02-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "COR158601",
+			"receivedDate": "2020-03-03",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CGS168673",
+			"receivedDate": "2022-10-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPP153022",
+			"receivedDate": "2018-10-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP166069",
+			"receivedDate": "2022-02-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC156270",
+			"receivedDate": "2019-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP156467",
+			"receivedDate": "2019-08-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-02-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 3717,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/4/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 124,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/4/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/4/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/4/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=4"
+		}
+	],
+	"euCode": "169631",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2004-10-22",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004440"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2003-06-30",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001528"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Abbey St Bathans Woodlands",
+	"snhArea": "National Operations South"
+}

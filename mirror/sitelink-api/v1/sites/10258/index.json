@@ -1,0 +1,69 @@
+{
+	"url": "/sitelink-api/v1/sites/10258",
+	"id": 10258,
+	"area": 96575,
+	"casework": [
+		{
+			"code": "CEA166447",
+			"receivedDate": "2022-03-25",
+			"response": "Advice only",
+			"type": "SEA"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2017-09-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Conservation Objectives",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10258/documents/29"
+		},
+		{
+			"type": "SAC Map",
+			"size": 322,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10258/documents/46"
+		},
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 12,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10258/documents/22"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=10258"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://jncc.defra.gov.uk/page-6540"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030385.pdf"
+		}
+	],
+	"euCode": "UK0030385",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Offshore Reefs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		}
+	],
+	"localAuthority": "UK Offshore waters (Scotland)",
+	"name": "Pobie Bank Reef",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "JNCC"
+}

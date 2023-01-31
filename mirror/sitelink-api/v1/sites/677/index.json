@@ -1,0 +1,150 @@
+{
+	"url": "/sitelink-api/v1/sites/677",
+	"id": 677,
+	"agreements": [
+		{
+			"area": 35.56,
+			"code": 8485,
+			"expiryDate": "2023-02-04",
+			"property": "Gartfarran Woods",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 36.56,
+	"casework": [
+		{
+			"code": "11529",
+			"receivedDate": "2003-04-25",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "19260",
+			"receivedDate": "2004-06-01",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "41064",
+			"receivedDate": "2007-03-27",
+			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "43490",
+			"receivedDate": "2007-08-31",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "46897",
+			"receivedDate": "2008-02-27",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Waste Tips / Landfill"
+		},
+		{
+			"code": "50535",
+			"receivedDate": "2008-08-04",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "CPP169026",
+			"receivedDate": "2022-10-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS149622",
+			"receivedDate": "2018-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN125367",
+			"receivedDate": "2013-08-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS156098",
+			"receivedDate": "2019-07-01",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-05-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/677/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/677/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1330,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/677/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 74,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/677/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=677"
+		}
+	],
+	"euCode": "135170",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-12",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Thistles"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111717"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-10",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105782"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Gartfarran Woods",
+	"snhArea": "National Operations South"
+}

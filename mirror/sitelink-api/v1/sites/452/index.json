@@ -1,0 +1,228 @@
+{
+	"url": "/sitelink-api/v1/sites/452",
+	"id": 452,
+	"area": 193.3,
+	"casework": [
+		{
+			"code": "14896",
+			"receivedDate": "2003-11-06",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "47493",
+			"receivedDate": "2008-04-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "47387",
+			"receivedDate": "2008-04-11",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "44655",
+			"receivedDate": "2007-11-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "53571",
+			"receivedDate": "2009-03-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "53890",
+			"receivedDate": "2009-03-05",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "54122",
+			"receivedDate": "2009-04-15",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65598",
+			"receivedDate": "2010-11-09",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "CGS113500",
+			"receivedDate": "2012-04-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC121994",
+			"receivedDate": "2013-03-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA151524",
+			"receivedDate": "2018-07-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC165381",
+			"receivedDate": "2021-12-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM160347",
+			"receivedDate": "2020-08-31",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165862",
+			"receivedDate": "2022-02-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC153739",
+			"receivedDate": "2018-12-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM161641",
+			"receivedDate": "2021-01-06",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145817",
+			"receivedDate": "2017-05-11",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142652",
+			"receivedDate": "2016-08-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC143514",
+			"receivedDate": "2016-11-01",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-06-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 60,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/452/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 831,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/452/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/452/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/452/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=452"
+		}
+	],
+	"euCode": "135901",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-05",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107790"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Juniper scrub",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Plant pests and diseases"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107788"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-08-13",
+			"name": "Native pinewood",
+			"pressures": [
+				{
+					"keywords": [
+						"Dothistroma septosporum on conifers (B1093550)"
+					],
+					"name": "Plant pests and diseases"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101491"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Rocky slopes (includes inland cliff, rocky outcrops, chasmophytic vegetation)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107789"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Upland birch woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107787"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Crathie Wood",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,93 @@
+{
+	"url": "/sitelink-api/v1/sites/1552",
+	"id": 1552,
+	"area": 14.59,
+	"casework": [
+		{
+			"code": "ALC149043",
+			"receivedDate": "2018-01-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM115868",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA165370",
+			"receivedDate": "2021-12-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164689",
+			"receivedDate": "2021-10-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-03-20",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 122,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1552/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 601,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1552/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1552/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1552/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1552"
+		}
+	],
+	"euCode": "135107",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-15",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Water quality"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106434"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Torrs Moss",
+	"snhArea": "National Operations South"
+}

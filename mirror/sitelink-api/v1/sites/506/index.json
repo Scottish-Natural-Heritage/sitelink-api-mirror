@@ -1,0 +1,169 @@
+{
+	"url": "/sitelink-api/v1/sites/506",
+	"id": 506,
+	"area": 29.24,
+	"casework": [
+		{
+			"code": "32994",
+			"receivedDate": "2006-04-18",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "41020",
+			"receivedDate": "2007-05-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "43261",
+			"receivedDate": "2007-08-02",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC115840",
+			"receivedDate": "2012-06-22",
+			"response": "Insufficient information",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CDM115364",
+			"receivedDate": "2012-06-27",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC116182",
+			"receivedDate": "2012-07-27",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC117826",
+			"receivedDate": "2012-09-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN117559",
+			"receivedDate": "2012-09-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM118456",
+			"receivedDate": "2012-10-24",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM123605",
+			"receivedDate": "2013-05-27",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN121304",
+			"receivedDate": "2013-02-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM166114",
+			"receivedDate": "2022-02-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP161995",
+			"receivedDate": "2021-02-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC155974",
+			"receivedDate": "2019-06-24",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 663,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/506/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 89,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/506/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/506/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/506/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=506"
+		}
+	],
+	"euCode": "135239",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-08-03",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000688"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-07-23",
+			"name": "Whorled Solomon's-seal (Polygonatum verticillatum)",
+			"pressures": [
+				{
+					"name": "Natural event"
+				},
+				{
+					"name": "Statutory undertaker"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102811"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Den of Riechip",
+	"snhArea": "Tayside and Grampian"
+}

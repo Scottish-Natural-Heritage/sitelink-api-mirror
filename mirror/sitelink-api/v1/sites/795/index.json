@@ -1,0 +1,97 @@
+{
+	"url": "/sitelink-api/v1/sites/795",
+	"id": 795,
+	"area": 6.13,
+	"casework": [
+		{
+			"code": "21476",
+			"receivedDate": "2004-11-09",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "56197",
+			"receivedDate": "2009-07-16",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "54431",
+			"receivedDate": "2009-03-25",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "70107",
+			"receivedDate": "2011-07-12",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "71073",
+			"receivedDate": "2011-07-11",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Consultation from a public body (s.12)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-09-04",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/795/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/795/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 178,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/795/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1012,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/795/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=795"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1377"
+		}
+	],
+	"euCode": "135699",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-01-13",
+			"name": "Carboniferous - Permian Igneous",
+			"pressures": [
+				{
+					"keywords": [
+						"Walking"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105854"
+		}
+	],
+	"localAuthority": "East Ayrshire",
+	"name": "Howford Bridge",
+	"snhArea": "National Operations West Central"
+}

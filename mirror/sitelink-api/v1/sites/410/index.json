@@ -1,0 +1,72 @@
+{
+	"url": "/sitelink-api/v1/sites/410",
+	"id": 410,
+	"area": 12.64,
+	"casework": [
+		{
+			"code": "ALC139637",
+			"receivedDate": "2016-01-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN131640",
+			"receivedDate": "2014-06-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-06-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/410/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 41,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/410/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/410/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 650,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/410/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=410"
+		}
+	],
+	"euCode": "135679",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2000-11-07",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004874"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Cotland Plantation",
+	"snhArea": "National Operations South"
+}

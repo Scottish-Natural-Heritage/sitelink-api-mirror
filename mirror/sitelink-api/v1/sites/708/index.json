@@ -1,0 +1,179 @@
+{
+	"url": "/sitelink-api/v1/sites/708",
+	"id": 708,
+	"area": 96.15,
+	"casework": [
+		{
+			"code": "11339",
+			"receivedDate": "2003-05-23",
+			"response": "B. Support",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "11340",
+			"receivedDate": "2003-05-23",
+			"response": "B. Support",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "47911",
+			"receivedDate": "2008-05-09",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "57250",
+			"receivedDate": "2008-10-01",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "62973",
+			"receivedDate": "2010-05-14",
+			"response": "NCA - Issued application for consent form",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "71206",
+			"receivedDate": "2011-09-08",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CGS133510",
+			"receivedDate": "2014-09-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP128700",
+			"receivedDate": "2014-01-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS151777",
+			"receivedDate": "2018-08-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM163507",
+			"receivedDate": "2021-06-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC163945",
+			"receivedDate": "2021-07-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162577",
+			"receivedDate": "2021-03-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162579",
+			"receivedDate": "2021-03-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/708/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1375,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/708/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/708/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 143,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/708/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=708"
+		}
+	],
+	"euCode": "135381",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-02",
+			"name": "Lowland calcareous grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002508"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-06-02",
+			"name": "Lowland dry heath",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105800"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2004-09-02",
+			"name": "Springs (including flushes)",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003894"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-09",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111031"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Glen Fender Meadows",
+	"snhArea": "Tayside and Grampian"
+}

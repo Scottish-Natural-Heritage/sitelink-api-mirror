@@ -1,0 +1,271 @@
+{
+	"url": "/sitelink-api/v1/sites/397",
+	"id": 397,
+	"agreements": [
+		{
+			"area": 25.05,
+			"code": 8708,
+			"expiryDate": "2027-07-31",
+			"property": "Conic Hill - Old Manse Farm",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 60.66,
+	"casework": [
+		{
+			"code": "15784",
+			"receivedDate": "2004-01-21",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "60413",
+			"receivedDate": "2010-02-22",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "60572",
+			"receivedDate": "2010-02-25",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "70394",
+			"receivedDate": "2011-02-04",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CLC116276",
+			"receivedDate": "2012-07-31",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "CEA169017",
+			"receivedDate": "2022-10-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM169064",
+			"receivedDate": "2021-11-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC117723",
+			"receivedDate": "2012-09-17",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC121454",
+			"receivedDate": "2013-02-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC124770",
+			"receivedDate": "2013-07-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC145602",
+			"receivedDate": "2017-04-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC123669",
+			"receivedDate": "2013-05-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA158182",
+			"receivedDate": "2020-01-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC143069",
+			"receivedDate": "2016-09-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM145820",
+			"receivedDate": "2017-05-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/397/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/397/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 91,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/397/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 581,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/397/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=397"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2564"
+		}
+	],
+	"euCode": "135191",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-01",
+			"name": "Alkaline fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Gorse"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105577"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-09-18",
+			"name": "Beetle assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100118"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-26",
+			"name": "Moth assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105578"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-03-11",
+			"name": "Ordovician Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100119"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-07-27",
+			"name": "Subalpine calcareous grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Gorse"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Dog walking",
+						"Walking"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112055"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-06-27",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004980"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-10-06",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle",
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Walking"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107699"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Conic Hill",
+	"snhArea": "National Operations South"
+}

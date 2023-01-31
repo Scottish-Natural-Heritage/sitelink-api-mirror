@@ -1,0 +1,181 @@
+{
+	"url": "/sitelink-api/v1/sites/46",
+	"id": 46,
+	"area": 57.65,
+	"casework": [
+		{
+			"code": "53011",
+			"receivedDate": "2009-02-09",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "53012",
+			"receivedDate": "2009-02-09",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "52313",
+			"receivedDate": "2008-12-24",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "55525",
+			"receivedDate": "2009-06-25",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "58754",
+			"receivedDate": "2009-12-08",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "58756",
+			"receivedDate": "2009-12-08",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "CEA157973",
+			"receivedDate": "2020-01-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM168182",
+			"receivedDate": "2022-08-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP168832",
+			"receivedDate": "2022-10-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA114041",
+			"receivedDate": "2012-05-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP145522",
+			"receivedDate": "2017-04-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS150315",
+			"receivedDate": "2018-04-20",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPP166753",
+			"receivedDate": "2022-04-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA136791",
+			"receivedDate": "2015-05-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS128911",
+			"receivedDate": "2014-01-31",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM131996",
+			"receivedDate": "2014-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC132554",
+			"receivedDate": "2014-08-11",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CGS127273",
+			"receivedDate": "2013-10-31",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-12-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2455,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/46/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/46/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 144,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/46/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/46/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=46"
+		}
+	],
+	"euCode": "135957",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2006-07-26",
+			"name": "Subalpine dry heath",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100733"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-02-21",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100734"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Allt nan Caorach",
+	"snhArea": "National Operations Central Highland"
+}

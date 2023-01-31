@@ -1,0 +1,42 @@
+{
+	"url": "/sitelink-api/v1/sites/8699",
+	"id": 8699,
+	"area": 405,
+	"casework": [
+		{
+			"code": "49981",
+			"receivedDate": "2008-08-15",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "48022",
+			"receivedDate": "2008-05-19",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "48315",
+			"receivedDate": "2008-04-30",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		}
+	],
+	"designation": {
+		"code": "CP",
+		"date": "1986-05-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/local-designations/country-parks",
+		"status": "Current",
+		"type": "Country Park"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "Country Park Site Details",
+			"url": "https://www.north-ayrshire.gov.uk/leisure-parks-and-events/eglinton/eglinton-home.aspx"
+		}
+	],
+	"localAuthority": "North Ayrshire",
+	"name": "Eglinton",
+	"snhArea": "National Operations West Central"
+}

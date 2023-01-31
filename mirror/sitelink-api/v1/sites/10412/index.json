@@ -1,0 +1,94 @@
+{
+	"url": "/sitelink-api/v1/sites/10412",
+	"id": 10412,
+	"area": 3300,
+	"casework": [
+		{
+			"code": "CDM155832",
+			"receivedDate": "2019-06-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158973",
+			"receivedDate": "2020-04-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC166581",
+			"receivedDate": "2022-04-05",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CDM165590",
+			"receivedDate": "2022-01-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 1826,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10412/documents/49"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 1082,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10412/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 1094,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10412/documents/48"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 3213,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10412/documents/50"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "NatureScot Web Site",
+			"url": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas/nature-conservation-14"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00456831.pdf"
+		}
+	],
+	"euCode": "555560472",
+	"features": [
+		{
+			"category": "Birds - aggregations of breeding birds",
+			"name": "Black guillemot (Cepphus grylle)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Geomorphology",
+			"name": "Marine Geomorphology of the Scottish Shelf Seabed",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Papa Westray",
+	"secondaryLocalAuthorities": [
+		"Orkney Islands"
+	],
+	"snhArea": "National Operations North"
+}

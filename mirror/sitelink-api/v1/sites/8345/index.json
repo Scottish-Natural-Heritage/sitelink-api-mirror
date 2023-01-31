@@ -1,0 +1,124 @@
+{
+	"url": "/sitelink-api/v1/sites/8345",
+	"id": 8345,
+	"area": 2072.9,
+	"casework": [
+		{
+			"code": "20296",
+			"receivedDate": "2004-04-21",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Coastal Protection Act"
+		},
+		{
+			"code": "38295",
+			"receivedDate": "2006-11-30",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "58377",
+			"receivedDate": "2009-10-26",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "CLC150696",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "GEN127003",
+			"receivedDate": "2013-10-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC143275",
+			"receivedDate": "2016-10-12",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA142358",
+			"receivedDate": "2016-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 34,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8345/documents/22"
+		},
+		{
+			"type": "Conservation and Management Advice",
+			"size": 1114,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8345/documents/59"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1246,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8345/documents/46"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8345"
+		},
+		{
+			"type": "Marine SAC Management",
+			"url": "https://www.nafc.uhi.ac.uk/t4-media/one-web/nafc/research/document/marine-spatial-planning/sirmp/Shetland-Islands-DRAFT-Regional-Marine-Plan-2019.pdf"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0017069"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0017069.pdf"
+		}
+	],
+	"euCode": "UK0017069",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-15",
+			"name": "Reefs",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003858"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-07",
+			"name": "Sea caves",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003857"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Papa Stour",
+	"secondaryLocalAuthorities": [
+		"Shetland Islands"
+	],
+	"snhArea": "National Operations North"
+}

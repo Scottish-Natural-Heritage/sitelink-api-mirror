@@ -1,0 +1,73 @@
+{
+	"url": "/sitelink-api/v1/sites/744",
+	"id": 744,
+	"area": 9.06,
+	"casework": [
+		{
+			"code": "CEA128233",
+			"receivedDate": "2013-12-18",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-09-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 40,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/744/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 49,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/744/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 115,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/744/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 606,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/744/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=744"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=400"
+		}
+	],
+	"euCode": "135596",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-02-17",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"keywords": [
+						"Landslide"
+					],
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105824"
+		}
+	],
+	"localAuthority": "East Ayrshire",
+	"name": "Greenock Mains",
+	"snhArea": "National Operations West Central"
+}

@@ -1,0 +1,151 @@
+{
+	"url": "/sitelink-api/v1/sites/484",
+	"id": 484,
+	"area": 2.14,
+	"casework": [
+		{
+			"code": "15443",
+			"receivedDate": "2003-12-31",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "16543",
+			"receivedDate": "2004-03-04",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "19219",
+			"receivedDate": "2004-07-22",
+			"response": "B. Support",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "19435",
+			"receivedDate": "2004-07-14",
+			"response": "Information/Advice only",
+			"type": "Local Plan"
+		},
+		{
+			"code": "19179",
+			"receivedDate": "2004-07-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "23468",
+			"receivedDate": "2005-02-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "30512",
+			"receivedDate": "2006-01-30",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "29798",
+			"receivedDate": "2005-12-22",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "59623",
+			"receivedDate": "2010-02-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "65406",
+			"receivedDate": "2010-10-29",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC163313",
+			"receivedDate": "2021-06-02",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN153976",
+			"receivedDate": "2019-01-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-07-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 532,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/484/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/484/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/484/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 104,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/484/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=484"
+		}
+	],
+	"euCode": "135367",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-23",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101102"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-15",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105640"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Dalbeath Marsh",
+	"snhArea": "National Operations South"
+}

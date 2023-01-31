@@ -1,0 +1,155 @@
+{
+	"url": "/sitelink-api/v1/sites/1078",
+	"id": 1078,
+	"area": 41.53,
+	"casework": [
+		{
+			"code": "21057",
+			"receivedDate": "2004-10-13",
+			"response": "B. Support",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "30797",
+			"receivedDate": "2006-02-13",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "37100",
+			"receivedDate": "2006-11-21",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "40581",
+			"receivedDate": "2007-04-02",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "54889",
+			"receivedDate": "2009-05-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CGS157459",
+			"receivedDate": "2019-11-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC149589",
+			"receivedDate": "2018-02-26",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC146645",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC166257",
+			"receivedDate": "2022-02-09",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC154340",
+			"receivedDate": "2019-02-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC162116",
+			"receivedDate": "2021-02-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC155810",
+			"receivedDate": "2019-06-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC158035",
+			"receivedDate": "2020-01-20",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-10-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 104,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1078/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1078/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1078/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 665,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1078/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1078"
+		}
+	],
+	"euCode": "135413",
+	"features": [
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-14",
+			"name": "Lowland dry heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107705"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-08-20",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"keywords": [
+						"Glyceria maxima"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Canadian Pondweed"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106051"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Lochmill Loch",
+	"snhArea": "National Operations South"
+}

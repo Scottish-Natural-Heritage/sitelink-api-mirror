@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/504",
+	"id": 504,
+	"area": 5.86,
+	"casework": [
+		{
+			"code": "17252",
+			"receivedDate": "2004-04-13",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "32407",
+			"receivedDate": "2006-04-13",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "CGS166214",
+			"receivedDate": "2022-03-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-12",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 78,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/504/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/504/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/504/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 837,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/504/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=504"
+		}
+	],
+	"euCode": "135268",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-09-13",
+			"name": "Scrub",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102810"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-10-11",
+			"name": "Valley fen",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Forestry operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003948"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Den of Ogil",
+	"snhArea": "Tayside and Grampian"
+}

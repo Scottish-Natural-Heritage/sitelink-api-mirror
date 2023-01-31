@@ -1,0 +1,140 @@
+{
+	"url": "/sitelink-api/v1/sites/1277",
+	"id": 1277,
+	"area": 11.95,
+	"casework": [
+		{
+			"code": "10438",
+			"receivedDate": "2002-08-30",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "13903",
+			"receivedDate": "2003-09-19",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "24621",
+			"receivedDate": "2005-04-18",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "24552",
+			"receivedDate": "2005-04-13",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "25859",
+			"receivedDate": "2005-05-31",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "25346",
+			"receivedDate": "2005-04-29",
+			"response": "NCA - Issued application for consent form",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "46177",
+			"receivedDate": "2007-12-13",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "65027",
+			"receivedDate": "2010-10-06",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "72199",
+			"receivedDate": "2011-11-11",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CDM133792",
+			"receivedDate": "2014-10-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP162669",
+			"receivedDate": "2021-04-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP160255",
+			"receivedDate": "2020-08-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-01-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1277/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1053,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1277/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 161,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1277/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1277/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1277"
+		}
+	],
+	"euCode": "135181",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-10-25",
+			"name": "Bryophyte assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101339"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-09-27",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001873"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Pease Bridge Glen",
+	"snhArea": "National Operations South"
+}

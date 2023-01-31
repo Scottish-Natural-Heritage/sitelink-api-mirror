@@ -1,0 +1,85 @@
+{
+	"url": "/sitelink-api/v1/sites/287",
+	"id": 287,
+	"area": 52.86,
+	"casework": [
+		{
+			"code": "17285",
+			"receivedDate": "2004-04-15",
+			"response": "Information/Advice only",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "19895",
+			"receivedDate": "2004-08-19",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1671,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/287/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/287/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/287/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 68,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/287/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=287"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2488"
+		}
+	],
+	"euCode": "135851",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-06-26",
+			"name": "Dalradian",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Flood defence/coastal defence works"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101469"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Cairnbulg to St Combs Coast",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,251 @@
+{
+	"url": "/sitelink-api/v1/sites/776",
+	"id": 776,
+	"agreements": [
+		{
+			"area": 420.9,
+			"code": 7,
+			"expiryDate": "2054-09-21",
+			"property": "Hermaness",
+			"term": 99,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 530.96,
+			"code": 4208,
+			"expiryDate": "2054-09-22",
+			"property": "Hermaness",
+			"term": 96,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 0.4,
+			"code": 841491,
+			"expiryDate": "2025-12-31",
+			"property": "Hermaness Car Park and Hub",
+			"term": 5,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 12.6,
+			"code": 435,
+			"expiryDate": "2054-09-01",
+			"property": "Muckle & Little Flugga, Cliff, Vesta & Tipta Skerry, Rumblings & Out Stack",
+			"term": 99,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 978.3,
+	"casework": [
+		{
+			"code": "19354",
+			"receivedDate": "2004-06-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "40226",
+			"receivedDate": "2007-04-10",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "58993",
+			"receivedDate": "2009-12-18",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Marine"
+		},
+		{
+			"code": "CDM120491",
+			"receivedDate": "2013-01-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122357",
+			"receivedDate": "2013-03-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA158729",
+			"receivedDate": "2020-03-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM164321",
+			"receivedDate": "2021-09-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163794",
+			"receivedDate": "2021-07-14",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA139731",
+			"receivedDate": "2016-01-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC131900",
+			"receivedDate": "2014-07-07",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM155541",
+			"receivedDate": "2019-05-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155065",
+			"receivedDate": "2019-04-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156964",
+			"receivedDate": "2019-09-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-10-02",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/776/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2497,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/776/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 150,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/776/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/776/documents/28"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=776"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=693"
+		}
+	],
+	"euCode": "135895",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-06-25",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107806"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-07-24",
+			"name": "Gannet (Morus bassanus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108567"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-25",
+			"name": "Great skua (Stercorarius skua), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108568"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-15",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108569"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-18",
+			"name": "Mineralogy of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105845"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-28",
+			"name": "Puffin (Fratercula arctica), breeding",
+			"pressures": [
+				{
+					"name": "Inter-specific competition"
+				},
+				{
+					"keywords": [
+						"Feral cats"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108570"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-05-24",
+			"name": "Seabird colony, breeding",
+			"pressures": [
+				{
+					"name": "Inter-specific competition"
+				},
+				{
+					"keywords": [
+						"Feral cats"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110473"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Hermaness",
+	"snhArea": "National Operations North"
+}

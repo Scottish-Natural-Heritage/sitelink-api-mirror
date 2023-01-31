@@ -1,0 +1,76 @@
+{
+	"url": "/sitelink-api/v1/sites/1323",
+	"id": 1323,
+	"area": 0.04,
+	"casework": [
+		{
+			"code": "CLC147051",
+			"receivedDate": "2017-08-07",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA158633",
+			"receivedDate": "2020-03-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-09-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 509,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1323/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 45,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1323/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 42,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1323/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 136,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1323/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1323"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1992"
+		}
+	],
+	"euCode": "135001",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-10-27",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003840"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Quoys of Garth",
+	"snhArea": "National Operations North"
+}

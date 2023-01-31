@@ -1,0 +1,107 @@
+{
+	"url": "/sitelink-api/v1/sites/1306",
+	"id": 1306,
+	"area": 4.69,
+	"casework": [
+		{
+			"code": "16423",
+			"receivedDate": "2004-02-23",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "15876",
+			"receivedDate": "2003-10-22",
+			"response": "1. No Comment",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "20766",
+			"receivedDate": "2004-09-27",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "17989",
+			"receivedDate": "2004-05-17",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "24427",
+			"receivedDate": "2005-04-07",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "31014",
+			"receivedDate": "2006-03-06",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "50572",
+			"receivedDate": "2008-09-03",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "CDM163270",
+			"receivedDate": "2021-05-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-01-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1306/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1306/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1306/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 635,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1306/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1306"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1232"
+		}
+	],
+	"euCode": "135015",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-08-18",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000064"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Port of Ness",
+	"snhArea": "National Operations West"
+}

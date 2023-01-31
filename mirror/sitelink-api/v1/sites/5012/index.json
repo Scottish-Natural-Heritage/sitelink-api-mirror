@@ -1,0 +1,162 @@
+{
+	"url": "/sitelink-api/v1/sites/5012",
+	"id": 5012,
+	"agreements": [
+		{
+			"area": 575,
+			"code": 3854,
+			"expiryDate": "2030-04-30",
+			"property": "Caerlaverock Estate - Caerlaverock NNR",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 0,
+			"code": 8439,
+			"property": "Caerlaverock National Nature Reserve Byelaws 2006",
+			"term": 0,
+			"type": "Nature Reserve Byelaws"
+		},
+		{
+			"area": 5155.76,
+			"code": 1251,
+			"expiryDate": "2024-08-31",
+			"property": "Crown Estate Scotland - Caerlaverock NNR",
+			"term": 28,
+			"type": "Land Lease"
+		},
+		{
+			"area": 0.01,
+			"code": 3232,
+			"expiryDate": "2022-09-05",
+			"property": "Glenhowan Store",
+			"term": 6,
+			"type": "Building Lease"
+		},
+		{
+			"area": 88113,
+			"code": 5749,
+			"property": "Inshore Fishing (Prohibition of Fishing for Cockles) (Solway Firth) (Scotland) Order 2011",
+			"term": 0,
+			"type": "Fishing Order"
+		},
+		{
+			"area": 2530.05,
+			"code": 841270,
+			"expiryDate": "2029-08-31",
+			"property": "Mansfield Estates - Caerlaverock NNR",
+			"term": 10,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 4.11,
+			"code": 8692,
+			"expiryDate": "2029-08-31",
+			"property": "Moss-side - Caerlaverock NNR",
+			"term": 10,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 8184.78,
+	"casework": [
+		{
+			"code": "10102",
+			"receivedDate": "2003-03-12",
+			"response": "Information/Advice only",
+			"type": "Windfarm Consultations"
+		},
+		{
+			"code": "19392",
+			"receivedDate": "2004-07-20",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "GEN135438",
+			"receivedDate": "2015-02-18",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "COR120600",
+			"receivedDate": "2013-01-24",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR151858",
+			"receivedDate": "2018-08-09",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR151985",
+			"receivedDate": "2018-08-20",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR151828",
+			"receivedDate": "2018-08-08",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR151913",
+			"receivedDate": "2018-08-13",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR151916",
+			"receivedDate": "2018-08-13",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR133968",
+			"receivedDate": "2014-11-04",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR142288",
+			"receivedDate": "2016-07-27",
+			"response": "Resolved",
+			"type": "Complaints"
+		}
+	],
+	"designation": {
+		"code": "NNR",
+		"date": "2007-10-08",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/national-nature-reserves",
+		"status": "Current",
+		"type": "National Nature Reserve"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "NNR Byelaws",
+			"size": 150,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/5012/documents/57"
+		},
+		{
+			"type": "NNR Byelaws map",
+			"size": 1466,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/5012/documents/58"
+		},
+		{
+			"type": "Fishing Order",
+			"size": 637,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/5012/documents/47"
+		},
+		{
+			"type": "NNR Web Site",
+			"url": "https://www.nature.scot/enjoying-outdoors/places-visit/nnrs/Caerlaverock-national-nature-reserve"
+		}
+	],
+	"euCode": "1452",
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Caerlaverock",
+	"snhArea": "National Operations South"
+}

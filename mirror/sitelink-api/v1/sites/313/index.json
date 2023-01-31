@@ -1,0 +1,115 @@
+{
+	"url": "/sitelink-api/v1/sites/313",
+	"id": 313,
+	"agreements": [
+		{
+			"area": 10.6,
+			"code": 645,
+			"expiryDate": "2088-09-10",
+			"property": "Carbeth",
+			"term": 99,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 9.94,
+	"casework": [
+		{
+			"code": "29028",
+			"receivedDate": "2005-11-14",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "ALC169051",
+			"receivedDate": "2022-11-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC123457",
+			"receivedDate": "2013-05-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM138115",
+			"receivedDate": "2015-08-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-01-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 86,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/313/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/313/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/313/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 753,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/313/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=313"
+		}
+	],
+	"euCode": "135450",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-06-30",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"keywords": [
+						"Canadian Pondweed"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100094"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-07-31",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Alder",
+						"Birch",
+						"Willow"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105525"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Carbeth Loch",
+	"snhArea": "National Operations South"
+}

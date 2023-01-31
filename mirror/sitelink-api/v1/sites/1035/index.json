@@ -1,0 +1,104 @@
+{
+	"url": "/sitelink-api/v1/sites/1035",
+	"id": 1035,
+	"area": 20.73,
+	"casework": [
+		{
+			"code": "37046",
+			"receivedDate": "2006-11-20",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "41356",
+			"receivedDate": "2007-04-18",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "45602",
+			"receivedDate": "2007-08-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "47939",
+			"receivedDate": "2008-05-13",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CLC145837",
+			"receivedDate": "2017-05-10",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM129647",
+			"receivedDate": "2014-03-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 95,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1035/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1035/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1035/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 553,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1035/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1035"
+		}
+	],
+	"euCode": "135861",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-02-23",
+			"name": "Basin fen - Schwingmoor type",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004651"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-09-21",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104942"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Loch of Lumgair",
+	"snhArea": "Tayside and Grampian"
+}

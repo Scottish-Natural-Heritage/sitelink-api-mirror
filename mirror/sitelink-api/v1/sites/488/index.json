@@ -1,0 +1,144 @@
+{
+	"url": "/sitelink-api/v1/sites/488",
+	"id": 488,
+	"area": 27.41,
+	"casework": [
+		{
+			"code": "40171",
+			"receivedDate": "2007-04-13",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65731",
+			"receivedDate": "2010-11-17",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "GEN119017",
+			"receivedDate": "2012-11-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP150130",
+			"receivedDate": "2018-04-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA165679",
+			"receivedDate": "2022-01-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC159908",
+			"receivedDate": "2020-07-16",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC166928",
+			"receivedDate": "2022-04-26",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC133115",
+			"receivedDate": "2014-09-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA155379",
+			"receivedDate": "2019-05-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM154300",
+			"receivedDate": "2019-02-13",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "ALC144007",
+			"receivedDate": "2016-12-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA143822",
+			"receivedDate": "2016-11-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC143344",
+			"receivedDate": "2016-10-19",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/488/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/488/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 122,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/488/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 548,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/488/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=488"
+		}
+	],
+	"euCode": "135660",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-10-05",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102550"
+		}
+	],
+	"localAuthority": "East Ayrshire",
+	"name": "Dalmellington Moss",
+	"snhArea": "National Operations West Central"
+}

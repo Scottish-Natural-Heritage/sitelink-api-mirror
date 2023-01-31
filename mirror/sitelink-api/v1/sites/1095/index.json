@@ -1,0 +1,93 @@
+{
+	"url": "/sitelink-api/v1/sites/1095",
+	"id": 1095,
+	"area": 31,
+	"casework": [
+		{
+			"code": "55951",
+			"receivedDate": "2009-07-10",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "54639",
+			"receivedDate": "2009-04-24",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CGS158343",
+			"receivedDate": "2020-02-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC159573",
+			"receivedDate": "2020-06-16",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1095/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 122,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1095/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1095/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 588,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1095/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1095"
+		}
+	],
+	"euCode": "135332",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2005-06-23",
+			"name": "Lowland acid grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101306"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-12",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004660"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Long Moss - Drinkstone Hill",
+	"snhArea": "National Operations South"
+}

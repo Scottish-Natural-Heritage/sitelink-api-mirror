@@ -1,0 +1,131 @@
+{
+	"url": "/sitelink-api/v1/sites/687",
+	"id": 687,
+	"area": 51.8,
+	"casework": [
+		{
+			"code": "21549",
+			"receivedDate": "2004-11-12",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "29308",
+			"receivedDate": "2005-11-25",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "52238",
+			"receivedDate": "2008-12-18",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "58114",
+			"receivedDate": "2009-11-02",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "GEN129887",
+			"receivedDate": "2014-03-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA113828",
+			"receivedDate": "2012-05-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM115198",
+			"receivedDate": "2012-06-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC167656",
+			"receivedDate": "2022-07-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN168708",
+			"receivedDate": "2022-10-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP158312",
+			"receivedDate": "2020-02-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-04-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1633,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/687/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/687/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/687/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 54,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/687/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=687"
+		}
+	],
+	"euCode": "135766",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-05-01",
+			"name": "Upland mixed ash woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107784"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "1999-03-19",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002501"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Gight Woods",
+	"snhArea": "Tayside and Grampian"
+}

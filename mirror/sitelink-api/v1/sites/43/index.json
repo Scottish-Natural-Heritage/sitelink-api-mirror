@@ -1,0 +1,95 @@
+{
+	"url": "/sitelink-api/v1/sites/43",
+	"id": 43,
+	"area": 279.82,
+	"casework": [
+		{
+			"code": "CPP129354",
+			"receivedDate": "2014-02-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP129467",
+			"receivedDate": "2014-02-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM163935",
+			"receivedDate": "2021-07-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN154136",
+			"receivedDate": "2019-02-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC161932",
+			"receivedDate": "2021-01-29",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP162139",
+			"receivedDate": "2021-02-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-02-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/43/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 101,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/43/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 642,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/43/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/43/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=43"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=25"
+		}
+	],
+	"euCode": "135022",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-12-18",
+			"name": "Tertiary Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105328"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Allt Molach",
+	"snhArea": "National Operations West"
+}

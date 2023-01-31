@@ -1,0 +1,166 @@
+{
+	"url": "/sitelink-api/v1/sites/8219",
+	"id": 8219,
+	"area": 1009.75,
+	"casework": [
+		{
+			"code": "54313",
+			"receivedDate": "2009-04-22",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "54773",
+			"receivedDate": "2009-05-12",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "63896",
+			"receivedDate": "2010-08-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "67043",
+			"receivedDate": "2011-02-11",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "65679",
+			"receivedDate": "2010-11-16",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "70249",
+			"receivedDate": "2011-07-11",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "GEN114417",
+			"receivedDate": "2012-03-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN123243",
+			"receivedDate": "2013-05-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN117730",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN123862",
+			"receivedDate": "2013-06-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN123380",
+			"receivedDate": "2013-05-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA153005",
+			"receivedDate": "2018-10-24",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA158166",
+			"receivedDate": "2020-01-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CDM155525",
+			"receivedDate": "2019-05-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC154143",
+			"receivedDate": "2019-02-04",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM155001",
+			"receivedDate": "2019-04-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142341",
+			"receivedDate": "2016-07-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8219/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 370,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8219/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1709,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8219/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8219"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030108"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030108.pdf"
+		}
+	],
+	"euCode": "UK0030108",
+	"features": [
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-07-30",
+			"name": "Vegetated sea cliffs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109702"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Cape Wrath",
+	"snhArea": "National Operations North"
+}

@@ -1,0 +1,79 @@
+{
+	"url": "/sitelink-api/v1/sites/507",
+	"id": 507,
+	"area": 0.37,
+	"casework": [
+		{
+			"code": "CPP135039",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPP146641",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-11-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/507/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/507/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 89,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/507/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 610,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/507/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=507"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2742"
+		}
+	],
+	"euCode": "135089",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-05-02",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105655"
+		}
+	],
+	"localAuthority": "Orkney Islands",
+	"name": "Den Wick",
+	"snhArea": "National Operations North"
+}

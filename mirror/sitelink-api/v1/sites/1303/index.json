@@ -1,0 +1,62 @@
+{
+	"url": "/sitelink-api/v1/sites/1303",
+	"id": 1303,
+	"area": 4.21,
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-08-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 567,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1303/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 138,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1303/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1303/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1303/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1303"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=923"
+		}
+	],
+	"euCode": "135651",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-29",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106242"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Port Logan",
+	"snhArea": "National Operations South"
+}

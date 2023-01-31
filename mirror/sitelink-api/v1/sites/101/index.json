@@ -1,0 +1,62 @@
+{
+	"url": "/sitelink-api/v1/sites/101",
+	"id": 101,
+	"area": 0.49,
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-13",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/101/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 103,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/101/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 611,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/101/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/101/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=101"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=90"
+		}
+	],
+	"euCode": "135751",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2007-09-12",
+			"name": "Palaeozoic Palaeobotany",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103721"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Auchensail Quarry",
+	"snhArea": "National Operations West"
+}

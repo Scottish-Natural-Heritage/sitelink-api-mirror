@@ -1,0 +1,104 @@
+{
+	"url": "/sitelink-api/v1/sites/1431",
+	"id": 1431,
+	"area": 1.92,
+	"casework": [
+		{
+			"code": "61225",
+			"receivedDate": "2010-04-21",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "GEN113052",
+			"receivedDate": "2012-03-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP111060",
+			"receivedDate": "2012-01-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC126140",
+			"receivedDate": "2013-09-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP127835",
+			"receivedDate": "2013-11-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-11-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 557,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1431/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1431/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1431/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 161,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1431/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1431"
+		}
+	],
+	"euCode": "135713",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-09-27",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"keywords": [
+						"Birch",
+						"Scrub",
+						"Willow"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001515"
+		}
+	],
+	"localAuthority": "Renfrewshire",
+	"name": "Shovelboard",
+	"snhArea": "National Operations West Central"
+}

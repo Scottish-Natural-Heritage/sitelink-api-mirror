@@ -1,0 +1,352 @@
+{
+	"url": "/sitelink-api/v1/sites/8216",
+	"id": 8216,
+	"agreements": [
+		{
+			"area": 164,
+			"code": 1,
+			"property": "Glen Doll - Corrie Fee",
+			"term": 0,
+			"type": "Land Acquisition"
+		}
+	],
+	"area": 5200.85,
+	"casework": [
+		{
+			"code": "30974",
+			"receivedDate": "2006-02-21",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "40993",
+			"receivedDate": "2007-05-18",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "47803",
+			"receivedDate": "2008-05-02",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "64579",
+			"receivedDate": "2010-09-21",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "61060",
+			"receivedDate": "2010-04-01",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "61256",
+			"receivedDate": "2010-04-29",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "68908",
+			"receivedDate": "2011-05-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "68762",
+			"receivedDate": "2011-05-12",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPA160438",
+			"receivedDate": "2020-09-03",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "COR125098",
+			"receivedDate": "2013-07-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC123054",
+			"receivedDate": "2013-05-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS149615",
+			"receivedDate": "2018-02-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP165088",
+			"receivedDate": "2021-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS163311",
+			"receivedDate": "2021-06-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC132575",
+			"receivedDate": "2014-07-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC148124",
+			"receivedDate": "2017-10-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 51,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8216/documents/22"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 37,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8216/documents/29"
+		},
+		{
+			"type": "SAC Map",
+			"size": 4459,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8216/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8216"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0012821"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0012821.pdf"
+		}
+	],
+	"euCode": "UK0012821",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-08-30",
+			"name": "Acidic scree",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Mountain hare"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106703"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Alpine and subalpine heaths",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102747"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Base-rich fens",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102751"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Base-rich scree",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102748"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102749"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102754"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Grasslands on soils rich in heavy metals",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102757"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "High-altitude plant communities associated with areas of water seepage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106706"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Montane acid grasslands",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106704"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-08-23",
+			"name": "Mountain willow scrub",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"name": "Plant pests and diseases"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106705"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Plants in crevices on acid rocks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102764"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Plants in crevices on base-rich rocks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106701"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-07-16",
+			"name": "Species-rich grassland with mat-grass in upland areas",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102765"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-18",
+			"name": "Tall herb communities",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106702"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Caenlochan",
+	"secondaryLocalAuthorities": [
+		"Aberdeenshire",
+		"Perth and Kinross"
+	],
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,119 @@
+{
+	"url": "/sitelink-api/v1/sites/657",
+	"id": 657,
+	"area": 6.44,
+	"casework": [
+		{
+			"code": "23553",
+			"receivedDate": "2005-02-21",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "61366",
+			"receivedDate": "2010-05-07",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "61823",
+			"receivedDate": "2010-06-02",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CDM138619",
+			"receivedDate": "2015-10-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 114,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/657/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/657/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 911,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/657/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/657/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=657"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2801"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2756"
+		}
+	],
+	"euCode": "135309",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-02-26",
+			"name": "Arthropoda (excluding insects and trilobites)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105771"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-06-20",
+			"name": "Lowland calcareous grassland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101243"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-08",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105770"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-13",
+			"name": "Permian - Carboniferous Fish/Amphibia",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101245"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Foulden Burn",
+	"snhArea": "National Operations South"
+}

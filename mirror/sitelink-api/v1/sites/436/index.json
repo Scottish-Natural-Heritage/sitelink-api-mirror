@@ -1,0 +1,205 @@
+{
+	"url": "/sitelink-api/v1/sites/436",
+	"id": 436,
+	"area": 77.75,
+	"casework": [
+		{
+			"code": "13222",
+			"receivedDate": "2003-06-25",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "23989",
+			"receivedDate": "2005-03-11",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "72245",
+			"receivedDate": "2011-11-09",
+			"response": "Information/Advice only",
+			"type": "Other invasive species"
+		},
+		{
+			"code": "69645",
+			"receivedDate": "2011-06-21",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "CDM128158",
+			"receivedDate": "2013-12-13",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN130324",
+			"receivedDate": "2014-04-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC119806",
+			"receivedDate": "2012-12-17",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM125080",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC114173",
+			"receivedDate": "2012-05-17",
+			"response": "SSSI Consent Given",
+			"type": "Plant"
+		},
+		{
+			"code": "CLC125142",
+			"receivedDate": "2013-07-25",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CPP165615",
+			"receivedDate": "2022-01-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP160312",
+			"receivedDate": "2020-08-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM164021",
+			"receivedDate": "2021-08-04",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CEA139519",
+			"receivedDate": "2015-12-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA125891",
+			"receivedDate": "2013-08-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM127906",
+			"receivedDate": "2013-12-02",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM126150",
+			"receivedDate": "2013-09-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP125417",
+			"receivedDate": "2013-08-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN128563",
+			"receivedDate": "2014-01-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA161013",
+			"receivedDate": "2020-10-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS144095",
+			"receivedDate": "2016-12-19",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1993-02-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 52,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/436/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 304,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/436/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 57,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/436/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 728,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/436/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=436"
+		}
+	],
+	"euCode": "135093",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-01-21",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100124"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2018-02-04",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105602"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Craighoyle Woodland",
+	"snhArea": "National Operations West"
+}

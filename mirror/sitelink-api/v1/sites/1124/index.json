@@ -1,0 +1,133 @@
+{
+	"url": "/sitelink-api/v1/sites/1124",
+	"id": 1124,
+	"agreements": [
+		{
+			"area": 12924,
+			"code": 2865,
+			"expiryDate": "2054-07-15",
+			"property": "Loch Choire Estate",
+			"term": 50,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 561.78,
+	"casework": [
+		{
+			"code": "58270",
+			"receivedDate": "2009-11-09",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "ALC112015",
+			"receivedDate": "2012-02-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA150380",
+			"receivedDate": "2017-07-20",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CGS144981",
+			"receivedDate": "2017-03-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA158159",
+			"receivedDate": "2020-01-30",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CGS158414",
+			"receivedDate": "2020-02-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP140255",
+			"receivedDate": "2016-02-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS160494",
+			"receivedDate": "2020-09-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS156814",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPP143823",
+			"receivedDate": "2016-11-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1995-07-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1704,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1124/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1124/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 129,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1124/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1124/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1124"
+		}
+	],
+	"euCode": "135134",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-05-05",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111659"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Mallart",
+	"snhArea": "National Operations North"
+}

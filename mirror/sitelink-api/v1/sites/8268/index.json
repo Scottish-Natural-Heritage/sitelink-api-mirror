@@ -1,0 +1,137 @@
+{
+	"url": "/sitelink-api/v1/sites/8268",
+	"id": 8268,
+	"area": 640.91,
+	"casework": [
+		{
+			"code": "22273",
+			"receivedDate": "2004-11-15",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "49092",
+			"receivedDate": "2008-07-10",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "48473",
+			"receivedDate": "2008-04-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC145157",
+			"receivedDate": "2017-03-14",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CPP121131",
+			"receivedDate": "2013-02-14",
+			"response": "Advice only",
+			"type": "Renewable energy strategy"
+		},
+		{
+			"code": "ALC137985",
+			"receivedDate": "2015-08-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP139289",
+			"receivedDate": "2015-11-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 43,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8268/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 406,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8268/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 2292,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8268/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8268"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030159"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030159.pdf"
+		}
+	],
+	"euCode": "UK0030159",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-15",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101559"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-15",
+			"name": "Grasslands on soils rich in heavy metals",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101560"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-02",
+			"name": "Juniper on heaths or calcareous grasslands",
+			"pressures": [
+				{
+					"name": "Natural event"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002270"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Green Hill of Strathdon",
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,106 @@
+{
+	"url": "/sitelink-api/v1/sites/173",
+	"id": 173,
+	"area": 20.6,
+	"casework": [
+		{
+			"code": "15028",
+			"receivedDate": "2003-11-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "18839",
+			"receivedDate": "2004-06-21",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "53540",
+			"receivedDate": "2009-02-26",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CDM167080",
+			"receivedDate": "2022-05-20",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP147285",
+			"receivedDate": "2017-08-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA162372",
+			"receivedDate": "2021-03-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148758",
+			"receivedDate": "2017-12-21",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-12-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2969,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/173/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/173/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/173/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 71,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/173/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=173"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=981"
+		}
+	],
+	"euCode": "135711",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-10-28",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100035"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Bellochantuy and Tangy Gorges",
+	"snhArea": "National Operations West"
+}

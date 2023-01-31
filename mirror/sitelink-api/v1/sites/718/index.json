@@ -1,0 +1,190 @@
+{
+	"url": "/sitelink-api/v1/sites/718",
+	"id": 718,
+	"area": 86.98,
+	"casework": [
+		{
+			"code": "19169",
+			"receivedDate": "2004-07-19",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "39689",
+			"receivedDate": "2007-03-19",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "43756",
+			"receivedDate": "2007-09-19",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "66699",
+			"receivedDate": "2011-01-17",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CLC132708",
+			"receivedDate": "2014-08-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CGS147867",
+			"receivedDate": "2017-10-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC115406",
+			"receivedDate": "2012-07-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP124949",
+			"receivedDate": "2013-07-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM117368",
+			"receivedDate": "2012-09-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA153510",
+			"receivedDate": "2018-12-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC151955",
+			"receivedDate": "2018-08-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP166280",
+			"receivedDate": "2022-03-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA166125",
+			"receivedDate": "2022-02-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA139495",
+			"receivedDate": "2015-12-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP126018",
+			"receivedDate": "2013-08-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA142284",
+			"receivedDate": "2016-07-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS141852",
+			"receivedDate": "2016-06-20",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS143570",
+			"receivedDate": "2016-11-08",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS146002",
+			"receivedDate": "2017-05-25",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/718/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2010,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/718/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/718/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 275,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/718/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=718"
+		}
+	],
+	"euCode": "135218",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-26",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107663"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-03",
+			"name": "Rocky slopes (includes inland cliff, rocky outcrops, chasmophytic vegetation)",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107666"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Glen Queich",
+	"snhArea": "Tayside and Grampian"
+}

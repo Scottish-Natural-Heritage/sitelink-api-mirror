@@ -1,0 +1,145 @@
+{
+	"url": "/sitelink-api/v1/sites/649",
+	"id": 649,
+	"agreements": [
+		{
+			"area": 107.5,
+			"code": 449,
+			"expiryDate": "2035-03-26",
+			"property": "Lands of Corb and Drumturn",
+			"term": 50,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 339.15,
+	"casework": [
+		{
+			"code": "46774",
+			"receivedDate": "2008-02-04",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "60477",
+			"receivedDate": "2010-03-12",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CEA112995",
+			"receivedDate": "2012-03-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA113960",
+			"receivedDate": "2012-05-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM116804",
+			"receivedDate": "2012-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS164431",
+			"receivedDate": "2021-09-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS164432",
+			"receivedDate": "2021-09-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "COR140654",
+			"receivedDate": "2016-03-24",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CEA131516",
+			"receivedDate": "2014-06-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP161723",
+			"receivedDate": "2021-01-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN143148",
+			"receivedDate": "2016-09-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM144941",
+			"receivedDate": "2017-03-13",
+			"response": "Advice only",
+			"type": "Post Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-03-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 81,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/649/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 498,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/649/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/649/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/649/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=649"
+		}
+	],
+	"euCode": "135471",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "1999-08-12",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001000"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Forest of Alyth Mires",
+	"snhArea": "Tayside and Grampian"
+}

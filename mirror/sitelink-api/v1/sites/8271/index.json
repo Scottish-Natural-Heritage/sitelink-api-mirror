@@ -1,0 +1,233 @@
+{
+	"url": "/sitelink-api/v1/sites/8271",
+	"id": 8271,
+	"area": 1889.66,
+	"casework": [
+		{
+			"code": "68408",
+			"receivedDate": "2011-04-26",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CEA160620",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA156372",
+			"receivedDate": "2019-07-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155142",
+			"receivedDate": "2019-04-16",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CDM168346",
+			"receivedDate": "2022-09-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA167411",
+			"receivedDate": "2022-06-15",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CEA168016",
+			"receivedDate": "2022-08-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS120607",
+			"receivedDate": "2013-01-24",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC146765",
+			"receivedDate": "2017-07-12",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP158041",
+			"receivedDate": "2019-12-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA137399",
+			"receivedDate": "2015-07-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA132050",
+			"receivedDate": "2014-07-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP125817",
+			"receivedDate": "2013-08-23",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "GEN123090",
+			"receivedDate": "2013-05-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP156180",
+			"receivedDate": "2019-07-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS160056",
+			"receivedDate": "2020-07-31",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP157659",
+			"receivedDate": "2019-12-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP157355",
+			"receivedDate": "2019-11-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN141164",
+			"receivedDate": "2016-04-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 46,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8271/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 405,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8271/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 3304,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8271/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8271"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0012576"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0012576.pdf"
+		}
+	],
+	"euCode": "UK0012576",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-12",
+			"name": "Alpine and subalpine heaths",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101564"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-08-28",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106779"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2007-09-12",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101566"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-12",
+			"name": "Grasslands on soils rich in heavy metals",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103689"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-12",
+			"name": "Juniper on heaths or calcareous grasslands",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103687"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-07",
+			"name": "Marsh saxifrage (Saxifraga hirculus)",
+			"pressures": [
+				{
+					"name": "Maintenance activities "
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111391"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Hill of Towanreef",
+	"secondaryLocalAuthorities": [
+		"Moray"
+	],
+	"snhArea": "Tayside and Grampian"
+}

@@ -1,0 +1,178 @@
+{
+	"url": "/sitelink-api/v1/sites/1056",
+	"id": 1056,
+	"area": 35.29,
+	"casework": [
+		{
+			"code": "14676",
+			"receivedDate": "2003-11-12",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "20197",
+			"receivedDate": "2004-08-23",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Water"
+		},
+		{
+			"code": "24427",
+			"receivedDate": "2005-04-07",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "38570",
+			"receivedDate": "2007-02-02",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Water"
+		},
+		{
+			"code": "GEN159510",
+			"receivedDate": "2020-06-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS167043",
+			"receivedDate": "2022-05-17",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "ALC165305",
+			"receivedDate": "2021-12-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM124132",
+			"receivedDate": "2013-06-18",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC164667",
+			"receivedDate": "2021-10-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM135854",
+			"receivedDate": "2015-03-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC137532",
+			"receivedDate": "2015-07-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA136152",
+			"receivedDate": "2015-04-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM156586",
+			"receivedDate": "2019-08-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156691",
+			"receivedDate": "2019-08-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-03-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1056/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1056/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 666,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1056/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1056/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1056"
+		}
+	],
+	"euCode": "135988",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-05",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106037"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-16",
+			"name": "Eutrophic loch",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103513"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-19",
+			"name": "Machair",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106036"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-06-21",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106035"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Loch Stiapavat",
+	"snhArea": "National Operations West"
+}

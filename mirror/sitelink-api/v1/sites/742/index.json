@@ -1,0 +1,160 @@
+{
+	"url": "/sitelink-api/v1/sites/742",
+	"id": 742,
+	"area": 640.77,
+	"casework": [
+		{
+			"code": "56381",
+			"receivedDate": "2009-07-09",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "56383",
+			"receivedDate": "2009-07-09",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPA148819",
+			"receivedDate": "2017-12-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC145157",
+			"receivedDate": "2017-03-14",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "GEN115659",
+			"receivedDate": "2012-07-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP118359",
+			"receivedDate": "2012-10-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP121131",
+			"receivedDate": "2013-02-14",
+			"response": "Advice only",
+			"type": "Renewable energy strategy"
+		},
+		{
+			"code": "CDM146612",
+			"receivedDate": "2017-07-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC137985",
+			"receivedDate": "2015-08-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP139289",
+			"receivedDate": "2015-11-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-07-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/742/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 67,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/742/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/742/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 3737,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/742/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=742"
+		}
+	],
+	"euCode": "135849",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-02",
+			"name": "Calaminarian grassland and serpentine heath",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002567"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-07-29",
+			"name": "Moorland juniper",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104960"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-12",
+			"name": "Subalpine dry heath",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105820"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-11",
+			"name": "Subalpine flushes",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107630"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Green Hill of Strathdon",
+	"snhArea": "Tayside and Grampian"
+}

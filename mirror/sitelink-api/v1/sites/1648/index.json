@@ -1,0 +1,82 @@
+{
+	"url": "/sitelink-api/v1/sites/1648",
+	"id": 1648,
+	"area": 14.22,
+	"casework": [
+		{
+			"code": "CGS127186",
+			"receivedDate": "2013-10-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 160,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1648/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 54,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1648/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 526,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1648/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1648/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1648"
+		}
+	],
+	"euCode": "135368",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-07-29",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106543"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-09",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101436"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Woodhead Moss",
+	"snhArea": "National Operations South"
+}

@@ -1,0 +1,126 @@
+{
+	"url": "/sitelink-api/v1/sites/8489",
+	"id": 8489,
+	"area": 50.58,
+	"casework": [
+		{
+			"code": "29137",
+			"receivedDate": "2005-11-08",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "35235",
+			"receivedDate": "2006-09-06",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "50659",
+			"receivedDate": "2008-09-18",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CEA167874",
+			"receivedDate": "2022-07-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM121446",
+			"receivedDate": "2013-02-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA122181",
+			"receivedDate": "2013-03-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM123520",
+			"receivedDate": "2013-05-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA116806",
+			"receivedDate": "2012-08-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM127963",
+			"receivedDate": "2013-12-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP141870",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		}
+	],
+	"designation": {
+		"code": "SPA",
+		"date": "1988-07-14",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-protection-areas-spas",
+		"status": "Current",
+		"type": "Special Protection Area"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Conservation Objectives",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8489/documents/29"
+		},
+		{
+			"type": "SPA Citation",
+			"size": 68,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8489/documents/16"
+		},
+		{
+			"type": "SPA Map",
+			"size": 707,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8489/documents/45"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8489"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9004291"
+		},
+		{
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9004291.pdf"
+		}
+	],
+	"euCode": "UK9004291",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-12-14",
+			"name": "Greylag goose (Anser anser), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101109"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-08-29",
+			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107051"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Din Moss - Hoselaw Loch",
+	"snhArea": "National Operations South"
+}

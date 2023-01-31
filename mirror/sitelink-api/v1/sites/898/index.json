@@ -1,0 +1,160 @@
+{
+	"url": "/sitelink-api/v1/sites/898",
+	"id": 898,
+	"area": 9.71,
+	"casework": [
+		{
+			"code": "CDM136333",
+			"receivedDate": "2015-04-24",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM124872",
+			"receivedDate": "2013-07-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN124309",
+			"receivedDate": "2013-06-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM123991",
+			"receivedDate": "2013-06-11",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA163392",
+			"receivedDate": "2021-06-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA137720",
+			"receivedDate": "2015-07-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM138847",
+			"receivedDate": "2015-07-01",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM139455",
+			"receivedDate": "2015-12-15",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CEA138837",
+			"receivedDate": "2015-10-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM139573",
+			"receivedDate": "2016-01-05",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CPA140360",
+			"receivedDate": "2016-02-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM137834",
+			"receivedDate": "2015-08-06",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CPA136263",
+			"receivedDate": "2015-04-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA137432",
+			"receivedDate": "2015-07-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM131293",
+			"receivedDate": "2014-06-05",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-03-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 810,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/898/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/898/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 72,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/898/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/898/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=898"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2823"
+		}
+	],
+	"euCode": "135546",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-04-25",
+			"name": "Upper Carboniferous [Namurian (part) - Westphalian]",
+			"pressures": [
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105932"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Lagrae Burn",
+	"snhArea": "National Operations South"
+}

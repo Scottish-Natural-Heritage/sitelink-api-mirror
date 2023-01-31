@@ -1,0 +1,153 @@
+{
+	"url": "/sitelink-api/v1/sites/1635",
+	"id": 1635,
+	"area": 6.61,
+	"casework": [
+		{
+			"code": "20553",
+			"receivedDate": "2004-10-07",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "21000",
+			"receivedDate": "2004-10-13",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "24615",
+			"receivedDate": "2005-04-18",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "23829",
+			"receivedDate": "2005-03-11",
+			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "36934",
+			"receivedDate": "2006-11-08",
+			"response": "NCA - Issued application for consent form",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "45571",
+			"receivedDate": "2008-01-03",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "65098",
+			"receivedDate": "2010-09-20",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CDM125709",
+			"receivedDate": "2013-08-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM156834",
+			"receivedDate": "2019-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC157132",
+			"receivedDate": "2019-10-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM141686",
+			"receivedDate": "2016-06-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 62,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1635/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1635/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2104,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1635/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1635/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1635"
+		}
+	],
+	"euCode": "135481",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-17",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101426"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-07-05",
+			"name": "Small blue butterfly (Cupido minimus)",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107507"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-11",
+			"name": "Soldierfly (Oxycera dives)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106534"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Whitlaw Bank to Hardies Hill",
+	"snhArea": "National Operations South"
+}

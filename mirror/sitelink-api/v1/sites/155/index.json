@@ -1,0 +1,111 @@
+{
+	"url": "/sitelink-api/v1/sites/155",
+	"id": 155,
+	"area": 7.61,
+	"casework": [
+		{
+			"code": "25266",
+			"receivedDate": "2005-05-20",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "25517",
+			"receivedDate": "2005-02-04",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Other Maritime"
+		},
+		{
+			"code": "CEA146699",
+			"receivedDate": "2017-07-12",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "ALC166873",
+			"receivedDate": "2022-04-20",
+			"response": "SSSI Consent Given",
+			"type": "Bird"
+		},
+		{
+			"code": "ALC162924",
+			"receivedDate": "2021-04-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/155/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/155/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 526,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/155/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 113,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/155/documents/3"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=155"
+		}
+	],
+	"euCode": "135185",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-23",
+			"name": "Gannet (Morus bassanus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112085"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-23",
+			"name": "Seabird colony, breeding",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112086"
+		}
+	],
+	"localAuthority": "East Lothian",
+	"name": "Bass Rock",
+	"snhArea": "National Operations South"
+}

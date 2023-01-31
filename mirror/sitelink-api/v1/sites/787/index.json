@@ -1,0 +1,152 @@
+{
+	"url": "/sitelink-api/v1/sites/787",
+	"id": 787,
+	"area": 26.45,
+	"casework": [
+		{
+			"code": "17096",
+			"receivedDate": "2004-04-02",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "24287",
+			"receivedDate": "2005-04-01",
+			"response": "1. No Comment",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "34940",
+			"receivedDate": "2006-08-24",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "38351",
+			"receivedDate": "2007-02-02",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "60221",
+			"receivedDate": "2010-03-04",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "63641",
+			"receivedDate": "2010-08-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "62275",
+			"receivedDate": "2010-06-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CGS147215",
+			"receivedDate": "2017-08-22",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN116991",
+			"receivedDate": "2012-08-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA112432",
+			"receivedDate": "2012-03-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS167963",
+			"receivedDate": "2022-08-04",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA166473",
+			"receivedDate": "2022-03-29",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CLC142148",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR144472",
+			"receivedDate": "2017-01-24",
+			"response": "Information only",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-12-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/787/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/787/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 354,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/787/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 514,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/787/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=787"
+		}
+	],
+	"euCode": "135929",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-08-25",
+			"name": "Hydromorphological mire range",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101965"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-01",
+			"name": "Valley fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105850"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Hill of Warehouse",
+	"snhArea": "National Operations North"
+}

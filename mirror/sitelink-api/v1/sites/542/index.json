@@ -1,0 +1,81 @@
+{
+	"url": "/sitelink-api/v1/sites/542",
+	"id": 542,
+	"area": 9.36,
+	"casework": [
+		{
+			"code": "42843",
+			"receivedDate": "2007-08-06",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "42636",
+			"receivedDate": "2007-07-30",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "CPP154403",
+			"receivedDate": "2019-02-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 506,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/542/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 187,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/542/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/542/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/542/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=542"
+		}
+	],
+	"euCode": "135486",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-09-04",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105679"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Drumore Loch",
+	"snhArea": "Tayside and Grampian"
+}

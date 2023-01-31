@@ -1,0 +1,197 @@
+{
+	"url": "/sitelink-api/v1/sites/1004",
+	"id": 1004,
+	"area": 63.13,
+	"casework": [
+		{
+			"code": "5279",
+			"receivedDate": "2002-04-10",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "25972",
+			"receivedDate": "2005-04-22",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "29463",
+			"receivedDate": "2005-11-18",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "54415",
+			"receivedDate": "2009-03-06",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "67535",
+			"receivedDate": "2011-03-11",
+			"response": "Information/Advice only",
+			"type": "Other Utilities"
+		},
+		{
+			"code": "66101",
+			"receivedDate": "2010-05-17",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CLC129123",
+			"receivedDate": "2014-02-03",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC130253",
+			"receivedDate": "2014-04-10",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC153766",
+			"receivedDate": "2019-01-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC123731",
+			"receivedDate": "2013-05-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP118630",
+			"receivedDate": "2012-10-31",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC151001",
+			"receivedDate": "2018-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS152621",
+			"receivedDate": "2018-10-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS150244",
+			"receivedDate": "2018-04-16",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC142389",
+			"receivedDate": "2016-08-03",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-06-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1004/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1004/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1738,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1004/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 94,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1004/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1004"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2210"
+		}
+	],
+	"euCode": "135148",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-03",
+			"name": "Flies",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107423"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-08-15",
+			"name": "Fluvial Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107688"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2018-08-21",
+			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
+			"pressures": [
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105991"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-09-19",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Willow"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105990"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Loch Lubnaig Marshes",
+	"snhArea": "National Operations South"
+}

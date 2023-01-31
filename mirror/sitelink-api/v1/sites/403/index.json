@@ -1,0 +1,112 @@
+{
+	"url": "/sitelink-api/v1/sites/403",
+	"id": 403,
+	"area": 11.5,
+	"casework": [
+		{
+			"code": "15906",
+			"receivedDate": "2004-01-28",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "61944",
+			"receivedDate": "2010-06-08",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "CDM147354",
+			"receivedDate": "2017-08-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP151559",
+			"receivedDate": "2018-07-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP150629",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM142439",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA146846",
+			"receivedDate": "2017-07-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-03-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 186,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/403/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/403/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/403/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2945,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/403/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=403"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1548"
+		}
+	],
+	"euCode": "135716",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-11-28",
+			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105581"
+		}
+	],
+	"localAuthority": "North Lanarkshire",
+	"name": "Corrie Burn",
+	"secondaryLocalAuthorities": [
+		"East Dunbartonshire"
+	],
+	"snhArea": "National Operations West Central"
+}

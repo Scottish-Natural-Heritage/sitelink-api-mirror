@@ -1,0 +1,109 @@
+{
+	"url": "/sitelink-api/v1/sites/589",
+	"id": 589,
+	"area": 81.92,
+	"casework": [
+		{
+			"code": "19848",
+			"receivedDate": "2004-08-17",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "30601",
+			"receivedDate": "2006-02-06",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "37846",
+			"receivedDate": "2006-12-21",
+			"response": "Information/Advice only",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "43965",
+			"receivedDate": "2007-10-01",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "46256",
+			"receivedDate": "2008-02-06",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "44929",
+			"receivedDate": "2007-10-25",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CEA165706",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC138541",
+			"receivedDate": "2015-09-24",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC141600",
+			"receivedDate": "2016-06-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-07-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/589/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/589/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 173,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/589/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1751,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/589/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=589"
+		}
+	],
+	"euCode": "135940",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-06-13",
+			"name": "Upland birch woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100871"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Easter Fearn",
+	"snhArea": "National Operations Central Highland"
+}

@@ -1,0 +1,77 @@
+{
+	"url": "/sitelink-api/v1/sites/1023",
+	"id": 1023,
+	"area": 347.6,
+	"casework": [
+		{
+			"code": "71062",
+			"receivedDate": "2011-08-30",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Coastal Protection Act"
+		},
+		{
+			"code": "68734",
+			"receivedDate": "2011-05-17",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "69022",
+			"receivedDate": "2011-05-31",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Aquaculture"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-08-31",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2162,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1023/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 45,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1023/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1023/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1023/documents/1"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1023"
+		}
+	],
+	"euCode": "136049",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-09-30",
+			"name": "Saline lagoon",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003800"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Loch Obisary",
+	"snhArea": "National Operations West"
+}

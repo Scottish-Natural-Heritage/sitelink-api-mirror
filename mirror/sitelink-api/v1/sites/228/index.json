@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/228",
+	"id": 228,
+	"area": 158.08,
+	"casework": [
+		{
+			"code": "49016",
+			"receivedDate": "2008-07-04",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "51751",
+			"receivedDate": "2008-11-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "63649",
+			"receivedDate": "2010-08-16",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CPP132922",
+			"receivedDate": "2014-09-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA146322",
+			"receivedDate": "2017-06-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS116743",
+			"receivedDate": "2012-08-06",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC147310",
+			"receivedDate": "2017-08-29",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "ALC145239",
+			"receivedDate": "2017-03-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC143250",
+			"receivedDate": "2016-10-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA162079",
+			"receivedDate": "2021-02-10",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA159463",
+			"receivedDate": "2020-06-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC161106",
+			"receivedDate": "2020-11-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-09-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1439,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/228/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 58,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/228/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/228/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/228/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=228"
+		}
+	],
+	"euCode": "139920",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-11-10",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103132"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-03-25",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103133"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-12-05",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103134"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Blar na Caillich Buidhe",
+	"snhArea": "National Operations Central Highland"
+}

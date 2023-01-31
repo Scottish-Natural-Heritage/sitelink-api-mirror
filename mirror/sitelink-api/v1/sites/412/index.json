@@ -1,0 +1,126 @@
+{
+	"url": "/sitelink-api/v1/sites/412",
+	"id": 412,
+	"area": 15.5,
+	"casework": [
+		{
+			"code": "GEN122973",
+			"receivedDate": "2013-04-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM122688",
+			"receivedDate": "2013-04-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP118520",
+			"receivedDate": "2012-10-29",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CEA166507",
+			"receivedDate": "2022-03-30",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM140618",
+			"receivedDate": "2016-03-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA130802",
+			"receivedDate": "2014-05-13",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA155914",
+			"receivedDate": "2019-06-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM157116",
+			"receivedDate": "2019-10-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM140718",
+			"receivedDate": "2016-03-30",
+			"response": "No Comment",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-01-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 895,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/412/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/412/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/412/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 41,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/412/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=412"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2668"
+		}
+	],
+	"euCode": "135769",
+	"features": [
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-12",
+			"name": "Dickie's bladder-fern (Cystopteris dickieana)",
+			"pressures": [
+				{
+					"name": "Wildlife crime"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105588"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-06-03",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105587"
+		}
+	],
+	"localAuthority": "Aberdeen City",
+	"name": "Cove",
+	"snhArea": "Tayside and Grampian"
+}

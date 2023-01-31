@@ -1,0 +1,180 @@
+{
+	"url": "/sitelink-api/v1/sites/1473",
+	"id": 1473,
+	"area": 252.17,
+	"casework": [
+		{
+			"code": "11446",
+			"receivedDate": "2003-05-28",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "24519",
+			"receivedDate": "2005-04-12",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "31229",
+			"receivedDate": "2006-02-20",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "40205",
+			"receivedDate": "2007-04-12",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "46263",
+			"receivedDate": "2008-02-08",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "59066",
+			"receivedDate": "2009-12-03",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "59746",
+			"receivedDate": "2011-02-08",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "67207",
+			"receivedDate": "2011-02-08",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "CLC110758",
+			"receivedDate": "2011-12-23",
+			"response": "Conditioned objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC110952",
+			"receivedDate": "2012-01-12",
+			"response": "Conditioned objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC110783",
+			"receivedDate": "2011-12-23",
+			"response": "Conditioned objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CPP120653",
+			"receivedDate": "2013-01-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN123195",
+			"receivedDate": "2013-04-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC152963",
+			"receivedDate": "2018-10-29",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC160265",
+			"receivedDate": "2020-08-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP128063",
+			"receivedDate": "2013-12-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN161844",
+			"receivedDate": "2021-01-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN156397",
+			"receivedDate": "2019-07-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-05-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 2056,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1473/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1473/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 100,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1473/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1473/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1473"
+		}
+	],
+	"euCode": "135447",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-06-23",
+			"name": "Oligo-mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001942"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "St Mary's Loch",
+	"snhArea": "National Operations South"
+}

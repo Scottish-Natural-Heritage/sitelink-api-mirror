@@ -1,0 +1,143 @@
+{
+	"url": "/sitelink-api/v1/sites/1330",
+	"id": 1330,
+	"area": 3.8,
+	"casework": [
+		{
+			"code": "46496",
+			"receivedDate": "2007-11-22",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "54163",
+			"receivedDate": "2009-01-29",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "59942",
+			"receivedDate": "2009-08-11",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CLC145575",
+			"receivedDate": "2017-04-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS134882",
+			"receivedDate": "2015-01-19",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS122568",
+			"receivedDate": "2013-02-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP145012",
+			"receivedDate": "2017-02-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139547",
+			"receivedDate": "2016-01-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139566",
+			"receivedDate": "2015-12-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA140363",
+			"receivedDate": "2016-03-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC122551",
+			"receivedDate": "2013-04-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC143205",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC141207",
+			"receivedDate": "2016-05-09",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC141836",
+			"receivedDate": "2016-06-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-11-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1330/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1330/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 51,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1330/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 696,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1330/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1330"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2226"
+		}
+	],
+	"euCode": "135057",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-08-03",
+			"name": "Fluvial Geomorphology of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101686"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Randolph's Leap",
+	"snhArea": "Tayside and Grampian"
+}

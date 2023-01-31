@@ -1,0 +1,188 @@
+{
+	"url": "/sitelink-api/v1/sites/1048",
+	"id": 1048,
+	"area": 4148.44,
+	"casework": [
+		{
+			"code": "6182",
+			"receivedDate": "2001-08-30",
+			"response": "Information/Advice only",
+			"type": "Road: Non Trunk Consultation"
+		},
+		{
+			"code": "5944",
+			"receivedDate": "2002-04-30",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Planning Related Casework"
+		},
+		{
+			"code": "24931",
+			"receivedDate": "2005-02-18",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "26853",
+			"receivedDate": "2005-07-12",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "56314",
+			"receivedDate": "2009-06-08",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "60264",
+			"receivedDate": "2010-03-08",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "62552",
+			"receivedDate": "2010-07-06",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CDM129317",
+			"receivedDate": "2014-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA125055",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM138874",
+			"receivedDate": "2015-10-29",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CPA142199",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM145092",
+			"receivedDate": "2017-02-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142428",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1996-12-06",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 50,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1048/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 381,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1048/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 3519,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1048/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1048/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1048"
+		}
+	],
+	"euCode": "136135",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-05-28",
+			"name": "Black-throated diver (Gavia arctica), breeding",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106025"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-12-09",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103541"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-28",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103543"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-11",
+			"name": "Dystrophic and oligotrophic lochs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106024"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-05-28",
+			"name": "Red-throated diver (Gavia stellata), breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106026"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Mointeach Scadabhaigh",
+	"snhArea": "National Operations West"
+}

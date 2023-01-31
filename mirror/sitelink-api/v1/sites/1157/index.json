@@ -1,0 +1,126 @@
+{
+	"url": "/sitelink-api/v1/sites/1157",
+	"id": 1157,
+	"area": 14.01,
+	"casework": [
+		{
+			"code": "33551",
+			"receivedDate": "2006-06-28",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "30996",
+			"receivedDate": "2006-02-22",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "32517",
+			"receivedDate": "2006-05-08",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "41402",
+			"receivedDate": "2007-06-08",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "50725",
+			"receivedDate": "2008-09-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "59124",
+			"receivedDate": "2010-01-05",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "ALC116883",
+			"receivedDate": "2012-08-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC112108",
+			"receivedDate": "2012-02-23",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC118932",
+			"receivedDate": "2012-11-14",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA146214",
+			"receivedDate": "2017-06-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC159196",
+			"receivedDate": "2020-05-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-06-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 153,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1157/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1157/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1157/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 789,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1157/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1157"
+		}
+	],
+	"euCode": "135512",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-04-14",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102621"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Millburn",
+	"snhArea": "National Operations West Central"
+}

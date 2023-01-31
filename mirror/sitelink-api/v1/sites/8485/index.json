@@ -1,0 +1,190 @@
+{
+	"url": "/sitelink-api/v1/sites/8485",
+	"id": 8485,
+	"area": 3607.7,
+	"casework": [
+		{
+			"code": "65647",
+			"receivedDate": "2010-11-12",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Marine"
+		},
+		{
+			"code": "64757",
+			"receivedDate": "2010-09-27",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Coastal Protection Act"
+		},
+		{
+			"code": "ALC147932",
+			"receivedDate": "2017-10-03",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM155832",
+			"receivedDate": "2019-06-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA165338",
+			"receivedDate": "2021-12-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC167882",
+			"receivedDate": "2022-08-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC120531",
+			"receivedDate": "2013-01-22",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC166581",
+			"receivedDate": "2022-04-05",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "GEN164765",
+			"receivedDate": "2021-10-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC137764",
+			"receivedDate": "2015-07-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC130368",
+			"receivedDate": "2014-04-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM147986",
+			"receivedDate": "2017-10-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SPA",
+		"date": "2009-09-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-protection-areas-spas",
+		"status": "Current",
+		"type": "Special Protection Area"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SPA Citation",
+			"size": 60,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8485/documents/16"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8485/documents/29"
+		},
+		{
+			"type": "SPA Map",
+			"size": 815,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8485/documents/45"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8485"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002151"
+		},
+		{
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002151.pdf"
+		}
+	],
+	"euCode": "UK9002151",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-11",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107037"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-11",
+			"name": "Great black-backed gull (Larus marinus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107038"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-11",
+			"name": "Guillemot (Uria aalge), breeding",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110268"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-11",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110269"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-11",
+			"name": "Seabird assemblage, breeding",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110267"
+		}
+	],
+	"localAuthority": "Orkney Islands",
+	"name": "Copinsay",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "National Operations North"
+}

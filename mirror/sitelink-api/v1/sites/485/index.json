@@ -1,0 +1,85 @@
+{
+	"url": "/sitelink-api/v1/sites/485",
+	"id": 485,
+	"area": 4.14,
+	"casework": [
+		{
+			"code": "35501",
+			"receivedDate": "2006-09-11",
+			"response": "1. No Comment",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "54421",
+			"receivedDate": "2009-04-24",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "CPP129428",
+			"receivedDate": "2014-02-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP129035",
+			"receivedDate": "2014-01-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC156318",
+			"receivedDate": "2019-07-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-11-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 93,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/485/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/485/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/485/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 105,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/485/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=485"
+		}
+	],
+	"euCode": "135457",
+	"features": [
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-28",
+			"name": "Pillwort (Pilularia globulifera)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107622"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Dalcroy Promontory",
+	"snhArea": "Tayside and Grampian"
+}

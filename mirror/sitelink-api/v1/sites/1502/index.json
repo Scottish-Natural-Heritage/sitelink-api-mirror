@@ -1,0 +1,201 @@
+{
+	"url": "/sitelink-api/v1/sites/1502",
+	"id": 1502,
+	"area": 13.18,
+	"casework": [
+		{
+			"code": "28143",
+			"receivedDate": "2005-09-15",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "38158",
+			"receivedDate": "2007-01-16",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "43587",
+			"receivedDate": "2007-08-20",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "River Engineering"
+		},
+		{
+			"code": "55082",
+			"receivedDate": "2009-05-18",
+			"response": "Information/Advice only",
+			"type": "Non Trunk Roads"
+		},
+		{
+			"code": "66032",
+			"receivedDate": "2010-09-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "66033",
+			"receivedDate": "2010-11-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC132794",
+			"receivedDate": "2014-08-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN135024",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA164581",
+			"receivedDate": "2021-09-20",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM152981",
+			"receivedDate": "2018-10-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC166647",
+			"receivedDate": "2022-04-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN165913",
+			"receivedDate": "2021-10-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN131651",
+			"receivedDate": "2014-06-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC160979",
+			"receivedDate": "2020-10-15",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-06-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1502/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1502/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 881,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1502/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 73,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1502/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1502"
+		}
+	],
+	"euCode": "135234",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-16",
+			"name": "Loch trophic range",
+			"pressures": [
+				{
+					"keywords": [
+						"Poaching"
+					],
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"keywords": [
+						"Canadian Pondweed"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106390"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-09-20",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Fishing"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103727"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-06",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech",
+						"Horse Chestnut",
+						"Japanese Knotweed",
+						"Rhododendron",
+						"Sycamore"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106389"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Stronvar Marshes",
+	"snhArea": "National Operations South"
+}

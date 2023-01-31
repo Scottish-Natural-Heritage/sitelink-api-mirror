@@ -1,0 +1,196 @@
+{
+	"url": "/sitelink-api/v1/sites/505",
+	"id": 505,
+	"area": 39.4,
+	"casework": [
+		{
+			"code": "31778",
+			"receivedDate": "2006-04-03",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "60609",
+			"receivedDate": "2010-02-02",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "62573",
+			"receivedDate": "2010-05-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "66329",
+			"receivedDate": "2010-12-23",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CDM115900",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS117073",
+			"receivedDate": "2012-08-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM163250",
+			"receivedDate": "2021-05-27",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CGS124458",
+			"receivedDate": "2013-07-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CEA152731",
+			"receivedDate": "2018-10-08",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN138407",
+			"receivedDate": "2015-09-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA139494",
+			"receivedDate": "2015-11-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA134255",
+			"receivedDate": "2014-11-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN138106",
+			"receivedDate": "2015-08-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS140534",
+			"receivedDate": "2016-03-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM127014",
+			"receivedDate": "2013-10-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA127017",
+			"receivedDate": "2013-10-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA143337",
+			"receivedDate": "2016-10-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM142513",
+			"receivedDate": "2016-08-15",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM147964",
+			"receivedDate": "2017-10-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA148293",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-10-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 59,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/505/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/505/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 610,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/505/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/505/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=505"
+		}
+	],
+	"euCode": "139919",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-02",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105654"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "1999-10-07",
+			"name": "Valley fen",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004035"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Den of Pitlurg",
+	"secondaryLocalAuthorities": [
+		"Moray"
+	],
+	"snhArea": "Tayside and Grampian"
+}

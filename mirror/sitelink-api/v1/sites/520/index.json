@@ -1,0 +1,124 @@
+{
+	"url": "/sitelink-api/v1/sites/520",
+	"id": 520,
+	"area": 41.73,
+	"casework": [
+		{
+			"code": "25171",
+			"receivedDate": "2005-05-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "CPP134416",
+			"receivedDate": "2014-11-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC157782",
+			"receivedDate": "2019-12-19",
+			"response": "No objection",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "ALC157614",
+			"receivedDate": "2019-12-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA150020",
+			"receivedDate": "2018-03-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA131999",
+			"receivedDate": "2014-07-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC132132",
+			"receivedDate": "2014-07-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-06-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 54,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/520/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 504,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/520/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/520/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 118,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/520/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=520"
+		}
+	],
+	"euCode": "139954",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-11-12",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105664"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-03-27",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105663"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Doire Dhonn",
+	"snhArea": "National Operations West"
+}

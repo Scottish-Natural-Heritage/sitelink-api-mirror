@@ -1,0 +1,80 @@
+{
+	"url": "/sitelink-api/v1/sites/1684",
+	"id": 1684,
+	"area": 11.1,
+	"casework": [
+		{
+			"code": "GEN127003",
+			"receivedDate": "2013-10-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC143275",
+			"receivedDate": "2016-10-12",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA142358",
+			"receivedDate": "2016-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1997-11-04",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1684/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1684/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 469,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1684/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1684/documents/28"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1684"
+		}
+	],
+	"euCode": "170111",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-08-13",
+			"name": "Rocky shore",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005012"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Sandness Coast",
+	"secondaryLocalAuthorities": [
+		"Marine Scotland (inshore)"
+	],
+	"snhArea": "National Operations North"
+}

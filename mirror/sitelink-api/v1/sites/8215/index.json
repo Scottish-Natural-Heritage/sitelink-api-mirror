@@ -1,0 +1,165 @@
+{
+	"url": "/sitelink-api/v1/sites/8215",
+	"id": 8215,
+	"area": 244.1,
+	"casework": [
+		{
+			"code": "29948",
+			"receivedDate": "2006-01-09",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "47320",
+			"receivedDate": "2008-04-08",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "46561",
+			"receivedDate": "2008-02-19",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "GEN130619",
+			"receivedDate": "2014-04-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN122434",
+			"receivedDate": "2013-03-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM121505",
+			"receivedDate": "2013-02-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS146755",
+			"receivedDate": "2017-07-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA151883",
+			"receivedDate": "2018-08-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM143115",
+			"receivedDate": "2016-09-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS140592",
+			"receivedDate": "2016-03-19",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP139854",
+			"receivedDate": "2016-01-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC138905",
+			"receivedDate": "2015-11-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC131578",
+			"receivedDate": "2014-06-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC128478",
+			"receivedDate": "2014-01-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM131309",
+			"receivedDate": "2014-06-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR129532",
+			"receivedDate": "2014-03-03",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR144572",
+			"receivedDate": "2017-02-14",
+			"response": "Resolved",
+			"type": "Complaints"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 40,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8215/documents/22"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8215/documents/29"
+		},
+		{
+			"type": "SAC Map",
+			"size": 798,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8215/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8215"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030102"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030102.pdf"
+		}
+	],
+	"euCode": "UK0030102",
+	"features": [
+		{
+			"category": "Reptiles & amphibians",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-07-31",
+			"name": "Great crested newt (Triturus cristatus)",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100494"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Burrow Head",
+	"snhArea": "National Operations South"
+}

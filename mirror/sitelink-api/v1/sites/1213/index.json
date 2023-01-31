@@ -1,0 +1,234 @@
+{
+	"url": "/sitelink-api/v1/sites/1213",
+	"id": 1213,
+	"area": 137.17,
+	"casework": [
+		{
+			"code": "25120",
+			"receivedDate": "2005-05-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "33549",
+			"receivedDate": "2006-06-27",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "48087",
+			"receivedDate": "2008-05-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "63834",
+			"receivedDate": "2010-08-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "ALC132877",
+			"receivedDate": "2014-08-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN168058",
+			"receivedDate": "2022-08-13",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "ALC120584",
+			"receivedDate": "2013-01-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM115219",
+			"receivedDate": "2012-06-26",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC146478",
+			"receivedDate": "2017-06-23",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN163355",
+			"receivedDate": "2021-06-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC166453",
+			"receivedDate": "2022-03-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC139585",
+			"receivedDate": "2015-12-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC127327",
+			"receivedDate": "2013-09-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC128773",
+			"receivedDate": "2014-01-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN125557",
+			"receivedDate": "2013-08-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN125661",
+			"receivedDate": "2013-07-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC141951",
+			"receivedDate": "2016-06-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-03-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1213/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1213/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2405,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1213/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 203,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1213/documents/3"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1213"
+		}
+	],
+	"euCode": "135721",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2018-01-04",
+			"name": "Fulmar (Fulmarus glacialis), breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106159"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-01-05",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106160"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-30",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106158"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-01-05",
+			"name": "Razorbill (Alca torda), breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106161"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-08-05",
+			"name": "Vascular plant assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001845"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Mull of Galloway",
+	"snhArea": "National Operations South"
+}

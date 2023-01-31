@@ -1,0 +1,98 @@
+{
+	"url": "/sitelink-api/v1/sites/973",
+	"id": 973,
+	"area": 49.31,
+	"casework": [
+		{
+			"code": "COR147909",
+			"receivedDate": "2017-10-06",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN130167",
+			"receivedDate": "2014-03-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP167427",
+			"receivedDate": "2022-06-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN149748",
+			"receivedDate": "2018-03-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN136920",
+			"receivedDate": "2015-06-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 702,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/973/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/973/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/973/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 134,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/973/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=973"
+		}
+	],
+	"euCode": "135375",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-06",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105966"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-08-06",
+			"name": "Vascular plant assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102909"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Loch Con",
+	"snhArea": "Tayside and Grampian"
+}

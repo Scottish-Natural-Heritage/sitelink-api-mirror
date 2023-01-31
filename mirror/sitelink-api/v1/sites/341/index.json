@@ -1,0 +1,122 @@
+{
+	"url": "/sitelink-api/v1/sites/341",
+	"id": 341,
+	"agreements": [
+		{
+			"area": 10.3,
+			"code": 159,
+			"property": "Cartland Craigs",
+			"term": 0,
+			"type": "Land Acquisition"
+		}
+	],
+	"area": 16.67,
+	"casework": [
+		{
+			"code": "40530",
+			"receivedDate": "2007-05-02",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Species"
+		},
+		{
+			"code": "51268",
+			"receivedDate": "2008-10-15",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Water"
+		},
+		{
+			"code": "CLC146337",
+			"receivedDate": "2017-06-19",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN135931",
+			"receivedDate": "2015-03-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM134433",
+			"receivedDate": "2014-12-05",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "GEN112635",
+			"receivedDate": "2012-02-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM132683",
+			"receivedDate": "2014-08-18",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC156255",
+			"receivedDate": "2019-07-18",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/341/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/341/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 498,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/341/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 100,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/341/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=341"
+		}
+	],
+	"euCode": "135517",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-09-17",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech",
+						"Conifers",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102536"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Cartland Craigs",
+	"snhArea": "National Operations West Central"
+}

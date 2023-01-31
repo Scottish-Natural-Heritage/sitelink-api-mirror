@@ -1,0 +1,98 @@
+{
+	"url": "/sitelink-api/v1/sites/1594",
+	"id": 1594,
+	"area": 151.39,
+	"casework": [
+		{
+			"code": "CDM110844",
+			"receivedDate": "2011-12-23",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA138395",
+			"receivedDate": "2015-09-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM138394",
+			"receivedDate": "2015-09-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM138569",
+			"receivedDate": "2015-10-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA138571",
+			"receivedDate": "2015-10-06",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-01-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1346,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1594/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1594/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1594/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1594/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1594"
+		}
+	],
+	"euCode": "135816",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-06-03",
+			"name": "Arctic skua (Stercorarius parasiticus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106494"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2004-06-02",
+			"name": "Whimbrel (Numenius phaeopus), breeding",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003785"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Ward of Culswick",
+	"snhArea": "National Operations North"
+}

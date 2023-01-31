@@ -1,0 +1,128 @@
+{
+	"url": "/sitelink-api/v1/sites/435",
+	"id": 435,
+	"area": 3.2,
+	"casework": [
+		{
+			"code": "23729",
+			"receivedDate": "2005-03-07",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "23457",
+			"receivedDate": "2005-02-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "58711",
+			"receivedDate": "2009-05-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CDM149175",
+			"receivedDate": "2018-01-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA152109",
+			"receivedDate": "2018-08-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC146235",
+			"receivedDate": "2017-03-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM165633",
+			"receivedDate": "2022-01-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-05-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1029,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/435/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 58,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/435/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/435/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/435/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=435"
+		}
+	],
+	"euCode": "135597",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-10-24",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105601"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-10-24",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Goats"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105600"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Craighouse Ravine, Jura",
+	"snhArea": "National Operations West"
+}

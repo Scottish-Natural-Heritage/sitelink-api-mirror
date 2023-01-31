@@ -1,0 +1,178 @@
+{
+	"url": "/sitelink-api/v1/sites/875",
+	"id": 875,
+	"agreements": [
+		{
+			"area": 14.6,
+			"code": 32,
+			"property": "Knockan Crag",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 4.51,
+			"code": 2281,
+			"property": "Knockan Extension",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 0,
+			"code": 6641,
+			"property": "Wayleave - Knockan Crag, Elpin - 11kv overhead line & underground cable",
+			"term": 0,
+			"type": "Servitude (NatureScot land or building) incl Wayleaves"
+		}
+	],
+	"area": 362,
+	"casework": [
+		{
+			"code": "40452",
+			"receivedDate": "2007-04-27",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "40453",
+			"receivedDate": "2007-04-27",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "52423",
+			"receivedDate": "2009-01-07",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Water"
+		},
+		{
+			"code": "55438",
+			"receivedDate": "2009-06-23",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "60342",
+			"receivedDate": "2010-03-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "72020",
+			"receivedDate": "2011-10-05",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC168612",
+			"receivedDate": "2022-10-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162694",
+			"receivedDate": "2021-04-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC165167",
+			"receivedDate": "2021-11-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA135695",
+			"receivedDate": "2015-03-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC132295",
+			"receivedDate": "2014-07-28",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC162063",
+			"receivedDate": "2021-02-10",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC161316",
+			"receivedDate": "2020-11-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2012-02-03",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/875/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/875/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 125,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/875/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1855,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/875/documents/33"
+		},
+		{
+			"type": "SSSI Partial Denotification Letter",
+			"size": 39,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/875/documents/36"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=875"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=890"
+		}
+	],
+	"euCode": "135995",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-04-07",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104031"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-12-07",
+			"name": "Upland assemblage",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102007"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Knockan Cliff",
+	"snhArea": "National Operations North"
+}

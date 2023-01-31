@@ -1,0 +1,156 @@
+{
+	"url": "/sitelink-api/v1/sites/359",
+	"id": 359,
+	"area": 53.33,
+	"casework": [
+		{
+			"code": "15027",
+			"receivedDate": "2003-09-09",
+			"response": "Information/Advice only",
+			"type": "Marine Fisheries"
+		},
+		{
+			"code": "35067",
+			"receivedDate": "2006-08-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "46761",
+			"receivedDate": "2008-01-09",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "50866",
+			"receivedDate": "2008-07-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "62344",
+			"receivedDate": "2010-06-28",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CEA133071",
+			"receivedDate": "2014-09-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA135539",
+			"receivedDate": "2015-02-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP168539",
+			"receivedDate": "2022-09-27",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CDM131945",
+			"receivedDate": "2014-07-08",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM126195",
+			"receivedDate": "2013-09-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125416",
+			"receivedDate": "2013-08-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM130675",
+			"receivedDate": "2014-04-23",
+			"response": "No Comment",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CEA142911",
+			"receivedDate": "2016-09-15",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM142214",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM142799",
+			"receivedDate": "2016-09-06",
+			"response": "Advice only",
+			"type": "Application related advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-06-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/359/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/359/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 64,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/359/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 334,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/359/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=359"
+		}
+	],
+	"euCode": "135555",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "1999-12-10",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000621"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Claonaig Wood",
+	"snhArea": "National Operations West"
+}

@@ -1,0 +1,99 @@
+{
+	"url": "/sitelink-api/v1/sites/344",
+	"id": 344,
+	"area": 26.22,
+	"casework": [
+		{
+			"code": "16851",
+			"receivedDate": "2004-03-19",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Site Search"
+		},
+		{
+			"code": "55734",
+			"receivedDate": "2009-07-03",
+			"response": "B. Support",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CDM114698",
+			"receivedDate": "2012-05-25",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA110717",
+			"receivedDate": "2011-12-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC142148",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CGS142357",
+			"receivedDate": "2016-08-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1107,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/344/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/344/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/344/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 349,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/344/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=344"
+		}
+	],
+	"euCode": "136072",
+	"features": [
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-03",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101862"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Castle of Old Wick to Craig Hammel",
+	"snhArea": "National Operations North"
+}

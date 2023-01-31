@@ -1,0 +1,141 @@
+{
+	"url": "/sitelink-api/v1/sites/664",
+	"id": 664,
+	"area": 5.2,
+	"casework": [
+		{
+			"code": "33070",
+			"receivedDate": "2006-04-24",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "40681",
+			"receivedDate": "2007-04-18",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "43549",
+			"receivedDate": "2007-09-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "47212",
+			"receivedDate": "2008-04-01",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "47213",
+			"receivedDate": "2008-04-01",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CPA161796",
+			"receivedDate": "2021-01-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA160642",
+			"receivedDate": "2020-09-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA160841",
+			"receivedDate": "2020-10-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA115803",
+			"receivedDate": "2012-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA169081",
+			"receivedDate": "2022-11-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CEA163109",
+			"receivedDate": "2021-05-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM166418",
+			"receivedDate": "2022-03-24",
+			"response": "No Comment",
+			"type": "Other Infrastructure"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-07-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 465,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/664/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 167,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/664/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/664/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/664/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=664"
+		}
+	],
+	"euCode": "135423",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-06-18",
+			"name": "Flood-plain fen",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108466"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Gagie Marsh",
+	"snhArea": "Tayside and Grampian"
+}

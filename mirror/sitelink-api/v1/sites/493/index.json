@@ -1,0 +1,144 @@
+{
+	"url": "/sitelink-api/v1/sites/493",
+	"id": 493,
+	"area": 36.66,
+	"casework": [
+		{
+			"code": "22280",
+			"receivedDate": "2004-06-30",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "44739",
+			"receivedDate": "2007-09-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CLC159736",
+			"receivedDate": "2020-06-12",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CEA165630",
+			"receivedDate": "2022-01-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA166657",
+			"receivedDate": "2022-04-12",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA165515",
+			"receivedDate": "2021-12-23",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "ALC123677",
+			"receivedDate": "2013-05-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA161657",
+			"receivedDate": "2021-01-06",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-02-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 100,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/493/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/493/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/493/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1381,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/493/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=493"
+		}
+	],
+	"euCode": "135310",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2019-07-30",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Senecio jacobaea"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Rabbits"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112215"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2019-07-25",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Senecio jacobaea",
+						"Thistles"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Rabbits"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112216"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Dalveich Meadow",
+	"snhArea": "National Operations South"
+}

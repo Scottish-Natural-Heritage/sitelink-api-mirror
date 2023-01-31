@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/24",
+	"id": 24,
+	"area": 135.1,
+	"casework": [
+		{
+			"code": "38652",
+			"receivedDate": "2007-02-08",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "60405",
+			"receivedDate": "2010-03-15",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "66895",
+			"receivedDate": "2011-02-03",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "68022",
+			"receivedDate": "2011-04-07",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CPA136557",
+			"receivedDate": "2015-05-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "2012-06-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/24/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 710,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/24/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/24/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 203,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/24/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=24"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2979"
+		}
+	],
+	"euCode": "136003",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-07-14",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101761"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Aird Torrisdale",
+	"snhArea": "National Operations North"
+}

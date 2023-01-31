@@ -1,0 +1,177 @@
+{
+	"url": "/sitelink-api/v1/sites/1031",
+	"id": 1031,
+	"area": 105,
+	"casework": [
+		{
+			"code": "30999",
+			"receivedDate": "2005-12-14",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "33935",
+			"receivedDate": "2006-05-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "62325",
+			"receivedDate": "2010-06-25",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "67227",
+			"receivedDate": "2011-02-22",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "71742",
+			"receivedDate": "2011-10-10",
+			"response": "NCA - Issued application for consent form",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "71758",
+			"receivedDate": "2011-10-13",
+			"response": "Information/Advice only",
+			"type": "Microrenewables"
+		},
+		{
+			"code": "CEA112428",
+			"receivedDate": "2012-03-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC166721",
+			"receivedDate": "2022-04-21",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC121334",
+			"receivedDate": "2013-02-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS152122",
+			"receivedDate": "2018-08-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA149720",
+			"receivedDate": "2018-03-06",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "ALC126102",
+			"receivedDate": "2013-09-05",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM132579",
+			"receivedDate": "2014-08-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128964",
+			"receivedDate": "2014-02-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128532",
+			"receivedDate": "2014-01-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC141379",
+			"receivedDate": "2016-05-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1031/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 51,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1031/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 719,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1031/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1031/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1031"
+		}
+	],
+	"euCode": "135906",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2021-07-22",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005168"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-01-19",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102329"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-31",
+			"name": "Pintail (Anas acuta), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106009"
+		}
+	],
+	"localAuthority": "Orkney Islands",
+	"name": "Loch of Isbister and the Loons",
+	"snhArea": "National Operations North"
+}

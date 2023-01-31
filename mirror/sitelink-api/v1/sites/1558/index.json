@@ -1,0 +1,194 @@
+{
+	"url": "/sitelink-api/v1/sites/1558",
+	"id": 1558,
+	"area": 209.76,
+	"casework": [
+		{
+			"code": "35072",
+			"receivedDate": "2006-08-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "44901",
+			"receivedDate": "2007-11-12",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "44902",
+			"receivedDate": "2007-11-12",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "57258",
+			"receivedDate": "2009-08-31",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "57259",
+			"receivedDate": "2009-08-31",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "56550",
+			"receivedDate": "2009-05-27",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "CDM150615",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA164797",
+			"receivedDate": "2021-10-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM166055",
+			"receivedDate": "2022-02-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC137316",
+			"receivedDate": "2015-06-30",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC135968",
+			"receivedDate": "2015-03-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC127329",
+			"receivedDate": "2013-10-28",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM128679",
+			"receivedDate": "2014-01-21",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA129047",
+			"receivedDate": "2014-02-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM131048",
+			"receivedDate": "2014-05-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131029",
+			"receivedDate": "2014-05-23",
+			"response": "No Comment",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM128675",
+			"receivedDate": "2014-01-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1997-07-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 35,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1558/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1558/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1473,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1558/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 105,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1558/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1558"
+		}
+	],
+	"euCode": "135748",
+	"features": [
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-19",
+			"name": "Machair",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109354"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-09-18",
+			"name": "Machair loch",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112337"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-19",
+			"name": "Open water transition fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106438"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-20",
+			"name": "Sand dunes",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106439"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-09-17",
+			"name": "Vascular plant assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100450"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Totamore Dunes and Loch Ballyhaugh",
+	"snhArea": "National Operations West"
+}

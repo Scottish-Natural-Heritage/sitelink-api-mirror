@@ -1,0 +1,215 @@
+{
+	"url": "/sitelink-api/v1/sites/667",
+	"id": 667,
+	"area": 44.6,
+	"casework": [
+		{
+			"code": "12762",
+			"receivedDate": "2003-06-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "12764",
+			"receivedDate": "2003-06-30",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "15716",
+			"receivedDate": "2003-12-23",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "20436",
+			"receivedDate": "2004-09-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "37552",
+			"receivedDate": "2006-11-23",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "57176",
+			"receivedDate": "2009-08-24",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "70855",
+			"receivedDate": "2011-08-11",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CDM133284",
+			"receivedDate": "2014-09-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM134933",
+			"receivedDate": "2015-01-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC117815",
+			"receivedDate": "2012-09-25",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM151353",
+			"receivedDate": "2018-07-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA146894",
+			"receivedDate": "2017-07-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM151003",
+			"receivedDate": "2018-06-11",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151063",
+			"receivedDate": "2018-06-11",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS158922",
+			"receivedDate": "2020-04-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM154999",
+			"receivedDate": "2019-04-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP162109",
+			"receivedDate": "2021-02-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM142972",
+			"receivedDate": "2016-09-21",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142822",
+			"receivedDate": "2016-09-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-10-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1665,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/667/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/667/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 116,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/667/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/667/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=667"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1809"
+		}
+	],
+	"euCode": "135232",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2004-05-31",
+			"name": "Beetles",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003354"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-10-15",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105777"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2009-03-03",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102875"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-09-27",
+			"name": "Non-marine Devonian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102876"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Gannochy Gorge",
+	"secondaryLocalAuthorities": [
+		"Aberdeenshire"
+	],
+	"snhArea": "Tayside and Grampian"
+}

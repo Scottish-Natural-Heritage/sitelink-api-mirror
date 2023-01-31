@@ -1,0 +1,203 @@
+{
+	"url": "/sitelink-api/v1/sites/294",
+	"id": 294,
+	"area": 60.04,
+	"casework": [
+		{
+			"code": "11606",
+			"receivedDate": "2003-06-09",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "15382",
+			"receivedDate": "2003-12-22",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "17202",
+			"receivedDate": "2004-04-07",
+			"response": "Information/Advice only",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "20168",
+			"receivedDate": "2004-09-02",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "37551",
+			"receivedDate": "2006-12-08",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "36310",
+			"receivedDate": "2006-10-19",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Site Search"
+		},
+		{
+			"code": "35926",
+			"receivedDate": "2006-10-03",
+			"response": "Information/Advice only",
+			"type": "Waste Tips / Landfill"
+		},
+		{
+			"code": "39806",
+			"receivedDate": "2007-03-27",
+			"response": "Information/Advice only",
+			"type": "Bats"
+		},
+		{
+			"code": "39938",
+			"receivedDate": "2007-03-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "46114",
+			"receivedDate": "2008-01-29",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "51063",
+			"receivedDate": "2008-10-10",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "56837",
+			"receivedDate": "2009-08-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "57513",
+			"receivedDate": "2009-09-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CPP164998",
+			"receivedDate": "2021-08-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA163026",
+			"receivedDate": "2021-05-05",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CDM136799",
+			"receivedDate": "2015-05-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC131288",
+			"receivedDate": "2014-06-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162453",
+			"receivedDate": "2021-03-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC162477",
+			"receivedDate": "2021-03-03",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA161673",
+			"receivedDate": "2021-01-06",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-03-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/294/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/294/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 129,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/294/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 904,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/294/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=294"
+		}
+	],
+	"euCode": "135390",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-05-29",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105509"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2009-08-07",
+			"name": "Valley fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101075"
+		}
+	],
+	"localAuthority": "West Lothian",
+	"name": "Calderwood",
+	"snhArea": "National Operations South"
+}

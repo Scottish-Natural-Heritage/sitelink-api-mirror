@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/823",
+	"id": 823,
+	"agreements": [
+		{
+			"area": 16.78,
+			"code": 82,
+			"property": "Jock's Gill Wood",
+			"term": 0,
+			"type": "Land Acquisition"
+		}
+	],
+	"area": 55.07,
+	"casework": [
+		{
+			"code": "9823",
+			"receivedDate": "2003-02-26",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "40530",
+			"receivedDate": "2007-05-02",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Species"
+		},
+		{
+			"code": "46894",
+			"receivedDate": "2008-03-11",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "59721",
+			"receivedDate": "2010-02-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "59123",
+			"receivedDate": "2010-01-05",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "CLC121549",
+			"receivedDate": "2013-02-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC122049",
+			"receivedDate": "2013-03-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC121668",
+			"receivedDate": "2013-02-05",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC127516",
+			"receivedDate": "2013-11-05",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM126286",
+			"receivedDate": "2013-09-10",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CDM125667",
+			"receivedDate": "2013-08-16",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CLC125806",
+			"receivedDate": "2013-08-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC126862",
+			"receivedDate": "2013-10-10",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN125412",
+			"receivedDate": "2013-08-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/823/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/823/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 423,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/823/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1757,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/823/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=823"
+		}
+	],
+	"euCode": "135528",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-04-02",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Beech",
+						"European Larch",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102589"
+		}
+	],
+	"localAuthority": "South Lanarkshire",
+	"name": "Jock's Gill Wood",
+	"snhArea": "National Operations West Central"
+}

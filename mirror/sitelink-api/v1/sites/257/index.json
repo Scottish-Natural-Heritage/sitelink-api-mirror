@@ -1,0 +1,102 @@
+{
+	"url": "/sitelink-api/v1/sites/257",
+	"id": 257,
+	"area": 1.9,
+	"casework": [
+		{
+			"code": "21516",
+			"receivedDate": "2004-10-14",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "33517",
+			"receivedDate": "2006-06-26",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "36810",
+			"receivedDate": "2006-10-30",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPP145479",
+			"receivedDate": "2017-04-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC167886",
+			"receivedDate": "2022-08-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN153508",
+			"receivedDate": "2018-12-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-08-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/257/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 156,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/257/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/257/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 145,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/257/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=257"
+		}
+	],
+	"euCode": "135350",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-31",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102745"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Brerachan Meadows",
+	"snhArea": "Tayside and Grampian"
+}

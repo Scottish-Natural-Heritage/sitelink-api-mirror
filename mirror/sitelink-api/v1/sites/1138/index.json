@@ -1,0 +1,107 @@
+{
+	"url": "/sitelink-api/v1/sites/1138",
+	"id": 1138,
+	"area": 476.64,
+	"casework": [
+		{
+			"code": "59032",
+			"receivedDate": "2009-12-08",
+			"response": "Information/Advice only",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "CPA157278",
+			"receivedDate": "2019-10-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM157850",
+			"receivedDate": "2020-01-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS139457",
+			"receivedDate": "2017-04-04",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CGS138927",
+			"receivedDate": "2015-11-03",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CDM159555",
+			"receivedDate": "2020-06-15",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CPA156446",
+			"receivedDate": "2019-08-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM147950",
+			"receivedDate": "2017-10-17",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 472,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1138/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 144,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1138/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1138/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1138/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1138"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=715"
+		}
+	],
+	"euCode": "135034",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-02-26",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000118"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Meall Imireach",
+	"snhArea": "National Operations Central Highland"
+}

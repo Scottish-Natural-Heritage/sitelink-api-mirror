@@ -1,0 +1,79 @@
+{
+	"url": "/sitelink-api/v1/sites/5046",
+	"id": 5046,
+	"agreements": [
+		{
+			"area": 41.27,
+			"code": 9087,
+			"expiryDate": "2029-03-31",
+			"property": "Eilean Ruaridh Mor Island",
+			"term": 9,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 223,
+			"code": 3371,
+			"expiryDate": "2025-10-31",
+			"property": "Loch Maree Islands",
+			"term": 20,
+			"type": "Land Lease"
+		}
+	],
+	"area": 200,
+	"casework": [
+		{
+			"code": "42134",
+			"receivedDate": "2007-06-03",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "GEN151442",
+			"receivedDate": "2018-07-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC162921",
+			"receivedDate": "2021-04-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC159793",
+			"receivedDate": "2020-07-06",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CPP163956",
+			"receivedDate": "2021-07-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA143405",
+			"receivedDate": "2016-10-25",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "NNR",
+		"date": "1977-09-19",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/national-nature-reserves",
+		"status": "Current",
+		"type": "National Nature Reserve"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "NNR Web Site",
+			"url": "https://www.nature.scot/enjoying-outdoors/places-visit/scotlands-national-nature-reserves/beinn-eighe-and-loch-maree-islands-national-nature-reserve"
+		}
+	],
+	"euCode": "11053",
+	"localAuthority": "Highland",
+	"name": "Loch Maree Islands",
+	"snhArea": "National Operations Central Highland"
+}

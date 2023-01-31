@@ -1,0 +1,173 @@
+{
+	"url": "/sitelink-api/v1/sites/10415",
+	"id": 10415,
+	"agreements": [
+		{
+			"area": 0,
+			"code": 8605,
+			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
+			"term": 0,
+			"type": "Fishing Order"
+		}
+	],
+	"area": 1200,
+	"casework": [
+		{
+			"code": "CPA133201",
+			"receivedDate": "2014-09-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133288",
+			"receivedDate": "2014-09-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC159324",
+			"receivedDate": "2020-05-25",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC161220",
+			"receivedDate": "2020-11-17",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CPA157615",
+			"receivedDate": "2019-12-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC166716",
+			"receivedDate": "2022-04-20",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC151018",
+			"receivedDate": "2018-06-12",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC158642",
+			"receivedDate": "2020-03-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC140519",
+			"receivedDate": "2016-03-14",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM156193",
+			"receivedDate": "2019-07-09",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC161515",
+			"receivedDate": "2020-12-15",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC157008",
+			"receivedDate": "2019-10-02",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC143824",
+			"receivedDate": "2016-11-22",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC144680",
+			"receivedDate": "2017-02-08",
+			"response": "No objection",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 14901,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/49"
+		},
+		{
+			"type": "Fishing Order",
+			"size": 109,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/47"
+		},
+		{
+			"type": "Fishing Order Map",
+			"size": 335,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/61"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 530,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 2580,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/48"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 1362,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10415/documents/50"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "NatureScot Web Site",
+			"url": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas/nature-conservation-4"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00456491.pdf"
+		}
+	],
+	"euCode": "555560464",
+	"features": [
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Flame shell beds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Quaternary geology and geomorphology",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Loch Creran",
+	"secondaryLocalAuthorities": [
+		"Argyll and Bute"
+	],
+	"snhArea": "National Operations West"
+}

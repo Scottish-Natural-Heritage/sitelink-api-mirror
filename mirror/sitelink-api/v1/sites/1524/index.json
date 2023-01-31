@@ -1,0 +1,203 @@
+{
+	"url": "/sitelink-api/v1/sites/1524",
+	"id": 1524,
+	"area": 410.67,
+	"casework": [
+		{
+			"code": "24854",
+			"receivedDate": "2005-04-06",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "28266",
+			"receivedDate": "2005-10-05",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "GEN148235",
+			"receivedDate": "2017-11-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC146289",
+			"receivedDate": "2017-06-14",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC135143",
+			"receivedDate": "2015-02-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC167678",
+			"receivedDate": "2022-07-12",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC123627",
+			"receivedDate": "2013-05-28",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC124799",
+			"receivedDate": "2013-07-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC150442",
+			"receivedDate": "2018-05-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC150810",
+			"receivedDate": "2018-05-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS150173",
+			"receivedDate": "2018-04-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN150329",
+			"receivedDate": "2018-04-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC149522",
+			"receivedDate": "2018-02-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC138373",
+			"receivedDate": "2015-09-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC132105",
+			"receivedDate": "2014-07-14",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "CDM129253",
+			"receivedDate": "2014-02-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153975",
+			"receivedDate": "2019-01-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC155517",
+			"receivedDate": "2019-05-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-05-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 84,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1524/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1524/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2544,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1524/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1524/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1524"
+		}
+	],
+	"euCode": "135083",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-06",
+			"name": "Dragonfly assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106416"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2021-07-08",
+			"name": "Juniper scrub",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005624"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-12-04",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106415"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-11-04",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100437"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Tayvallich Juniper and Fen",
+	"snhArea": "National Operations West"
+}

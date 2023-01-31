@@ -1,0 +1,154 @@
+{
+	"url": "/sitelink-api/v1/sites/1064",
+	"id": 1064,
+	"area": 102.62,
+	"casework": [
+		{
+			"code": "16436",
+			"receivedDate": "2004-02-25",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "38095",
+			"receivedDate": "2007-01-15",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "37286",
+			"receivedDate": "2006-11-27",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "67938",
+			"receivedDate": "2011-01-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "69725",
+			"receivedDate": "2011-06-09",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CLC115938",
+			"receivedDate": "2012-07-12",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN116729",
+			"receivedDate": "2012-08-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN115856",
+			"receivedDate": "2012-07-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC168792",
+			"receivedDate": "2022-10-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS168401",
+			"receivedDate": "2022-09-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP145763",
+			"receivedDate": "2017-05-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-05-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1064/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1064/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 111,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1064/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 659,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1064/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1064"
+		}
+	],
+	"euCode": "136125",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-09-08",
+			"name": "Oligo-mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106041"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "To Be Denotified",
+			"lastVisitDate": "2002-08-07",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000072"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Ussie",
+	"snhArea": "National Operations Central Highland"
+}

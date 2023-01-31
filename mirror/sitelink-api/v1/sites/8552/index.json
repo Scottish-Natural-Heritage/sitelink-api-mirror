@@ -1,0 +1,184 @@
+{
+	"url": "/sitelink-api/v1/sites/8552",
+	"id": 8552,
+	"agreements": [
+		{
+			"area": 1157,
+			"code": 2687,
+			"expiryDate": "2029-12-31",
+			"property": "Estate of Dinnet & Kinord",
+			"term": 25,
+			"type": "Nature Reserve Agreement (S.16)"
+		}
+	],
+	"area": 157.73,
+	"casework": [
+		{
+			"code": "29231",
+			"receivedDate": "2005-12-09",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "56443",
+			"receivedDate": "2009-08-04",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "67595",
+			"receivedDate": "2011-03-16",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "70269",
+			"receivedDate": "2011-07-18",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "68739",
+			"receivedDate": "2011-05-18",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "68774",
+			"receivedDate": "2011-05-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Species"
+		},
+		{
+			"code": "CLC134903",
+			"receivedDate": "2015-01-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP159388",
+			"receivedDate": "2020-05-25",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "COR163996",
+			"receivedDate": "2021-08-02",
+			"response": "Unresolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "GEN122457",
+			"receivedDate": "2013-04-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149588",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM153347",
+			"receivedDate": "2018-11-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN165787",
+			"receivedDate": "2022-01-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP165411",
+			"receivedDate": "2021-12-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "COR163819",
+			"receivedDate": "2021-07-15",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CDM125335",
+			"receivedDate": "2013-08-01",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156175",
+			"receivedDate": "2019-07-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161749",
+			"receivedDate": "2021-01-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SPA",
+		"date": "1999-05-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-protection-areas-spas",
+		"status": "Current",
+		"type": "Special Protection Area"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SPA Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8552/documents/16"
+		},
+		{
+			"type": "Conservation Objectives",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8552/documents/29"
+		},
+		{
+			"type": "SPA Map",
+			"size": 868,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8552/documents/45"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8552"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002791"
+		},
+		{
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002791.pdf"
+		}
+	],
+	"euCode": "UK9002791",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-11-05",
+			"name": "Greylag goose (Anser anser), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101674"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-12-01",
+			"name": "Waterfowl assemblage, non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107260"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Muir of Dinnet",
+	"snhArea": "Tayside and Grampian"
+}

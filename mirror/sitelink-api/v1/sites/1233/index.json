@@ -1,0 +1,202 @@
+{
+	"url": "/sitelink-api/v1/sites/1233",
+	"id": 1233,
+	"area": 43.59,
+	"casework": [
+		{
+			"code": "11269",
+			"receivedDate": "2003-05-21",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "16292",
+			"receivedDate": "2004-02-19",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "23304",
+			"receivedDate": "2005-02-09",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "32250",
+			"receivedDate": "2006-04-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "48571",
+			"receivedDate": "2008-06-10",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "51868",
+			"receivedDate": "2008-11-27",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CGS159531",
+			"receivedDate": "2020-06-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPA158119",
+			"receivedDate": "2020-01-24",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "ALC167388",
+			"receivedDate": "2022-03-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167534",
+			"receivedDate": "2022-06-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC164020",
+			"receivedDate": "2021-08-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166665",
+			"receivedDate": "2022-04-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA150613",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CLC159914",
+			"receivedDate": "2020-07-17",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC159915",
+			"receivedDate": "2020-07-17",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC137479",
+			"receivedDate": "2015-07-08",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS146126",
+			"receivedDate": "2017-06-05",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-10-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 120,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1233/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1233/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 27,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1233/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2597,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1233/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1233"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2003"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1582"
+		}
+	],
+	"euCode": "135176",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-18",
+			"name": "Arthropoda (excluding insects and trilobites)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107726"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-05",
+			"name": "Llandovery",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101325"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-21",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106179"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-21",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106180"
+		}
+	],
+	"localAuthority": "Midlothian",
+	"name": "North Esk Valley",
+	"secondaryLocalAuthorities": [
+		"Scottish Borders"
+	],
+	"snhArea": "National Operations South"
+}

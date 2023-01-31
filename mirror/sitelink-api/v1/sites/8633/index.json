@@ -1,0 +1,230 @@
+{
+	"url": "/sitelink-api/v1/sites/8633",
+	"id": 8633,
+	"area": 4171.19,
+	"casework": [
+		{
+			"code": "15324",
+			"receivedDate": "2003-12-17",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "19406",
+			"receivedDate": "2004-07-28",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "27741",
+			"receivedDate": "2005-09-09",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "29095",
+			"receivedDate": "2005-11-17",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Mineral Workings"
+		},
+		{
+			"code": "52837",
+			"receivedDate": "2009-01-29",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "CDM147936",
+			"receivedDate": "2017-10-13",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CLC167473",
+			"receivedDate": "2022-06-14",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CPA168614",
+			"receivedDate": "2022-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA167905",
+			"receivedDate": "2022-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC151878",
+			"receivedDate": "2018-08-10",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CPA150693",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM145657",
+			"receivedDate": "2017-04-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA145607",
+			"receivedDate": "2017-04-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM147563",
+			"receivedDate": "2017-09-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC148376",
+			"receivedDate": "2017-11-22",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 46,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8633/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 363,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8633/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 3513,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8633/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8633"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030343"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030343.pdf"
+		}
+	],
+	"euCode": "UK0030343",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-21",
+			"name": "Acidic scree",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107554"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-08-20",
+			"name": "Alpine and subalpine heaths",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Plant pests and diseases"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107552"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-10-29",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103101"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-22",
+			"name": "Montane acid grasslands",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107553"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-14",
+			"name": "Plants in crevices on acid rocks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107555"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-21",
+			"name": "Tall herb communities",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111563"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-14",
+			"name": "Wet heathland with cross-leaved heath",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112049"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Beinn Bhan",
+	"snhArea": "National Operations Central Highland"
+}

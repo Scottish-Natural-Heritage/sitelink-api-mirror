@@ -1,0 +1,123 @@
+{
+	"url": "/sitelink-api/v1/sites/1543",
+	"id": 1543,
+	"area": 6.1,
+	"casework": [
+		{
+			"code": "68697",
+			"receivedDate": "2011-05-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "CDM115888",
+			"receivedDate": "2012-07-17",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC112559",
+			"receivedDate": "2012-01-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC116757",
+			"receivedDate": "2012-08-13",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC114802",
+			"receivedDate": "2012-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM153379",
+			"receivedDate": "2018-11-27",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC165738",
+			"receivedDate": "2022-01-24",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPP157500",
+			"receivedDate": "2019-11-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1543/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1543/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 196,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1543/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 498,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1543/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1543"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2425"
+		}
+	],
+	"euCode": "134991",
+	"features": [
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-06-15",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103056"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-10-24",
+			"name": "Mineralogy of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106424"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Tomnadashan Mine",
+	"snhArea": "Tayside and Grampian"
+}

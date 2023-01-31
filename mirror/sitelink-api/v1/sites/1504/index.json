@@ -1,0 +1,154 @@
+{
+	"url": "/sitelink-api/v1/sites/1504",
+	"id": 1504,
+	"area": 82.82,
+	"casework": [
+		{
+			"code": "10597",
+			"receivedDate": "2003-04-02",
+			"response": "NCA - Issued application for consent form",
+			"type": "Telecommunications"
+		},
+		{
+			"code": "31949",
+			"receivedDate": "2006-03-24",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "43292",
+			"receivedDate": "2007-08-24",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "CLC127309",
+			"receivedDate": "2013-10-30",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC114461",
+			"receivedDate": "2012-05-02",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC152771",
+			"receivedDate": "2018-10-12",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA149914",
+			"receivedDate": "2018-03-23",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CGS153423",
+			"receivedDate": "2018-11-29",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP165201",
+			"receivedDate": "2021-11-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN154995",
+			"receivedDate": "2019-04-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA155776",
+			"receivedDate": "2019-06-07",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPP157496",
+			"receivedDate": "2019-11-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM148528",
+			"receivedDate": "2017-11-28",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-15",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 606,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1504/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 84,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1504/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1504/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1504/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1504"
+		}
+	],
+	"euCode": "135295",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-28",
+			"name": "Beetles",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107446"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-08-03",
+			"name": "Rannoch roller moth (Ancylis tineana)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107646"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-06-20",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106391"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Struan Wood",
+	"snhArea": "Tayside and Grampian"
+}

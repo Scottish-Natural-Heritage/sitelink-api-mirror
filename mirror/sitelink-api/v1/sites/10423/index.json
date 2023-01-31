@@ -1,0 +1,174 @@
+{
+	"url": "/sitelink-api/v1/sites/10423",
+	"id": 10423,
+	"agreements": [
+		{
+			"area": 0,
+			"code": 6816,
+			"property": "South Arran Marine Conservation Order 2015",
+			"term": 0,
+			"type": "Marine Conservation Order"
+		}
+	],
+	"area": 28000,
+	"casework": [
+		{
+			"code": "GEN159254",
+			"receivedDate": "2020-05-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC160883",
+			"receivedDate": "2020-10-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC153067",
+			"receivedDate": "2018-11-01",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CDM164856",
+			"receivedDate": "2021-10-25",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CLC140606",
+			"receivedDate": "2016-03-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC138747",
+			"receivedDate": "2015-10-21",
+			"response": "Conditioned objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC142031",
+			"receivedDate": "2016-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC130635",
+			"receivedDate": "2014-05-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM141400",
+			"receivedDate": "2016-05-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA142259",
+			"receivedDate": "2016-07-26",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 1891,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10423/documents/49"
+		},
+		{
+			"type": "Marine Conservation Order",
+			"size": 658,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10423/documents/54"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 1152,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10423/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 1396,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10423/documents/48"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 2413,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10423/documents/50"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "NatureScot Web Site",
+			"url": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas/nature-conservation-7"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00456829.pdf"
+		}
+	],
+	"euCode": "555560474",
+	"features": [
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Burrowed mud",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Kelp and seaweed communities on sublittoral sediment",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Maerl beds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Maerl or coarse shell gravel with burrowing sea cucumbers",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Other invertebrates",
+			"name": "Ocean quahog aggregations (Arctica islandica)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Seagrass beds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Inshore sublittoral sediment (Marine)",
+			"name": "Shallow tide-swept coarse sands with burrowing bivalves",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "South Arran",
+	"secondaryLocalAuthorities": [
+		"North Ayrshire"
+	],
+	"snhArea": "National Operations West Central"
+}

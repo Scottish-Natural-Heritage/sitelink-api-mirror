@@ -1,0 +1,67 @@
+{
+	"url": "/sitelink-api/v1/sites/1062",
+	"id": 1062,
+	"area": 7.31,
+	"casework": [
+		{
+			"code": "35501",
+			"receivedDate": "2006-09-11",
+			"response": "1. No Comment",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "ALC156318",
+			"receivedDate": "2019-07-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-06-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1062/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1062/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 120,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1062/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 510,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1062/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1062"
+		}
+	],
+	"euCode": "135054",
+	"features": [
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-27",
+			"name": "Brown bog-rush (Schoenus ferrugineus)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103851"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Loch Tummel Flush",
+	"snhArea": "Tayside and Grampian"
+}

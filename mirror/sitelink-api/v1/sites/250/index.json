@@ -1,0 +1,94 @@
+{
+	"url": "/sitelink-api/v1/sites/250",
+	"id": 250,
+	"area": 8.22,
+	"casework": [
+		{
+			"code": "ALC167264",
+			"receivedDate": "2022-06-06",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR121576",
+			"receivedDate": "2013-02-25",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC162800",
+			"receivedDate": "2021-04-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC154428",
+			"receivedDate": "2019-02-15",
+			"response": "S.15 Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CDM148700",
+			"receivedDate": "2017-12-15",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-04-06",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/250/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 139,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/250/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/250/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 597,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/250/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=250"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=406"
+		}
+	],
+	"euCode": "135548",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-12",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102528"
+		}
+	],
+	"localAuthority": "East Renfrewshire",
+	"name": "Boylestone Quarry",
+	"snhArea": "National Operations West Central"
+}

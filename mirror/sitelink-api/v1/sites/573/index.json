@@ -1,0 +1,57 @@
+{
+	"url": "/sitelink-api/v1/sites/573",
+	"id": 573,
+	"area": 5.17,
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/573/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/573/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 145,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/573/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 464,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/573/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=573"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=37"
+		}
+	],
+	"euCode": "136150",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-10-12",
+			"name": "Hettangian, Sinemurian, Pliensbachian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101905"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Dunrobin Coast",
+	"snhArea": "National Operations North"
+}

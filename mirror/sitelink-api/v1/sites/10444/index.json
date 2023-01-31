@@ -1,0 +1,53 @@
+{
+	"url": "/sitelink-api/v1/sites/10444",
+	"id": 10444,
+	"area": 92500,
+	"casework": [
+		{
+			"code": "CEA166447",
+			"receivedDate": "2022-03-25",
+			"response": "Advice only",
+			"type": "SEA"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00457019.pdf"
+		},
+		{
+			"type": "JNCC MPA Site Details",
+			"url": "http://jncc.defra.gov.uk/page-6476"
+		}
+	],
+	"euCode": "555560480",
+	"features": [
+		{
+			"category": "Offshore sublittoral sediment (Marine)",
+			"name": "Burrowed mud",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Quaternary geology and geomorphology",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "UK Offshore waters (Scotland)",
+	"name": "Central Fladen",
+	"snhArea": "JNCC"
+}

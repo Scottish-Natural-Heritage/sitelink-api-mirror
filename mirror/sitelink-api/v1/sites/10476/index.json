@@ -1,0 +1,132 @@
+{
+	"url": "/sitelink-api/v1/sites/10476",
+	"id": 10476,
+	"area": 90700,
+	"casework": [
+		{
+			"code": "CDM156215",
+			"receivedDate": "2019-07-15",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CLC156904",
+			"receivedDate": "2019-09-20",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC166361",
+			"receivedDate": "2022-03-16",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA168629",
+			"receivedDate": "2022-10-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA151553",
+			"receivedDate": "2018-07-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC166568",
+			"receivedDate": "2022-04-04",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC163427",
+			"receivedDate": "2021-06-14",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CDM162230",
+			"receivedDate": "2021-02-25",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		}
+	],
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2020-12-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "Conservation and Management Advice",
+			"size": 1738,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10476/documents/59"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 3176,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10476/documents/50"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 1330,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10476/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 895,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10476/documents/48"
+		},
+		{
+			"type": "MPA Site Summary (gaelic)",
+			"size": 892,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10476/documents/65"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "https://www.gov.scot/binaries/content/documents/govscot/publications/factsheet/2020/12/developing-scotlands-marine-protected-area-network/documents/the-north-east-lewis-nature-conservation-marine-protected-area-order-2020/the-north-east-lewis-nature-conservation-marine-protected-area-order-2020/govscot%3Adocument/The%2BNorth-east%2BLewis%2BNature%2BConservation%2BMPA%2BOrder%2B2020%2B-%2BFINAL%2Bunsigned.pdf"
+		},
+		{
+			"type": "Possible Nature Conservation MPA Consultation",
+			"url": "https://www.nature.scot/possible-nature-conservation-mpa-advice-documents-north-east-lewis"
+		}
+	],
+	"euCode": "555703753",
+	"features": [
+		{
+			"category": "Geomorphology",
+			"name": "Marine Geomorphology of the Scottish Shelf Seabed",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Quaternary geology and geomorphology",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Mammals (Marine)",
+			"name": "Risso's dolphin (Grampus griseus)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Fish",
+			"name": "Sandeels (Ammodytes marinus / Ammodytes tobianus) ",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "North-east Lewis",
+	"snhArea": "National Operations West"
+}

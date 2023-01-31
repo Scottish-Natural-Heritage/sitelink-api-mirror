@@ -1,0 +1,189 @@
+{
+	"url": "/sitelink-api/v1/sites/945",
+	"id": 945,
+	"area": 108,
+	"casework": [
+		{
+			"code": "CDM169072",
+			"receivedDate": "2022-11-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM124968",
+			"receivedDate": "2013-07-19",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN124178",
+			"receivedDate": "2013-06-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC124505",
+			"receivedDate": "2013-07-02",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CEA123097",
+			"receivedDate": "2013-05-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC146677",
+			"receivedDate": "2017-07-11",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM164548",
+			"receivedDate": "2021-09-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS138248",
+			"receivedDate": "2015-09-08",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS138300",
+			"receivedDate": "2015-09-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA132221",
+			"receivedDate": "2014-07-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA125541",
+			"receivedDate": "2013-08-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM123492",
+			"receivedDate": "2013-05-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125949",
+			"receivedDate": "2013-08-29",
+			"response": "No Comment",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-02-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 100,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/945/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/945/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 26,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/945/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1797,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/945/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=945"
+		}
+	],
+	"euCode": "135605",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-22",
+			"name": "Base-rich loch",
+			"pressures": [
+				{
+					"keywords": [
+						"Sitka Spruce"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100263"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-17",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107706"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-08-25",
+			"name": "Marsh fritillary butterfly (Euphydryas aurinia)",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107502"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-05-16",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105953"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "Lismore Lochs",
+	"snhArea": "National Operations West"
+}

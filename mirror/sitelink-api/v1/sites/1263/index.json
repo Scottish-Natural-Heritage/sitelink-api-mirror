@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/1263",
+	"id": 1263,
+	"area": 3.99,
+	"casework": [
+		{
+			"code": "11419",
+			"receivedDate": "2003-06-02",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "26141",
+			"receivedDate": "2005-07-04",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "63827",
+			"receivedDate": "2010-08-23",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CPP130448",
+			"receivedDate": "2014-04-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN142303",
+			"receivedDate": "2016-07-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-07-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 522,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1263/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 94,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1263/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1263/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1263/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1263"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=930"
+		}
+	],
+	"euCode": "135446",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-10-10",
+			"name": "Silurian - Devonian Chordata",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101332"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Oxendean Burn",
+	"snhArea": "National Operations South"
+}

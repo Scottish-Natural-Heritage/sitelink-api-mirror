@@ -1,0 +1,62 @@
+{
+	"url": "/sitelink-api/v1/sites/676",
+	"id": 676,
+	"area": 3.48,
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-09-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/676/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/676/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 141,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/676/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 764,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/676/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=676"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=704"
+		}
+	],
+	"euCode": "135950",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-12-11",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100875"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Gartally Limestone Quarries",
+	"snhArea": "National Operations Central Highland"
+}

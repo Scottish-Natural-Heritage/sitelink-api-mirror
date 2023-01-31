@@ -1,0 +1,68 @@
+{
+	"url": "/sitelink-api/v1/sites/10410",
+	"id": 10410,
+	"area": 1300,
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2014-08-07",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Boundary Map",
+			"size": 15060,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10410/documents/49"
+		},
+		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 771,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10410/documents/51"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 1530,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10410/documents/48"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 1677,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10410/documents/50"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "NatureScot Web Site",
+			"url": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas/nature-conservation-3"
+		},
+		{
+			"type": "MPA Designation Order",
+			"url": "http://www.scotland.gov.uk/Resource/0045/00456497.pdf"
+		}
+	],
+	"euCode": "555560470",
+	"features": [
+		{
+			"category": "Geomorphology",
+			"name": "Marine Geomorphology of the Scottish Shelf Seabed",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		},
+		{
+			"category": "Fish",
+			"name": "Sandeels (Ammodytes marinus / Ammodytes tobianus) ",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Mousa to Boddam",
+	"secondaryLocalAuthorities": [
+		"Shetland Islands"
+	],
+	"snhArea": "National Operations North"
+}

@@ -1,0 +1,91 @@
+{
+	"url": "/sitelink-api/v1/sites/1189",
+	"id": 1189,
+	"area": 11.46,
+	"casework": [
+		{
+			"code": "23576",
+			"receivedDate": "2005-03-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "CLC112840",
+			"receivedDate": "2012-03-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "ALC167389",
+			"receivedDate": "2022-03-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN159457",
+			"receivedDate": "2020-05-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-07-03",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1189/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1189/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 125,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1189/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 587,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1189/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1189"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2969"
+		}
+	],
+	"euCode": "135617",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-05-13",
+			"name": "Llandeilo",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111673"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Morroch Bay",
+	"snhArea": "National Operations South"
+}

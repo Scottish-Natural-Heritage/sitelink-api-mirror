@@ -1,0 +1,194 @@
+{
+	"url": "/sitelink-api/v1/sites/230",
+	"id": 230,
+	"agreements": [
+		{
+			"area": 69.34,
+			"code": 360,
+			"property": "Blawhorn Moss",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 37.94,
+			"code": 2280,
+			"property": "Blawhorn Moss",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 1.56,
+			"code": 2282,
+			"property": "Blawhorn Moss",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 109,
+			"code": 841931,
+			"expiryDate": "2022-12-31",
+			"property": "Blawhorn Moss",
+			"term": 0,
+			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
+		},
+		{
+			"area": 0.05,
+			"code": 7742,
+			"expiryDate": "2029-11-18",
+			"property": "Car park/access - Blawhorn Moss",
+			"term": 10,
+			"type": "Land Lease"
+		},
+		{
+			"area": 19.25,
+			"code": 8759,
+			"expiryDate": "2029-12-31",
+			"property": "Drumbeg Conservation Area",
+			"term": 10,
+			"type": "Wider Countryside Agreement (S.49)"
+		}
+	],
+	"area": 109,
+	"casework": [
+		{
+			"code": "20645",
+			"receivedDate": "2004-09-27",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Gas"
+		},
+		{
+			"code": "19948",
+			"receivedDate": "2004-08-20",
+			"response": "Information/Advice only",
+			"type": "Gas"
+		},
+		{
+			"code": "19415",
+			"receivedDate": "2004-07-28",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Gas"
+		},
+		{
+			"code": "18745",
+			"receivedDate": "2004-07-01",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "38841",
+			"receivedDate": "2007-02-13",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "43581",
+			"receivedDate": "2007-09-10",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "43107",
+			"receivedDate": "2007-06-04",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CEA135716",
+			"receivedDate": "2015-03-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC157555",
+			"receivedDate": "2019-11-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS167301",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPA160363",
+			"receivedDate": "2020-08-06",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CEA131545",
+			"receivedDate": "2014-06-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP128508",
+			"receivedDate": "2014-01-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC143555",
+			"receivedDate": "2016-10-17",
+			"response": "Advice only",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-07-26",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1217,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/230/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 99,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/230/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/230/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/230/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=230"
+		}
+	],
+	"euCode": "135293",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-08-21",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101064"
+		}
+	],
+	"localAuthority": "West Lothian",
+	"name": "Blawhorn Moss",
+	"snhArea": "National Operations South"
+}

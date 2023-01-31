@@ -1,0 +1,220 @@
+{
+	"url": "/sitelink-api/v1/sites/1613",
+	"id": 1613,
+	"area": 350.98,
+	"casework": [
+		{
+			"code": "16965",
+			"receivedDate": "2004-03-25",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "23448",
+			"receivedDate": "2005-02-04",
+			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "31670",
+			"receivedDate": "2006-03-24",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "36874",
+			"receivedDate": "2006-11-13",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "37498",
+			"receivedDate": "2006-12-05",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "35812",
+			"receivedDate": "2006-09-25",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "43698",
+			"receivedDate": "2007-09-14",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "51283",
+			"receivedDate": "2008-10-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CPP135039",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CEA117448",
+			"receivedDate": "2012-09-13",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM153360",
+			"receivedDate": "2018-11-26",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS146879",
+			"receivedDate": "2017-07-24",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP146641",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPA140055",
+			"receivedDate": "2016-02-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC140510",
+			"receivedDate": "2016-03-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CGS157060",
+			"receivedDate": "2019-10-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CEA144124",
+			"receivedDate": "2016-12-20",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-02-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 77,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1613/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2613,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1613/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1613/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1613/documents/1"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1613"
+		}
+	],
+	"euCode": "135840",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-21",
+			"name": "Arctic skua (Stercorarius parasiticus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106510"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-07-20",
+			"name": "Arctic tern (Sterna paradisaea), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106511"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-08",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106512"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-08",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106513"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-12",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106509"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-08",
+			"name": "Razorbill (Alca torda), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106514"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-06-08",
+			"name": "Seabird colony, breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107468"
+		}
+	],
+	"localAuthority": "Orkney Islands",
+	"name": "West Westray",
+	"snhArea": "National Operations North"
+}

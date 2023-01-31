@@ -1,0 +1,99 @@
+{
+	"url": "/sitelink-api/v1/sites/967",
+	"id": 967,
+	"area": 16.97,
+	"casework": [
+		{
+			"code": "25912",
+			"receivedDate": "2005-06-10",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "46364",
+			"receivedDate": "2008-02-13",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CPP135783",
+			"receivedDate": "2015-03-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC112917",
+			"receivedDate": "2012-03-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC120275",
+			"receivedDate": "2013-01-14",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR142481",
+			"receivedDate": "2016-08-11",
+			"response": "Information only",
+			"type": "General Enquiries"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-09-27",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/967/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/967/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 97,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/967/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 869,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/967/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=967"
+		}
+	],
+	"euCode": "135959",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-01",
+			"name": "Dragonfly assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105965"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Loch Bran",
+	"snhArea": "National Operations Central Highland"
+}

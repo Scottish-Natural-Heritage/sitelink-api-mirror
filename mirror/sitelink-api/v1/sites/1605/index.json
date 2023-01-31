@@ -1,0 +1,89 @@
+{
+	"url": "/sitelink-api/v1/sites/1605",
+	"id": 1605,
+	"area": 1876.4,
+	"casework": [
+		{
+			"code": "COR130109",
+			"receivedDate": "2014-04-03",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CEA152076",
+			"receivedDate": "2018-08-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA149065",
+			"receivedDate": "2018-01-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1992-03-25",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1111,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1605/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1605/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1605/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 49,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1605/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1605"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=979"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=224"
+		}
+	],
+	"euCode": "135510",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-09-16",
+			"name": "Coastal Geomorphology of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100467"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-11-12",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107566"
+		}
+	],
+	"localAuthority": "Argyll and Bute",
+	"name": "West Coast of Jura",
+	"snhArea": "National Operations West"
+}

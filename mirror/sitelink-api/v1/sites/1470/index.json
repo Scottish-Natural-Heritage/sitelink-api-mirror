@@ -1,0 +1,97 @@
+{
+	"url": "/sitelink-api/v1/sites/1470",
+	"id": 1470,
+	"area": 2.27,
+	"casework": [
+		{
+			"code": "21684",
+			"receivedDate": "2004-11-19",
+			"response": "Information/Advice only",
+			"type": "Trunk Roads"
+		},
+		{
+			"code": "43265",
+			"receivedDate": "2007-08-24",
+			"response": "Information/Advice only",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "54007",
+			"receivedDate": "2009-04-07",
+			"response": "Information/Advice only",
+			"type": "Core Paths Plans"
+		},
+		{
+			"code": "CDM146052",
+			"receivedDate": "2017-06-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-12-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 514,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1470/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 38,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1470/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1470/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1470/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1470"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2659"
+		}
+	],
+	"euCode": "135094",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Partially destroyed",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-01-13",
+			"name": "Dalradian",
+			"pressures": [
+				{
+					"keywords": [
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106367"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "St John's Church",
+	"snhArea": "National Operations Central Highland"
+}

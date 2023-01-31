@@ -1,0 +1,142 @@
+{
+	"url": "/sitelink-api/v1/sites/26",
+	"id": 26,
+	"agreements": [
+		{
+			"area": 30.76,
+			"code": 471,
+			"expiryDate": "2031-01-14",
+			"property": "Airds Estate",
+			"term": 50,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 28.9,
+	"casework": [
+		{
+			"code": "16282",
+			"receivedDate": "2004-01-18",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "47958",
+			"receivedDate": "2008-05-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CPP144898",
+			"receivedDate": "2017-02-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP163233",
+			"receivedDate": "2021-05-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC118242",
+			"receivedDate": "2012-10-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP117119",
+			"receivedDate": "2012-08-31",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC165472",
+			"receivedDate": "2021-11-30",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP126075",
+			"receivedDate": "2013-09-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-11-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/26/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/26/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/26/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 692,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/26/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=26"
+		}
+	],
+	"euCode": "135586",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionSummary": "Not Assessed",
+			"name": "Upland mixed ash woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-05-13",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Beech",
+						"Horse Chestnut",
+						"Sitka Spruce",
+						"Sycamore"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111442"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Airds of Kells Wood",
+	"snhArea": "National Operations South"
+}

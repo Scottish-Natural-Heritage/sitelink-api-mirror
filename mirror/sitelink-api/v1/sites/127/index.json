@@ -1,0 +1,83 @@
+{
+	"url": "/sitelink-api/v1/sites/127",
+	"id": 127,
+	"area": 0.67,
+	"casework": [
+		{
+			"code": "10859",
+			"receivedDate": "2003-04-24",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "29560",
+			"receivedDate": "2005-12-07",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "35821",
+			"receivedDate": "2006-09-14",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "48261",
+			"receivedDate": "2008-05-02",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/127/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 85,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/127/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/127/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 497,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/127/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=127"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=390"
+		}
+	],
+	"euCode": "135228",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-10-11",
+			"name": "Palaeozoic Palaeobotany",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100026"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Ballanucater",
+	"snhArea": "National Operations South"
+}

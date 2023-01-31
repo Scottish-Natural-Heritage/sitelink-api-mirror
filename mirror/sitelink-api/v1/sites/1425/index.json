@@ -1,0 +1,160 @@
+{
+	"url": "/sitelink-api/v1/sites/1425",
+	"id": 1425,
+	"area": 24.56,
+	"casework": [
+		{
+			"code": "17328",
+			"receivedDate": "2004-04-08",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "24004",
+			"receivedDate": "2005-03-17",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "21527",
+			"receivedDate": "2004-11-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "49045",
+			"receivedDate": "2008-07-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "69842",
+			"receivedDate": "2011-06-30",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "CLC129871",
+			"receivedDate": "2014-03-20",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA151153",
+			"receivedDate": "2018-06-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM118154",
+			"receivedDate": "2012-10-11",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA153075",
+			"receivedDate": "2018-11-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM153224",
+			"receivedDate": "2018-11-15",
+			"response": "Conditioned objection",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CLC164569",
+			"receivedDate": "2021-09-23",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "GEN138289",
+			"receivedDate": "2015-09-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN140834",
+			"receivedDate": "2016-04-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-02-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1694,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1425/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1425/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1425/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 136,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1425/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1425"
+		}
+	],
+	"euCode": "135530",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-07-02",
+			"name": "Fen meadow",
+			"pressures": [
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111407"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-07-29",
+			"name": "Lowland mixed broadleaved woodland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000882"
+		}
+	],
+	"localAuthority": "Inverclyde",
+	"name": "Shielhill Glen",
+	"snhArea": "National Operations West Central"
+}

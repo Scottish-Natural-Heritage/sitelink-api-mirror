@@ -1,0 +1,102 @@
+{
+	"url": "/sitelink-api/v1/sites/10526",
+	"id": 10526,
+	"agreements": [
+		{
+			"area": 13.6,
+			"code": 563,
+			"expiryDate": "2081-01-05",
+			"property": "Crubag",
+			"term": 92,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 366.3,
+			"code": 872,
+			"expiryDate": "2082-09-19",
+			"property": "Maol Donn",
+			"term": 92,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 96.7,
+			"code": 1444,
+			"expiryDate": "2081-01-05",
+			"property": "North Burn",
+			"term": 92,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 248.1,
+			"code": 561,
+			"expiryDate": "2081-01-05",
+			"property": "Talaheel",
+			"term": 92,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 11373,
+			"code": 4225,
+			"property": "The Flows",
+			"term": 0,
+			"type": "Approved Body Agreement (S.35)"
+		}
+	],
+	"area": 15380.8,
+	"casework": [
+		{
+			"code": "ALC145691",
+			"receivedDate": "2017-04-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA163244",
+			"receivedDate": "2021-05-26",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "GEN151636",
+			"receivedDate": "2018-07-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC162904",
+			"receivedDate": "2021-04-27",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA162520",
+			"receivedDate": "2021-03-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM156686",
+			"receivedDate": "2019-08-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "NNR",
+		"date": "2016-09-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/national-nature-reserves",
+		"status": "Current",
+		"type": "National Nature Reserve"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "NNR Web Site",
+			"url": "https://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/f/forsinard/index.aspx"
+		}
+	],
+	"euCode": "387445",
+	"localAuthority": "Highland",
+	"name": "Forsinard Flows",
+	"snhArea": "National Operations North"
+}

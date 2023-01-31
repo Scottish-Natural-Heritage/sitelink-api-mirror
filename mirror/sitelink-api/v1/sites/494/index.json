@@ -1,0 +1,120 @@
+{
+	"url": "/sitelink-api/v1/sites/494",
+	"id": 494,
+	"area": 18.98,
+	"casework": [
+		{
+			"code": "50111",
+			"receivedDate": "2008-08-21",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65761",
+			"receivedDate": "2010-10-26",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "CPP129386",
+			"receivedDate": "2014-02-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN151630",
+			"receivedDate": "2018-07-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP127063",
+			"receivedDate": "2013-10-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN131490",
+			"receivedDate": "2014-06-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-07-10",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/494/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 148,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/494/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/494/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 603,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/494/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=494"
+		}
+	],
+	"euCode": "139934",
+	"features": [
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-08-09",
+			"name": "Lowland wet heath",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004757"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-11",
+			"name": "Moths",
+			"pressures": [
+				{
+					"keywords": [
+						"Phytophthora austrocedrae on Juniper (Juniper dieback) A734125"
+					],
+					"name": "Plant pests and diseases"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105648"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-06",
+			"name": "Springs (including flushes)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105647"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Dam Wood",
+	"snhArea": "National Operations Central Highland"
+}

@@ -1,0 +1,200 @@
+{
+	"url": "/sitelink-api/v1/sites/1406",
+	"id": 1406,
+	"area": 36.8,
+	"casework": [
+		{
+			"code": "43488",
+			"receivedDate": "2007-09-04",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "47788",
+			"receivedDate": "2008-05-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "55044",
+			"receivedDate": "2009-05-22",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "55583",
+			"receivedDate": "2009-06-29",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "60920",
+			"receivedDate": "2010-04-12",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "ALC136005",
+			"receivedDate": "2015-03-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC129601",
+			"receivedDate": "2014-03-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM159361",
+			"receivedDate": "2020-05-28",
+			"response": "No Comment",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM159995",
+			"receivedDate": "2020-07-27",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM159748",
+			"receivedDate": "2020-07-01",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM156280",
+			"receivedDate": "2019-07-19",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151194",
+			"receivedDate": "2018-06-21",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM159939",
+			"receivedDate": "2020-07-22",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CEA125471",
+			"receivedDate": "2013-08-08",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM159780",
+			"receivedDate": "2020-07-06",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM155126",
+			"receivedDate": "2019-04-16",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM156823",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM156822",
+			"receivedDate": "2019-09-12",
+			"response": "No Comment",
+			"type": "Post Application"
+		},
+		{
+			"code": "CLC156949",
+			"receivedDate": "2019-09-26",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CDM154887",
+			"receivedDate": "2019-03-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157584",
+			"receivedDate": "2019-11-29",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CEA141941",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1406/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1406/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 932,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1406/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 41,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1406/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1406"
+		}
+	],
+	"euCode": "135821",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-08-04",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001921"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-26",
+			"name": "Open water transition fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004058"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Sandwater",
+	"snhArea": "National Operations North"
+}

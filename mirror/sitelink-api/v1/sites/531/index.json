@@ -1,0 +1,135 @@
+{
+	"url": "/sitelink-api/v1/sites/531",
+	"id": 531,
+	"area": 23.17,
+	"casework": [
+		{
+			"code": "23758",
+			"receivedDate": "2005-03-14",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "38821",
+			"receivedDate": "2007-02-26",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "46177",
+			"receivedDate": "2007-12-13",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "CDM133173",
+			"receivedDate": "2014-09-09",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA163640",
+			"receivedDate": "2021-07-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC135089",
+			"receivedDate": "2015-01-30",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CDM132534",
+			"receivedDate": "2014-08-08",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125572",
+			"receivedDate": "2013-08-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128416",
+			"receivedDate": "2014-01-07",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA127651",
+			"receivedDate": "2013-11-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM124164",
+			"receivedDate": "2013-06-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-12-11",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/531/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 30,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/531/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 105,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/531/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 535,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/531/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=531"
+		}
+	],
+	"euCode": "135408",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-07-07",
+			"name": "Raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105676"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Drone Moss",
+	"snhArea": "National Operations South"
+}

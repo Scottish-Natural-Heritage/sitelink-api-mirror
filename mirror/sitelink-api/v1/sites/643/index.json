@@ -1,0 +1,148 @@
+{
+	"url": "/sitelink-api/v1/sites/643",
+	"id": 643,
+	"area": 12.18,
+	"casework": [
+		{
+			"code": "10437",
+			"receivedDate": "2003-01-07",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "17359",
+			"receivedDate": "2004-04-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "22996",
+			"receivedDate": "2005-01-20",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "25922",
+			"receivedDate": "2005-06-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "26606",
+			"receivedDate": "2005-07-22",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "28870",
+			"receivedDate": "2005-11-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "33623",
+			"receivedDate": "2006-06-26",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "37371",
+			"receivedDate": "2006-12-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "41664",
+			"receivedDate": "2007-06-20",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "44838",
+			"receivedDate": "2007-11-15",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "69969",
+			"receivedDate": "2011-07-05",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC153308",
+			"receivedDate": "2018-11-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC137649",
+			"receivedDate": "2015-07-23",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/643/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 94,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/643/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 667,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/643/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/643/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=643"
+		}
+	],
+	"euCode": "135400",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-09-25",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Gorse",
+						"Scrub"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112097"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Fleecefaulds Meadow",
+	"snhArea": "National Operations South"
+}

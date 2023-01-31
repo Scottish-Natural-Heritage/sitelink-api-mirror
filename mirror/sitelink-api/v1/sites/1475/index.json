@@ -1,0 +1,124 @@
+{
+	"url": "/sitelink-api/v1/sites/1475",
+	"id": 1475,
+	"area": 12.36,
+	"casework": [
+		{
+			"code": "15395",
+			"receivedDate": "2003-12-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "15396",
+			"receivedDate": "2003-12-22",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "COR163127",
+			"receivedDate": "2021-05-05",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR163193",
+			"receivedDate": "2021-04-08",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CGS152677",
+			"receivedDate": "2018-10-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN162863",
+			"receivedDate": "2020-11-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR162803",
+			"receivedDate": "2021-04-02",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC165864",
+			"receivedDate": "2022-02-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC141812",
+			"receivedDate": "2016-06-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-02-03",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 591,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1475/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 74,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1475/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1475/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 18,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1475/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1475"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1930"
+		}
+	],
+	"euCode": "135811",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-07-22",
+			"name": "Coastal Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000799"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "St Ninian's Tombolo",
+	"snhArea": "National Operations North"
+}

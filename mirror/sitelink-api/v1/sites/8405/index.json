@@ -1,0 +1,159 @@
+{
+	"url": "/sitelink-api/v1/sites/8405",
+	"id": 8405,
+	"area": 99.62,
+	"casework": [
+		{
+			"code": "14001",
+			"receivedDate": "2003-10-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "12905",
+			"receivedDate": "2003-06-02",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "19373",
+			"receivedDate": "2004-07-27",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "14634",
+			"receivedDate": "2003-11-11",
+			"response": "Information/Advice only",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "25503",
+			"receivedDate": "2005-05-31",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "42579",
+			"receivedDate": "2007-07-23",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "37344",
+			"receivedDate": "2006-11-22",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "62762",
+			"receivedDate": "2010-05-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPP130123",
+			"receivedDate": "2014-04-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM168471",
+			"receivedDate": "2022-09-21",
+			"response": "No Comment",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM163210",
+			"receivedDate": "2021-05-24",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "GEN164553",
+			"receivedDate": "2021-09-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160090",
+			"receivedDate": "2020-08-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM161901",
+			"receivedDate": "2021-01-27",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 43,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8405/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 623,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8405/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 1543,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8405/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8405"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030297"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030297.pdf"
+		}
+	],
+	"euCode": "UK0030297",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-11-09",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100649"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Upper Nithsdale Woods",
+	"snhArea": "National Operations South"
+}

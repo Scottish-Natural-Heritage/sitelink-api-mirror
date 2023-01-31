@@ -1,0 +1,77 @@
+{
+	"url": "/sitelink-api/v1/sites/56",
+	"id": 56,
+	"area": 64.81,
+	"casework": [
+		{
+			"code": "25642",
+			"receivedDate": "2005-02-11",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "CPA166356",
+			"receivedDate": "2022-02-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC125564",
+			"receivedDate": "2013-05-08",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-09-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/56/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 509,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/56/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/56/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 62,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/56/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=56"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=76"
+		}
+	],
+	"euCode": "135928",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-01-18",
+			"name": "Tertiary Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000195"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "An Cleireach",
+	"snhArea": "National Operations Central Highland"
+}

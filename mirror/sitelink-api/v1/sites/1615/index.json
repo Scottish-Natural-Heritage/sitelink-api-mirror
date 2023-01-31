@@ -1,0 +1,115 @@
+{
+	"url": "/sitelink-api/v1/sites/1615",
+	"id": 1615,
+	"area": 3.46,
+	"casework": [
+		{
+			"code": "38609",
+			"receivedDate": "2007-02-07",
+			"response": "NCA - Issued application for consent form",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "41772",
+			"receivedDate": "2007-06-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "46447",
+			"receivedDate": "2008-02-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "46448",
+			"receivedDate": "2008-02-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "70672",
+			"receivedDate": "2011-08-05",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC145521",
+			"receivedDate": "2017-04-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC138522",
+			"receivedDate": "2015-09-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-04-24",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1615/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 823,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1615/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 96,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1615/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1615/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1615"
+		}
+	],
+	"euCode": "135392",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-09-05",
+			"name": "Lowland acid grassland",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106516"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-09-05",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106517"
+		}
+	],
+	"localAuthority": "City of Edinburgh",
+	"name": "Wester Craiglockhart Hill",
+	"snhArea": "National Operations South"
+}

@@ -1,0 +1,125 @@
+{
+	"url": "/sitelink-api/v1/sites/1298",
+	"id": 1298,
+	"area": 32.11,
+	"casework": [
+		{
+			"code": "CLC157564",
+			"receivedDate": "2019-11-26",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CDM168091",
+			"receivedDate": "2022-08-18",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CPA117394",
+			"receivedDate": "2012-09-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA164403",
+			"receivedDate": "2021-09-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC166065",
+			"receivedDate": "2022-02-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA166144",
+			"receivedDate": "2022-02-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140360",
+			"receivedDate": "2016-02-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA137663",
+			"receivedDate": "2015-07-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA130645",
+			"receivedDate": "2014-05-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM161399",
+			"receivedDate": "2020-12-04",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-06-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 1415,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1298/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 88,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1298/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1298/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1298/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1298"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2822"
+		}
+	],
+	"euCode": "135563",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-03-26",
+			"name": "Upper Carboniferous [Namurian (part) - Westphalian]",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100608"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Polhote and Polneul Burns",
+	"snhArea": "National Operations South"
+}

@@ -1,0 +1,108 @@
+{
+	"url": "/sitelink-api/v1/sites/1600",
+	"id": 1600,
+	"area": 3.78,
+	"casework": [
+		{
+			"code": "40209",
+			"receivedDate": "2007-04-17",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "42890",
+			"receivedDate": "2007-08-09",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "43060",
+			"receivedDate": "2007-08-16",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "55584",
+			"receivedDate": "2009-06-23",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "CPA153702",
+			"receivedDate": "2018-12-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP165994",
+			"receivedDate": "2022-02-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC156390",
+			"receivedDate": "2019-07-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN148287",
+			"receivedDate": "2017-11-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1986-08-04",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 640,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1600/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1600/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 31,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1600/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 103,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1600/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1600"
+		}
+	],
+	"euCode": "135454",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-06-14",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103073"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Weem Meadow",
+	"snhArea": "Tayside and Grampian"
+}

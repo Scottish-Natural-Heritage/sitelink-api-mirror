@@ -1,0 +1,156 @@
+{
+	"url": "/sitelink-api/v1/sites/1614",
+	"id": 1614,
+	"area": 18.66,
+	"casework": [
+		{
+			"code": "26999",
+			"receivedDate": "2005-06-17",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "39497",
+			"receivedDate": "2007-02-22",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "38165",
+			"receivedDate": "2006-12-13",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "38169",
+			"receivedDate": "2007-01-03",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "46818",
+			"receivedDate": "2008-01-18",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "53367",
+			"receivedDate": "2008-12-16",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CPP147585",
+			"receivedDate": "2017-09-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC151344",
+			"receivedDate": "2018-06-26",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN133099",
+			"receivedDate": "2014-07-24",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "ALC141715",
+			"receivedDate": "2016-06-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC141401",
+			"receivedDate": "2016-05-03",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP141426",
+			"receivedDate": "2016-05-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1614/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 597,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1614/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1614/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1614/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1614"
+		}
+	],
+	"euCode": "135438",
+	"features": [
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2020-06-15",
+			"name": "Lowland dry heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112456"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-18",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Infrastructure\r\n"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100473"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2020-06-15",
+			"name": "Lowland wet heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112457"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2020-08-15",
+			"name": "Valley fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112454"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Wester Balgair Meadow",
+	"snhArea": "National Operations South"
+}

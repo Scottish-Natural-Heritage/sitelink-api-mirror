@@ -1,0 +1,106 @@
+{
+	"url": "/sitelink-api/v1/sites/8404",
+	"id": 8404,
+	"agreements": [
+		{
+			"area": 4.68,
+			"code": 8269,
+			"expiryDate": "2023-05-29",
+			"property": "Craiglearan",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 6.54,
+	"casework": [
+		{
+			"code": "28413",
+			"receivedDate": "2005-10-05",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "47310",
+			"receivedDate": "2008-03-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "66909",
+			"receivedDate": "2011-01-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPP167237",
+			"receivedDate": "2022-06-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SAC",
+		"date": "2005-03-17",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
+		"status": "Current",
+		"type": "Special Area of Conservation"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 42,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8404/documents/22"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 481,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8404/documents/66"
+		},
+		{
+			"type": "SAC Map",
+			"size": 678,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8404/documents/46"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8404"
+		},
+		{
+			"type": "JNCC SAC Site Details",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030294"
+		},
+		{
+			"type": "JNCC SAC Data Form",
+			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030294.pdf"
+		}
+	],
+	"euCode": "UK0030294",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-10-30",
+			"name": "Juniper on heaths or calcareous grasslands",
+			"pressures": [
+				{
+					"name": "Inter-specific competition"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100647"
+		}
+	],
+	"localAuthority": "Dumfries and Galloway",
+	"name": "Tynron Juniper Wood",
+	"snhArea": "National Operations South"
+}

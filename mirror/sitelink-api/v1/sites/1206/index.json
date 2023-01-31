@@ -1,0 +1,95 @@
+{
+	"url": "/sitelink-api/v1/sites/1206",
+	"id": 1206,
+	"area": 1.7,
+	"casework": [
+		{
+			"code": "22940",
+			"receivedDate": "2005-01-28",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "39984",
+			"receivedDate": "2007-04-04",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "46496",
+			"receivedDate": "2007-11-22",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "51762",
+			"receivedDate": "2008-11-19",
+			"response": "B. Support",
+			"type": "Other Species"
+		},
+		{
+			"code": "CPP117128",
+			"receivedDate": "2012-08-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139828",
+			"receivedDate": "2016-01-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1989-03-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 547,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1206/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1206/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 16,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1206/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 53,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1206/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1206"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=843"
+		}
+	],
+	"euCode": "134975",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-28",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100966"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Muckle Burn, Clunas",
+	"snhArea": "National Operations Central Highland"
+}

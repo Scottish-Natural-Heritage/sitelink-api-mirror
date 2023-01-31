@@ -1,0 +1,63 @@
+{
+	"url": "/sitelink-api/v1/sites/10251",
+	"id": 10251,
+	"area": 550,
+	"casework": [
+		{
+			"code": "CEA134737",
+			"receivedDate": "2015-01-08",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA134009",
+			"receivedDate": "2014-11-10",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA137837",
+			"receivedDate": "2015-08-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA136349",
+			"receivedDate": "2015-04-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA139471",
+			"receivedDate": "2015-12-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA130519",
+			"receivedDate": "2014-04-25",
+			"response": "Advice only",
+			"type": "SEA"
+		}
+	],
+	"designation": {
+		"code": "CP",
+		"date": "2006-01-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/local-designations/country-parks",
+		"status": "Current",
+		"type": "Country Park"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "Country Park Site Details",
+			"url": "http://www.damstodarnley.org/"
+		}
+	],
+	"localAuthority": "East Renfrewshire",
+	"name": "Dams to Darnley",
+	"secondaryLocalAuthorities": [
+		"Glasgow City"
+	],
+	"snhArea": "National Operations West Central"
+}

@@ -1,0 +1,150 @@
+{
+	"url": "/sitelink-api/v1/sites/128",
+	"id": 128,
+	"agreements": [
+		{
+			"area": 8.11,
+			"code": 6297,
+			"expiryDate": "2023-09-15",
+			"property": "Ballinreach Coastal Gorges",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 8.11,
+	"casework": [
+		{
+			"code": "10678",
+			"receivedDate": "2003-02-27",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Railways"
+		},
+		{
+			"code": "32483",
+			"receivedDate": "2006-04-21",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "35502",
+			"receivedDate": "2006-09-18",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "45148",
+			"receivedDate": "2007-11-30",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "52980",
+			"receivedDate": "2009-01-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Site Search"
+		},
+		{
+			"code": "63117",
+			"receivedDate": "2010-07-23",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "63019",
+			"receivedDate": "2010-07-26",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Bracken Control (non EPA)"
+		},
+		{
+			"code": "CDM161406",
+			"receivedDate": "2020-12-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN156791",
+			"receivedDate": "2019-09-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN157050",
+			"receivedDate": "2019-10-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-05-01",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/128/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 960,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/128/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 97,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/128/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/128/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=128"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1299"
+		}
+	],
+	"euCode": "136067",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-11",
+			"name": "Kimmeridgian",
+			"pressures": [
+				{
+					"name": "Maintenance activities "
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105379"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2008-06-02",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101777"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Ballinreach Coastal Gorges",
+	"snhArea": "National Operations North"
+}

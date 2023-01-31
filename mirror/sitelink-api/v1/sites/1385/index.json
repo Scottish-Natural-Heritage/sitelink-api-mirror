@@ -1,0 +1,203 @@
+{
+	"url": "/sitelink-api/v1/sites/1385",
+	"id": 1385,
+	"area": 7.77,
+	"casework": [
+		{
+			"code": "53798",
+			"receivedDate": "2009-03-24",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "57173",
+			"receivedDate": "2009-08-31",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "60881",
+			"receivedDate": "2010-04-06",
+			"response": "Information/Advice only",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "CPA115892",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CGS112508",
+			"receivedDate": "2012-01-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM163727",
+			"receivedDate": "2021-07-07",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM163160",
+			"receivedDate": "2021-05-18",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166292",
+			"receivedDate": "2022-03-10",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122527",
+			"receivedDate": "2013-04-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163376",
+			"receivedDate": "2021-06-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA165591",
+			"receivedDate": "2022-01-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM164161",
+			"receivedDate": "2021-08-17",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129153",
+			"receivedDate": "2014-02-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP127247",
+			"receivedDate": "2013-10-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN131798",
+			"receivedDate": "2014-07-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC154725",
+			"receivedDate": "2019-03-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162042",
+			"receivedDate": "2021-02-09",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP157494",
+			"receivedDate": "2019-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-01-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 702,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1385/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 32,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1385/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 90,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1385/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1385/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1385"
+		}
+	],
+	"euCode": "135290",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-07-05",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103035"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-08-26",
+			"name": "Open water transition fen",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103036"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-06",
+			"name": "Wet woodland",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103037"
+		}
+	],
+	"localAuthority": "Angus",
+	"name": "Round Loch of Lundie",
+	"snhArea": "Tayside and Grampian"
+}

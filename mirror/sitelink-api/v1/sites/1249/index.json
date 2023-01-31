@@ -1,0 +1,145 @@
+{
+	"url": "/sitelink-api/v1/sites/1249",
+	"id": 1249,
+	"agreements": [
+		{
+			"area": 336,
+			"code": 1201,
+			"expiryDate": "2054-09-15",
+			"property": "Estate of Garth",
+			"term": 60,
+			"type": "Nature Reserve Agreement (S.16)"
+		},
+		{
+			"area": 0.5,
+			"code": 3163,
+			"expiryDate": "2033-12-31",
+			"property": "Gungstie House (Inc Pony Pund)",
+			"term": 21,
+			"type": "Land Lease"
+		}
+	],
+	"area": 343.83,
+	"casework": [
+		{
+			"code": "38559",
+			"receivedDate": "2007-02-05",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "38750",
+			"receivedDate": "2007-02-13",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Maritime"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 184,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1249/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1448,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1249/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1249/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1249/documents/28"
+		},
+		{
+			"type": "MPA Network Advice",
+			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1249"
+		}
+	],
+	"euCode": "139864",
+	"features": [
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-09-02",
+			"name": "Arctic skua (Stercorarius parasiticus), breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Inter-specific competition"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106211"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-30",
+			"name": "Gannet (Morus bassanus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106212"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-13",
+			"name": "Great skua (Stercorarius skua), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106213"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-23",
+			"name": "Guillemot (Uria aalge), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106214"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-06-23",
+			"name": "Kittiwake (Rissa tridactyla), breeding",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106215"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-05-01",
+			"name": "Seabird colony, breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107463"
+		}
+	],
+	"localAuthority": "Shetland Islands",
+	"name": "Noss",
+	"snhArea": "National Operations North"
+}

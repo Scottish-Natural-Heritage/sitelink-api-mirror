@@ -1,0 +1,117 @@
+{
+	"url": "/sitelink-api/v1/sites/994",
+	"id": 994,
+	"area": 17.82,
+	"casework": [
+		{
+			"code": "17326",
+			"receivedDate": "2004-04-05",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "26369",
+			"receivedDate": "2005-07-13",
+			"response": "NCA - Issued application for consent form",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "25594",
+			"receivedDate": "2005-06-08",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "29378",
+			"receivedDate": "2005-12-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "44751",
+			"receivedDate": "2007-11-12",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "54888",
+			"receivedDate": "2009-05-26",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "CPP115081",
+			"receivedDate": "2012-06-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS114949",
+			"receivedDate": "2012-06-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CEA139301",
+			"receivedDate": "2015-11-06",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-04-06",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/994/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/994/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 189,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/994/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1011,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/994/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=994"
+		}
+	],
+	"euCode": "135690",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-06-05",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102611"
+		}
+	],
+	"localAuthority": "East Renfrewshire",
+	"name": "Loch Libo",
+	"snhArea": "National Operations West Central"
+}

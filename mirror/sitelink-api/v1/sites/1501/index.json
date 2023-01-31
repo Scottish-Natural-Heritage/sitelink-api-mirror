@@ -1,0 +1,94 @@
+{
+	"url": "/sitelink-api/v1/sites/1501",
+	"id": 1501,
+	"area": 49.77,
+	"casework": [
+		{
+			"code": "50691",
+			"receivedDate": "2008-09-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "61059",
+			"receivedDate": "2010-04-20",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "GEN156375",
+			"receivedDate": "2019-07-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM140042",
+			"receivedDate": "2016-02-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN126724",
+			"receivedDate": "2013-09-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1987-08-28",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1501/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1501/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 76,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1501/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1333,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1501/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1501"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=707"
+		}
+	],
+	"euCode": "136126",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-02-27",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106388"
+		}
+	],
+	"localAuthority": "Highland",
+	"name": "Strontian Mines",
+	"snhArea": "National Operations Central Highland"
+}

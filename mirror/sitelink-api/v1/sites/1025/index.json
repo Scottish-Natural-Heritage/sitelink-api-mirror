@@ -1,0 +1,164 @@
+{
+	"url": "/sitelink-api/v1/sites/1025",
+	"id": 1025,
+	"agreements": [
+		{
+			"area": 13.4,
+			"code": 428,
+			"expiryDate": "2037-08-12",
+			"property": "Aboyne Loch Caravan Site",
+			"term": 50,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 14.6,
+	"casework": [
+		{
+			"code": "22937",
+			"receivedDate": "2005-01-10",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "31498",
+			"receivedDate": "2006-03-17",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "37546",
+			"receivedDate": "2006-12-08",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "37845",
+			"receivedDate": "2006-12-22",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "36822",
+			"receivedDate": "2006-09-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "42133",
+			"receivedDate": "2007-07-11",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "48207",
+			"receivedDate": "2008-05-30",
+			"response": "Information/Advice only",
+			"type": "Mixed Use"
+		},
+		{
+			"code": "65623",
+			"receivedDate": "2010-11-12",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "CPP158115",
+			"receivedDate": "2020-01-27",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM116687",
+			"receivedDate": "2012-08-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM116857",
+			"receivedDate": "2012-08-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC157669",
+			"receivedDate": "2019-12-06",
+			"response": "No comment",
+			"type": "Other"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-01-05",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1025/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 21,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1025/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 613,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1025/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 49,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1025/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1025"
+		}
+	],
+	"euCode": "135836",
+	"features": [
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-09-03",
+			"name": "Grass-wrack pondweed (Potamogeton compressus)",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107774"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-11-27",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111528"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Loch of Aboyne",
+	"snhArea": "Tayside and Grampian"
+}

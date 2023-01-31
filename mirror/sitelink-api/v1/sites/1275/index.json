@@ -1,0 +1,177 @@
+{
+	"url": "/sitelink-api/v1/sites/1275",
+	"id": 1275,
+	"area": 35.23,
+	"casework": [
+		{
+			"code": "5280",
+			"receivedDate": "2002-04-10",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "22257",
+			"receivedDate": "2004-12-02",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "49683",
+			"receivedDate": "2008-07-25",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "54729",
+			"receivedDate": "2009-04-16",
+			"response": "Information/Advice only",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "60687",
+			"receivedDate": "2010-03-02",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "66037",
+			"receivedDate": "2010-07-29",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "ALC148678",
+			"receivedDate": "2017-11-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC165287",
+			"receivedDate": "2021-10-19",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC118773",
+			"receivedDate": "2012-11-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC162788",
+			"receivedDate": "2021-06-14",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC139655",
+			"receivedDate": "2015-12-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC123674",
+			"receivedDate": "2013-05-15",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA125696",
+			"receivedDate": "2013-08-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN157091",
+			"receivedDate": "2019-09-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149079",
+			"receivedDate": "2018-01-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 87,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1275/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1275/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1741,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1275/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 25,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1275/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1275"
+		}
+	],
+	"euCode": "135324",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-09-18",
+			"name": "Springs (including flushes)",
+			"pressures": [
+				{
+					"keywords": [
+						"Birch"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle",
+						"Deer"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106227"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2012-09-13",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle",
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106226"
+		}
+	],
+	"localAuthority": "Stirling",
+	"name": "Pass of Leny Flushes",
+	"snhArea": "National Operations South"
+}

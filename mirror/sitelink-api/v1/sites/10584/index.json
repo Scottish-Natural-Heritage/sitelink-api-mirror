@@ -1,0 +1,55 @@
+{
+	"url": "/sitelink-api/v1/sites/10584",
+	"id": 10584,
+	"agreements": [
+		{
+			"area": 0,
+			"code": 8605,
+			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
+			"term": 0,
+			"type": "Fishing Order"
+		}
+	],
+	"area": 1184.36,
+	"designation": {
+		"code": "MPA(NC)",
+		"date": "2021-12-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/marine-protected-areas-mpas",
+		"status": "Current",
+		"type": "Nature Conservation MPA"
+	},
+	"dffcSite": false,
+	"documents": [
+		{
+			"type": "MPA Designation Order",
+			"size": 175,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10584/documents/56"
+		},
+		{
+			"type": "Marine Conservation Order",
+			"size": 619,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10584/documents/54"
+		},
+		{
+			"type": "MPA Boundary Map",
+			"size": 180,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10584/documents/49"
+		},
+		{
+			"type": "MPA Boundary Map",
+			"url": "https://cdn.prgloo.com/media/e1be5d175a2b4d44a1aefb243f7ac7d5"
+		}
+	],
+	"euCode": "555715729",
+	"features": [
+		{
+			"category": "Fish",
+			"name": "Flapper skate (Dipturus intermedius)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "Protected feature"
+		}
+	],
+	"localAuthority": "Marine Scotland (inshore)",
+	"name": "Red Rocks and Longay (Urgent MPA)",
+	"snhArea": "National Operations Central Highland"
+}

@@ -1,0 +1,129 @@
+{
+	"url": "/sitelink-api/v1/sites/950",
+	"id": 950,
+	"area": 242.47,
+	"casework": [
+		{
+			"code": "52099",
+			"receivedDate": "2008-12-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "63624",
+			"receivedDate": "2010-08-13",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CDM111339",
+			"receivedDate": "2012-01-25",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM111345",
+			"receivedDate": "2012-01-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM118071",
+			"receivedDate": "2012-10-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1991-11-18",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/950/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2024,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/950/documents/33"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/950/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 114,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/950/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=950"
+		}
+	],
+	"euCode": "135079",
+	"features": [
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2021-07-23",
+			"name": "Alkaline fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Cattle",
+						"Sheep"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112644"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2021-07-23",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005063"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2008-06-07",
+			"name": "Subalpine calcareous grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102607"
+		}
+	],
+	"localAuthority": "South Ayrshire",
+	"name": "Littleton and Balhamie Hills",
+	"snhArea": "National Operations West Central"
+}

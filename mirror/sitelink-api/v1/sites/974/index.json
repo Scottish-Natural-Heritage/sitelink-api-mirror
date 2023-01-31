@@ -1,0 +1,67 @@
+{
+	"url": "/sitelink-api/v1/sites/974",
+	"id": 974,
+	"area": 5.16,
+	"casework": [
+		{
+			"code": "58306",
+			"receivedDate": "2009-10-05",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
+			"code": "68998",
+			"receivedDate": "2011-05-27",
+			"response": "Information/Advice only",
+			"type": "Marine"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-12-22",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Site Management Statement",
+			"size": 60,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/974/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/974/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 15,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/974/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 146,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/974/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=974"
+		}
+	],
+	"euCode": "136152",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-01-23",
+			"name": "Mesotrophic loch",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002677"
+		}
+	],
+	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
+	"name": "Loch Dalbeg",
+	"snhArea": "National Operations West"
+}

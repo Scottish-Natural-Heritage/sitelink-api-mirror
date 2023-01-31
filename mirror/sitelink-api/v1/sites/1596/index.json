@@ -1,0 +1,135 @@
+{
+	"url": "/sitelink-api/v1/sites/1596",
+	"id": 1596,
+	"area": 62.6,
+	"casework": [
+		{
+			"code": "28751",
+			"receivedDate": "2005-10-28",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "28691",
+			"receivedDate": "2005-10-26",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "53546",
+			"receivedDate": "2009-03-10",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "63942",
+			"receivedDate": "2010-08-19",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "COR153199",
+			"receivedDate": "2018-11-14",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CLC146563",
+			"receivedDate": "2017-07-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN153318",
+			"receivedDate": "2018-10-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR153346",
+			"receivedDate": "2018-11-21",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC135946",
+			"receivedDate": "2015-03-25",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161617",
+			"receivedDate": "2020-12-23",
+			"response": "Advice only",
+			"type": "EIA"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1983-05-20",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1596/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1596/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1129,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1596/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1596/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1596"
+		}
+	],
+	"euCode": "135807",
+	"features": [
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-30",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106495"
+		}
+	],
+	"localAuthority": "Aberdeenshire",
+	"name": "Wartle Moss",
+	"snhArea": "Tayside and Grampian"
+}

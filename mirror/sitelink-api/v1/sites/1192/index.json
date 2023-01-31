@@ -1,0 +1,201 @@
+{
+	"url": "/sitelink-api/v1/sites/1192",
+	"id": 1192,
+	"agreements": [
+		{
+			"area": 33.07,
+			"code": 3980,
+			"expiryDate": "2025-07-31",
+			"property": "Land at Tentsmuir NNR - Tayport Heaths and Morton Lochs",
+			"term": 21,
+			"type": "Land Lease"
+		},
+		{
+			"area": 4.9,
+			"code": 37,
+			"property": "Morton Lochs",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 19,
+			"code": 412,
+			"property": "Morton Lochs",
+			"term": 0,
+			"type": "Land Acquisition"
+		},
+		{
+			"area": 0,
+			"code": 6489,
+			"property": "Morton Lochs Water Supply Pipe",
+			"term": 0,
+			"type": "Servitude"
+		},
+		{
+			"area": 0,
+			"code": 5707,
+			"property": "Supply of Water to Morton Lochs NNR",
+			"term": 0,
+			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 79.26,
+			"code": 841932,
+			"expiryDate": "2022-10-31",
+			"property": "Tentsmuir NNR",
+			"term": 0,
+			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
+		}
+	],
+	"area": 52.82,
+	"casework": [
+		{
+			"code": "16873",
+			"receivedDate": "2004-03-22",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "21803",
+			"receivedDate": "2004-11-25",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "CEA115803",
+			"receivedDate": "2012-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CPP137044",
+			"receivedDate": "2015-06-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN128559",
+			"receivedDate": "2014-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC129639",
+			"receivedDate": "2014-02-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155623",
+			"receivedDate": "2019-05-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC141850",
+			"receivedDate": "2016-06-23",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1984-02-21",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1192/documents/1"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 96,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1192/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 33,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1192/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 620,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1192/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1192"
+		}
+	],
+	"euCode": "135362",
+	"features": [
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2009-08-31",
+			"name": "Loch trophic range",
+			"pressures": [
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101318"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-28",
+			"name": "Sand dunes",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Gorse"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Bracken",
+						"Gorse",
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106144"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-02-09",
+			"name": "Teal (Anas crecca), non-breeding",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106145"
+		}
+	],
+	"localAuthority": "Fife",
+	"name": "Morton Lochs",
+	"snhArea": "National Operations South"
+}

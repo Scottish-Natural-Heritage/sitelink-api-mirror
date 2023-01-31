@@ -1,0 +1,153 @@
+{
+	"url": "/sitelink-api/v1/sites/420",
+	"id": 420,
+	"agreements": [
+		{
+			"area": 12.83,
+			"code": 7872,
+			"expiryDate": "2023-07-31",
+			"property": "Land at Balquharn",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
+	"area": 177.12,
+	"casework": [
+		{
+			"code": "58656",
+			"receivedDate": "2009-12-01",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CEA127603",
+			"receivedDate": "2013-11-18",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA118925",
+			"receivedDate": "2012-11-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC131464",
+			"receivedDate": "2014-06-16",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CEA127187",
+			"receivedDate": "2013-10-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC141847",
+			"receivedDate": "2016-06-23",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC142300",
+			"receivedDate": "2016-06-24",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1990-03-30",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 22,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/420/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 34,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/420/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 303,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/420/documents/3"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2283,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/420/documents/33"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=420"
+		}
+	],
+	"euCode": "134986",
+	"features": [
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-07-24",
+			"name": "Northern brown argus butterfly (Aricia artaxerxes)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105592"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-07-04",
+			"name": "Sticky catchfly (Lychnis viscaria)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104869"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-07-29",
+			"name": "Upland assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Off road vehicles"
+					],
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111249"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2017-04-13",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103799"
+		}
+	],
+	"localAuthority": "Clackmannanshire",
+	"name": "Craig Leith and Myreton Hill",
+	"snhArea": "National Operations South"
+}

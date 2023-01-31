@@ -1,0 +1,203 @@
+{
+	"url": "/sitelink-api/v1/sites/628",
+	"id": 628,
+	"area": 34.01,
+	"casework": [
+		{
+			"code": "12966",
+			"receivedDate": "2003-08-08",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "42923",
+			"receivedDate": "2007-08-09",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "48416",
+			"receivedDate": "2008-06-02",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "62239",
+			"receivedDate": "2010-06-21",
+			"response": "Information/Advice only",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "68861",
+			"receivedDate": "2011-05-23",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "ALC157243",
+			"receivedDate": "2019-10-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM116685",
+			"receivedDate": "2012-08-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN113696",
+			"receivedDate": "2012-04-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC114838",
+			"receivedDate": "2012-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM115888",
+			"receivedDate": "2012-07-17",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167056",
+			"receivedDate": "2022-05-18",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC116757",
+			"receivedDate": "2012-08-13",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CGS164483",
+			"receivedDate": "2021-09-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP164991",
+			"receivedDate": "2021-11-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP164857",
+			"receivedDate": "2021-10-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN154839",
+			"receivedDate": "2019-03-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP156094",
+			"receivedDate": "2019-07-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC154069",
+			"receivedDate": "2019-01-29",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-08-23",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/628/documents/1"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 29,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/628/documents/28"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 1767,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/628/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 135,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/628/documents/3"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=628"
+		}
+	],
+	"euCode": "135194",
+	"features": [
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-11",
+			"name": "Lowland calcareous grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103852"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-07-28",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107732"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-28",
+			"name": "Spring fen",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107733"
+		}
+	],
+	"localAuthority": "Perth and Kinross",
+	"name": "Fearnan Cowpark",
+	"snhArea": "Tayside and Grampian"
+}

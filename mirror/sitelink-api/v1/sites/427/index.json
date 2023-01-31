@@ -1,0 +1,73 @@
+{
+	"url": "/sitelink-api/v1/sites/427",
+	"id": 427,
+	"area": 22.51,
+	"casework": [
+		{
+			"code": "30642",
+			"receivedDate": "2006-02-07",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "30646",
+			"receivedDate": "2006-02-07",
+			"response": "B. Support",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "33707",
+			"receivedDate": "2006-07-04",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Bracken Control (non EPA)"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1988-08-12",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 506,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/427/documents/33"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 24,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/427/documents/28"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 131,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/427/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 19,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/427/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=427"
+		}
+	],
+	"euCode": "135429",
+	"features": [
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-06-10",
+			"name": "Scrub",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101092"
+		}
+	],
+	"localAuthority": "Scottish Borders",
+	"name": "Craigdilly",
+	"snhArea": "National Operations South"
+}

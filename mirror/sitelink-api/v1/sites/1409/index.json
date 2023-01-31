@@ -1,0 +1,166 @@
+{
+	"url": "/sitelink-api/v1/sites/1409",
+	"id": 1409,
+	"area": 1.79,
+	"casework": [
+		{
+			"code": "20695",
+			"receivedDate": "2004-03-18",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "18274",
+			"receivedDate": "2004-02-06",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "25810",
+			"receivedDate": "2005-05-10",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "30334",
+			"receivedDate": "2006-01-18",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "30379",
+			"receivedDate": "2005-11-14",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "45526",
+			"receivedDate": "2007-12-13",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "47838",
+			"receivedDate": "2008-05-02",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "49924",
+			"receivedDate": "2008-05-09",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "CLC158548",
+			"receivedDate": "2020-02-27",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC112236",
+			"receivedDate": "2012-02-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC120186",
+			"receivedDate": "2013-01-11",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM118903",
+			"receivedDate": "2012-11-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM117409",
+			"receivedDate": "2012-09-12",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC121012",
+			"receivedDate": "2013-02-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC119953",
+			"receivedDate": "2012-12-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA133155",
+			"receivedDate": "2014-09-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA131676",
+			"receivedDate": "2014-07-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		}
+	],
+	"designation": {
+		"code": "SSSI",
+		"date": "1985-04-29",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "SSSI Map",
+			"size": 794,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1409/documents/33"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 89,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1409/documents/3"
+		},
+		{
+			"type": "Operations Requiring Consent",
+			"size": 20,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1409/documents/28"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 17,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1409/documents/1"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1409"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1106"
+		}
+	],
+	"euCode": "135802",
+	"features": [
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-10-31",
+			"name": "Silurian - Devonian Chordata",
+			"pressures": [
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101710"
+		}
+	],
+	"localAuthority": "Moray",
+	"name": "Scaat Craig",
+	"snhArea": "Tayside and Grampian"
+}
