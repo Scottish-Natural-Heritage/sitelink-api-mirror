@@ -1,0 +1,10 @@
+{
+  "name": "sitelink-api-mirror",
+  "version": "1.0.0",
+  "description": "Static mirror for NatureScot's Sitelink API",
+  "author": "Mike Coats <mike.coats@nature.scot>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node mirror.mjs"
+  }
+}
