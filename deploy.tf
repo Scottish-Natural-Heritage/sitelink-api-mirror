@@ -17,3 +17,12 @@ provider "aws" {
 resource "aws_s3_bucket" "bucket" {
   bucket = "naturescot-sitelink-mirror"
 }
+
+# Configure the web serving from S3
+resource "aws_s3_bucket_website_configuration" "website" {
+  bucket = aws_s3_bucket.bucket.bucket
+
+  index_document {
+    suffix = "index.json"
+  }
+}
