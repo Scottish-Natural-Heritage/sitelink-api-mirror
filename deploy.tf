@@ -26,3 +26,13 @@ resource "aws_s3_bucket_website_configuration" "website" {
     suffix = "index.json"
   }
 }
+
+# Allow GET requests from anywhere
+resource "aws_s3_bucket_cors_configuration" "cors" {
+  bucket = aws_s3_bucket.bucket.bucket
+
+  cors_rule {
+    allowed_methods = ["GET"]
+    allowed_origins = ["*"]
+  }
+}
