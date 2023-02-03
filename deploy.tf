@@ -12,3 +12,8 @@ terraform {
 provider "aws" {
   region = "eu-west-2"
 }
+
+# Create an S3 bucket for storing our files
+resource "aws_s3_bucket" "bucket" {
+  bucket = "naturescot-sitelink-mirror"
+}
