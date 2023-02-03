@@ -1,33 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1352",
 	"id": 1352,
-	"agreements": [
-		{
-			"area": 1677.83,
-			"code": 8388,
-			"expiryDate": "2023-12-31",
-			"property": "2 Torvaig",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 968.87,
-			"code": 8745,
-			"expiryDate": "2023-12-31",
-			"property": "8 Torvaig & Rigg Croft",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 233.36,
-			"code": 7949,
-			"property": "Skye Nature Conservation Order 2019",
-			"term": 0,
-			"type": "Nature Conservation Order "
-		}
-	],
 	"area": 500.89,
 	"casework": [
 		{
@@ -91,44 +64,14 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ALC146315",
-			"receivedDate": "2017-06-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC113842",
 			"receivedDate": "2012-04-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ASC124431",
-			"receivedDate": "2013-06-28",
-			"response": "Application Granted",
-			"type": "Natural Care Scheme"
-		},
-		{
-			"code": "CGS152577",
-			"receivedDate": "2018-10-01",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC145193",
-			"receivedDate": "2017-03-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC150406",
-			"receivedDate": "2018-03-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC164434",
-			"receivedDate": "2021-09-08",
+			"code": "ALC140110",
+			"receivedDate": "2016-02-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -139,8 +82,38 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC140110",
-			"receivedDate": "2016-02-11",
+			"code": "ALC145193",
+			"receivedDate": "2017-03-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS152577",
+			"receivedDate": "2018-10-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC150406",
+			"receivedDate": "2018-03-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146315",
+			"receivedDate": "2017-06-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ASC124431",
+			"receivedDate": "2013-06-28",
+			"response": "Application Granted",
+			"type": "Natural Care Scheme"
+		},
+		{
+			"code": "ALC164434",
+			"receivedDate": "2021-09-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}

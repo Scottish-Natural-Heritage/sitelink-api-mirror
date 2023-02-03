@@ -34,16 +34,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "ALC136005",
-			"receivedDate": "2015-03-27",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC129601",
-			"receivedDate": "2014-03-05",
+			"code": "CDM154887",
+			"receivedDate": "2019-03-25",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM159361",
@@ -64,44 +58,8 @@
 			"type": "Post Application"
 		},
 		{
-			"code": "CDM156280",
-			"receivedDate": "2019-07-19",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM151194",
-			"receivedDate": "2018-06-21",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM159939",
-			"receivedDate": "2020-07-22",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CEA125471",
-			"receivedDate": "2013-08-08",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CDM159780",
 			"receivedDate": "2020-07-06",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM155126",
-			"receivedDate": "2019-04-16",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM156823",
-			"receivedDate": "2019-09-12",
 			"response": "Advice only",
 			"type": "Post Application"
 		},
@@ -118,10 +76,16 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CDM154887",
-			"receivedDate": "2019-03-25",
+			"code": "CEA141941",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "CDM156823",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CDM157584",
@@ -130,10 +94,52 @@
 			"type": "Post Application"
 		},
 		{
-			"code": "CEA141941",
-			"receivedDate": "2016-06-30",
+			"code": "CDM155126",
+			"receivedDate": "2019-04-16",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM156280",
+			"receivedDate": "2019-07-19",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151194",
+			"receivedDate": "2018-06-21",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CEA125471",
+			"receivedDate": "2013-08-08",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CLC129601",
+			"receivedDate": "2014-03-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC136005",
+			"receivedDate": "2015-03-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169631",
+			"receivedDate": "2023-01-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM159939",
+			"receivedDate": "2020-07-22",
+			"response": "Advice only",
+			"type": "Post Application"
 		}
 	],
 	"designation": {

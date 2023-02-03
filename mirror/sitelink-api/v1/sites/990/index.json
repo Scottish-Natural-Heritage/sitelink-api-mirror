@@ -4,12 +4,6 @@
 	"area": 1.19,
 	"casework": [
 		{
-			"code": "CEA163128",
-			"receivedDate": "2021-05-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "ALC145904",
 			"receivedDate": "2017-05-18",
 			"response": "Licence/Consent not required",
@@ -18,6 +12,12 @@
 		{
 			"code": "CEA128178",
 			"receivedDate": "2013-12-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA163128",
+			"receivedDate": "2021-05-11",
 			"response": "Advice only",
 			"type": "EIA"
 		}

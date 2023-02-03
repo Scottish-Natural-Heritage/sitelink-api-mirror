@@ -40,22 +40,34 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "ALC160013",
-			"receivedDate": "2020-07-29",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "GEN115434",
 			"receivedDate": "2012-06-26",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
+			"code": "ALC160013",
+			"receivedDate": "2020-07-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM112833",
 			"receivedDate": "2012-03-19",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM127611",
+			"receivedDate": "2013-11-18",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA138578",
+			"receivedDate": "2015-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA119655",
@@ -68,18 +80,6 @@
 			"receivedDate": "2022-02-03",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA138578",
-			"receivedDate": "2015-10-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM127611",
-			"receivedDate": "2013-11-18",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

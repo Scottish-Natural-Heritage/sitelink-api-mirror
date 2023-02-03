@@ -1,56 +1,31 @@
 {
 	"url": "/sitelink-api/v1/sites/5028",
 	"id": 5028,
-	"agreements": [
-		{
-			"area": 175.3,
-			"code": 475,
-			"property": "Glasdrum",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 167.84,
-			"code": 8343,
-			"expiryDate": "2023-03-31",
-			"property": "Glasdrum NNR",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 0,
-			"code": 6666,
-			"expiryDate": "2031-10-05",
-			"property": "Wayleave - Creagan Bridge, Appin",
-			"term": 17,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		}
-	],
 	"area": 169,
 	"casework": [
 		{
-			"code": "CDM129997",
-			"receivedDate": "2014-03-26",
+			"code": "CEA143590",
+			"receivedDate": "2016-11-08",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC146237",
-			"receivedDate": "2017-06-07",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC165404",
-			"receivedDate": "2021-12-14",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CEA140954",
+			"receivedDate": "2016-04-19",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC137586",
 			"receivedDate": "2015-07-14",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC146237",
+			"receivedDate": "2017-06-07",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC125469",
@@ -65,16 +40,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA143590",
-			"receivedDate": "2016-11-08",
+			"code": "CDM129997",
+			"receivedDate": "2014-03-26",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CEA140954",
-			"receivedDate": "2016-04-19",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "CLC165404",
+			"receivedDate": "2021-12-14",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

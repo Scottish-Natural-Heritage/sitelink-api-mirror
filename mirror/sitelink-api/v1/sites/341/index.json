@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/341",
 	"id": 341,
-	"agreements": [
-		{
-			"area": 10.3,
-			"code": 159,
-			"property": "Cartland Craigs",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 16.67,
 	"casework": [
 		{
@@ -25,10 +16,28 @@
 			"type": "Water"
 		},
 		{
+			"code": "CLC156255",
+			"receivedDate": "2019-07-18",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN112635",
+			"receivedDate": "2012-02-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CLC146337",
 			"receivedDate": "2017-06-19",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM132683",
+			"receivedDate": "2014-08-18",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "GEN135931",
@@ -41,24 +50,6 @@
 			"receivedDate": "2014-12-05",
 			"response": "Advice only",
 			"type": "S.37 Application"
-		},
-		{
-			"code": "GEN112635",
-			"receivedDate": "2012-02-28",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM132683",
-			"receivedDate": "2014-08-18",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC156255",
-			"receivedDate": "2019-07-18",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

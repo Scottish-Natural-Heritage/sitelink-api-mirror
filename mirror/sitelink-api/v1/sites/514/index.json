@@ -14,22 +14,10 @@
 	"area": 19.7,
 	"casework": [
 		{
-			"code": "ALC129470",
-			"receivedDate": "2014-02-18",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CDM162420",
 			"receivedDate": "2021-03-16",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CPP119286",
-			"receivedDate": "2012-11-27",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC151146",
@@ -38,16 +26,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP165356",
-			"receivedDate": "2021-12-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC134017",
 			"receivedDate": "2014-11-10",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC129470",
+			"receivedDate": "2014-02-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP119286",
+			"receivedDate": "2012-11-27",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP165356",
+			"receivedDate": "2021-12-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -108,5 +108,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Dinnet Oakwood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

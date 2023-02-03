@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1324",
 	"id": 1324,
-	"agreements": [
-		{
-			"area": 2452.69,
-			"code": 8957,
-			"expiryDate": "2023-12-31",
-			"property": "North Raasay Common Grazings",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 742.03,
 	"casework": [
 		{
@@ -81,28 +70,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CLC146345",
-			"receivedDate": "2017-06-20",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC130674",
-			"receivedDate": "2014-04-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC113842",
 			"receivedDate": "2012-04-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC124283",
-			"receivedDate": "2013-06-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC142039",
+			"receivedDate": "2016-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "ALC145193",
@@ -113,6 +90,18 @@
 		{
 			"code": "ALC150406",
 			"receivedDate": "2018-03-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC146345",
+			"receivedDate": "2017-06-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC130839",
+			"receivedDate": "2014-05-14",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -129,16 +118,16 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC130839",
-			"receivedDate": "2014-05-14",
+			"code": "ALC130674",
+			"receivedDate": "2014-04-29",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC142039",
-			"receivedDate": "2016-07-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC124283",
+			"receivedDate": "2013-06-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

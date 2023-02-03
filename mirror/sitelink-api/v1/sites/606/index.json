@@ -1,23 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/606",
 	"id": 606,
-	"agreements": [
-		{
-			"area": 233.36,
-			"code": 7949,
-			"property": "Skye Nature Conservation Order 2019",
-			"term": 0,
-			"type": "Nature Conservation Order "
-		},
-		{
-			"area": 8242,
-			"code": 1224,
-			"expiryDate": "2994-01-31",
-			"property": "Strathaird & Torrin Estates",
-			"term": 999,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 66.49,
 	"casework": [
 		{
@@ -75,8 +58,32 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ALC135063",
-			"receivedDate": "2015-01-30",
+			"code": "ALC139629",
+			"receivedDate": "2016-01-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC141054",
+			"receivedDate": "2016-04-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC154825",
+			"receivedDate": "2019-03-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC153664",
+			"receivedDate": "2018-12-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC141629",
+			"receivedDate": "2016-06-09",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -105,8 +112,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC139629",
-			"receivedDate": "2016-01-07",
+			"code": "ALC127867",
+			"receivedDate": "2013-11-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC135063",
+			"receivedDate": "2015-01-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -115,36 +128,6 @@
 			"receivedDate": "2015-02-11",
 			"response": "S.15 Advice with conditions",
 			"type": "Other"
-		},
-		{
-			"code": "ALC127867",
-			"receivedDate": "2013-11-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC154825",
-			"receivedDate": "2019-03-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC153664",
-			"receivedDate": "2018-12-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC141054",
-			"receivedDate": "2016-04-25",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC141629",
-			"receivedDate": "2016-06-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

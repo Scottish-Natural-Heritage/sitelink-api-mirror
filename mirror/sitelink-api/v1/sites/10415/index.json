@@ -1,29 +1,8 @@
 {
 	"url": "/sitelink-api/v1/sites/10415",
 	"id": 10415,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 8605,
-			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 1200,
 	"casework": [
-		{
-			"code": "CPA133201",
-			"receivedDate": "2014-09-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA133288",
-			"receivedDate": "2014-09-19",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
 		{
 			"code": "CLC159324",
 			"receivedDate": "2020-05-25",
@@ -37,51 +16,9 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA157615",
-			"receivedDate": "2019-12-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC166716",
-			"receivedDate": "2022-04-20",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC151018",
-			"receivedDate": "2018-06-12",
-			"response": "No objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC158642",
-			"receivedDate": "2020-03-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC140519",
-			"receivedDate": "2016-03-14",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM156193",
-			"receivedDate": "2019-07-09",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CLC161515",
 			"receivedDate": "2020-12-15",
 			"response": "No objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC157008",
-			"receivedDate": "2019-10-02",
-			"response": "No comment",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
@@ -95,6 +32,60 @@
 			"receivedDate": "2017-02-08",
 			"response": "No objection",
 			"type": "Other"
+		},
+		{
+			"code": "CLC157008",
+			"receivedDate": "2019-10-02",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC140519",
+			"receivedDate": "2016-03-14",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC151018",
+			"receivedDate": "2018-06-12",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM156193",
+			"receivedDate": "2019-07-09",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA157615",
+			"receivedDate": "2019-12-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133201",
+			"receivedDate": "2014-09-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133288",
+			"receivedDate": "2014-09-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC166716",
+			"receivedDate": "2022-04-20",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC158642",
+			"receivedDate": "2020-03-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		}
 	],
 	"designation": {

@@ -9,60 +9,6 @@
 			"property": "Braeroy Estate",
 			"term": 125,
 			"type": "Land Lease"
-		},
-		{
-			"area": 0,
-			"code": 9120,
-			"expiryDate": "2040-08-10",
-			"property": "EE Mast Site Glen Roy NNR ",
-			"term": 20,
-			"type": "Rights Acquisition"
-		},
-		{
-			"area": 1168.3,
-			"code": 20,
-			"property": "Glen Roy",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.03,
-			"code": 9109,
-			"expiryDate": "2040-08-10",
-			"property": "Glen Roy EE Mast ",
-			"term": 20,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
-			"area": 0.01,
-			"code": 4249,
-			"expiryDate": "2022-10-01",
-			"property": "Glen Roy Mast Site - Airwave Solutions",
-			"term": 14,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
-			"area": 0.01,
-			"code": 6702,
-			"expiryDate": "2022-10-01",
-			"property": "Glen Roy Mast Site - Bohuntin Common Grazings ",
-			"term": 14,
-			"type": "Rights Acquisition"
-		},
-		{
-			"area": 1154.5,
-			"code": 8350,
-			"expiryDate": "2023-03-31",
-			"property": "Glen Roy National Nature Reserve",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 0,
-			"code": 7395,
-			"property": "Servitude granted in disposition case 20 - Glen Roy",
-			"term": 0,
-			"type": "Servitude (over NatureScot land granted in disposition)"
 		}
 	],
 	"area": 1168.3,
@@ -140,24 +86,6 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "COR135982",
-			"receivedDate": "2015-03-30",
-			"response": "Resolved",
-			"type": "Ministerial Correspondence"
-		},
-		{
-			"code": "ALC129573",
-			"receivedDate": "2014-03-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR114009",
-			"receivedDate": "2012-05-09",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "ALC112316",
 			"receivedDate": "2012-03-05",
 			"response": "SSSI Consent Given",
@@ -168,6 +96,18 @@
 			"receivedDate": "2012-01-05",
 			"response": "Information only",
 			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM154452",
+			"receivedDate": "2019-02-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA139470",
+			"receivedDate": "2015-12-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "ALC149323",
@@ -182,16 +122,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA139470",
-			"receivedDate": "2015-12-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC129573",
+			"receivedDate": "2014-03-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM154452",
-			"receivedDate": "2019-02-24",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "COR135982",
+			"receivedDate": "2015-03-30",
+			"response": "Resolved",
+			"type": "Ministerial Correspondence"
+		},
+		{
+			"code": "COR114009",
+			"receivedDate": "2012-05-09",
+			"response": "Information only",
+			"type": "General Enquiries"
 		}
 	],
 	"designation": {

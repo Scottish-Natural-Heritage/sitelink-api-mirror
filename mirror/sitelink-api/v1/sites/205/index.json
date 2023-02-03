@@ -22,24 +22,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC168214",
-			"receivedDate": "2022-08-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC122921",
-			"receivedDate": "2013-04-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN118067",
-			"receivedDate": "2012-10-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CDM127014",
 			"receivedDate": "2013-10-18",
 			"response": "Advice only",
@@ -56,6 +38,24 @@
 			"receivedDate": "2013-10-18",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "ALC122921",
+			"receivedDate": "2013-04-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN118067",
+			"receivedDate": "2012-10-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC168214",
+			"receivedDate": "2022-08-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -121,5 +121,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Bin Quarry",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

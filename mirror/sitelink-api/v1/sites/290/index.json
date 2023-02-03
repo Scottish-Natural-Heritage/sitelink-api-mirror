@@ -3,13 +3,6 @@
 	"id": 290,
 	"agreements": [
 		{
-			"area": 1314,
-			"code": 232,
-			"property": "Cairnsmore of Fleet",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 447.6,
 			"code": 270,
 			"expiryDate": "2025-09-06",
@@ -18,41 +11,12 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 217.3,
-			"code": 424,
-			"property": "Exchange of land at Dromore - Cairnsmore of Fleet",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 616.8,
-			"code": 244,
-			"expiryDate": "2022-12-14",
-			"property": "Falbae",
-			"term": 35,
-			"type": "SSSI Agreement (S.15)"
-		},
-		{
 			"area": 678.5,
 			"code": 3800,
 			"expiryDate": "2023-01-08",
 			"property": "Glenure Estate",
 			"term": 15,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 0,
-			"code": 6643,
-			"property": "Wayleave - Supply to Buckshead Farm and Dromore Steading - Gatehouse of Fleet",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		},
-		{
-			"area": 0,
-			"code": 6642,
-			"property": "Wayleave - Supply to Dromore Farm - Gatehouse",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
 		}
 	],
 	"area": 3836.65,
@@ -136,16 +100,28 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CLC136441",
-			"receivedDate": "2015-05-04",
-			"response": "No objection",
-			"type": "Other"
+			"code": "ALC137580",
+			"receivedDate": "2015-06-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA135076",
-			"receivedDate": "2015-02-02",
+			"code": "CPP143794",
+			"receivedDate": "2016-11-17",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC151436",
+			"receivedDate": "2018-07-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC144939",
+			"receivedDate": "2017-02-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPP147954",
@@ -154,20 +130,38 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP146056",
+			"receivedDate": "2017-06-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN129150",
+			"receivedDate": "2014-02-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC128817",
+			"receivedDate": "2014-01-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA135076",
+			"receivedDate": "2015-02-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC136441",
+			"receivedDate": "2015-05-04",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
 			"code": "CPP133136",
 			"receivedDate": "2014-09-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP167975",
-			"receivedDate": "2022-08-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP167038",
-			"receivedDate": "2022-05-18",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -184,44 +178,14 @@
 			"type": "General Enquiries"
 		},
 		{
-			"code": "ALC151436",
-			"receivedDate": "2018-07-09",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP146056",
-			"receivedDate": "2017-06-01",
+			"code": "CPP167975",
+			"receivedDate": "2022-08-08",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC137580",
-			"receivedDate": "2015-06-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC128817",
-			"receivedDate": "2014-01-27",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN129150",
-			"receivedDate": "2014-02-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC144939",
-			"receivedDate": "2017-02-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP143794",
-			"receivedDate": "2016-11-17",
+			"code": "CPP167038",
+			"receivedDate": "2022-05-18",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		}

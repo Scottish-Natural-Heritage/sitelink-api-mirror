@@ -1,67 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/5007",
 	"id": 5007,
-	"agreements": [
-		{
-			"area": 2339,
-			"code": 361,
-			"property": "Ben Wyvis",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 48.1,
-			"code": 4179,
-			"property": "Ben Wyvis Excambion",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1338.84,
-			"code": 842170,
-			"expiryDate": "2023-02-28",
-			"property": "Ben Wyvis Grazing Lease AD and P Grant ",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 1338.84,
-			"code": 842210,
-			"expiryDate": "2023-02-28",
-			"property": "Ben Wyvis Lease Mr and Mrs Watson",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 2300.39,
-			"code": 8346,
-			"expiryDate": "2023-03-31",
-			"property": "Ben Wyvis NNR",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 3.8,
-			"code": 4919,
-			"property": "Exchange of Ground at Ben Wyvis",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 8464,
-			"property": "Servitude granted in disposition case 361 - Ben Wyvis",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
-		},
-		{
-			"area": 12.5,
-			"code": 1544,
-			"property": "Strip of ground at Ben Wyvis",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 2300.39,
 	"casework": [
 		{
@@ -125,6 +64,108 @@
 			"type": "Other Developments"
 		},
 		{
+			"code": "CPP142604",
+			"receivedDate": "2016-08-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA143010",
+			"receivedDate": "2016-09-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA156945",
+			"receivedDate": "2019-09-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA143011",
+			"receivedDate": "2016-09-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM140352",
+			"receivedDate": "2016-03-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC150539",
+			"receivedDate": "2018-05-04",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP150770",
+			"receivedDate": "2018-05-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP145763",
+			"receivedDate": "2017-05-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC148362",
+			"receivedDate": "2017-11-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP145412",
+			"receivedDate": "2017-04-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC148146",
+			"receivedDate": "2017-10-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP127259",
+			"receivedDate": "2013-10-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM128363",
+			"receivedDate": "2013-12-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS128911",
+			"receivedDate": "2014-01-31",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN128110",
+			"receivedDate": "2013-12-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP126161",
+			"receivedDate": "2013-09-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC136331",
+			"receivedDate": "2015-04-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CPA122863",
 			"receivedDate": "2013-04-17",
 			"response": "Advice only",
@@ -155,112 +196,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP150770",
-			"receivedDate": "2018-05-25",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP145763",
-			"receivedDate": "2017-05-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC150539",
-			"receivedDate": "2018-05-04",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "CDM163383",
 			"receivedDate": "2021-06-09",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM140352",
-			"receivedDate": "2016-03-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA143011",
-			"receivedDate": "2016-09-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC136331",
-			"receivedDate": "2015-04-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM128363",
-			"receivedDate": "2013-12-20",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS128911",
-			"receivedDate": "2014-01-31",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN128110",
-			"receivedDate": "2013-12-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP126161",
-			"receivedDate": "2013-09-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP127259",
-			"receivedDate": "2013-10-28",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA156945",
-			"receivedDate": "2019-09-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC148362",
-			"receivedDate": "2017-11-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP145412",
-			"receivedDate": "2017-04-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC148146",
-			"receivedDate": "2017-10-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP142604",
-			"receivedDate": "2016-08-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA143010",
-			"receivedDate": "2016-09-22",
-			"response": "Advice only",
-			"type": "EIA"
 		}
 	],
 	"designation": {

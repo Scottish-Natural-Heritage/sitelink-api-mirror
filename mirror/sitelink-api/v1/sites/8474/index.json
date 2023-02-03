@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8474",
 	"id": 8474,
-	"agreements": [
-		{
-			"area": 164,
-			"code": 1,
-			"property": "Glen Doll - Corrie Fee",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 5972.57,
 	"casework": [
 		{
@@ -49,10 +40,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "COR125098",
-			"receivedDate": "2013-07-23",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CGS149615",
+			"receivedDate": "2018-02-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CEA131516",
+			"receivedDate": "2014-06-18",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "ALC123054",
@@ -67,16 +64,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS149615",
-			"receivedDate": "2018-02-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA131516",
-			"receivedDate": "2014-06-18",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "COR125098",
+			"receivedDate": "2013-07-23",
+			"response": "Information only",
+			"type": "General Enquiries"
 		}
 	],
 	"designation": {
@@ -149,5 +140,5 @@
 		"Aberdeenshire",
 		"Perth and Kinross"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

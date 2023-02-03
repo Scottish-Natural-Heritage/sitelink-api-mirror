@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8376",
 	"id": 8376,
-	"agreements": [
-		{
-			"area": 8242,
-			"code": 1224,
-			"expiryDate": "2994-01-31",
-			"property": "Strathaird & Torrin Estates",
-			"term": 999,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1438.28,
 	"casework": [
 		{
@@ -56,52 +46,22 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "ALC154789",
-			"receivedDate": "2019-03-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC152303",
-			"receivedDate": "2018-08-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "ALC138826",
 			"receivedDate": "2011-09-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN128296",
-			"receivedDate": "2013-12-20",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP132511",
-			"receivedDate": "2014-08-07",
+			"code": "CPP162014",
+			"receivedDate": "2021-02-08",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN126226",
-			"receivedDate": "2013-07-01",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CDM159741",
 			"receivedDate": "2020-07-01",
 			"response": "Advice only",
 			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CPP162014",
-			"receivedDate": "2021-02-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "CDM143523",
@@ -114,6 +74,36 @@
 			"receivedDate": "2016-12-22",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC154789",
+			"receivedDate": "2019-03-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC152303",
+			"receivedDate": "2018-08-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP132511",
+			"receivedDate": "2014-08-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN128296",
+			"receivedDate": "2013-12-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN126226",
+			"receivedDate": "2013-07-01",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

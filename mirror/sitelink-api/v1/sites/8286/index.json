@@ -70,16 +70,10 @@
 			"type": "Tracks and Paths"
 		},
 		{
-			"code": "CDM135110",
-			"receivedDate": "2015-02-03",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145157",
-			"receivedDate": "2017-03-14",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
+			"code": "ALC137582",
+			"receivedDate": "2015-07-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC161232",
@@ -88,69 +82,9 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CGS157781",
-			"receivedDate": "2019-12-19",
+			"code": "CLC141760",
+			"receivedDate": "2016-06-01",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS163999",
-			"receivedDate": "2021-06-11",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPA164006",
-			"receivedDate": "2021-06-19",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "GEN124183",
-			"receivedDate": "2013-06-18",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM151416",
-			"receivedDate": "2018-07-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM152197",
-			"receivedDate": "2018-08-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM153303",
-			"receivedDate": "2018-11-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC165795",
-			"receivedDate": "2022-01-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP162560",
-			"receivedDate": "2021-03-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC137582",
-			"receivedDate": "2015-07-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC155127",
-			"receivedDate": "2019-04-16",
-			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
@@ -166,16 +100,82 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC141760",
-			"receivedDate": "2016-06-01",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "CLC141742",
 			"receivedDate": "2016-06-09",
 			"response": "S.15 Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CDM151416",
+			"receivedDate": "2018-07-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC155127",
+			"receivedDate": "2019-04-16",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM152197",
+			"receivedDate": "2018-08-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS157781",
+			"receivedDate": "2019-12-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM153303",
+			"receivedDate": "2018-11-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC145157",
+			"receivedDate": "2017-03-14",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CDM135110",
+			"receivedDate": "2015-02-03",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN124183",
+			"receivedDate": "2013-06-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS163999",
+			"receivedDate": "2021-06-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA164006",
+			"receivedDate": "2021-06-19",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPP162560",
+			"receivedDate": "2021-03-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC165795",
+			"receivedDate": "2022-01-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {
@@ -260,5 +260,5 @@
 	"secondaryLocalAuthorities": [
 		"Moray"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

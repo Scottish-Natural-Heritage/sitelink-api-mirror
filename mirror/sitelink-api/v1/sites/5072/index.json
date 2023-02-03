@@ -1,38 +1,20 @@
 {
 	"url": "/sitelink-api/v1/sites/5072",
 	"id": 5072,
-	"agreements": [
-		{
-			"area": 69.6,
-			"code": 431,
-			"property": "Ariundle",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.4,
-			"code": 4182,
-			"property": "Ariundle Oakwood Excambion",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 7939,
-			"property": "Servitude granted in disposition case 431 - Ariundle",
-			"term": 0,
-			"type": "Servitude (over NatureScot land granted in disposition)"
-		},
-		{
-			"area": 0,
-			"code": 7940,
-			"property": "Servitude granted in disposition case 431 - Ariundle",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
-		}
-	],
 	"area": 69.71,
 	"casework": [
+		{
+			"code": "ALC161989",
+			"receivedDate": "2021-02-04",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC126268",
+			"receivedDate": "2013-09-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
 		{
 			"code": "GEN117920",
 			"receivedDate": "2012-10-01",
@@ -44,18 +26,6 @@
 			"receivedDate": "2021-10-25",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "ALC126268",
-			"receivedDate": "2013-09-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC161989",
-			"receivedDate": "2021-02-04",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

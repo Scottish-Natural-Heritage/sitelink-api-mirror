@@ -3,20 +3,6 @@
 	"id": 5045,
 	"agreements": [
 		{
-			"area": 6.59,
-			"code": 259,
-			"property": "Buchanan Castle Woodlands",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 3471,
-			"property": "Claddochside Farm",
-			"term": 0,
-			"type": "Partner Agreement (including NatureScot)"
-		},
-		{
 			"area": 6,
 			"code": 67,
 			"expiryDate": "2033-07-08",
@@ -41,34 +27,12 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 55.9,
-			"code": 287,
-			"property": "Island of Inchcailloch",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 55.9,
-			"code": 7725,
-			"expiryDate": "2024-03-31",
-			"property": "Island of Inchcailloch",
-			"term": 10,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
 			"area": 70,
 			"code": 5948,
 			"expiryDate": "2037-03-14",
 			"property": "Low Mains - Montrose Estates",
 			"term": 25,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 0,
-			"code": 7657,
-			"property": "Servitude granted in disposition case 287 - Island of Inchcailloch",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
 		},
 		{
 			"area": 7.4,
@@ -106,6 +70,12 @@
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
+			"code": "CEA116339",
+			"receivedDate": "2012-08-03",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
 			"code": "CDM158093",
 			"receivedDate": "2020-01-10",
 			"response": "Advice only",
@@ -118,28 +88,10 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CEA116339",
-			"receivedDate": "2012-08-03",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CDM110381",
 			"receivedDate": "2011-11-22",
 			"response": "Holding objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "ALC162751",
-			"receivedDate": "2021-04-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC163622",
-			"receivedDate": "2021-06-17",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "COR155720",
@@ -152,6 +104,24 @@
 			"receivedDate": "2016-07-12",
 			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "ALC162751",
+			"receivedDate": "2021-04-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169049",
+			"receivedDate": "2022-10-24",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC163622",
+			"receivedDate": "2021-06-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

@@ -34,28 +34,10 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "CDM147936",
-			"receivedDate": "2017-10-13",
+			"code": "CDM147563",
+			"receivedDate": "2017-09-15",
 			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CLC167473",
-			"receivedDate": "2022-06-14",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
-			"code": "CPA168614",
-			"receivedDate": "2022-10-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA167905",
-			"receivedDate": "2022-08-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC151878",
@@ -70,6 +52,12 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
+			"code": "ALC148376",
+			"receivedDate": "2017-11-22",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM145657",
 			"receivedDate": "2017-04-27",
 			"response": "Advice only",
@@ -82,16 +70,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM147563",
-			"receivedDate": "2017-09-15",
+			"code": "CDM147936",
+			"receivedDate": "2017-10-13",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "S.37 Application"
 		},
 		{
-			"code": "ALC148376",
-			"receivedDate": "2017-11-22",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA167905",
+			"receivedDate": "2022-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC167473",
+			"receivedDate": "2022-06-14",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CPA168614",
+			"receivedDate": "2022-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

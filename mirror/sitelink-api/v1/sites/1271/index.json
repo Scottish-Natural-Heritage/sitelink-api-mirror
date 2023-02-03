@@ -10,30 +10,6 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN113300",
-			"receivedDate": "2012-03-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC135946",
-			"receivedDate": "2015-03-25",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CEA157309",
-			"receivedDate": "2019-11-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CEA161897",
 			"receivedDate": "2021-01-22",
 			"response": "Advice only",
@@ -44,6 +20,30 @@
 			"receivedDate": "2020-12-23",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CEA157309",
+			"receivedDate": "2019-11-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC135946",
+			"receivedDate": "2015-03-25",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "GEN113300",
+			"receivedDate": "2012-03-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -104,5 +104,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Paradise Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

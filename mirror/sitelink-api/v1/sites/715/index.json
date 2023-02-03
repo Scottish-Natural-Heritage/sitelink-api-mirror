@@ -46,16 +46,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "CEA161760",
+			"receivedDate": "2021-01-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC158200",
 			"receivedDate": "2020-01-30",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA153795",
-			"receivedDate": "2018-12-17",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP111060",
@@ -64,10 +64,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC123430",
-			"receivedDate": "2013-05-14",
-			"response": "No comment",
-			"type": "Other"
+			"code": "CPA153795",
+			"receivedDate": "2018-12-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA153082",
@@ -82,22 +82,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC123931",
-			"receivedDate": "2013-06-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CPP127835",
 			"receivedDate": "2013-11-25",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA161760",
-			"receivedDate": "2021-01-05",
+			"code": "CLC123931",
+			"receivedDate": "2013-06-10",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Other"
+		},
+		{
+			"code": "CLC123430",
+			"receivedDate": "2013-05-14",
+			"response": "No comment",
+			"type": "Other"
 		}
 	],
 	"designation": {

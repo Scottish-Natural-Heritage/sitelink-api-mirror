@@ -70,38 +70,14 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "CDM110047",
-			"receivedDate": "2011-11-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM152385",
-			"receivedDate": "2018-09-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM150255",
-			"receivedDate": "2018-04-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC164409",
-			"receivedDate": "2021-08-27",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM126343",
-			"receivedDate": "2013-09-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM154722",
 			"receivedDate": "2019-03-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM110047",
+			"receivedDate": "2011-11-21",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -112,10 +88,34 @@
 			"type": "Other"
 		},
 		{
+			"code": "CDM150255",
+			"receivedDate": "2018-04-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152385",
+			"receivedDate": "2018-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CLC145829",
 			"receivedDate": "2017-05-10",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM126343",
+			"receivedDate": "2013-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC164409",
+			"receivedDate": "2021-08-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -221,5 +221,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Ythan Estuary and Meikle Loch",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

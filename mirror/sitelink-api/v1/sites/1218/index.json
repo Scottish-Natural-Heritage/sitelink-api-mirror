@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1218",
 	"id": 1218,
-	"agreements": [
-		{
-			"area": 57.38,
-			"code": 4231,
-			"property": "Falls of Clyde and Nethan Gorge",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		}
-	],
 	"area": 39.8,
 	"casework": [
 		{
@@ -67,6 +58,42 @@
 			"type": "Housing Developments"
 		},
 		{
+			"code": "ALC111191",
+			"receivedDate": "2012-01-20",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC156934",
+			"receivedDate": "2019-09-25",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA149449",
+			"receivedDate": "2018-02-16",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CLC153135",
+			"receivedDate": "2018-11-08",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC152361",
+			"receivedDate": "2018-09-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC132552",
+			"receivedDate": "2014-08-07",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CPA135419",
 			"receivedDate": "2015-02-19",
 			"response": "Advice only",
@@ -79,40 +106,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC111191",
-			"receivedDate": "2012-01-20",
-			"response": "SSSI Consent Given (subject to conditions)",
+			"code": "ALC169263",
+			"receivedDate": "2022-12-05",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC152361",
-			"receivedDate": "2018-09-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC153135",
-			"receivedDate": "2018-11-08",
-			"response": "No comment",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA149449",
-			"receivedDate": "2018-02-16",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CLC132552",
-			"receivedDate": "2014-08-07",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC156934",
-			"receivedDate": "2019-09-25",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

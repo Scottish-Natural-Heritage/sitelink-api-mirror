@@ -1,29 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/875",
 	"id": 875,
-	"agreements": [
-		{
-			"area": 14.6,
-			"code": 32,
-			"property": "Knockan Crag",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 4.51,
-			"code": 2281,
-			"property": "Knockan Extension",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 6641,
-			"property": "Wayleave - Knockan Crag, Elpin - 11kv overhead line & underground cable",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		}
-	],
 	"area": 362,
 	"casework": [
 		{
@@ -63,6 +40,30 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "ALC162063",
+			"receivedDate": "2021-02-10",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC161316",
+			"receivedDate": "2020-11-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC132295",
+			"receivedDate": "2014-07-28",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA135695",
+			"receivedDate": "2015-03-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "ALC168612",
 			"receivedDate": "2022-10-06",
 			"response": "SSSI Consent Given",
@@ -77,30 +78,6 @@
 		{
 			"code": "ALC165167",
 			"receivedDate": "2021-11-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA135695",
-			"receivedDate": "2015-03-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC132295",
-			"receivedDate": "2014-07-28",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC162063",
-			"receivedDate": "2021-02-10",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC161316",
-			"receivedDate": "2020-11-24",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}

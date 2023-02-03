@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1553",
 	"id": 1553,
-	"agreements": [
-		{
-			"area": 88113,
-			"code": 5749,
-			"property": "Inshore Fishing (Prohibition of Fishing for Cockles) (Solway Firth) (Scotland) Order 2011",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 161.41,
 	"casework": [
 		{
@@ -85,18 +76,6 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CDM147764",
-			"receivedDate": "2017-10-02",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "ALC155636",
-			"receivedDate": "2019-05-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC115607",
 			"receivedDate": "2012-07-09",
 			"response": "SSSI Consent Given",
@@ -115,16 +94,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CLC164258",
-			"receivedDate": "2021-08-26",
+			"code": "CLC144568",
+			"receivedDate": "2017-01-31",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPP135597",
-			"receivedDate": "2015-03-02",
+			"code": "ALC155636",
+			"receivedDate": "2019-05-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM147764",
+			"receivedDate": "2017-10-02",
 			"response": "Advice only",
-			"type": "Oil spill contingency plan"
+			"type": "Application related advice"
 		},
 		{
 			"code": "ALC123061",
@@ -133,8 +118,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC144568",
-			"receivedDate": "2017-01-31",
+			"code": "CPP135597",
+			"receivedDate": "2015-03-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CLC164258",
+			"receivedDate": "2021-08-26",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		}

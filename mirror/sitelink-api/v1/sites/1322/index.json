@@ -4,10 +4,16 @@
 	"area": 9.68,
 	"casework": [
 		{
-			"code": "CPA119930",
-			"receivedDate": "2012-12-20",
+			"code": "CLC137128",
+			"receivedDate": "2015-06-16",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR148249",
+			"receivedDate": "2017-10-26",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
 			"code": "CGS119386",
@@ -22,22 +28,16 @@
 			"type": "Data Protection Act request"
 		},
 		{
+			"code": "CPA119930",
+			"receivedDate": "2012-12-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "ALC165441",
 			"receivedDate": "2021-12-16",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC137128",
-			"receivedDate": "2015-06-16",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "COR148249",
-			"receivedDate": "2017-10-26",
-			"response": "Information only",
-			"type": "General Enquiries"
 		}
 	],
 	"designation": {
@@ -98,5 +98,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Quoigs Meadow",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

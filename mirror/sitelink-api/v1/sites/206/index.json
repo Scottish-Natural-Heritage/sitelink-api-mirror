@@ -1,55 +1,25 @@
 {
 	"url": "/sitelink-api/v1/sites/206",
 	"id": 206,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 690,
-			"property": "Birkenhead Farm",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
-			"area": 0,
-			"code": 1046,
-			"property": "Holmhead Farm",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
-			"area": 0,
-			"code": 1047,
-			"expiryDate": "2033-03-28",
-			"property": "Logan Farm / Reservoir",
-			"term": 50,
-			"type": "Servitude"
-		}
-	],
 	"area": 4,
 	"casework": [
 		{
-			"code": "ALC146351",
-			"receivedDate": "2017-05-15",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA166722",
-			"receivedDate": "2022-04-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM168610",
-			"receivedDate": "2022-10-04",
+			"code": "CDM161338",
+			"receivedDate": "2020-12-01",
 			"response": "Advice only",
 			"type": "S.36 Application"
 		},
 		{
-			"code": "GEN120402",
-			"receivedDate": "2013-01-04",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "COR141036",
+			"receivedDate": "2016-04-13",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR140301",
+			"receivedDate": "2016-02-24",
+			"response": "Unresolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "SIR150982",
@@ -64,28 +34,46 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CEA159801",
-			"receivedDate": "2020-07-03",
+			"code": "ALC146351",
+			"receivedDate": "2017-05-15",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN120402",
+			"receivedDate": "2013-01-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA166722",
+			"receivedDate": "2022-04-12",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "COR140301",
-			"receivedDate": "2016-02-24",
-			"response": "Unresolved",
-			"type": "Complaints"
+			"code": "CPA169525",
+			"receivedDate": "2023-01-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM161338",
-			"receivedDate": "2020-12-01",
+			"code": "CPP168845",
+			"receivedDate": "2022-10-28",
+			"response": "Advice only",
+			"type": "Renewable energy strategy"
+		},
+		{
+			"code": "CDM168610",
+			"receivedDate": "2022-10-04",
 			"response": "Advice only",
 			"type": "S.36 Application"
 		},
 		{
-			"code": "COR141036",
-			"receivedDate": "2016-04-13",
-			"response": "Resolved",
-			"type": "Complaints"
+			"code": "CEA159801",
+			"receivedDate": "2020-07-03",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {

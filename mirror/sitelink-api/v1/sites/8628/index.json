@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8628",
 	"id": 8628,
-	"agreements": [
-		{
-			"area": 695,
-			"code": 6288,
-			"property": "Insh Marshes",
-			"term": 0,
-			"type": "Approved Body Declaration (S.35)"
-		}
-	],
 	"area": 695,
 	"casework": [
 		{
@@ -55,32 +46,26 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ALC153705",
-			"receivedDate": "2018-12-21",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "GEN115731",
 			"receivedDate": "2012-07-11",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC168143",
-			"receivedDate": "2022-08-23",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA120784",
-			"receivedDate": "2013-01-31",
+			"code": "GEN144557",
+			"receivedDate": "2017-01-30",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "General Advice"
 		},
 		{
-			"code": "GEN117466",
-			"receivedDate": "2012-09-11",
+			"code": "CLC136771",
+			"receivedDate": "2015-05-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN142423",
+			"receivedDate": "2016-08-08",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -97,16 +82,22 @@
 			"type": "Ministerial Correspondence"
 		},
 		{
-			"code": "CDM151516",
-			"receivedDate": "2018-07-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CEA151314",
 			"receivedDate": "2018-06-05",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "ALC157380",
+			"receivedDate": "2019-10-30",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM151516",
+			"receivedDate": "2018-07-13",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM152254",
@@ -115,22 +106,28 @@
 			"type": "Transport Infrastructure"
 		},
 		{
+			"code": "ALC153705",
+			"receivedDate": "2018-12-21",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM153050",
 			"receivedDate": "2018-11-02",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM136487",
-			"receivedDate": "2015-04-21",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "COR148916",
+			"receivedDate": "2018-01-11",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
-			"code": "CLC136771",
-			"receivedDate": "2015-05-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC148406",
+			"receivedDate": "2017-11-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC131371",
@@ -145,32 +142,26 @@
 			"type": "Transport Infrastructure"
 		},
 		{
-			"code": "ALC157380",
-			"receivedDate": "2019-10-30",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM136487",
+			"receivedDate": "2015-04-21",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN142423",
-			"receivedDate": "2016-08-08",
+			"code": "GEN117466",
+			"receivedDate": "2012-09-11",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN144557",
-			"receivedDate": "2017-01-30",
+			"code": "CPA120784",
+			"receivedDate": "2013-01-31",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "COR148916",
-			"receivedDate": "2018-01-11",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC148406",
-			"receivedDate": "2017-11-23",
+			"code": "ALC168143",
+			"receivedDate": "2022-08-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}

@@ -70,68 +70,8 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "CEA148905",
-			"receivedDate": "2018-01-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC148844",
-			"receivedDate": "2017-12-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM147244",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN153772",
-			"receivedDate": "2019-01-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM164627",
-			"receivedDate": "2021-09-15",
-			"response": "Advice only",
-			"type": "Other Infrastructure"
-		},
-		{
-			"code": "ALC150105",
-			"receivedDate": "2018-04-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC159224",
-			"receivedDate": "2020-05-12",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
 			"code": "ALC156563",
 			"receivedDate": "2019-08-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA154008",
-			"receivedDate": "2019-01-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC154737",
-			"receivedDate": "2019-03-14",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC162085",
-			"receivedDate": "2021-02-12",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -142,9 +82,21 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC154233",
-			"receivedDate": "2019-02-11",
+			"code": "ALC162268",
+			"receivedDate": "2021-02-25",
 			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162085",
+			"receivedDate": "2021-02-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC154737",
+			"receivedDate": "2019-03-14",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -160,10 +112,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC162268",
-			"receivedDate": "2021-02-25",
+			"code": "ALC154233",
+			"receivedDate": "2019-02-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA154008",
+			"receivedDate": "2019-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA144589",
+			"receivedDate": "2017-02-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC150105",
+			"receivedDate": "2018-04-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN153772",
+			"receivedDate": "2019-01-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM147244",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "ALC147163",
@@ -172,10 +154,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA144589",
-			"receivedDate": "2017-02-01",
+			"code": "CEA148905",
+			"receivedDate": "2018-01-11",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
+		},
+		{
+			"code": "ALC148844",
+			"receivedDate": "2017-12-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM164627",
+			"receivedDate": "2021-09-15",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CLC159224",
+			"receivedDate": "2020-05-12",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
 		}
 	],
 	"designation": {

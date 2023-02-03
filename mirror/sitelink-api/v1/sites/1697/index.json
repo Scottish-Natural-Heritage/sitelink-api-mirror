@@ -40,16 +40,28 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "CPA141666",
+			"receivedDate": "2016-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN140448",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142370",
+			"receivedDate": "2016-07-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CDM153381",
 			"receivedDate": "2018-11-27",
 			"response": "Advice only",
 			"type": "Application related advice"
-		},
-		{
-			"code": "CDM152548",
-			"receivedDate": "2018-09-28",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
 		},
 		{
 			"code": "CPA151002",
@@ -64,26 +76,20 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CGS164986",
-			"receivedDate": "2021-11-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM166885",
-			"receivedDate": "2022-05-05",
-			"response": "Advice only",
+			"code": "CDM146133",
+			"receivedDate": "2017-06-07",
+			"response": "Holding objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM164073",
-			"receivedDate": "2021-08-10",
-			"response": "Advice only",
+			"code": "CDM152548",
+			"receivedDate": "2018-09-28",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN140448",
-			"receivedDate": "2016-03-08",
+			"code": "GEN126448",
+			"receivedDate": "2013-09-18",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -94,28 +100,22 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN126448",
-			"receivedDate": "2013-09-18",
+			"code": "CDM164073",
+			"receivedDate": "2021-08-10",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA141666",
-			"receivedDate": "2016-06-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN142370",
-			"receivedDate": "2016-07-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM146133",
-			"receivedDate": "2017-06-07",
-			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166885",
+			"receivedDate": "2022-05-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS164986",
+			"receivedDate": "2021-11-04",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {
@@ -237,5 +237,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Creag Clunie and the Lion's Face",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

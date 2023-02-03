@@ -28,10 +28,10 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "ALC146329",
-			"receivedDate": "2017-06-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM116690",
+			"receivedDate": "2012-08-15",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA161051",
@@ -40,20 +40,44 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM116690",
-			"receivedDate": "2012-08-15",
+			"code": "CLC155295",
+			"receivedDate": "2019-04-29",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC122909",
-			"receivedDate": "2013-04-22",
+			"code": "ALC156800",
+			"receivedDate": "2019-09-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC152501",
 			"receivedDate": "2018-09-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146329",
+			"receivedDate": "2017-06-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR138758",
+			"receivedDate": "2015-10-21",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC122909",
+			"receivedDate": "2013-04-22",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -68,30 +92,6 @@
 			"receivedDate": "2022-01-06",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "COR138758",
-			"receivedDate": "2015-10-21",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC134016",
-			"receivedDate": "2014-10-27",
-			"response": "Licence Granted",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC155295",
-			"receivedDate": "2019-04-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC156800",
-			"receivedDate": "2019-09-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -170,5 +170,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Milton Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

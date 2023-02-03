@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/82",
 	"id": 82,
-	"agreements": [
-		{
-			"area": 5523,
-			"code": 840831,
-			"expiryDate": "2023-12-31",
-			"property": "Laggan Farm",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 3,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1783.83,
 	"casework": [
 		{
@@ -21,10 +10,52 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CDM148874",
-			"receivedDate": "2018-01-10",
+			"code": "CLC154941",
+			"receivedDate": "2019-03-29",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC159588",
+			"receivedDate": "2020-06-18",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP161516",
+			"receivedDate": "2020-12-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM141877",
+			"receivedDate": "2016-06-24",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CLC157067",
+			"receivedDate": "2019-10-09",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC144538",
+			"receivedDate": "2017-01-27",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144540",
+			"receivedDate": "2017-01-25",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CPP142791",
+			"receivedDate": "2016-08-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP150984",
@@ -51,6 +82,12 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CLC145267",
+			"receivedDate": "2017-03-22",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
 			"code": "CPP153497",
 			"receivedDate": "2018-12-06",
 			"response": "Advice only",
@@ -63,16 +100,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP159087",
-			"receivedDate": "2020-04-28",
+			"code": "CDM148874",
+			"receivedDate": "2018-01-10",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP142791",
-			"receivedDate": "2016-08-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "CDM124257",
+			"receivedDate": "2013-06-24",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "ALC128905",
@@ -93,58 +130,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM124257",
-			"receivedDate": "2013-06-24",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC159588",
-			"receivedDate": "2020-06-18",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPP161516",
-			"receivedDate": "2020-12-15",
+			"code": "CPP159087",
+			"receivedDate": "2020-04-28",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC157067",
-			"receivedDate": "2019-10-09",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC154941",
-			"receivedDate": "2019-03-29",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM141877",
-			"receivedDate": "2016-06-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145267",
-			"receivedDate": "2017-03-22",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC144538",
-			"receivedDate": "2017-01-27",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CLC144540",
-			"receivedDate": "2017-01-25",
-			"response": "No comment",
-			"type": "Other"
 		}
 	],
 	"designation": {

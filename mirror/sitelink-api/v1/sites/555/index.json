@@ -10,12 +10,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CPA129735",
-			"receivedDate": "2014-03-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CEA114332",
 			"receivedDate": "2012-05-23",
 			"response": "Advice only",
@@ -28,34 +22,28 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CPP161723",
+			"receivedDate": "2021-01-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CEA112995",
 			"receivedDate": "2012-03-29",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CGS167027",
-			"receivedDate": "2022-05-17",
+			"code": "GEN143148",
+			"receivedDate": "2016-09-27",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "General Advice"
 		},
 		{
-			"code": "CPA118530",
-			"receivedDate": "2012-10-29",
+			"code": "CDM144941",
+			"receivedDate": "2017-03-13",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA113960",
-			"receivedDate": "2012-05-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA136126",
-			"receivedDate": "2015-04-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Post Application"
 		},
 		{
 			"code": "CEA131516",
@@ -70,20 +58,38 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP161723",
-			"receivedDate": "2021-01-11",
+			"code": "CPA129735",
+			"receivedDate": "2014-03-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA136126",
+			"receivedDate": "2015-04-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA118530",
+			"receivedDate": "2012-10-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA113960",
+			"receivedDate": "2012-05-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS167027",
+			"receivedDate": "2022-05-17",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "GEN143148",
-			"receivedDate": "2016-09-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM144941",
-			"receivedDate": "2017-03-13",
+			"code": "CDM169317",
+			"receivedDate": "2022-12-12",
 			"response": "Advice only",
 			"type": "Post Application"
 		}
@@ -135,5 +141,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Dun Moss",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

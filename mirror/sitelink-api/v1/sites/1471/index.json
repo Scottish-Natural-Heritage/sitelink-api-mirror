@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1471",
 	"id": 1471,
-	"agreements": [
-		{
-			"area": 871.86,
-			"code": 4233,
-			"property": "St Kilda",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		}
-	],
 	"area": 871.86,
 	"casework": [
 		{
@@ -223,34 +214,52 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CEA133642",
-			"receivedDate": "2014-10-14",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC161647",
+			"receivedDate": "2021-01-06",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC134422",
-			"receivedDate": "2014-11-26",
+			"code": "ALC140989",
+			"receivedDate": "2016-04-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA144845",
-			"receivedDate": "2017-02-21",
+			"code": "CDM154408",
+			"receivedDate": "2019-02-21",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM136348",
-			"receivedDate": "2015-04-24",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "ALC129568",
-			"receivedDate": "2014-03-04",
+			"code": "ALC155706",
+			"receivedDate": "2019-06-03",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC155236",
+			"receivedDate": "2019-04-23",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC140946",
+			"receivedDate": "2016-04-18",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM143520",
+			"receivedDate": "2016-10-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144339",
+			"receivedDate": "2017-01-16",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC151108",
@@ -271,16 +280,64 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC167196",
-			"receivedDate": "2022-05-31",
+			"code": "CLC148381",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA144845",
+			"receivedDate": "2017-02-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM146685",
+			"receivedDate": "2017-07-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC132046",
+			"receivedDate": "2014-07-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM167130",
-			"receivedDate": "2022-05-25",
+			"code": "ALC126155",
+			"receivedDate": "2013-08-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA133642",
+			"receivedDate": "2014-10-14",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "ALC129568",
+			"receivedDate": "2014-03-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134422",
+			"receivedDate": "2014-11-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC133338",
+			"receivedDate": "2014-09-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM136348",
+			"receivedDate": "2015-04-24",
+			"response": "Advice only",
+			"type": "Application related advice"
 		},
 		{
 			"code": "CLC121985",
@@ -301,22 +358,40 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC121047",
-			"receivedDate": "2013-02-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CDM118266",
 			"receivedDate": "2012-10-17",
 			"response": "No Comment",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM146685",
-			"receivedDate": "2017-07-11",
+			"code": "CLC121047",
+			"receivedDate": "2013-02-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC167196",
+			"receivedDate": "2022-05-31",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM167130",
+			"receivedDate": "2022-05-25",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "GEN169324",
+			"receivedDate": "2022-11-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC164133",
+			"receivedDate": "2021-08-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC158924",
@@ -325,10 +400,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC163707",
-			"receivedDate": "2021-07-07",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC166485",
+			"receivedDate": "2022-03-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "ALC163480",
@@ -337,8 +412,20 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC163847",
-			"receivedDate": "2021-07-19",
+			"code": "ALC163707",
+			"receivedDate": "2021-07-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC162592",
+			"receivedDate": "2021-03-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC162531",
+			"receivedDate": "2021-03-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -349,9 +436,9 @@
 			"type": "SEA"
 		},
 		{
-			"code": "ALC166815",
-			"receivedDate": "2022-04-28",
-			"response": "Licence/Consent not required",
+			"code": "ALC166157",
+			"receivedDate": "2022-02-16",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -367,10 +454,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC162592",
-			"receivedDate": "2021-03-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC163847",
+			"receivedDate": "2021-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPA166096",
@@ -379,93 +466,9 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC162531",
-			"receivedDate": "2021-03-23",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC166157",
-			"receivedDate": "2022-02-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC164133",
-			"receivedDate": "2021-08-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC140946",
-			"receivedDate": "2016-04-18",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC133338",
-			"receivedDate": "2014-09-25",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC132046",
-			"receivedDate": "2014-07-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC126155",
-			"receivedDate": "2013-08-13",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC155236",
-			"receivedDate": "2019-04-23",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC161647",
-			"receivedDate": "2021-01-06",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC155706",
-			"receivedDate": "2019-06-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM154408",
-			"receivedDate": "2019-02-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM144339",
-			"receivedDate": "2017-01-16",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM143520",
-			"receivedDate": "2016-10-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148381",
-			"receivedDate": "2017-11-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC140989",
-			"receivedDate": "2016-04-19",
-			"response": "SSSI Consent Given",
+			"code": "ALC166815",
+			"receivedDate": "2022-04-28",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],

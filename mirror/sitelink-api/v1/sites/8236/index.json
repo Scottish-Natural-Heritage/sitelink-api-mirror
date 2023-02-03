@@ -52,18 +52,6 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPA166609",
-			"receivedDate": "2022-04-08",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CDM139365",
-			"receivedDate": "2015-12-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CGS137263",
 			"receivedDate": "2015-06-24",
 			"response": "Advice only",
@@ -76,10 +64,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC135726",
-			"receivedDate": "2015-03-06",
+			"code": "CDM139365",
+			"receivedDate": "2015-12-07",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM143190",
@@ -92,6 +80,18 @@
 			"receivedDate": "2017-01-12",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC135726",
+			"receivedDate": "2015-03-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA166609",
+			"receivedDate": "2022-04-08",
+			"response": "Advice only",
+			"type": "SRDP"
 		}
 	],
 	"designation": {
@@ -149,5 +149,5 @@
 	],
 	"localAuthority": "Moray",
 	"name": "Creag nan Gamhainn",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

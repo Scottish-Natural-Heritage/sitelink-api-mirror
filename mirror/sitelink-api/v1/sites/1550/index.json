@@ -16,10 +16,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "CLC161202",
-			"receivedDate": "2020-11-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "GEN117123",
+			"receivedDate": "2012-08-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "ALC113847",
@@ -28,10 +28,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN117123",
-			"receivedDate": "2012-08-16",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "CLC161202",
+			"receivedDate": "2020-11-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC112306",
@@ -40,21 +40,21 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "COR166223",
-			"receivedDate": "2022-02-23",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CLC140714",
+			"receivedDate": "2016-03-22",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
 		},
 		{
-			"code": "ALC118017",
-			"receivedDate": "2012-10-02",
+			"code": "ALC157445",
+			"receivedDate": "2019-11-15",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC121825",
-			"receivedDate": "2013-03-12",
-			"response": "SSSI Consent Given",
+			"code": "ALC156327",
+			"receivedDate": "2019-07-16",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -70,28 +70,16 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "ALC162845",
-			"receivedDate": "2021-04-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC163031",
-			"receivedDate": "2021-05-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CGS148374",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CGS126357",
 			"receivedDate": "2013-09-16",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC132350",
-			"receivedDate": "2014-07-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CGS128419",
@@ -106,34 +94,52 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CLC132350",
+			"receivedDate": "2014-07-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "ALC126667",
 			"receivedDate": "2013-10-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC156327",
-			"receivedDate": "2019-07-16",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC157445",
-			"receivedDate": "2019-11-15",
+			"code": "ALC118017",
+			"receivedDate": "2012-10-02",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS148374",
-			"receivedDate": "2017-11-21",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC121825",
+			"receivedDate": "2013-03-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC140714",
-			"receivedDate": "2016-03-22",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
+			"code": "COR166223",
+			"receivedDate": "2022-02-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC169247",
+			"receivedDate": "2022-12-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162845",
+			"receivedDate": "2021-04-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC163031",
+			"receivedDate": "2021-05-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

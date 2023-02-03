@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/307",
 	"id": 307,
-	"agreements": [
-		{
-			"area": 1.57,
-			"code": 7793,
-			"expiryDate": "2022-11-30",
-			"property": "Camilla Loch - Clentrie Farm",
-			"term": 5,
-			"type": "SSSI Agreement (S.15)"
-		}
-	],
 	"area": 8.02,
 	"casework": [
 		{
@@ -26,10 +16,46 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "CLC111826",
+			"receivedDate": "2012-01-26",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CEA138406",
+			"receivedDate": "2015-09-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC142152",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CGS148067",
 			"receivedDate": "2017-10-25",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CGS149730",
+			"receivedDate": "2018-02-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS148342",
+			"receivedDate": "2017-11-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC128889",
+			"receivedDate": "2014-01-29",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC134974",
@@ -38,28 +64,22 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC111826",
-			"receivedDate": "2012-01-26",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CGS166239",
-			"receivedDate": "2022-02-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CEA122504",
-			"receivedDate": "2013-04-11",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "CLC121103",
+			"receivedDate": "2013-02-14",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "GEN121429",
 			"receivedDate": "2013-02-26",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CEA122504",
+			"receivedDate": "2013-04-11",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC113647",
@@ -74,38 +94,8 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC121103",
-			"receivedDate": "2013-02-14",
-			"response": "No comment",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CGS149730",
-			"receivedDate": "2018-02-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA138406",
-			"receivedDate": "2015-09-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC128889",
-			"receivedDate": "2014-01-29",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC142152",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS148342",
-			"receivedDate": "2017-11-16",
+			"code": "CGS166239",
+			"receivedDate": "2022-02-07",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		}

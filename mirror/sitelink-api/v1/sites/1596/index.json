@@ -28,16 +28,22 @@
 			"type": "Housing Developments"
 		},
 		{
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161617",
+			"receivedDate": "2020-12-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "COR153199",
 			"receivedDate": "2018-11-14",
 			"response": "Information only",
 			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC146563",
-			"receivedDate": "2017-07-03",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "GEN153318",
@@ -52,10 +58,10 @@
 			"type": "General Enquiries"
 		},
 		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
+			"code": "CLC146563",
+			"receivedDate": "2017-07-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
 		},
 		{
 			"code": "CLC135946",
@@ -64,16 +70,10 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA161617",
-			"receivedDate": "2020-12-23",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -131,5 +131,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Wartle Moss",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

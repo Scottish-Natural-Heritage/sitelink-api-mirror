@@ -98,16 +98,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ALC129826",
-			"receivedDate": "2014-03-12",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN159323",
-			"receivedDate": "2020-05-15",
+			"code": "CPP162145",
+			"receivedDate": "2021-02-16",
 			"response": "Advice only",
-			"type": "Wildlife Crime"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CLC161049",
@@ -116,46 +110,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC167612",
-			"receivedDate": "2022-07-04",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC146620",
-			"receivedDate": "2017-06-15",
+			"code": "GEN159323",
+			"receivedDate": "2020-05-15",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "COR165222",
-			"receivedDate": "2021-11-24",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN163519",
-			"receivedDate": "2021-06-21",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC137986",
-			"receivedDate": "2015-08-17",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC139299",
-			"receivedDate": "2015-11-30",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN132528",
-			"receivedDate": "2014-08-07",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Wildlife Crime"
 		},
 		{
 			"code": "COR160167",
@@ -170,10 +128,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP162145",
-			"receivedDate": "2021-02-16",
+			"code": "CLC139299",
+			"receivedDate": "2015-11-30",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Other"
 		},
 		{
 			"code": "CDM142059",
@@ -182,10 +140,52 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CLC137986",
+			"receivedDate": "2015-08-17",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CDM148300",
 			"receivedDate": "2017-11-13",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CLC146620",
+			"receivedDate": "2017-06-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN132528",
+			"receivedDate": "2014-08-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC129826",
+			"receivedDate": "2014-03-12",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC167612",
+			"receivedDate": "2022-07-04",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN163519",
+			"receivedDate": "2021-06-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR165222",
+			"receivedDate": "2021-11-24",
+			"response": "Information only",
+			"type": "General Enquiries"
 		}
 	],
 	"designation": {

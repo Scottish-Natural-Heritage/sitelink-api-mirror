@@ -64,14 +64,8 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "ALC146430",
-			"receivedDate": "2017-06-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA159629",
-			"receivedDate": "2020-06-10",
+			"code": "CEA115861",
+			"receivedDate": "2012-07-16",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -82,10 +76,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA115861",
-			"receivedDate": "2012-07-16",
+			"code": "CEA159629",
+			"receivedDate": "2020-06-10",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "GEN159565",
+			"receivedDate": "2020-06-11",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CEA162503",
@@ -98,54 +98,6 @@
 			"receivedDate": "2011-11-21",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM122977",
-			"receivedDate": "2013-04-26",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "ALC119743",
-			"receivedDate": "2013-01-07",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC151349",
-			"receivedDate": "2018-07-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC146876",
-			"receivedDate": "2017-07-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS153163",
-			"receivedDate": "2018-11-13",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM162511",
-			"receivedDate": "2021-03-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP163762",
-			"receivedDate": "2021-07-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN159565",
-			"receivedDate": "2020-06-11",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CLC155810",
@@ -166,16 +118,70 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CLC142028",
+			"receivedDate": "2016-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC151349",
+			"receivedDate": "2018-07-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146876",
+			"receivedDate": "2017-07-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS153163",
+			"receivedDate": "2018-11-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "ALC148465",
 			"receivedDate": "2017-11-13",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC142028",
-			"receivedDate": "2016-07-06",
+			"code": "ALC146430",
+			"receivedDate": "2017-06-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM122977",
+			"receivedDate": "2013-04-26",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "S.37 Application"
+		},
+		{
+			"code": "ALC119743",
+			"receivedDate": "2013-01-07",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM169285",
+			"receivedDate": "2022-03-01",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM162511",
+			"receivedDate": "2021-03-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP163762",
+			"receivedDate": "2021-07-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -249,5 +255,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Pitkeathly Mires",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

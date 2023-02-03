@@ -4,40 +4,16 @@
 	"area": 32.11,
 	"casework": [
 		{
-			"code": "CLC157564",
-			"receivedDate": "2019-11-26",
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM168091",
-			"receivedDate": "2022-08-18",
+			"code": "CDM161399",
+			"receivedDate": "2020-12-04",
 			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CPA117394",
-			"receivedDate": "2012-09-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA164403",
-			"receivedDate": "2021-09-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC166065",
-			"receivedDate": "2022-02-18",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA166144",
-			"receivedDate": "2022-02-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CPA140360",
@@ -52,22 +28,46 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CLC157564",
+			"receivedDate": "2019-11-26",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "CEA130645",
 			"receivedDate": "2014-05-01",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CDM161399",
-			"receivedDate": "2020-12-04",
+			"code": "CPA117394",
+			"receivedDate": "2012-09-11",
 			"response": "Advice only",
-			"type": "Application related advice"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
+			"code": "CDM168091",
+			"receivedDate": "2022-08-18",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "S.36 Application"
+		},
+		{
+			"code": "ALC166065",
+			"receivedDate": "2022-02-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA164403",
+			"receivedDate": "2021-09-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA166144",
+			"receivedDate": "2022-02-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

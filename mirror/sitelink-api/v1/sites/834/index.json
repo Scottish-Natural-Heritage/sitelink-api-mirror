@@ -46,14 +46,26 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC130099",
-			"receivedDate": "2014-04-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC128691",
+			"receivedDate": "2014-01-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CGS125430",
+			"receivedDate": "2013-08-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "ALC129318",
 			"receivedDate": "2014-02-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130099",
+			"receivedDate": "2014-04-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -68,18 +80,6 @@
 			"receivedDate": "2020-04-27",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS125430",
-			"receivedDate": "2013-08-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC128691",
-			"receivedDate": "2014-01-21",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

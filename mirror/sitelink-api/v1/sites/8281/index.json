@@ -4,10 +4,10 @@
 	"area": 123.58,
 	"casework": [
 		{
-			"code": "CLC113201",
-			"receivedDate": "2012-03-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CEA155125",
+			"receivedDate": "2019-04-12",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "ALC113160",
@@ -16,16 +16,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM164529",
-			"receivedDate": "2021-09-21",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM162885",
-			"receivedDate": "2021-04-27",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "CLC113201",
+			"receivedDate": "2012-03-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CPP165589",
@@ -34,10 +28,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA155125",
-			"receivedDate": "2019-04-12",
+			"code": "CDM162885",
+			"receivedDate": "2021-04-27",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164529",
+			"receivedDate": "2021-09-21",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Application related advice"
 		}
 	],
 	"designation": {

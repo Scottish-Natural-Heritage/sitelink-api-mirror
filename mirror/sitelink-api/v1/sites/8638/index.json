@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8638",
 	"id": 8638,
-	"agreements": [
-		{
-			"area": 65.34,
-			"code": 8639,
-			"expiryDate": "2024-03-31",
-			"property": "Argyll Estates - Glen Shira",
-			"term": 5,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 65.24,
 	"casework": [
 		{
@@ -44,35 +34,6 @@
 			"type": "Tracks and Paths"
 		},
 		{
-			"code": "CDM134413",
-			"receivedDate": "2014-12-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA111362",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA167783",
-			"receivedDate": "2022-07-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA120191",
-			"receivedDate": "2013-01-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA165013",
-			"receivedDate": "2021-11-08",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CDM137510",
 			"receivedDate": "2015-07-09",
 			"response": "Advice only",
@@ -83,6 +44,17 @@
 			"receivedDate": "2015-07-06",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM161909",
+			"receivedDate": "2021-01-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA111362",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CEA137148",
@@ -101,6 +73,12 @@
 			"receivedDate": "2015-07-28",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CPP141265",
+			"receivedDate": "2016-05-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CEA125628",
@@ -127,12 +105,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA129669",
-			"receivedDate": "2014-03-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CPP128502",
 			"receivedDate": "2014-01-10",
 			"response": "Advice only",
@@ -145,16 +117,34 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM161909",
-			"receivedDate": "2021-01-28",
+			"code": "CDM134413",
+			"receivedDate": "2014-12-03",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP141265",
-			"receivedDate": "2016-05-13",
+			"code": "CPA129669",
+			"receivedDate": "2014-03-07",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA120191",
+			"receivedDate": "2013-01-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA167783",
+			"receivedDate": "2022-07-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA165013",
+			"receivedDate": "2021-11-08",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {

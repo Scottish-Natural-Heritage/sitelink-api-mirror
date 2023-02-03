@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1205",
 	"id": 1205,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 6637,
-			"property": "Protection of Seals (Designation of Haul-Out Sites) (Scotland) Order 2014",
-			"term": 0,
-			"type": "Seal Haul-out Sites Designation Order"
-		}
-	],
 	"area": 52.26,
 	"casework": [
 		{
@@ -127,12 +118,6 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM126340",
-			"receivedDate": "2013-09-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM131020",
 			"receivedDate": "2014-05-21",
 			"response": "Advice only",
@@ -143,6 +128,12 @@
 			"receivedDate": "2014-06-18",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CDM126340",
+			"receivedDate": "2013-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

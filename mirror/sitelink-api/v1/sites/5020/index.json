@@ -9,14 +9,6 @@
 			"property": "Craigellachie",
 			"term": 25,
 			"type": "Land Lease"
-		},
-		{
-			"area": 257.46,
-			"code": 8347,
-			"expiryDate": "2023-03-31",
-			"property": "Craigellachie NNR",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
 		}
 	],
 	"area": 257,
@@ -94,8 +86,44 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC118138",
-			"receivedDate": "2012-10-10",
+			"code": "CDM141421",
+			"receivedDate": "2016-05-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC154735",
+			"receivedDate": "2019-03-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157164",
+			"receivedDate": "2019-10-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM141428",
+			"receivedDate": "2016-05-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC142712",
+			"receivedDate": "2016-08-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC141639",
+			"receivedDate": "2016-06-09",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC157401",
+			"receivedDate": "2019-11-12",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -103,6 +131,18 @@
 			"code": "ALC152237",
 			"receivedDate": "2018-08-29",
 			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM131234",
+			"receivedDate": "2014-05-15",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "ALC118138",
+			"receivedDate": "2012-10-10",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -118,6 +158,12 @@
 			"type": "SRDP including LEADER"
 		},
 		{
+			"code": "GEN163633",
+			"receivedDate": "2021-07-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "ALC164119",
 			"receivedDate": "2021-08-03",
 			"response": "SSSI Consent Given",
@@ -128,60 +174,6 @@
 			"receivedDate": "2021-06-02",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN163633",
-			"receivedDate": "2021-07-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM131234",
-			"receivedDate": "2014-05-15",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "ALC154735",
-			"receivedDate": "2019-03-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC157401",
-			"receivedDate": "2019-11-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC157164",
-			"receivedDate": "2019-10-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC141639",
-			"receivedDate": "2016-06-09",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM141428",
-			"receivedDate": "2016-05-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM141421",
-			"receivedDate": "2016-05-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC142712",
-			"receivedDate": "2016-08-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

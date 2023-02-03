@@ -22,6 +22,12 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "ALC137920",
+			"receivedDate": "2015-08-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CPP148032",
 			"receivedDate": "2017-10-24",
 			"response": "Advice only",
@@ -34,22 +40,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM129939",
-			"receivedDate": "2014-03-25",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC137920",
-			"receivedDate": "2015-08-13",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "GEN125598",
 			"receivedDate": "2013-07-30",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CDM129939",
+			"receivedDate": "2014-03-25",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

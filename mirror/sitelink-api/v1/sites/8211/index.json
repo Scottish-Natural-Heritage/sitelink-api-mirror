@@ -3,13 +3,6 @@
 	"id": 8211,
 	"agreements": [
 		{
-			"area": 8.8,
-			"code": 190,
-			"property": "Cragbank & Wolfehopelee",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 6.6,
 			"code": 299,
 			"expiryDate": "2035-07-24",
@@ -255,10 +248,10 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "CEA128725",
-			"receivedDate": "2014-01-21",
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		},
 		{
 			"code": "CDM161135",
@@ -267,10 +260,64 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CDM159453",
+			"receivedDate": "2020-06-05",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161173",
+			"receivedDate": "2020-11-12",
+			"response": "Conditioned objection",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CPP141870",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CDM154831",
+			"receivedDate": "2019-03-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156834",
+			"receivedDate": "2019-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC150284",
+			"receivedDate": "2018-04-19",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CLC157566",
 			"receivedDate": "2019-11-27",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP127445",
+			"receivedDate": "2013-10-24",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CLC132273",
+			"receivedDate": "2014-07-24",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CEA128725",
+			"receivedDate": "2014-01-21",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CPP120653",
@@ -283,12 +330,6 @@
 			"receivedDate": "2012-06-14",
 			"response": "Advice only",
 			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC150284",
-			"receivedDate": "2018-04-19",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CDM160264",
@@ -307,54 +348,6 @@
 			"receivedDate": "2021-03-09",
 			"response": "Advice only",
 			"type": "Application related advice"
-		},
-		{
-			"code": "CLC132273",
-			"receivedDate": "2014-07-24",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP127445",
-			"receivedDate": "2013-10-24",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CDM154831",
-			"receivedDate": "2019-03-20",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM159453",
-			"receivedDate": "2020-06-05",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM156834",
-			"receivedDate": "2019-09-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM161173",
-			"receivedDate": "2020-11-12",
-			"response": "Conditioned objection",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPP141870",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
 		}
 	],
 	"designation": {

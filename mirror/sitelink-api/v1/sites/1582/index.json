@@ -70,34 +70,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "ALC129314",
-			"receivedDate": "2014-02-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC129609",
-			"receivedDate": "2014-03-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM119467",
-			"receivedDate": "2012-12-04",
-			"response": "Conditioned objection",
+			"code": "CDM155513",
+			"receivedDate": "2019-05-16",
+			"response": "Holding objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM150231",
-			"receivedDate": "2018-04-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC153198",
-			"receivedDate": "2018-11-13",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM140468",
@@ -112,16 +88,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM150231",
+			"receivedDate": "2018-04-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC153198",
+			"receivedDate": "2018-11-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CLC132555",
 			"receivedDate": "2014-08-11",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC125806",
-			"receivedDate": "2013-08-20",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "GEN123705",
@@ -130,9 +112,27 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM155513",
-			"receivedDate": "2019-05-16",
-			"response": "Holding objection",
+			"code": "CLC125806",
+			"receivedDate": "2013-08-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC129609",
+			"receivedDate": "2014-03-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC129314",
+			"receivedDate": "2014-02-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM119467",
+			"receivedDate": "2012-12-04",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		}
 	],

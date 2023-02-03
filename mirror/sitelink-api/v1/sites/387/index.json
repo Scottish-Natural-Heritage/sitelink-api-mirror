@@ -46,8 +46,80 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "ALC158892",
+			"receivedDate": "2020-03-23",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM111129",
+			"receivedDate": "2012-01-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS156992",
+			"receivedDate": "2019-10-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC137169",
+			"receivedDate": "2015-06-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS149621",
+			"receivedDate": "2018-03-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CEA153011",
+			"receivedDate": "2018-11-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS152411",
+			"receivedDate": "2018-09-18",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM130804",
+			"receivedDate": "2014-05-12",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM126592",
+			"receivedDate": "2013-10-01",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM130979",
+			"receivedDate": "2014-05-21",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CEA126656",
+			"receivedDate": "2013-10-02",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPA134166",
 			"receivedDate": "2014-11-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA130728",
+			"receivedDate": "2014-05-08",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -58,16 +130,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA130728",
-			"receivedDate": "2014-05-08",
+			"code": "CEA121858",
+			"receivedDate": "2013-03-13",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
-			"code": "CDM111129",
-			"receivedDate": "2012-01-16",
+			"code": "CPA121804",
+			"receivedDate": "2013-03-12",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CDM166997",
@@ -82,82 +154,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA121804",
-			"receivedDate": "2013-03-12",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA121858",
-			"receivedDate": "2013-03-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA153011",
-			"receivedDate": "2018-11-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS149621",
-			"receivedDate": "2018-03-02",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS152411",
-			"receivedDate": "2018-09-18",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "CPA164471",
 			"receivedDate": "2021-09-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC137169",
-			"receivedDate": "2015-06-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM130979",
-			"receivedDate": "2014-05-21",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CDM126592",
-			"receivedDate": "2013-10-01",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM130804",
-			"receivedDate": "2014-05-12",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CEA126656",
-			"receivedDate": "2013-10-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC158892",
-			"receivedDate": "2020-03-23",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS156992",
-			"receivedDate": "2019-10-01",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {

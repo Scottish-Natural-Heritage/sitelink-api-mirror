@@ -4,22 +4,52 @@
 	"area": 28.9,
 	"casework": [
 		{
-			"code": "CEA129502",
-			"receivedDate": "2014-03-03",
+			"code": "CDM140835",
+			"receivedDate": "2016-03-24",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM139062",
+			"receivedDate": "2015-11-02",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "GEN130893",
+			"receivedDate": "2014-05-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP127196",
+			"receivedDate": "2013-10-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CEA127440",
+			"receivedDate": "2013-11-08",
 			"response": "Advice only",
 			"type": "SEA"
 		},
 		{
-			"code": "CDM134799",
-			"receivedDate": "2015-01-09",
+			"code": "GEN131845",
+			"receivedDate": "2014-07-04",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		},
 		{
-			"code": "CEA132643",
-			"receivedDate": "2014-08-14",
+			"code": "CEA131914",
+			"receivedDate": "2014-07-07",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CDM122137",
+			"receivedDate": "2013-03-26",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA128907",
@@ -28,14 +58,26 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CDM134799",
+			"receivedDate": "2015-01-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA130310",
 			"receivedDate": "2014-04-04",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CEA119202",
-			"receivedDate": "2012-11-22",
+			"code": "CEA129502",
+			"receivedDate": "2014-03-03",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA132643",
+			"receivedDate": "2014-08-14",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -46,52 +88,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM139062",
-			"receivedDate": "2015-11-02",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CPP127196",
-			"receivedDate": "2013-10-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN131845",
-			"receivedDate": "2014-07-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA127440",
-			"receivedDate": "2013-11-08",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "GEN130893",
-			"receivedDate": "2014-05-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM122137",
-			"receivedDate": "2013-03-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA131914",
-			"receivedDate": "2014-07-07",
+			"code": "CEA119202",
+			"receivedDate": "2012-11-22",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CDM140835",
-			"receivedDate": "2016-03-24",
-			"response": "Advice only",
-			"type": "Post Application"
 		}
 	],
 	"designation": {

@@ -64,10 +64,16 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CEA129083",
-			"receivedDate": "2014-02-07",
+			"code": "CGS138930",
+			"receivedDate": "2015-11-03",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM139009",
+			"receivedDate": "2015-11-09",
+			"response": "Conditioned objection",
+			"type": "S.37 Application"
 		},
 		{
 			"code": "CDM111114",
@@ -76,20 +82,74 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM138675",
+			"receivedDate": "2015-10-15",
+			"response": "Conditioned objection",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CPA149768",
+			"receivedDate": "2018-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CGS152676",
+			"receivedDate": "2018-10-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN150809",
+			"receivedDate": "2018-05-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS147751",
+			"receivedDate": "2017-10-03",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN149090",
+			"receivedDate": "2018-01-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC127652",
+			"receivedDate": "2013-11-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA128194",
+			"receivedDate": "2013-12-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA124902",
+			"receivedDate": "2013-07-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA129083",
+			"receivedDate": "2014-02-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA118378",
+			"receivedDate": "2012-10-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CGS167959",
 			"receivedDate": "2022-08-04",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS167561",
-			"receivedDate": "2022-07-04",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS167562",
-			"receivedDate": "2022-07-04",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -106,32 +166,14 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA118378",
-			"receivedDate": "2012-10-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN150809",
-			"receivedDate": "2018-05-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA149768",
-			"receivedDate": "2018-03-13",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CGS147751",
-			"receivedDate": "2017-10-03",
+			"code": "CGS167561",
+			"receivedDate": "2022-07-04",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CGS152676",
-			"receivedDate": "2018-10-05",
+			"code": "CGS167562",
+			"receivedDate": "2022-07-04",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -140,48 +182,6 @@
 			"receivedDate": "2020-03-27",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM139009",
-			"receivedDate": "2015-11-09",
-			"response": "Conditioned objection",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CDM138675",
-			"receivedDate": "2015-10-15",
-			"response": "Conditioned objection",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CGS138930",
-			"receivedDate": "2015-11-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CEA128194",
-			"receivedDate": "2013-12-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA124902",
-			"receivedDate": "2013-07-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC127652",
-			"receivedDate": "2013-11-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN149090",
-			"receivedDate": "2018-01-23",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {

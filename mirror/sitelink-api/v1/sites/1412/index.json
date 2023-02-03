@@ -28,10 +28,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CPP133881",
-			"receivedDate": "2014-10-21",
+			"code": "COR140368",
+			"receivedDate": "2016-03-01",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CEA130802",
+			"receivedDate": "2014-05-13",
 			"response": "Advice only",
-			"type": "Core paths plan"
+			"type": "SEA"
 		},
 		{
 			"code": "CPA134554",
@@ -40,20 +46,20 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN166360",
-			"receivedDate": "2022-03-16",
+			"code": "CPP133881",
+			"receivedDate": "2014-10-21",
+			"response": "Advice only",
+			"type": "Core paths plan"
+		},
+		{
+			"code": "GEN120219",
+			"receivedDate": "2013-01-10",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
 			"code": "GEN120260",
 			"receivedDate": "2013-01-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN120219",
-			"receivedDate": "2013-01-10",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -70,16 +76,16 @@
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "COR140368",
-			"receivedDate": "2016-03-01",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "GEN166360",
+			"receivedDate": "2022-03-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
-			"code": "CEA130802",
-			"receivedDate": "2014-05-13",
+			"code": "GEN167551",
+			"receivedDate": "2022-06-29",
 			"response": "Advice only",
-			"type": "SEA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -138,5 +144,5 @@
 	],
 	"localAuthority": "Aberdeen City",
 	"name": "Scotstown Moor",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

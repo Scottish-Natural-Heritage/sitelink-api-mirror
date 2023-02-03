@@ -16,10 +16,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "CLC145392",
-			"receivedDate": "2017-04-05",
+			"code": "CPA160841",
+			"receivedDate": "2020-10-02",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CEA160642",
@@ -28,15 +28,9 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA160841",
-			"receivedDate": "2020-10-02",
+			"code": "CLC145392",
+			"receivedDate": "2017-04-05",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC167304",
-			"receivedDate": "2022-06-10",
-			"response": "S.15 Advice only",
 			"type": "Other"
 		},
 		{
@@ -44,6 +38,12 @@
 			"receivedDate": "2021-05-11",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CLC167304",
+			"receivedDate": "2022-06-10",
+			"response": "S.15 Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {
@@ -97,5 +97,5 @@
 	],
 	"localAuthority": "Angus",
 	"name": "Whitehouse Den",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

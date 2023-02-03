@@ -22,10 +22,16 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CLC129398",
-			"receivedDate": "2014-02-19",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM162078",
+			"receivedDate": "2021-02-09",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM157609",
+			"receivedDate": "2019-12-03",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC156026",
@@ -34,10 +40,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CLC164716",
-			"receivedDate": "2021-10-07",
+			"code": "COR145269",
+			"receivedDate": "2017-04-25",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA146707",
+			"receivedDate": "2017-07-12",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC129398",
+			"receivedDate": "2014-02-19",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "ALC119057",
@@ -52,34 +70,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPA146707",
-			"receivedDate": "2017-07-12",
+			"code": "CPA168999",
+			"receivedDate": "2022-11-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC164716",
+			"receivedDate": "2021-10-07",
+			"response": "Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CDM166550",
 			"receivedDate": "2022-04-04",
 			"response": "Advice only",
 			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM157609",
-			"receivedDate": "2019-12-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM162078",
-			"receivedDate": "2021-02-09",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "COR145269",
-			"receivedDate": "2017-04-25",
-			"response": "Information only",
-			"type": "General Enquiries"
 		}
 	],
 	"designation": {
@@ -186,5 +192,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Loch of Strathbeg",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

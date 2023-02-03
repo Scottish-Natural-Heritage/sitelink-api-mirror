@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8573",
 	"id": 8573,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 8605,
-			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 5480.84,
 	"casework": [
 		{
@@ -43,40 +34,22 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "CLC144857",
-			"receivedDate": "2017-02-23",
-			"response": "Conditioned objection",
-			"type": "Other"
+			"code": "CDM116473",
+			"receivedDate": "2012-08-08",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP135039",
-			"receivedDate": "2015-01-28",
+			"code": "CEA140387",
+			"receivedDate": "2016-03-03",
 			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CPA129842",
-			"receivedDate": "2014-03-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
 			"code": "CLC158557",
 			"receivedDate": "2020-02-28",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM155832",
-			"receivedDate": "2019-06-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM116473",
-			"receivedDate": "2012-08-08",
-			"response": "Advice only",
-			"type": "Planning Application"
 		},
 		{
 			"code": "CDM115390",
@@ -91,64 +64,40 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA165338",
-			"receivedDate": "2021-12-03",
+			"code": "CPA142651",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC124623",
-			"receivedDate": "2013-07-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA118110",
-			"receivedDate": "2012-10-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA122796",
-			"receivedDate": "2013-04-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC123287",
-			"receivedDate": "2013-05-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM115150",
-			"receivedDate": "2012-06-21",
+			"code": "CDM139184",
+			"receivedDate": "2015-11-12",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA144988",
-			"receivedDate": "2017-02-27",
+			"code": "CEA140390",
+			"receivedDate": "2016-03-03",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
-			"code": "CDM145056",
-			"receivedDate": "2017-03-08",
-			"response": "Advice only",
-			"type": "Post Application"
+			"code": "CDM143207",
+			"receivedDate": "2016-10-07",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA149891",
-			"receivedDate": "2018-03-20",
+			"code": "CDM140043",
+			"receivedDate": "2016-02-05",
 			"response": "Advice only",
-			"type": "SRDP"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA147168",
-			"receivedDate": "2017-08-18",
+			"code": "CEA156269",
+			"receivedDate": "2019-07-18",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
 			"code": "CGS152125",
@@ -163,8 +112,20 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA149891",
+			"receivedDate": "2018-03-20",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CDM150272",
 			"receivedDate": "2018-04-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155832",
+			"receivedDate": "2019-06-12",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -179,6 +140,108 @@
 			"receivedDate": "2017-07-06",
 			"response": "Advice only",
 			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPA147168",
+			"receivedDate": "2017-08-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC148694",
+			"receivedDate": "2017-12-18",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CPA144988",
+			"receivedDate": "2017-02-27",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM145056",
+			"receivedDate": "2017-03-08",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CLC148322",
+			"receivedDate": "2017-11-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144857",
+			"receivedDate": "2017-02-23",
+			"response": "Conditioned objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC127627",
+			"receivedDate": "2013-11-18",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC130313",
+			"receivedDate": "2014-04-10",
+			"response": "Insufficient information",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM126340",
+			"receivedDate": "2013-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA129842",
+			"receivedDate": "2014-03-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP135039",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPA122796",
+			"receivedDate": "2013-04-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC123287",
+			"receivedDate": "2013-05-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA118110",
+			"receivedDate": "2012-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC124623",
+			"receivedDate": "2013-07-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM115150",
+			"receivedDate": "2012-06-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA165338",
+			"receivedDate": "2021-12-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CLC164560",
@@ -205,88 +268,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC166161",
-			"receivedDate": "2022-02-25",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CPA159917",
 			"receivedDate": "2020-07-20",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM140043",
-			"receivedDate": "2016-02-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM139184",
-			"receivedDate": "2015-11-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA140387",
-			"receivedDate": "2016-03-03",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA140390",
-			"receivedDate": "2016-03-03",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM126340",
-			"receivedDate": "2013-09-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC127627",
-			"receivedDate": "2013-11-18",
-			"response": "No objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC130313",
-			"receivedDate": "2014-04-10",
-			"response": "Insufficient information",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA156269",
-			"receivedDate": "2019-07-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM143207",
-			"receivedDate": "2016-10-07",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148694",
-			"receivedDate": "2017-12-18",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CPA142651",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC148322",
-			"receivedDate": "2017-11-16",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "ALC166161",
+			"receivedDate": "2022-02-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

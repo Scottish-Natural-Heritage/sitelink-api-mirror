@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/416",
 	"id": 416,
-	"agreements": [
-		{
-			"area": 8.8,
-			"code": 190,
-			"property": "Cragbank & Wolfehopelee",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 19.93,
 	"casework": [
 		{
@@ -79,6 +70,24 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
+			"code": "ALC158250",
+			"receivedDate": "2020-02-05",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM156834",
+			"receivedDate": "2019-09-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC132273",
+			"receivedDate": "2014-07-24",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CEA128725",
 			"receivedDate": "2014-01-21",
 			"response": "Advice only",
@@ -95,24 +104,6 @@
 			"receivedDate": "2022-02-25",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CLC132273",
-			"receivedDate": "2014-07-24",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM156834",
-			"receivedDate": "2019-09-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC158250",
-			"receivedDate": "2020-02-05",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

@@ -1,38 +1,8 @@
 {
 	"url": "/sitelink-api/v1/sites/169",
 	"id": 169,
-	"agreements": [
-		{
-			"area": 814,
-			"code": 1267,
-			"expiryDate": "2025-08-31",
-			"property": "Ardtornish / Rahoy Hills",
-			"term": 30,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 814,
-			"code": 1234,
-			"expiryDate": "2025-06-30",
-			"property": "Rahoy Hills",
-			"term": 30,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1616.21,
 	"casework": [
-		{
-			"code": "ALC147188",
-			"receivedDate": "2017-08-03",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN133129",
-			"receivedDate": "2014-09-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
 		{
 			"code": "ALC114610",
 			"receivedDate": "2012-05-25",
@@ -40,28 +10,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA168120",
-			"receivedDate": "2022-08-22",
+			"code": "CLC136923",
+			"receivedDate": "2015-06-02",
+			"response": "Conditioned objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP144096",
+			"receivedDate": "2016-12-16",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "COR124498",
-			"receivedDate": "2013-04-29",
-			"response": "Resolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC113625",
-			"receivedDate": "2012-03-26",
+			"code": "ALC155786",
+			"receivedDate": "2019-06-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS149942",
-			"receivedDate": "2018-03-26",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC143943",
+			"receivedDate": "2016-12-01",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC152133",
@@ -82,28 +52,34 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "ALC147188",
+			"receivedDate": "2017-08-03",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS149942",
+			"receivedDate": "2018-03-26",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS147776",
+			"receivedDate": "2017-09-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CPP145052",
 			"receivedDate": "2017-03-08",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC159800",
-			"receivedDate": "2020-07-07",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC136923",
-			"receivedDate": "2015-06-02",
-			"response": "Conditioned objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA127212",
-			"receivedDate": "2013-10-28",
+			"code": "CGS123651",
+			"receivedDate": "2013-04-29",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Other"
 		},
 		{
 			"code": "CPP130950",
@@ -124,34 +100,40 @@
 			"type": "Other"
 		},
 		{
-			"code": "CGS123651",
-			"receivedDate": "2013-04-29",
+			"code": "CPA127212",
+			"receivedDate": "2013-10-28",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC155786",
-			"receivedDate": "2019-06-07",
+			"code": "GEN133129",
+			"receivedDate": "2014-09-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC113625",
+			"receivedDate": "2012-03-26",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP144096",
-			"receivedDate": "2016-12-16",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "COR124498",
+			"receivedDate": "2013-04-29",
+			"response": "Resolved",
+			"type": "General Enquiries"
 		},
 		{
-			"code": "ALC143943",
-			"receivedDate": "2016-12-01",
-			"response": "SSSI Consent Given (subject to conditions)",
+			"code": "CPA168120",
+			"receivedDate": "2022-08-22",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "ALC159800",
+			"receivedDate": "2020-07-07",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS147776",
-			"receivedDate": "2017-09-26",
-			"response": "Advice only",
-			"type": "Other"
 		}
 	],
 	"designation": {

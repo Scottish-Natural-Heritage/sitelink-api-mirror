@@ -22,10 +22,22 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "CEA136020",
-			"receivedDate": "2015-04-01",
+			"code": "ALC138010",
+			"receivedDate": "2015-08-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA149649",
+			"receivedDate": "2018-03-05",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "GEN120530",
+			"receivedDate": "2013-01-25",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CPA128524",
@@ -34,28 +46,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CEA136020",
+			"receivedDate": "2015-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPA130225",
 			"receivedDate": "2014-04-01",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC168672",
-			"receivedDate": "2022-10-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA167745",
-			"receivedDate": "2022-07-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC168050",
-			"receivedDate": "2022-08-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "GEN119604",
@@ -70,22 +70,22 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA149649",
-			"receivedDate": "2018-03-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC138010",
-			"receivedDate": "2015-08-25",
+			"code": "ALC168050",
+			"receivedDate": "2022-08-16",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN120530",
-			"receivedDate": "2013-01-25",
+			"code": "ALC168672",
+			"receivedDate": "2022-10-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA167745",
+			"receivedDate": "2022-07-18",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

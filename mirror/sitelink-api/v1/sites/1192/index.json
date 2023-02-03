@@ -11,40 +11,11 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 4.9,
-			"code": 37,
-			"property": "Morton Lochs",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 19,
-			"code": 412,
-			"property": "Morton Lochs",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 6489,
-			"property": "Morton Lochs Water Supply Pipe",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
 			"area": 0,
 			"code": 5707,
 			"property": "Supply of Water to Morton Lochs NNR",
 			"term": 0,
 			"type": "SSSI Agreement (S.15)"
-		},
-		{
-			"area": 79.26,
-			"code": 841932,
-			"expiryDate": "2022-10-31",
-			"property": "Tentsmuir NNR",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
 		}
 	],
 	"area": 52.82,
@@ -68,10 +39,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CLC114139",
-			"receivedDate": "2012-05-15",
-			"response": "No comment",
-			"type": "Other"
+			"code": "CLC141850",
+			"receivedDate": "2016-06-23",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC155623",
+			"receivedDate": "2019-05-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CPP137044",
@@ -92,16 +69,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC155623",
-			"receivedDate": "2019-05-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC141850",
-			"receivedDate": "2016-06-23",
-			"response": "Advice only",
-			"type": "CAR Licence"
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
 		}
 	],
 	"designation": {

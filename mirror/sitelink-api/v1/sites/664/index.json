@@ -34,6 +34,18 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
+			"code": "CEA115803",
+			"receivedDate": "2012-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA160841",
+			"receivedDate": "2020-10-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA161796",
 			"receivedDate": "2021-01-18",
 			"response": "Advice only",
@@ -46,28 +58,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA160841",
-			"receivedDate": "2020-10-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA115803",
-			"receivedDate": "2012-07-12",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
 		},
 		{
 			"code": "CPA169081",
 			"receivedDate": "2022-11-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC114139",
-			"receivedDate": "2012-05-15",
-			"response": "No comment",
-			"type": "Other"
 		},
 		{
 			"code": "CEA163109",
@@ -137,5 +137,5 @@
 	],
 	"localAuthority": "Angus",
 	"name": "Gagie Marsh",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

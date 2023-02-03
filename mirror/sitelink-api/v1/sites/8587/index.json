@@ -52,16 +52,16 @@
 			"type": "Off-shore Wind"
 		},
 		{
-			"code": "CDM156207",
-			"receivedDate": "2019-07-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM113433",
 			"receivedDate": "2012-04-17",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CPP162129",
+			"receivedDate": "2021-02-16",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CDM111746",
@@ -70,22 +70,52 @@
 			"type": "Other Infrastructure"
 		},
 		{
-			"code": "CPA165338",
-			"receivedDate": "2021-12-03",
+			"code": "CLC154388",
+			"receivedDate": "2019-02-19",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA168498",
-			"receivedDate": "2022-09-21",
+			"code": "CDM151134",
+			"receivedDate": "2018-06-19",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC167399",
-			"receivedDate": "2022-06-21",
+			"code": "CLC149241",
+			"receivedDate": "2018-02-01",
 			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM156207",
+			"receivedDate": "2019-07-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132512",
+			"receivedDate": "2014-08-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC131423",
+			"receivedDate": "2014-06-12",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM125232",
+			"receivedDate": "2013-07-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM117766",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA118348",
@@ -106,58 +136,28 @@
 			"type": "Strategic Development Plan"
 		},
 		{
-			"code": "CDM125232",
-			"receivedDate": "2013-07-25",
+			"code": "CPA165338",
+			"receivedDate": "2021-12-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM117766",
-			"receivedDate": "2012-09-25",
+			"code": "CPA168498",
+			"receivedDate": "2022-09-21",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM151134",
-			"receivedDate": "2018-06-19",
+			"code": "CLC167399",
+			"receivedDate": "2022-06-21",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC149241",
-			"receivedDate": "2018-02-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Licence to disturb European Protected Species"
 		},
 		{
 			"code": "CDM166163",
 			"receivedDate": "2022-02-25",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM132512",
-			"receivedDate": "2014-08-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC131423",
-			"receivedDate": "2014-06-12",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP162129",
-			"receivedDate": "2021-02-16",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC154388",
-			"receivedDate": "2019-02-19",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		}
 	],
 	"designation": {
@@ -257,5 +257,5 @@
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

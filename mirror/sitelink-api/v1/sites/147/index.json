@@ -28,12 +28,6 @@
 			"type": "Other Pollution Acts"
 		},
 		{
-			"code": "CEA140605",
-			"receivedDate": "2016-03-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CPA138871",
 			"receivedDate": "2015-10-29",
 			"response": "Advice only",
@@ -46,15 +40,21 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM146241",
-			"receivedDate": "2017-06-12",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CEA140605",
+			"receivedDate": "2016-03-21",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CDM145337",
 			"receivedDate": "2017-03-30",
 			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146241",
+			"receivedDate": "2017-06-12",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		}
 	],

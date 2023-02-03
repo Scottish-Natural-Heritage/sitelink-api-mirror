@@ -46,16 +46,28 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "CLC132708",
-			"receivedDate": "2014-08-18",
+			"code": "CPA161767",
+			"receivedDate": "2021-01-18",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN158733",
+			"receivedDate": "2020-03-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN153771",
 			"receivedDate": "2018-12-21",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CLC132708",
+			"receivedDate": "2014-08-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "ALC168428",
@@ -70,28 +82,16 @@
 			"type": "SRDP"
 		},
 		{
-			"code": "CDM162616",
-			"receivedDate": "2021-03-30",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CGS162606",
 			"receivedDate": "2021-03-29",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CPA161767",
-			"receivedDate": "2021-01-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN158733",
-			"receivedDate": "2020-03-16",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "CDM162616",
+			"receivedDate": "2021-03-30",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -154,5 +154,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Lurg & Dow Lochs",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

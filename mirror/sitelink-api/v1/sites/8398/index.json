@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8398",
 	"id": 8398,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 8605,
-			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 1962.66,
 	"casework": [
 		{
@@ -25,16 +16,46 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN167939",
-			"receivedDate": "2022-08-03",
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CEA159186",
+			"receivedDate": "2020-05-07",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
+		},
+		{
+			"code": "CLC123987",
+			"receivedDate": "2013-06-11",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA132896",
+			"receivedDate": "2014-08-27",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "COR129637",
+			"receivedDate": "2014-02-16",
+			"response": "Compliment accepted",
+			"type": "General Enquiries"
 		},
 		{
 			"code": "CLC122705",
 			"receivedDate": "2013-04-15",
 			"response": "S.15 Advice only",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "GEN167939",
+			"receivedDate": "2022-08-03",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CPA159876",
@@ -47,36 +68,6 @@
 			"receivedDate": "2021-05-05",
 			"response": "Advice only",
 			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CPA132896",
-			"receivedDate": "2014-08-27",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "COR129637",
-			"receivedDate": "2014-02-16",
-			"response": "Compliment accepted",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC123987",
-			"receivedDate": "2013-06-11",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA159186",
-			"receivedDate": "2020-05-07",
-			"response": "Advice only",
-			"type": "EIA"
 		}
 	],
 	"designation": {

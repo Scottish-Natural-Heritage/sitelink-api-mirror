@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1419",
 	"id": 1419,
-	"agreements": [
-		{
-			"area": 4451,
-			"code": 1399,
-			"expiryDate": "2092-05-24",
-			"property": "Sandwood Estate",
-			"term": 99,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 251.21,
 	"casework": [
 		{
@@ -80,20 +70,8 @@
 			"type": "Microrenewables"
 		},
 		{
-			"code": "CDM157285",
-			"receivedDate": "2019-10-31",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
 			"code": "ALC113785",
 			"receivedDate": "2012-04-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC112888",
-			"receivedDate": "2012-02-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -104,16 +82,76 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "COR111228",
+			"receivedDate": "2012-01-19",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC112888",
+			"receivedDate": "2012-02-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CGS110270",
 			"receivedDate": "2011-12-07",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "COR111228",
-			"receivedDate": "2012-01-19",
+			"code": "CDM153836",
+			"receivedDate": "2019-01-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141358",
+			"receivedDate": "2016-05-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157285",
+			"receivedDate": "2019-10-31",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CGS153906",
+			"receivedDate": "2019-01-16",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CDM146969",
+			"receivedDate": "2017-07-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146491",
+			"receivedDate": "2017-06-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR122978",
+			"receivedDate": "2013-04-21",
 			"response": "Information only",
-			"type": "General Enquiries"
+			"type": "Complaints"
+		},
+		{
+			"code": "ALC135270",
+			"receivedDate": "2015-02-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC168151",
+			"receivedDate": "2022-08-24",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC168060",
@@ -134,18 +172,6 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC168151",
-			"receivedDate": "2022-08-24",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM146491",
-			"receivedDate": "2017-06-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM163340",
 			"receivedDate": "2021-06-07",
 			"response": "Advice only",
@@ -156,42 +182,6 @@
 			"receivedDate": "2021-08-18",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC135270",
-			"receivedDate": "2015-02-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR122978",
-			"receivedDate": "2013-04-21",
-			"response": "Information only",
-			"type": "Complaints"
-		},
-		{
-			"code": "CDM153836",
-			"receivedDate": "2019-01-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS153906",
-			"receivedDate": "2019-01-16",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM141358",
-			"receivedDate": "2016-05-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146969",
-			"receivedDate": "2017-07-31",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

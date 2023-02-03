@@ -22,6 +22,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CDM112855",
 			"receivedDate": "2012-03-21",
 			"response": "Advice only",
@@ -38,12 +44,6 @@
 			"receivedDate": "2020-08-03",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
-			"response": "Advice only",
-			"type": "EIA"
 		}
 	],
 	"designation": {
@@ -97,5 +97,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Hill of Barra",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

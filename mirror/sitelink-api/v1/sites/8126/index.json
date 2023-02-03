@@ -46,7 +46,19 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA121935",
+			"code": "GEN142346",
+			"receivedDate": "2016-08-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC121651",
+			"receivedDate": "2013-02-22",
+			"response": "S.12 SSSI consent required",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA121941",
 			"receivedDate": "2013-03-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
@@ -58,22 +70,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA121941",
+			"code": "CPA121935",
 			"receivedDate": "2013-03-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC121651",
-			"receivedDate": "2013-02-22",
-			"response": "S.12 SSSI consent required",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "GEN142346",
-			"receivedDate": "2016-08-01",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -93,5 +93,5 @@
 	"euCode": "93252",
 	"localAuthority": "Angus",
 	"name": "Montrose Basin",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

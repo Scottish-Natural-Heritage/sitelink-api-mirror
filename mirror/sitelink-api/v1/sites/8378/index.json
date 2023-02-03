@@ -1,22 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8378",
 	"id": 8378,
-	"agreements": [
-		{
-			"area": 151.2,
-			"code": 1446,
-			"property": "Kirkconnell Flow",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 4.85,
-			"code": 4177,
-			"property": "Kirkconnell Flow",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 648.78,
 	"casework": [
 		{
@@ -68,34 +52,34 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CLC129865",
-			"receivedDate": "2014-03-19",
+			"code": "CPP160765",
+			"receivedDate": "2020-10-05",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC129907",
-			"receivedDate": "2014-03-01",
+			"code": "ALC156820",
+			"receivedDate": "2019-09-11",
+			"response": "SSSI Consent Given",
+			"type": "Plant"
+		},
+		{
+			"code": "COR142779",
+			"receivedDate": "2016-09-05",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC143077",
+			"receivedDate": "2016-09-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC157552",
-			"receivedDate": "2019-11-22",
+			"code": "CPP157580",
+			"receivedDate": "2019-11-29",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS168093",
-			"receivedDate": "2022-08-16",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "ALC124279",
-			"receivedDate": "2013-06-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC152177",
@@ -110,6 +94,42 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC157552",
+			"receivedDate": "2019-11-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC129907",
+			"receivedDate": "2014-03-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC129865",
+			"receivedDate": "2014-03-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC124279",
+			"receivedDate": "2013-06-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS168093",
+			"receivedDate": "2022-08-16",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CGS166935",
+			"receivedDate": "2022-05-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CGS164575",
 			"receivedDate": "2021-09-24",
 			"response": "Advice only",
@@ -122,12 +142,6 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS166935",
-			"receivedDate": "2022-05-06",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CLC164873",
 			"receivedDate": "2021-10-23",
 			"response": "S.12 SSSI consent required",
@@ -136,36 +150,6 @@
 		{
 			"code": "ALC163035",
 			"receivedDate": "2021-05-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR142779",
-			"receivedDate": "2016-09-05",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP160765",
-			"receivedDate": "2020-10-05",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC156820",
-			"receivedDate": "2019-09-11",
-			"response": "SSSI Consent Given",
-			"type": "Plant"
-		},
-		{
-			"code": "CPP157580",
-			"receivedDate": "2019-11-29",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC143077",
-			"receivedDate": "2016-09-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}

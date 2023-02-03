@@ -26,28 +26,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM163250",
-			"receivedDate": "2021-05-27",
+			"code": "CEA154572",
+			"receivedDate": "2019-03-05",
 			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CPA164007",
-			"receivedDate": "2021-06-07",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "ALC117717",
-			"receivedDate": "2012-09-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN122566",
-			"receivedDate": "2013-02-28",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
 		},
 		{
 			"code": "CEA152731",
@@ -56,10 +38,28 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA154572",
-			"receivedDate": "2019-03-05",
+			"code": "GEN122566",
+			"receivedDate": "2013-02-28",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC117717",
+			"receivedDate": "2012-09-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA164007",
+			"receivedDate": "2021-06-07",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CDM163250",
+			"receivedDate": "2021-05-27",
+			"response": "Advice only",
+			"type": "Post Application"
 		}
 	],
 	"designation": {
@@ -114,5 +114,5 @@
 	],
 	"localAuthority": "Moray",
 	"name": "Mill Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

@@ -20,8 +20,8 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "CPA146940",
-			"receivedDate": "2017-07-24",
+			"code": "CDP101944",
+			"receivedDate": "2011-07-19",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -32,40 +32,10 @@
 			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "CDP101944",
-			"receivedDate": "2011-07-19",
+			"code": "CDM139580",
+			"receivedDate": "2016-01-04",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP125114",
-			"receivedDate": "2013-07-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC119920",
-			"receivedDate": "2012-12-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC120657",
-			"receivedDate": "2013-01-10",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM123043",
-			"receivedDate": "2013-05-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM117133",
-			"receivedDate": "2012-09-05",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"type": "Post Application"
 		},
 		{
 			"code": "CPA150693",
@@ -74,16 +44,22 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
+			"code": "CPA146940",
+			"receivedDate": "2017-07-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC147316",
+			"receivedDate": "2017-08-30",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "ALC145910",
 			"receivedDate": "2017-05-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM139580",
-			"receivedDate": "2016-01-04",
-			"response": "Advice only",
-			"type": "Post Application"
 		},
 		{
 			"code": "CGS126357",
@@ -98,6 +74,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC131643",
+			"receivedDate": "2014-06-25",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
 			"code": "ALC125593",
 			"receivedDate": "2013-08-14",
 			"response": "SSSI Consent Given",
@@ -110,16 +92,34 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CLC131643",
-			"receivedDate": "2014-06-25",
-			"response": "No comment",
-			"type": "Other"
+			"code": "CDM123043",
+			"receivedDate": "2013-05-02",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC147316",
-			"receivedDate": "2017-08-30",
+			"code": "ALC119920",
+			"receivedDate": "2012-12-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC120657",
+			"receivedDate": "2013-01-10",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CPP125114",
+			"receivedDate": "2013-07-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM117133",
+			"receivedDate": "2012-09-05",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

@@ -4,16 +4,10 @@
 	"area": 916.69,
 	"casework": [
 		{
-			"code": "CDM164181",
-			"receivedDate": "2021-08-04",
+			"code": "GEN155750",
+			"receivedDate": "2019-06-06",
 			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM151149",
-			"receivedDate": "2018-06-20",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"type": "General Advice"
 		},
 		{
 			"code": "CLC140642",
@@ -22,10 +16,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN155750",
-			"receivedDate": "2019-06-06",
+			"code": "CDM151149",
+			"receivedDate": "2018-06-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164181",
+			"receivedDate": "2021-08-04",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Application related advice"
 		}
 	],
 	"designation": {
@@ -95,5 +95,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Morven and Mullachdubh",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

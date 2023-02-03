@@ -4,14 +4,8 @@
 	"area": 297.3,
 	"casework": [
 		{
-			"code": "CLC148000",
-			"receivedDate": "2017-10-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "GEN160444",
-			"receivedDate": "2020-09-08",
+			"code": "GEN160217",
+			"receivedDate": "2020-08-13",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -22,10 +16,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN160217",
-			"receivedDate": "2020-08-13",
+			"code": "GEN160444",
+			"receivedDate": "2020-09-08",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CDM162327",
+			"receivedDate": "2021-03-08",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "GEN157531",
@@ -34,16 +34,10 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM166861",
-			"receivedDate": "2022-05-04",
+			"code": "CLC148000",
+			"receivedDate": "2017-10-23",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM164721",
-			"receivedDate": "2021-10-08",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CPA135486",
@@ -58,9 +52,15 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM162327",
-			"receivedDate": "2021-03-08",
+			"code": "CDM166861",
+			"receivedDate": "2022-05-04",
 			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164721",
+			"receivedDate": "2021-10-08",
+			"response": "No Comment",
 			"type": "Planning Application"
 		}
 	],
