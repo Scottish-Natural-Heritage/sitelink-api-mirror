@@ -7,3 +7,8 @@ terraform {
     region = "eu-west-2"
   }
 }
+
+# Tell terraform where in the world to spin up our resources
+provider "aws" {
+  region = "eu-west-2"
+}
