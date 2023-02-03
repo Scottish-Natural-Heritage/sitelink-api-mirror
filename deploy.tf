@@ -36,3 +36,16 @@ resource "aws_s3_bucket_cors_configuration" "cors" {
     allowed_origins = ["*"]
   }
 }
+
+# Upload all the JSON files to S3
+resource "aws_s3_object" "content" {
+  for_each = fileset("mirror", "**/*.json")
+
+  bucket       = aws_s3_bucket.bucket.bucket
+  key          = each.key
+  source       = "${path.module}/mirror/${each.key}"
+  content_type = "application/json"
+  etag         = filemd5("${path.module}/mirror/${each.key}")
+
+  acl = "public-read"
+}
