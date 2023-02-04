@@ -22,34 +22,10 @@
 			"type": "Biomass"
 		},
 		{
-			"code": "CEA136090",
-			"receivedDate": "2015-04-08",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN127480",
-			"receivedDate": "2013-11-05",
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CLC129897",
-			"receivedDate": "2014-03-21",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "GEN129343",
-			"receivedDate": "2014-02-20",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC130661",
-			"receivedDate": "2014-03-31",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM161164",
@@ -58,16 +34,28 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CEA160963",
+			"receivedDate": "2020-10-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "ALC110681",
 			"receivedDate": "2011-12-21",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC122864",
-			"receivedDate": "2013-04-24",
-			"response": "No objection",
-			"type": "Other"
+			"code": "ALC137846",
+			"receivedDate": "2015-07-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA143359",
+			"receivedDate": "2016-10-20",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC151733",
@@ -82,26 +70,14 @@
 			"type": "Transport Infrastructure"
 		},
 		{
+			"code": "CPA146273",
+			"receivedDate": "2017-06-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "ALC153179",
 			"receivedDate": "2018-11-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM164099",
-			"receivedDate": "2021-08-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC134259",
-			"receivedDate": "2014-11-07",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC137846",
-			"receivedDate": "2015-07-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -130,28 +106,52 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
+			"code": "GEN129343",
+			"receivedDate": "2014-02-20",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "CEA160963",
-			"receivedDate": "2020-10-16",
+			"code": "ALC130661",
+			"receivedDate": "2014-03-31",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134259",
+			"receivedDate": "2014-11-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN127480",
+			"receivedDate": "2013-11-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA136090",
+			"receivedDate": "2015-04-08",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CEA143359",
-			"receivedDate": "2016-10-20",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "CLC129897",
+			"receivedDate": "2014-03-21",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPA146273",
-			"receivedDate": "2017-06-14",
+			"code": "CLC122864",
+			"receivedDate": "2013-04-24",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CDM164099",
+			"receivedDate": "2021-08-12",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

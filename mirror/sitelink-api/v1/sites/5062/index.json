@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/5062",
 	"id": 5062,
-	"agreements": [
-		{
-			"area": 77.2,
-			"code": 6287,
-			"property": "St Abb's Head",
-			"term": 0,
-			"type": "Approved Body Declaration (S.35)"
-		}
-	],
 	"area": 77.2,
 	"casework": [
 		{
@@ -37,20 +28,14 @@
 			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "ALC167974",
-			"receivedDate": "2022-08-02",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN145770",
+			"receivedDate": "2017-04-20",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
-			"code": "ALC152505",
-			"receivedDate": "2018-09-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC152304",
-			"receivedDate": "2018-08-07",
+			"code": "ALC156463",
+			"receivedDate": "2019-08-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -61,8 +46,26 @@
 			"type": "General Enquiries"
 		},
 		{
+			"code": "ALC152505",
+			"receivedDate": "2018-09-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC147712",
 			"receivedDate": "2017-09-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC152304",
+			"receivedDate": "2018-08-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167974",
+			"receivedDate": "2022-08-02",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -71,18 +74,6 @@
 			"receivedDate": "2022-03-10",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC156463",
-			"receivedDate": "2019-08-07",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN145770",
-			"receivedDate": "2017-04-20",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {

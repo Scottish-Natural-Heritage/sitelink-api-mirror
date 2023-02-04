@@ -10,28 +10,16 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "CEA130030",
-			"receivedDate": "2014-03-28",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS164014",
-			"receivedDate": "2021-07-23",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP118726",
-			"receivedDate": "2012-10-12",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
 			"code": "CLC139398",
 			"receivedDate": "2015-12-08",
 			"response": "Advice only",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "ALC141333",
+			"receivedDate": "2016-05-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC137130",
@@ -46,10 +34,22 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC141333",
-			"receivedDate": "2016-05-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CEA130030",
+			"receivedDate": "2014-03-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP118726",
+			"receivedDate": "2012-10-12",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CGS164014",
+			"receivedDate": "2021-07-23",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {
@@ -120,5 +120,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Red Moss of Netherley",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

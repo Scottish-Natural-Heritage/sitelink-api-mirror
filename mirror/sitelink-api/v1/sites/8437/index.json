@@ -11,21 +11,6 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 55.9,
-			"code": 287,
-			"property": "Island of Inchcailloch",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 55.9,
-			"code": 7725,
-			"expiryDate": "2024-03-31",
-			"property": "Island of Inchcailloch",
-			"term": 10,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
 			"area": 7.4,
 			"code": 6596,
 			"expiryDate": "2037-09-28",
@@ -37,10 +22,10 @@
 	"area": 230.68,
 	"casework": [
 		{
-			"code": "CDM135007",
-			"receivedDate": "2014-12-05",
+			"code": "CEA116339",
+			"receivedDate": "2012-08-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SEA"
 		},
 		{
 			"code": "CDM158093",
@@ -49,22 +34,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA157876",
-			"receivedDate": "2020-01-07",
+			"code": "CPA144564",
+			"receivedDate": "2017-01-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA116339",
-			"receivedDate": "2012-08-03",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "CPA167127",
-			"receivedDate": "2022-05-18",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CDM142146",
@@ -79,10 +52,28 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CPA144564",
-			"receivedDate": "2017-01-18",
+			"code": "CPA157876",
+			"receivedDate": "2020-01-07",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM135007",
+			"receivedDate": "2014-12-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA167127",
+			"receivedDate": "2022-05-18",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "ALC169049",
+			"receivedDate": "2022-10-24",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

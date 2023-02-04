@@ -50,28 +50,22 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "CLC134903",
-			"receivedDate": "2015-01-15",
+			"code": "CDM156175",
+			"receivedDate": "2019-07-08",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161749",
+			"receivedDate": "2021-01-15",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPP159388",
 			"receivedDate": "2020-05-25",
 			"response": "Advice only",
 			"type": "Local Development Plan"
-		},
-		{
-			"code": "COR163996",
-			"receivedDate": "2021-08-02",
-			"response": "Unresolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "GEN122457",
-			"receivedDate": "2013-04-05",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "GEN149588",
@@ -84,6 +78,30 @@
 			"receivedDate": "2018-11-26",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125335",
+			"receivedDate": "2013-08-01",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC134903",
+			"receivedDate": "2015-01-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN122457",
+			"receivedDate": "2013-04-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR163996",
+			"receivedDate": "2021-08-02",
+			"response": "Unresolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "GEN165787",
@@ -102,24 +120,6 @@
 			"receivedDate": "2021-07-15",
 			"response": "Information only",
 			"type": "Complaints"
-		},
-		{
-			"code": "CDM125335",
-			"receivedDate": "2013-08-01",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM156175",
-			"receivedDate": "2019-07-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM161749",
-			"receivedDate": "2021-01-15",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -180,5 +180,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Muir of Dinnet",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

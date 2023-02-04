@@ -148,12 +148,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CPA133834",
-			"receivedDate": "2014-10-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM116540",
 			"receivedDate": "2012-08-06",
 			"response": "Advice only",
@@ -166,10 +160,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA110636",
-			"receivedDate": "2011-12-14",
+			"code": "CDM158983",
+			"receivedDate": "2020-04-16",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA110941",
@@ -178,38 +172,20 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM166644",
-			"receivedDate": "2022-04-12",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM123740",
-			"receivedDate": "2013-05-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN114737",
-			"receivedDate": "2012-05-07",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA115795",
-			"receivedDate": "2012-07-16",
+			"code": "CPA110636",
+			"receivedDate": "2011-12-14",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC114101",
-			"receivedDate": "2012-05-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA144676",
+			"receivedDate": "2017-02-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP121577",
-			"receivedDate": "2013-03-28",
+			"code": "CPP139828",
+			"receivedDate": "2016-01-22",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -218,18 +194,6 @@
 			"receivedDate": "2018-02-08",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM159084",
-			"receivedDate": "2020-04-28",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPP139828",
-			"receivedDate": "2016-01-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC127610",
@@ -250,28 +214,64 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC129214",
-			"receivedDate": "2014-02-13",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CLC124696",
 			"receivedDate": "2013-07-05",
 			"response": "No comment",
 			"type": "Other"
 		},
 		{
-			"code": "CDM158983",
-			"receivedDate": "2020-04-16",
+			"code": "ALC129214",
+			"receivedDate": "2014-02-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA133834",
+			"receivedDate": "2014-10-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP121577",
+			"receivedDate": "2013-03-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN114737",
+			"receivedDate": "2012-05-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM123740",
+			"receivedDate": "2013-05-31",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA144676",
-			"receivedDate": "2017-02-06",
+			"code": "CPA115795",
+			"receivedDate": "2012-07-16",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC114101",
+			"receivedDate": "2012-05-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM166644",
+			"receivedDate": "2022-04-12",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM159084",
+			"receivedDate": "2020-04-28",
+			"response": "Advice only",
+			"type": "Application related advice"
 		}
 	],
 	"designation": {

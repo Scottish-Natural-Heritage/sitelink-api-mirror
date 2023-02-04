@@ -40,8 +40,20 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN122962",
-			"receivedDate": "2013-04-30",
+			"code": "CLC141353",
+			"receivedDate": "2016-05-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN140448",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142370",
+			"receivedDate": "2016-07-19",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -50,12 +62,6 @@
 			"receivedDate": "2018-11-27",
 			"response": "Advice only",
 			"type": "Application related advice"
-		},
-		{
-			"code": "CDM152548",
-			"receivedDate": "2018-09-28",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
 		},
 		{
 			"code": "CPA151002",
@@ -70,26 +76,26 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM166885",
-			"receivedDate": "2022-05-05",
-			"response": "Advice only",
+			"code": "CDM146133",
+			"receivedDate": "2017-06-07",
+			"response": "Holding objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA158063",
-			"receivedDate": "2020-01-21",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CDM164073",
-			"receivedDate": "2021-08-10",
-			"response": "Advice only",
+			"code": "CDM152548",
+			"receivedDate": "2018-09-28",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN140448",
-			"receivedDate": "2016-03-08",
+			"code": "CLC119868",
+			"receivedDate": "2012-12-19",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "GEN129049",
+			"receivedDate": "2014-01-31",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -100,34 +106,28 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN129049",
-			"receivedDate": "2014-01-31",
+			"code": "GEN122962",
+			"receivedDate": "2013-04-30",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "CLC119868",
-			"receivedDate": "2012-12-19",
-			"response": "S.15 Advice with conditions",
-			"type": "Other"
-		},
-		{
-			"code": "CLC141353",
-			"receivedDate": "2016-05-19",
+			"code": "CDM164073",
+			"receivedDate": "2021-08-10",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN142370",
-			"receivedDate": "2016-07-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM146133",
-			"receivedDate": "2017-06-07",
-			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166885",
+			"receivedDate": "2022-05-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA158063",
+			"receivedDate": "2020-01-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
 		}
 	],
 	"designation": {
@@ -264,5 +264,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Ballochbuie",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

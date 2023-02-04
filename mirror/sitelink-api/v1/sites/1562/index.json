@@ -10,22 +10,16 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "GEN167939",
-			"receivedDate": "2022-08-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC122705",
-			"receivedDate": "2013-04-15",
-			"response": "S.15 Advice only",
-			"type": "CAR Licence"
-		},
-		{
 			"code": "CLC137457",
 			"receivedDate": "2015-06-17",
 			"response": "No objection",
 			"type": "Other"
+		},
+		{
+			"code": "CLC123987",
+			"receivedDate": "2013-06-11",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "COR129637",
@@ -34,10 +28,16 @@
 			"type": "General Enquiries"
 		},
 		{
-			"code": "CLC123987",
-			"receivedDate": "2013-06-11",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CLC122705",
+			"receivedDate": "2013-04-15",
+			"response": "S.15 Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "GEN167939",
+			"receivedDate": "2022-08-03",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

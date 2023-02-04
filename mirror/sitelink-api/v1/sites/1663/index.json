@@ -50,52 +50,10 @@
 			"type": "Other Pollution Acts"
 		},
 		{
-			"code": "ALC133739",
-			"receivedDate": "2014-10-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "GEN146282",
 			"receivedDate": "2017-06-13",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CPA127304",
-			"receivedDate": "2013-10-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM129550",
-			"receivedDate": "2014-03-04",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP167566",
-			"receivedDate": "2022-06-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC118654",
-			"receivedDate": "2012-11-05",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC123847",
-			"receivedDate": "2013-06-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC146692",
-			"receivedDate": "2017-07-11",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CEA146214",
@@ -110,6 +68,18 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CLC146692",
+			"receivedDate": "2017-07-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CDM131137",
+			"receivedDate": "2014-05-23",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CLC127022",
 			"receivedDate": "2013-10-21",
 			"response": "No objection",
@@ -122,10 +92,40 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM131137",
-			"receivedDate": "2014-05-23",
-			"response": "Conditioned objection",
+			"code": "CDM129550",
+			"receivedDate": "2014-03-04",
+			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CPA127304",
+			"receivedDate": "2013-10-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "ALC133739",
+			"receivedDate": "2014-10-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC118654",
+			"receivedDate": "2012-11-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC123847",
+			"receivedDate": "2013-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP167566",
+			"receivedDate": "2022-06-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

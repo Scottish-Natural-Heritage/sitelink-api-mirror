@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1448",
 	"id": 1448,
-	"agreements": [
-		{
-			"area": 457.35,
-			"code": 8734,
-			"expiryDate": "2023-12-31",
-			"property": "Ardnacross",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 33.13,
 	"casework": [
 		{
@@ -39,6 +28,18 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
+			"code": "CGS123865",
+			"receivedDate": "2013-06-06",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM123672",
+			"receivedDate": "2013-05-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "GEN166638",
 			"receivedDate": "2022-04-12",
 			"response": "Advice only",
@@ -49,18 +50,6 @@
 			"receivedDate": "2021-03-29",
 			"response": "Information only",
 			"type": "General Enquiries"
-		},
-		{
-			"code": "CDM123672",
-			"receivedDate": "2013-05-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS123865",
-			"receivedDate": "2013-06-06",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {

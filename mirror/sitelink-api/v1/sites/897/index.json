@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/897",
 	"id": 897,
-	"agreements": [
-		{
-			"area": 2684.88,
-			"code": 8737,
-			"expiryDate": "2023-12-31",
-			"property": "Torloisk",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 3,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 210.88,
 	"casework": [
 		{
@@ -27,58 +16,10 @@
 			"type": "Microrenewables"
 		},
 		{
-			"code": "CLC167671",
-			"receivedDate": "2022-07-11",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA124063",
-			"receivedDate": "2013-06-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC146597",
-			"receivedDate": "2017-07-04",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM137755",
-			"receivedDate": "2015-07-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM136788",
 			"receivedDate": "2015-05-14",
 			"response": "Advice only",
 			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM132113",
-			"receivedDate": "2014-07-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA128021",
-			"receivedDate": "2013-12-03",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA131348",
-			"receivedDate": "2014-06-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC131669",
-			"receivedDate": "2014-06-26",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC141853",
@@ -97,6 +38,54 @@
 			"receivedDate": "2016-09-09",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM137755",
+			"receivedDate": "2015-07-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC146597",
+			"receivedDate": "2017-07-04",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CEA128021",
+			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM132113",
+			"receivedDate": "2014-07-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC131669",
+			"receivedDate": "2014-06-26",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA131348",
+			"receivedDate": "2014-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA124063",
+			"receivedDate": "2013-06-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC167671",
+			"receivedDate": "2022-07-11",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

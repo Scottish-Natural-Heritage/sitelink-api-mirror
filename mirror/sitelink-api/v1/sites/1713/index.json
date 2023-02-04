@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1713",
 	"id": 1713,
-	"agreements": [
-		{
-			"area": 17000,
-			"code": 3441,
-			"expiryDate": "2056-03-31",
-			"property": "Glencanisp and Drumrunie Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1156.31,
 	"casework": [
 		{
@@ -50,14 +40,26 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "CGS127292",
-			"receivedDate": "2013-10-23",
+			"code": "CGS139690",
+			"receivedDate": "2016-01-12",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "GEN119159",
-			"receivedDate": "2012-11-22",
+			"code": "ALC161877",
+			"receivedDate": "2021-01-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC153839",
+			"receivedDate": "2019-01-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN140450",
+			"receivedDate": "2016-03-08",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -74,6 +76,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM144843",
+			"receivedDate": "2017-02-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPA146213",
 			"receivedDate": "2017-06-09",
 			"response": "Advice only",
@@ -86,6 +94,24 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CGS127292",
+			"receivedDate": "2013-10-23",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN119159",
+			"receivedDate": "2012-11-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM169250",
+			"receivedDate": "2022-12-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPP162605",
 			"receivedDate": "2021-03-26",
 			"response": "Advice only",
@@ -94,36 +120,6 @@
 		{
 			"code": "CDM165521",
 			"receivedDate": "2022-01-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS139690",
-			"receivedDate": "2016-01-12",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN140450",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC153839",
-			"receivedDate": "2019-01-11",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC161877",
-			"receivedDate": "2021-01-26",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM144843",
-			"receivedDate": "2017-02-21",
 			"response": "Advice only",
 			"type": "Planning Application"
 		}

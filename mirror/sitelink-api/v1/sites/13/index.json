@@ -1,22 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/13",
 	"id": 13,
-	"agreements": [
-		{
-			"area": 43.71,
-			"code": 322,
-			"property": "Achanarras Quarry",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1.38,
-			"code": 8100,
-			"property": "Achanarras Quarry",
-			"term": 0,
-			"type": "Lease (NatureScot Landlord)"
-		}
-	],
 	"area": 39.71,
 	"casework": [
 		{
@@ -38,26 +22,26 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "CGS147041",
-			"receivedDate": "2017-08-07",
+			"code": "CPP161967",
+			"receivedDate": "2021-02-03",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA161622",
+			"receivedDate": "2021-01-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP161433",
+			"receivedDate": "2020-12-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CGS116229",
 			"receivedDate": "2012-07-19",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC122547",
-			"receivedDate": "2013-04-11",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS114447",
-			"receivedDate": "2012-05-25",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -74,10 +58,34 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CEA166315",
-			"receivedDate": "2022-03-11",
+			"code": "CGS147041",
+			"receivedDate": "2017-08-07",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "COR132819",
+			"receivedDate": "2014-08-19",
+			"response": "Compliment accepted",
+			"type": "Compliments"
+		},
+		{
+			"code": "CLC122547",
+			"receivedDate": "2013-04-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS114447",
+			"receivedDate": "2012-05-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP164256",
+			"receivedDate": "2021-08-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CGS164561",
@@ -92,6 +100,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CEA166315",
+			"receivedDate": "2022-03-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPA166403",
 			"receivedDate": "2021-01-06",
 			"response": "Advice only",
@@ -100,36 +114,6 @@
 		{
 			"code": "CPA166425",
 			"receivedDate": "2022-03-23",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP164256",
-			"receivedDate": "2021-08-26",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "COR132819",
-			"receivedDate": "2014-08-19",
-			"response": "Compliment accepted",
-			"type": "Compliments"
-		},
-		{
-			"code": "CPP161433",
-			"receivedDate": "2020-12-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP161967",
-			"receivedDate": "2021-02-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA161622",
-			"receivedDate": "2021-01-05",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		}

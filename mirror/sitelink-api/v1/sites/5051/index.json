@@ -20,20 +20,8 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "CDM151722",
-			"receivedDate": "2018-07-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "ALC161358",
 			"receivedDate": "2020-12-01",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC146926",
-			"receivedDate": "2017-07-15",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -42,6 +30,18 @@
 			"receivedDate": "2016-05-12",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CDM151722",
+			"receivedDate": "2018-07-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC146926",
+			"receivedDate": "2017-07-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -55,5 +55,5 @@
 	"euCode": "11056",
 	"localAuthority": "Aberdeenshire",
 	"name": "Morrone Birkwood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

@@ -34,24 +34,6 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CDM129647",
-			"receivedDate": "2014-03-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM167272",
-			"receivedDate": "2022-06-08",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM119509",
-			"receivedDate": "2012-12-03",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
 			"code": "GEN150321",
 			"receivedDate": "2018-04-23",
 			"response": "Advice only",
@@ -62,6 +44,24 @@
 			"receivedDate": "2013-09-04",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CDM129647",
+			"receivedDate": "2014-03-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM119509",
+			"receivedDate": "2012-12-03",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167272",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "S.36 Application"
 		}
 	],
 	"designation": {
@@ -151,5 +151,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Fowlsheugh",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

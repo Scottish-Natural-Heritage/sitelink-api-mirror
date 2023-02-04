@@ -4,8 +4,8 @@
 	"agreements": [
 		{
 			"area": 4.54,
-			"code": 7901,
-			"expiryDate": "2022-03-31",
+			"code": 842590,
+			"expiryDate": "2027-03-31",
 			"property": "Calgary Dunes",
 			"term": 5,
 			"type": "SSSI Agreement (S.15)"
@@ -20,6 +20,30 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "GEN137963",
+			"receivedDate": "2015-07-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC150839",
+			"receivedDate": "2018-05-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC146170",
+			"receivedDate": "2017-05-31",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM131879",
+			"receivedDate": "2014-07-07",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPA128438",
 			"receivedDate": "2014-01-07",
 			"response": "Advice only",
@@ -29,30 +53,6 @@
 			"code": "CDM129734",
 			"receivedDate": "2014-03-12",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC146170",
-			"receivedDate": "2017-05-31",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC150839",
-			"receivedDate": "2018-05-31",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "GEN137963",
-			"receivedDate": "2015-07-21",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM131879",
-			"receivedDate": "2014-07-07",
-			"response": "No Comment",
 			"type": "Planning Application"
 		}
 	],

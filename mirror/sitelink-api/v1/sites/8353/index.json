@@ -1,26 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8353",
 	"id": 8353,
-	"agreements": [
-		{
-			"area": 1677.83,
-			"code": 8388,
-			"expiryDate": "2023-12-31",
-			"property": "2 Torvaig",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 968.87,
-			"code": 8745,
-			"expiryDate": "2023-12-31",
-			"property": "8 Torvaig & Rigg Croft",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 499.64,
 	"casework": [
 		{
@@ -66,12 +46,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ASC124431",
-			"receivedDate": "2013-06-28",
-			"response": "Application Granted",
-			"type": "Natural Care Scheme"
-		},
-		{
 			"code": "CGS152577",
 			"receivedDate": "2018-10-01",
 			"response": "Advice only",
@@ -82,6 +56,12 @@
 			"receivedDate": "2015-02-12",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "ASC124431",
+			"receivedDate": "2013-06-28",
+			"response": "Application Granted",
+			"type": "Natural Care Scheme"
 		}
 	],
 	"designation": {

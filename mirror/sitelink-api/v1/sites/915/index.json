@@ -4,6 +4,12 @@
 	"area": 48.77,
 	"casework": [
 		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CLC156216",
 			"receivedDate": "2019-07-15",
 			"response": "Advice only",
@@ -14,12 +20,6 @@
 			"receivedDate": "2021-09-21",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -34,10 +34,10 @@
 			"type": "Marine"
 		},
 		{
-			"code": "ALC135041",
-			"receivedDate": "2015-01-27",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM161247",
+			"receivedDate": "2020-11-19",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CDM160906",
@@ -46,16 +46,34 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM161247",
-			"receivedDate": "2020-11-19",
-			"response": "Advice only",
-			"type": "Post Application"
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "ALC135041",
+			"receivedDate": "2015-01-27",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPA165338",
 			"receivedDate": "2021-12-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM169087",
+			"receivedDate": "2022-11-14",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM169393",
+			"receivedDate": "2022-12-15",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM169085",
@@ -67,6 +85,12 @@
 			"code": "CDM169086",
 			"receivedDate": "2022-11-14",
 			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM169398",
+			"receivedDate": "2022-12-15",
+			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
@@ -88,20 +112,14 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM169087",
-			"receivedDate": "2022-11-14",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM164478",
 			"receivedDate": "2021-09-16",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM164039",
-			"receivedDate": "2021-08-06",
+			"code": "CDM165590",
+			"receivedDate": "2022-01-12",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -124,8 +142,8 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM165590",
-			"receivedDate": "2022-01-12",
+			"code": "CDM164039",
+			"receivedDate": "2021-08-06",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -134,12 +152,6 @@
 			"receivedDate": "2021-05-06",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
 		}
 	],
 	"designation": {

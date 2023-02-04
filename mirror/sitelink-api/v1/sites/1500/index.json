@@ -4,10 +4,70 @@
 	"area": 3.77,
 	"casework": [
 		{
+			"code": "ALC137852",
+			"receivedDate": "2015-08-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN154305",
+			"receivedDate": "2019-02-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC149257",
+			"receivedDate": "2018-02-06",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC148480",
+			"receivedDate": "2017-11-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA125628",
+			"receivedDate": "2013-08-15",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM125424",
+			"receivedDate": "2013-08-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125485",
+			"receivedDate": "2013-08-08",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR132604",
+			"receivedDate": "2014-08-12",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "CPA127660",
 			"receivedDate": "2013-11-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA129669",
+			"receivedDate": "2014-03-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP124542",
+			"receivedDate": "2013-07-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CEA167783",
@@ -26,66 +86,6 @@
 			"receivedDate": "2022-09-27",
 			"response": "Advice only",
 			"type": "Oil spill contingency plan"
-		},
-		{
-			"code": "CPP124542",
-			"receivedDate": "2013-07-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC149257",
-			"receivedDate": "2018-02-06",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC137852",
-			"receivedDate": "2015-08-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA125628",
-			"receivedDate": "2013-08-15",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM125424",
-			"receivedDate": "2013-08-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR132604",
-			"receivedDate": "2014-08-12",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPA129669",
-			"receivedDate": "2014-03-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM125485",
-			"receivedDate": "2013-08-08",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN154305",
-			"receivedDate": "2019-02-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC148480",
-			"receivedDate": "2017-11-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

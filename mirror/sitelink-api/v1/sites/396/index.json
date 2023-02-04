@@ -3,15 +3,6 @@
 	"id": 396,
 	"agreements": [
 		{
-			"area": 87.5,
-			"code": 2974,
-			"expiryDate": "2038-11-30",
-			"property": "Dunira",
-			"scheme": "LIFE Core Forest Sites Project (Not N.C.)",
-			"term": 55,
-			"type": "Partner Organisation Agreement"
-		},
-		{
 			"area": 56.21,
 			"code": 235,
 			"expiryDate": "2038-11-30",
@@ -209,18 +200,6 @@
 			"type": "Microrenewables"
 		},
 		{
-			"code": "COR135534",
-			"receivedDate": "2015-02-19",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP134349",
-			"receivedDate": "2014-11-27",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CLC113408",
 			"receivedDate": "2012-04-11",
 			"response": "S.12 SSSI consent required",
@@ -233,32 +212,8 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPP166341",
-			"receivedDate": "2022-03-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA119914",
-			"receivedDate": "2012-12-20",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CPP114008",
-			"receivedDate": "2012-05-01",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC165968",
-			"receivedDate": "2022-02-10",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP133199",
-			"receivedDate": "2014-09-15",
+			"code": "CPP144451",
+			"receivedDate": "2017-01-20",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -267,6 +222,12 @@
 			"receivedDate": "2015-06-25",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA148332",
+			"receivedDate": "2017-11-16",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "ALC128298",
@@ -281,16 +242,46 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPP144451",
-			"receivedDate": "2017-01-20",
+			"code": "CPP133199",
+			"receivedDate": "2014-09-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA148332",
-			"receivedDate": "2017-11-16",
+			"code": "COR135534",
+			"receivedDate": "2015-02-19",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP134349",
+			"receivedDate": "2014-11-27",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP114008",
+			"receivedDate": "2012-05-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA119914",
+			"receivedDate": "2012-12-20",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPP166341",
+			"receivedDate": "2022-03-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC165968",
+			"receivedDate": "2022-02-10",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {
@@ -356,5 +347,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Comrie Woods",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

@@ -4,28 +4,22 @@
 	"area": 66,
 	"casework": [
 		{
-			"code": "CPA133940",
-			"receivedDate": "2014-11-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM115900",
 			"receivedDate": "2012-07-17",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC163993",
-			"receivedDate": "2021-06-24",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM122629",
+			"receivedDate": "2013-04-10",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM122819",
-			"receivedDate": "2013-04-23",
+			"code": "CPA133940",
+			"receivedDate": "2014-11-04",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "GEN113167",
@@ -34,10 +28,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM122629",
-			"receivedDate": "2013-04-10",
-			"response": "Conditioned objection",
+			"code": "CDM122819",
+			"receivedDate": "2013-04-23",
+			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "ALC163993",
+			"receivedDate": "2021-06-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -148,5 +148,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Whitehill",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

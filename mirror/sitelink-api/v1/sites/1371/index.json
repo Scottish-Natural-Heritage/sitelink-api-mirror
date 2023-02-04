@@ -32,16 +32,40 @@
 			"type": "Other Pollution Acts"
 		},
 		{
+			"code": "CPA117242",
+			"receivedDate": "2012-09-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CDM157236",
 			"receivedDate": "2019-10-25",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA117242",
-			"receivedDate": "2012-09-05",
+			"code": "GEN150425",
+			"receivedDate": "2018-04-30",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC154354",
+			"receivedDate": "2019-02-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC128245",
+			"receivedDate": "2013-12-10",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "GEN127926",
+			"receivedDate": "2013-11-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CGS123262",
@@ -60,30 +84,6 @@
 			"receivedDate": "2012-06-13",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN150425",
-			"receivedDate": "2018-04-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN127926",
-			"receivedDate": "2013-11-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC128245",
-			"receivedDate": "2013-12-10",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "ALC154354",
-			"receivedDate": "2019-02-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -146,5 +146,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Rora Moss",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

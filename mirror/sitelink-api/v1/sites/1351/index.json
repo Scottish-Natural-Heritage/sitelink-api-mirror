@@ -16,10 +16,34 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
+			"code": "CLC162189",
+			"receivedDate": "2021-02-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPP141602",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
 			"code": "GEN146277",
 			"receivedDate": "2017-06-05",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CPP130578",
+			"receivedDate": "2014-04-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
 		},
 		{
 			"code": "CEA117828",
@@ -34,8 +58,8 @@
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "CLC165471",
-			"receivedDate": "2021-12-17",
+			"code": "CLC166746",
+			"receivedDate": "2022-04-26",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
@@ -52,6 +76,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC165471",
+			"receivedDate": "2021-12-17",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
 			"code": "CLC165142",
 			"receivedDate": "2021-11-18",
 			"response": "Advice only",
@@ -62,36 +92,6 @@
 			"receivedDate": "2022-01-28",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC166746",
-			"receivedDate": "2022-04-26",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CPP130578",
-			"receivedDate": "2014-04-28",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC162189",
-			"receivedDate": "2021-02-22",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CPP141602",
-			"receivedDate": "2016-05-18",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
 		}
 	],
 	"designation": {
@@ -191,5 +191,5 @@
 	],
 	"localAuthority": "Angus",
 	"name": "Rickle Craig - Scurdie Ness",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

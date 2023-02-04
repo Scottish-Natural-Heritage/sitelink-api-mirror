@@ -16,6 +16,18 @@
 			"type": "Other Utilities"
 		},
 		{
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "COR162345",
+			"receivedDate": "2021-03-08",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "GEN149955",
 			"receivedDate": "2018-03-27",
 			"response": "Advice only",
@@ -32,18 +44,6 @@
 			"receivedDate": "2020-08-03",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR162345",
-			"receivedDate": "2021-03-08",
-			"response": "Information only",
-			"type": "General Enquiries"
 		}
 	],
 	"designation": {
@@ -97,5 +97,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Pitcaple and Legatsden Quarries",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

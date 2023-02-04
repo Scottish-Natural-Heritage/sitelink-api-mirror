@@ -9,21 +9,6 @@
 			"property": "Glen Tanar Estate",
 			"term": 50,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 182,
-			"code": 460,
-			"property": "Glen Tanar Estate",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 182,
-			"code": 4502,
-			"expiryDate": "2028-12-04",
-			"property": "Glen Tanar Estate",
-			"term": 50,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
 		}
 	],
 	"area": 4185,
@@ -47,50 +32,32 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "ALC129105",
-			"receivedDate": "2014-02-07",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA156677",
-			"receivedDate": "2019-08-30",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
 			"code": "ALC112672",
 			"receivedDate": "2012-03-13",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC122922",
-			"receivedDate": "2013-04-29",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC121194",
-			"receivedDate": "2013-02-18",
+			"code": "GEN144821",
+			"receivedDate": "2017-02-20",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "General Advice"
 		},
 		{
-			"code": "ALC124490",
-			"receivedDate": "2013-07-24",
+			"code": "ALC137890",
+			"receivedDate": "2015-07-23",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC123618",
-			"receivedDate": "2013-05-23",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN153811",
+			"receivedDate": "2019-01-10",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
-			"code": "CPP153032",
-			"receivedDate": "2018-11-05",
+			"code": "CPP156779",
+			"receivedDate": "2019-09-06",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -107,40 +74,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS165099",
-			"receivedDate": "2021-11-12",
+			"code": "CPA156677",
+			"receivedDate": "2019-08-30",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "ALC163335",
-			"receivedDate": "2021-06-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC164281",
-			"receivedDate": "2021-08-26",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS162515",
-			"receivedDate": "2021-03-22",
+			"code": "CPP153032",
+			"receivedDate": "2018-11-05",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN166537",
-			"receivedDate": "2022-04-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC137890",
-			"receivedDate": "2015-07-23",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC132597",
@@ -155,22 +98,64 @@
 			"type": "Environmental Information Regulations request"
 		},
 		{
-			"code": "CPP156779",
-			"receivedDate": "2019-09-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC129105",
+			"receivedDate": "2014-02-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN153811",
-			"receivedDate": "2019-01-10",
+			"code": "ALC122922",
+			"receivedDate": "2013-04-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC123618",
+			"receivedDate": "2013-05-23",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC121194",
+			"receivedDate": "2013-02-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC124490",
+			"receivedDate": "2013-07-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS165099",
+			"receivedDate": "2021-11-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN166537",
+			"receivedDate": "2022-04-01",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN144821",
-			"receivedDate": "2017-02-20",
+			"code": "ALC164281",
+			"receivedDate": "2021-08-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS162515",
+			"receivedDate": "2021-03-22",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC163335",
+			"receivedDate": "2021-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -190,5 +175,5 @@
 	"euCode": "1487",
 	"localAuthority": "Aberdeenshire",
 	"name": "Glen Tanar",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

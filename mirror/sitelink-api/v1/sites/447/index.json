@@ -16,46 +16,10 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "ALC117796",
-			"receivedDate": "2012-09-25",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC117741",
-			"receivedDate": "2012-09-25",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM122527",
-			"receivedDate": "2013-04-11",
+			"code": "GEN131798",
+			"receivedDate": "2014-07-01",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM164304",
-			"receivedDate": "2021-08-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP163825",
-			"receivedDate": "2021-07-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP160353",
-			"receivedDate": "2020-09-01",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA165591",
-			"receivedDate": "2022-01-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "General Advice"
 		},
 		{
 			"code": "CDM129153",
@@ -70,10 +34,46 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "GEN131798",
-			"receivedDate": "2014-07-01",
+			"code": "CDM122527",
+			"receivedDate": "2013-04-11",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC117796",
+			"receivedDate": "2012-09-25",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC117741",
+			"receivedDate": "2012-09-25",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM164304",
+			"receivedDate": "2021-08-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA165591",
+			"receivedDate": "2022-01-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP160353",
+			"receivedDate": "2020-09-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP163825",
+			"receivedDate": "2021-07-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -175,5 +175,5 @@
 	],
 	"localAuthority": "Angus",
 	"name": "Craigs of Lundie and Ardgarth Loch",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

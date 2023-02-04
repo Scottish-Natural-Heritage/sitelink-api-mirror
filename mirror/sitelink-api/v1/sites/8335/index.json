@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8335",
 	"id": 8335,
-	"agreements": [
-		{
-			"area": 3454.06,
-			"code": 8732,
-			"expiryDate": "2023-12-31",
-			"property": "Knock Farm",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 1,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1405.46,
 	"casework": [
 		{
@@ -39,28 +28,40 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "CDM148874",
-			"receivedDate": "2018-01-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA128749",
-			"receivedDate": "2014-01-17",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA129021",
-			"receivedDate": "2014-02-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM161140",
 			"receivedDate": "2020-11-11",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CLC159588",
+			"receivedDate": "2020-06-18",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP161516",
+			"receivedDate": "2020-12-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM141877",
+			"receivedDate": "2016-06-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC144537",
+			"receivedDate": "2017-01-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC157067",
+			"receivedDate": "2019-10-09",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CPP150984",
@@ -99,6 +100,24 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CDM146830",
+			"receivedDate": "2017-07-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148874",
+			"receivedDate": "2018-01-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM124257",
+			"receivedDate": "2013-06-24",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
 			"code": "ALC128905",
 			"receivedDate": "2014-01-29",
 			"response": "Licence/Consent not required",
@@ -117,46 +136,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM124257",
-			"receivedDate": "2013-06-24",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC159588",
-			"receivedDate": "2020-06-18",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPP161516",
-			"receivedDate": "2020-12-15",
+			"code": "CPA128749",
+			"receivedDate": "2014-01-17",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC157067",
-			"receivedDate": "2019-10-09",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM141877",
-			"receivedDate": "2016-06-24",
+			"code": "CPA129021",
+			"receivedDate": "2014-02-05",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146830",
-			"receivedDate": "2017-07-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC144537",
-			"receivedDate": "2017-01-25",
-			"response": "Advice only",
-			"type": "Other"
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

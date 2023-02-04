@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/73",
 	"id": 73,
-	"agreements": [
-		{
-			"area": 4.5,
-			"code": 1472,
-			"expiryDate": "2024-10-31",
-			"property": "Ardlair / Letterewe",
-			"term": 30,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 9312.05,
 	"casework": [
 		{
@@ -20,10 +10,34 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "CDP102459",
+			"receivedDate": "2011-07-27",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA149072",
+			"receivedDate": "2018-01-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPP148827",
 			"receivedDate": "2018-01-08",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CDM146819",
+			"receivedDate": "2017-07-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128855",
+			"receivedDate": "2014-01-15",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA127390",
@@ -32,10 +46,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDP102459",
-			"receivedDate": "2011-07-27",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC122867",
+			"receivedDate": "2013-04-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPA167070",
@@ -62,24 +76,6 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "ALC122867",
-			"receivedDate": "2013-04-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM146819",
-			"receivedDate": "2017-07-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA165775",
-			"receivedDate": "2022-01-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "PAC158711",
 			"receivedDate": "2020-03-17",
 			"response": "Advice only",
@@ -92,16 +88,10 @@
 			"type": "Feasibility Study Enquiry"
 		},
 		{
-			"code": "CDM128855",
-			"receivedDate": "2014-01-15",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA149072",
-			"receivedDate": "2018-01-23",
+			"code": "CPA165775",
+			"receivedDate": "2022-01-26",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

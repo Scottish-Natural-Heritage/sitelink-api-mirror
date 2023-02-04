@@ -70,12 +70,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "ALC145411",
-			"receivedDate": "2017-04-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC117342",
 			"receivedDate": "2012-09-10",
 			"response": "SSSI Consent Given",
@@ -88,15 +82,15 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "COR123284",
-			"receivedDate": "2013-05-14",
-			"response": "Unresolved",
-			"type": "Complaints"
+			"code": "CGS141709",
+			"receivedDate": "2016-06-13",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
 		},
 		{
-			"code": "ALC145293",
-			"receivedDate": "2017-03-27",
-			"response": "Licence/Consent not required",
+			"code": "ALC145411",
+			"receivedDate": "2017-04-05",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -106,16 +100,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM166400",
-			"receivedDate": "2022-03-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA164696",
-			"receivedDate": "2021-10-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC145293",
+			"receivedDate": "2017-03-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "GEN136567",
@@ -124,10 +112,22 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CGS141709",
-			"receivedDate": "2016-06-13",
+			"code": "COR123284",
+			"receivedDate": "2013-05-14",
+			"response": "Unresolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "CPA164696",
+			"receivedDate": "2021-10-05",
 			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM166400",
+			"receivedDate": "2022-03-22",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

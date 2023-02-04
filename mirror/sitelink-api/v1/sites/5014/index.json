@@ -3,13 +3,6 @@
 	"id": 5014,
 	"agreements": [
 		{
-			"area": 1314,
-			"code": 232,
-			"property": "Cairnsmore of Fleet",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 447.6,
 			"code": 270,
 			"expiryDate": "2025-09-06",
@@ -18,33 +11,12 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 217.3,
-			"code": 424,
-			"property": "Exchange of land at Dromore - Cairnsmore of Fleet",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 678.5,
 			"code": 3800,
 			"expiryDate": "2023-01-08",
 			"property": "Glenure Estate",
 			"term": 15,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 0,
-			"code": 6643,
-			"property": "Wayleave - Supply to Buckshead Farm and Dromore Steading - Gatehouse of Fleet",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		},
-		{
-			"area": 0,
-			"code": 6642,
-			"property": "Wayleave - Supply to Dromore Farm - Gatehouse",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
 		}
 	],
 	"area": 1922,
@@ -98,6 +70,24 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "GEN153547",
+			"receivedDate": "2018-12-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP146056",
+			"receivedDate": "2017-06-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN129150",
+			"receivedDate": "2014-02-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CPP133136",
 			"receivedDate": "2014-09-08",
 			"response": "Advice only",
@@ -116,32 +106,14 @@
 			"type": "Compliments"
 		},
 		{
-			"code": "GEN153547",
-			"receivedDate": "2018-12-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP146056",
-			"receivedDate": "2017-06-01",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN158998",
-			"receivedDate": "2020-04-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CPP166009",
 			"receivedDate": "2022-02-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "GEN129150",
-			"receivedDate": "2014-02-11",
+			"code": "GEN158998",
+			"receivedDate": "2020-04-16",
 			"response": "Advice only",
 			"type": "General Advice"
 		}

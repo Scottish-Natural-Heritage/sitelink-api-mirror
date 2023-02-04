@@ -22,12 +22,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CLC115840",
-			"receivedDate": "2012-06-22",
-			"response": "Insufficient information",
-			"type": "CAR Licence"
-		},
-		{
 			"code": "CDM115364",
 			"receivedDate": "2012-06-27",
 			"response": "Holding objection",
@@ -38,6 +32,36 @@
 			"receivedDate": "2012-07-27",
 			"response": "No objection",
 			"type": "Other"
+		},
+		{
+			"code": "CLC115840",
+			"receivedDate": "2012-06-22",
+			"response": "Insufficient information",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC155974",
+			"receivedDate": "2019-06-24",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP161995",
+			"receivedDate": "2021-02-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM123605",
+			"receivedDate": "2013-05-27",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "ALC117826",
@@ -58,12 +82,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM123605",
-			"receivedDate": "2013-05-27",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
 			"code": "GEN121304",
 			"receivedDate": "2013-02-21",
 			"response": "Advice only",
@@ -74,24 +92,6 @@
 			"receivedDate": "2022-02-23",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CPP161995",
-			"receivedDate": "2021-02-05",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC155974",
-			"receivedDate": "2019-06-24",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA144483",
-			"receivedDate": "2017-01-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {
@@ -165,5 +165,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Den of Riechip",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

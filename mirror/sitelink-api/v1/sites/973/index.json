@@ -4,6 +4,18 @@
 	"area": 49.31,
 	"casework": [
 		{
+			"code": "GEN136920",
+			"receivedDate": "2015-06-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149748",
+			"receivedDate": "2018-03-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "COR147909",
 			"receivedDate": "2017-10-06",
 			"response": "Information only",
@@ -20,18 +32,6 @@
 			"receivedDate": "2022-06-22",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN149748",
-			"receivedDate": "2018-03-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN136920",
-			"receivedDate": "2015-06-02",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -94,5 +94,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Loch Con",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

@@ -11,62 +11,12 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 33.2,
-			"code": 991,
-			"property": "East Polder",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 13.4,
 			"code": 8231,
 			"expiryDate": "2022-12-31",
 			"property": "Fairfield Farm",
 			"term": 5,
 			"type": "SSSI Agreement (S.15)"
-		},
-		{
-			"area": 16.2,
-			"code": 499,
-			"property": "Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 8.25,
-			"code": 525,
-			"property": "Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 65.3,
-			"code": 841858,
-			"expiryDate": "2022-12-31",
-			"property": "Flanders Moss Grazing",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 42.73,
-			"code": 4295,
-			"property": "Land South of High Moss Pow Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 6.7,
-			"code": 278,
-			"property": "Land at Ballangrew, Arnprior",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.07,
-			"code": 6708,
-			"property": "Land at Easter Poldar Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
 		},
 		{
 			"area": 1.18,
@@ -252,58 +202,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CEA135912",
-			"receivedDate": "2015-03-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR129294",
-			"receivedDate": "2014-02-19",
-			"response": "Information only",
-			"type": "Complaints"
-		},
-		{
-			"code": "CPP167419",
-			"receivedDate": "2022-06-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS165035",
-			"receivedDate": "2021-10-28",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "ALC121700",
-			"receivedDate": "2013-02-27",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC123670",
-			"receivedDate": "2013-05-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR118659",
-			"receivedDate": "2012-11-05",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
 			"code": "CEA137747",
 			"receivedDate": "2015-08-03",
 			"response": "Advice only",
 			"type": "SEA"
 		},
 		{
-			"code": "CPP137789",
-			"receivedDate": "2015-08-03",
+			"code": "GEN142719",
+			"receivedDate": "2016-08-25",
 			"response": "Advice only",
-			"type": "Local Development Plan"
+			"type": "General Advice"
 		},
 		{
 			"code": "CDM139037",
@@ -318,16 +226,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC131618",
-			"receivedDate": "2014-06-24",
+			"code": "CPP137789",
+			"receivedDate": "2015-08-03",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC156150",
-			"receivedDate": "2019-07-08",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Local Development Plan"
 		},
 		{
 			"code": "CLC157489",
@@ -336,10 +238,58 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "GEN142719",
-			"receivedDate": "2016-08-25",
+			"code": "CLC156150",
+			"receivedDate": "2019-07-08",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC131618",
+			"receivedDate": "2014-06-24",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Other"
+		},
+		{
+			"code": "CEA135912",
+			"receivedDate": "2015-03-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "COR129294",
+			"receivedDate": "2014-02-19",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "ALC123670",
+			"receivedDate": "2013-05-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC121700",
+			"receivedDate": "2013-02-27",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR118659",
+			"receivedDate": "2012-11-05",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "CPP167419",
+			"receivedDate": "2022-06-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS165035",
+			"receivedDate": "2021-10-28",
+			"response": "Advice only",
+			"type": "Forestry for people"
 		}
 	],
 	"designation": {

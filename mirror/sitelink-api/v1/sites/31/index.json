@@ -14,10 +14,10 @@
 	"area": 234.45,
 	"casework": [
 		{
-			"code": "CEA147917",
-			"receivedDate": "2017-10-13",
+			"code": "CPA116275",
+			"receivedDate": "2012-08-01",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "GEN113495",
@@ -32,26 +32,8 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA116275",
-			"receivedDate": "2012-08-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "GEN136713",
 			"receivedDate": "2015-05-20",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM131683",
-			"receivedDate": "2014-06-27",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN154036",
-			"receivedDate": "2019-01-28",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -60,6 +42,24 @@
 			"receivedDate": "2019-03-28",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN154036",
+			"receivedDate": "2019-01-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CEA147917",
+			"receivedDate": "2017-10-13",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM131683",
+			"receivedDate": "2014-06-27",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

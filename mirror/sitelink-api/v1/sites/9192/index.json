@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/9192",
 	"id": 9192,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 6637,
-			"property": "Protection of Seals (Designation of Haul-Out Sites) (Scotland) Order 2014",
-			"term": 0,
-			"type": "Seal Haul-out Sites Designation Order"
-		}
-	],
 	"area": 2178.36,
 	"casework": [
 		{
@@ -43,30 +34,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "GEN166947",
-			"receivedDate": "2022-05-10",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC123244",
-			"receivedDate": "2013-05-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM165687",
-			"receivedDate": "2022-01-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM135289",
-			"receivedDate": "2015-02-11",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
 			"code": "COR161588",
 			"receivedDate": "2020-12-21",
 			"response": "Information only",
@@ -77,6 +44,36 @@
 			"receivedDate": "2016-10-20",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM135289",
+			"receivedDate": "2015-02-11",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "ALC123244",
+			"receivedDate": "2013-05-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA169107",
+			"receivedDate": "2022-11-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN166947",
+			"receivedDate": "2022-05-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM165687",
+			"receivedDate": "2022-01-19",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

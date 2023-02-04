@@ -4,16 +4,34 @@
 	"area": 6.58,
 	"casework": [
 		{
+			"code": "ALC154978",
+			"receivedDate": "2019-04-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC144585",
+			"receivedDate": "2017-02-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR150066",
+			"receivedDate": "2018-04-04",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "ALC147921",
 			"receivedDate": "2017-10-12",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC168255",
-			"receivedDate": "2022-09-01",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA126946",
+			"receivedDate": "2013-10-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CEA121147",
@@ -28,33 +46,15 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "COR150066",
-			"receivedDate": "2018-04-04",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "ALC168255",
+			"receivedDate": "2022-09-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC159036",
 			"receivedDate": "2020-04-21",
 			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA126946",
-			"receivedDate": "2013-10-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC154978",
-			"receivedDate": "2019-04-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC144585",
-			"receivedDate": "2017-02-24",
-			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],

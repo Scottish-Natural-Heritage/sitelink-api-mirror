@@ -44,22 +44,46 @@
 			"type": "Consultation from a regulatory authority (s.15)"
 		},
 		{
-			"code": "CPP133881",
-			"receivedDate": "2014-10-21",
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
 			"response": "Advice only",
-			"type": "Core paths plan"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC135815",
-			"receivedDate": "2015-03-19",
+			"code": "CEA161617",
+			"receivedDate": "2020-12-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC153988",
+			"receivedDate": "2019-01-17",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC129582",
-			"receivedDate": "2014-03-03",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "SIR154125",
+			"receivedDate": "2019-01-31",
+			"response": "Partial Release",
+			"type": "Environmental Information Regulations request"
+		},
+		{
+			"code": "COR153186",
+			"receivedDate": "2018-11-09",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC145305",
+			"receivedDate": "2017-03-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA130802",
+			"receivedDate": "2014-05-13",
+			"response": "Advice only",
+			"type": "SEA"
 		},
 		{
 			"code": "GEN129984",
@@ -68,10 +92,28 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CLC167384",
-			"receivedDate": "2022-06-17",
+			"code": "CLC135815",
+			"receivedDate": "2015-03-19",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP133881",
+			"receivedDate": "2014-10-21",
+			"response": "Advice only",
+			"type": "Core paths plan"
+		},
+		{
+			"code": "CLC129582",
+			"receivedDate": "2014-03-03",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN124817",
+			"receivedDate": "2013-07-04",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CDM117516",
@@ -86,6 +128,12 @@
 			"type": "General Advice"
 		},
 		{
+			"code": "CDM123827",
+			"receivedDate": "2013-06-03",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
 			"code": "ALC118066",
 			"receivedDate": "2012-10-03",
 			"response": "SSSI Consent Given",
@@ -98,64 +146,22 @@
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "CDM123827",
-			"receivedDate": "2013-06-03",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "CLC167384",
+			"receivedDate": "2022-06-17",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
-			"code": "GEN124817",
-			"receivedDate": "2013-07-04",
+			"code": "GEN167551",
+			"receivedDate": "2022-06-29",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "COR153186",
-			"receivedDate": "2018-11-09",
-			"response": "Information only",
-			"type": "General Enquiries"
 		},
 		{
 			"code": "CDM160070",
 			"receivedDate": "2020-08-03",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CEA130802",
-			"receivedDate": "2014-05-13",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "SIR154125",
-			"receivedDate": "2019-01-31",
-			"response": "Partial Release",
-			"type": "Environmental Information Regulations request"
-		},
-		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC153988",
-			"receivedDate": "2019-01-17",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA161617",
-			"receivedDate": "2020-12-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC145305",
-			"receivedDate": "2017-03-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -264,5 +270,5 @@
 	"secondaryLocalAuthorities": [
 		"Aberdeen City"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

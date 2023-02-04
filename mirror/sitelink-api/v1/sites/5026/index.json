@@ -3,13 +3,6 @@
 	"id": 5026,
 	"agreements": [
 		{
-			"area": 0,
-			"code": 3724,
-			"property": "Access over Littleward Farm",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
 			"area": 645,
 			"code": 3973,
 			"expiryDate": "2031-03-19",
@@ -18,68 +11,12 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 0,
-			"code": 1374,
-			"property": "East Poldar",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
-			"area": 33.2,
-			"code": 991,
-			"property": "East Polder",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 16.2,
-			"code": 499,
-			"property": "Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 8.25,
-			"code": 525,
-			"property": "Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 42.73,
-			"code": 4295,
-			"property": "Land South of High Moss Pow Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 6.7,
-			"code": 278,
-			"property": "Land at Ballangrew, Arnprior",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.07,
-			"code": 6708,
-			"property": "Land at Easter Poldar Flanders Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 1.18,
 			"code": 3725,
 			"expiryDate": "2031-01-29",
 			"property": "Littleward Farm",
 			"term": 25,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 0,
-			"code": 840973,
-			"property": "Servitude granted in disposition case 278 - Land at Ballangrew, Arnprior",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
 		},
 		{
 			"area": 23.4,
@@ -125,34 +62,28 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "COR129294",
-			"receivedDate": "2014-02-19",
-			"response": "Information only",
-			"type": "Complaints"
-		},
-		{
-			"code": "COR122783",
-			"receivedDate": "2013-04-22",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "COR118659",
-			"receivedDate": "2012-11-05",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "COR118804",
-			"receivedDate": "2012-11-07",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
 			"code": "COR136807",
 			"receivedDate": "2015-05-18",
 			"response": "Resolved",
 			"type": "Complaints"
+		},
+		{
+			"code": "CLC157486",
+			"receivedDate": "2017-08-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC157489",
+			"receivedDate": "2019-11-13",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC156150",
+			"receivedDate": "2019-07-08",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC131618",
@@ -167,22 +98,28 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CLC156150",
-			"receivedDate": "2019-07-08",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "COR129294",
+			"receivedDate": "2014-02-19",
+			"response": "Information only",
+			"type": "Complaints"
 		},
 		{
-			"code": "CLC157486",
-			"receivedDate": "2017-08-22",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "COR118804",
+			"receivedDate": "2012-11-07",
+			"response": "Resolved",
+			"type": "Complaints"
 		},
 		{
-			"code": "CLC157489",
-			"receivedDate": "2019-11-13",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "COR122783",
+			"receivedDate": "2013-04-22",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR118659",
+			"receivedDate": "2012-11-05",
+			"response": "Resolved",
+			"type": "Complaints"
 		}
 	],
 	"designation": {

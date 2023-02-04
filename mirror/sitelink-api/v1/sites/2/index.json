@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/2",
 	"id": 2,
-	"agreements": [
-		{
-			"area": 88113,
-			"code": 5749,
-			"property": "Inshore Fishing (Prohibition of Fishing for Cockles) (Solway Firth) (Scotland) Order 2011",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 181.16,
 	"casework": [
 		{
@@ -49,6 +40,30 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "GEN112707",
+			"receivedDate": "2012-03-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC124811",
+			"receivedDate": "2013-07-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN128539",
+			"receivedDate": "2014-01-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP130041",
+			"receivedDate": "2014-03-31",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "ALC134970",
 			"receivedDate": "2015-01-21",
 			"response": "SSSI Consent Given",
@@ -59,18 +74,6 @@
 			"receivedDate": "2014-08-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP130041",
-			"receivedDate": "2014-03-31",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN112707",
-			"receivedDate": "2012-03-14",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "ALC118171",
@@ -93,18 +96,6 @@
 		{
 			"code": "GEN164045",
 			"receivedDate": "2021-08-09",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC124811",
-			"receivedDate": "2013-07-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN128539",
-			"receivedDate": "2014-01-09",
 			"response": "Advice only",
 			"type": "General Advice"
 		}

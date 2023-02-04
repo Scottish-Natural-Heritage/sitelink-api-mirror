@@ -22,40 +22,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CLC132998",
-			"receivedDate": "2014-09-04",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "CEA117248",
 			"receivedDate": "2012-09-30",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "ALC169040",
-			"receivedDate": "2022-09-02",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC120438",
-			"receivedDate": "2013-01-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC135946",
-			"receivedDate": "2015-03-25",
-			"response": "Advice only",
-			"type": "CAR Licence"
 		},
 		{
 			"code": "CEA161897",
@@ -64,14 +34,14 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN161682",
-			"receivedDate": "2021-01-11",
+			"code": "GEN162317",
+			"receivedDate": "2021-03-01",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN162317",
-			"receivedDate": "2021-03-01",
+			"code": "GEN161682",
+			"receivedDate": "2021-01-11",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -80,6 +50,36 @@
 			"receivedDate": "2020-12-23",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CLC135946",
+			"receivedDate": "2015-03-25",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC132998",
+			"receivedDate": "2014-09-04",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC120438",
+			"receivedDate": "2013-01-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169040",
+			"receivedDate": "2022-09-02",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -140,5 +140,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Tilliefoure Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

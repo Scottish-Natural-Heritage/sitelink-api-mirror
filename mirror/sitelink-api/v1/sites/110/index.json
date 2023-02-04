@@ -4,10 +4,22 @@
 	"area": 230.51,
 	"casework": [
 		{
-			"code": "CDM167494",
-			"receivedDate": "2022-06-28",
+			"code": "ALC143139",
+			"receivedDate": "2016-10-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC142250",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC129256",
+			"receivedDate": "2014-02-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC123055",
@@ -16,14 +28,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC166843",
-			"receivedDate": "2022-04-29",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM167494",
+			"receivedDate": "2022-06-28",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "ALC165916",
-			"receivedDate": "2022-02-07",
+			"code": "ALC166843",
+			"receivedDate": "2022-04-29",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -40,22 +52,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC129256",
-			"receivedDate": "2014-02-13",
-			"response": "SSSI Consent Given",
+			"code": "ALC165916",
+			"receivedDate": "2022-02-07",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC143139",
-			"receivedDate": "2016-10-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC142250",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

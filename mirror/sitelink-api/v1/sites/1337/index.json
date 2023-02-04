@@ -16,12 +16,6 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CEA161897",
 			"receivedDate": "2021-01-22",
 			"response": "Advice only",
@@ -32,6 +26,12 @@
 			"receivedDate": "2020-12-23",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -81,5 +81,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Red Moss, Oldtown",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

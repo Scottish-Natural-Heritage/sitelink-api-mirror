@@ -3,49 +3,12 @@
 	"id": 8210,
 	"agreements": [
 		{
-			"area": 69.34,
-			"code": 360,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 37.94,
-			"code": 2280,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1.56,
-			"code": 2282,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 109,
-			"code": 841931,
-			"expiryDate": "2022-12-31",
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
 			"area": 0.05,
 			"code": 7742,
 			"expiryDate": "2029-11-18",
 			"property": "Car park/access - Blawhorn Moss",
 			"term": 10,
 			"type": "Land Lease"
-		},
-		{
-			"area": 19.25,
-			"code": 8759,
-			"expiryDate": "2029-12-31",
-			"property": "Drumbeg Conservation Area",
-			"term": 10,
-			"type": "Wider Countryside Agreement (S.49)"
 		}
 	],
 	"area": 108.86,
@@ -135,10 +98,52 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CEA135716",
-			"receivedDate": "2015-03-10",
+			"code": "CPP137498",
+			"receivedDate": "2015-07-14",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP136669",
+			"receivedDate": "2015-05-15",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CDM158787",
+			"receivedDate": "2020-03-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA148892",
+			"receivedDate": "2018-01-10",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CPP141870",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CDM157112",
+			"receivedDate": "2019-10-10",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC143555",
+			"receivedDate": "2016-10-17",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM157761",
+			"receivedDate": "2019-12-17",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC157555",
@@ -153,74 +158,8 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM157761",
-			"receivedDate": "2019-12-17",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA168764",
-			"receivedDate": "2022-10-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS167301",
-			"receivedDate": "2022-06-08",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CDM119246",
-			"receivedDate": "2012-11-26",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CPP124200",
-			"receivedDate": "2013-06-19",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
-			"code": "CDM163377",
-			"receivedDate": "2021-04-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA160363",
-			"receivedDate": "2020-08-06",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CDM159328",
-			"receivedDate": "2020-05-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS166167",
-			"receivedDate": "2022-02-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP136669",
-			"receivedDate": "2015-05-15",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CPP137498",
-			"receivedDate": "2015-07-14",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CEA137550",
-			"receivedDate": "2015-07-17",
+			"code": "CEA131545",
+			"receivedDate": "2014-06-19",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -237,46 +176,82 @@
 			"type": "Strategic Development Plan"
 		},
 		{
-			"code": "CEA131545",
-			"receivedDate": "2014-06-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CPP128508",
 			"receivedDate": "2014-01-13",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM157112",
-			"receivedDate": "2019-10-10",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM158787",
-			"receivedDate": "2020-03-25",
+			"code": "CEA137550",
+			"receivedDate": "2015-07-17",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC143555",
-			"receivedDate": "2016-10-17",
+			"code": "CEA135716",
+			"receivedDate": "2015-03-10",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "CPP141870",
-			"receivedDate": "2016-06-30",
+			"code": "CDM119246",
+			"receivedDate": "2012-11-26",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CPP124200",
+			"receivedDate": "2013-06-19",
 			"response": "Advice only",
 			"type": "Strategic Development Plan"
 		},
 		{
-			"code": "CEA148892",
-			"receivedDate": "2018-01-10",
+			"code": "CLC169352",
+			"receivedDate": "2022-12-06",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA169348",
+			"receivedDate": "2022-11-25",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CEA168764",
+			"receivedDate": "2022-10-17",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CGS167301",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CPA160363",
+			"receivedDate": "2020-08-06",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM163377",
+			"receivedDate": "2021-04-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM159328",
+			"receivedDate": "2020-05-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS166167",
+			"receivedDate": "2022-02-07",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

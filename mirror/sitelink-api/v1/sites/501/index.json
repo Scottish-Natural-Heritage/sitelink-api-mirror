@@ -170,10 +170,10 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "GEN148785",
-			"receivedDate": "2017-12-21",
+			"code": "CDM116690",
+			"receivedDate": "2012-08-15",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC158296",
@@ -200,6 +200,54 @@
 			"type": "General Advice"
 		},
 		{
+			"code": "GEN159566",
+			"receivedDate": "2020-06-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS159848",
+			"receivedDate": "2020-07-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155777",
+			"receivedDate": "2019-06-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC157101",
+			"receivedDate": "2019-09-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP141969",
+			"receivedDate": "2016-06-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP156051",
+			"receivedDate": "2019-07-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN156721",
+			"receivedDate": "2019-09-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC149847",
+			"receivedDate": "2018-02-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CGS157859",
 			"receivedDate": "2020-01-07",
 			"response": "Advice only",
@@ -212,22 +260,40 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CPP156051",
-			"receivedDate": "2019-07-01",
+			"code": "GEN148785",
+			"receivedDate": "2017-12-21",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM116690",
-			"receivedDate": "2012-08-15",
-			"response": "Advice only",
+			"code": "CDM146960",
+			"receivedDate": "2017-07-26",
+			"response": "No Comment",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CPP129948",
+			"receivedDate": "2014-03-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPP123794",
 			"receivedDate": "2013-05-29",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM116804",
+			"receivedDate": "2012-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "ALC119836",
@@ -245,24 +311,6 @@
 			"code": "ALC120276",
 			"receivedDate": "2013-01-14",
 			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM116804",
-			"receivedDate": "2012-07-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146960",
-			"receivedDate": "2017-07-26",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC149847",
-			"receivedDate": "2018-02-22",
-			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -294,54 +342,6 @@
 			"receivedDate": "2022-03-24",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC134016",
-			"receivedDate": "2014-10-27",
-			"response": "Licence Granted",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP129948",
-			"receivedDate": "2014-03-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS159848",
-			"receivedDate": "2020-07-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC155777",
-			"receivedDate": "2019-06-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN159566",
-			"receivedDate": "2020-06-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN156721",
-			"receivedDate": "2019-09-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC157101",
-			"receivedDate": "2019-09-13",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP141969",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -396,5 +396,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Den of Alyth",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

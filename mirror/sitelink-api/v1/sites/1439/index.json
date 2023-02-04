@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1439",
 	"id": 1439,
-	"agreements": [
-		{
-			"area": 12924,
-			"code": 2865,
-			"expiryDate": "2054-07-15",
-			"property": "Loch Choire Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 7048.15,
 	"casework": [
 		{
@@ -44,14 +34,8 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CDM116822",
-			"receivedDate": "2012-08-21",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CGS117088",
-			"receivedDate": "2012-08-30",
+			"code": "CGS116199",
+			"receivedDate": "2012-07-30",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -62,8 +46,14 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CGS116199",
-			"receivedDate": "2012-07-30",
+			"code": "CDM116822",
+			"receivedDate": "2012-08-21",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CGS117088",
+			"receivedDate": "2012-08-30",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},

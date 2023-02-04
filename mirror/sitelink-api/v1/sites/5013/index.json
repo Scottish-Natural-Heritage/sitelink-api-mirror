@@ -1,37 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/5013",
 	"id": 5013,
-	"agreements": [
-		{
-			"area": 94.3,
-			"code": 2934,
-			"property": "Cairngorms - Funicular Railway",
-			"term": 0,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 989.5,
-			"code": 76,
-			"property": "Inshriach",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 2156.6,
-			"code": 87,
-			"property": "Invereshie",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 8698,
-			"expiryDate": "2023-12-31",
-			"property": "Invereshie ",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		}
-	],
 	"area": 25947.8,
 	"casework": [
 		{
@@ -47,28 +16,10 @@
 			"type": "Tracks and Paths"
 		},
 		{
-			"code": "CPA144997",
-			"receivedDate": "2017-03-01",
+			"code": "GEN142442",
+			"receivedDate": "2016-08-09",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC155284",
-			"receivedDate": "2019-04-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC151747",
-			"receivedDate": "2018-07-31",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM164413",
-			"receivedDate": "2021-09-06",
-			"response": "No Comment",
-			"type": "Application related advice"
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN157298",
@@ -77,10 +28,28 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN142442",
-			"receivedDate": "2016-08-09",
+			"code": "CLC151747",
+			"receivedDate": "2018-07-31",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC155284",
+			"receivedDate": "2019-04-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS148215",
+			"receivedDate": "2017-11-06",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA144997",
+			"receivedDate": "2017-03-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CGS148254",
@@ -89,10 +58,10 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CGS148215",
-			"receivedDate": "2017-11-06",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "CDM164413",
+			"receivedDate": "2021-09-06",
+			"response": "No Comment",
+			"type": "Application related advice"
 		}
 	],
 	"designation": {

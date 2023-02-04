@@ -76,106 +76,16 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "CEA133957",
-			"receivedDate": "2014-11-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC136225",
-			"receivedDate": "2015-04-20",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM151143",
-			"receivedDate": "2018-06-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC122494",
-			"receivedDate": "2013-04-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM114276",
-			"receivedDate": "2012-05-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS149208",
-			"receivedDate": "2018-02-01",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM149497",
-			"receivedDate": "2018-02-21",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA151298",
-			"receivedDate": "2018-07-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC158724",
-			"receivedDate": "2020-03-17",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CPP136675",
 			"receivedDate": "2015-05-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS133339",
-			"receivedDate": "2014-09-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP128039",
-			"receivedDate": "2013-12-09",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC129023",
-			"receivedDate": "2014-02-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC130978",
-			"receivedDate": "2014-05-20",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "SIR154646",
-			"receivedDate": "2019-03-11",
-			"response": "Partial Release",
-			"type": "Environmental Information Regulations request"
-		},
-		{
 			"code": "CDM159094",
 			"receivedDate": "2020-04-28",
 			"response": "Advice only",
 			"type": "Post Application"
-		},
-		{
-			"code": "CLC153874",
-			"receivedDate": "2019-01-14",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "ALC162161",
@@ -190,16 +100,106 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP144426",
-			"receivedDate": "2017-01-18",
+			"code": "CLC153874",
+			"receivedDate": "2019-01-14",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CGS143618",
 			"receivedDate": "2016-11-11",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP144426",
+			"receivedDate": "2017-01-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS149208",
+			"receivedDate": "2018-02-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "SIR154646",
+			"receivedDate": "2019-03-11",
+			"response": "Partial Release",
+			"type": "Environmental Information Regulations request"
+		},
+		{
+			"code": "CDM151143",
+			"receivedDate": "2018-06-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA151298",
+			"receivedDate": "2018-07-02",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM149497",
+			"receivedDate": "2018-02-21",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC130978",
+			"receivedDate": "2014-05-20",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP128039",
+			"receivedDate": "2013-12-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC129023",
+			"receivedDate": "2014-02-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS133339",
+			"receivedDate": "2014-09-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC136225",
+			"receivedDate": "2015-04-20",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CEA133957",
+			"receivedDate": "2014-11-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC122494",
+			"receivedDate": "2013-04-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM114276",
+			"receivedDate": "2012-05-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC158724",
+			"receivedDate": "2020-03-17",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

@@ -46,6 +46,12 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "GEN140448",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CGS118566",
 			"receivedDate": "2012-10-22",
 			"response": "Advice only",
@@ -56,12 +62,6 @@
 			"receivedDate": "2022-05-05",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN140448",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -177,5 +177,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Craig Leek",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

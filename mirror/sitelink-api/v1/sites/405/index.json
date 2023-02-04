@@ -1,23 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/405",
 	"id": 405,
-	"agreements": [
-		{
-			"area": 6.93,
-			"code": 4226,
-			"property": "Corrieshalloch Gorge",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		},
-		{
-			"area": 12,
-			"code": 4595,
-			"expiryDate": "2093-03-14",
-			"property": "Corrieshalloch Woodland",
-			"term": 99,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 6.93,
 	"casework": [
 		{
@@ -51,12 +34,6 @@
 			"type": "Environmental Protection Act"
 		},
 		{
-			"code": "ALC149972",
-			"receivedDate": "2018-03-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC116258",
 			"receivedDate": "2012-08-27",
 			"response": "SSSI Consent Given (subject to conditions)",
@@ -67,6 +44,30 @@
 			"receivedDate": "2012-01-25",
 			"response": "S.15 Advice with conditions",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR138092",
+			"receivedDate": "2015-08-28",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "ALC149972",
+			"receivedDate": "2018-03-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA148398",
+			"receivedDate": "2017-11-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN114917",
+			"receivedDate": "2012-06-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CGS167351",
@@ -81,34 +82,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN114917",
-			"receivedDate": "2012-06-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM163287",
-			"receivedDate": "2021-06-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "PAC158712",
 			"receivedDate": "2020-03-02",
 			"response": "Advice only",
 			"type": "Feasibility Study Enquiry"
 		},
 		{
-			"code": "COR138092",
-			"receivedDate": "2015-08-28",
-			"response": "Information only",
-			"type": "Complaints"
-		},
-		{
-			"code": "CPA148398",
-			"receivedDate": "2017-11-20",
+			"code": "CDM163287",
+			"receivedDate": "2021-06-01",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
