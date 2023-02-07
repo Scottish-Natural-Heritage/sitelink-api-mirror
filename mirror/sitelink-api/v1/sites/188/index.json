@@ -3,28 +3,6 @@
 	"id": 188,
 	"agreements": [
 		{
-			"area": 539,
-			"code": 21,
-			"property": "Ben Lui",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 957.91,
-			"code": 842032,
-			"expiryDate": "2024-02-15",
-			"property": "Ben Lui",
-			"term": 2,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 423.7,
-			"code": 92,
-			"property": "Ben Lui - Succoth Farm High Ground",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 1104,
 			"code": 8528,
 			"expiryDate": "2023-02-12",
@@ -84,46 +62,10 @@
 			"type": "Mineral Workings"
 		},
 		{
-			"code": "CPP133639",
-			"receivedDate": "2014-10-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM134413",
-			"receivedDate": "2014-12-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA144867",
-			"receivedDate": "2017-02-23",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP135363",
-			"receivedDate": "2015-02-16",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA135717",
-			"receivedDate": "2015-03-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM161300",
 			"receivedDate": "2020-11-24",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "ALC155561",
-			"receivedDate": "2019-04-18",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC116041",
@@ -132,16 +74,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN167211",
-			"receivedDate": "2022-05-31",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC144288",
+			"receivedDate": "2017-01-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM122302",
-			"receivedDate": "2013-04-03",
+			"code": "CEA142770",
+			"receivedDate": "2016-09-01",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "ALC143925",
+			"receivedDate": "2016-12-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA143285",
+			"receivedDate": "2016-10-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "COR143121",
+			"receivedDate": "2016-10-03",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC138824",
+			"receivedDate": "2015-10-26",
+			"response": "Licence Granted",
+			"type": "Bird"
 		},
 		{
 			"code": "ALC152510",
@@ -150,10 +116,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC150765",
-			"receivedDate": "2018-04-23",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC157446",
+			"receivedDate": "2019-11-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "GEN151463",
@@ -168,10 +134,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC155561",
+			"receivedDate": "2019-04-18",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC150281",
 			"receivedDate": "2018-04-09",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147116",
+			"receivedDate": "2017-08-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC150765",
+			"receivedDate": "2018-04-23",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CEA147968",
+			"receivedDate": "2017-10-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA144867",
+			"receivedDate": "2017-02-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "ALC146372",
@@ -180,28 +176,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN160359",
-			"receivedDate": "2020-09-01",
+			"code": "CDM145820",
+			"receivedDate": "2017-05-10",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC164465",
-			"receivedDate": "2021-09-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC138824",
-			"receivedDate": "2015-10-26",
-			"response": "Licence Granted",
-			"type": "Bird"
-		},
-		{
-			"code": "CEA143285",
-			"receivedDate": "2016-10-14",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA128650",
@@ -246,12 +224,6 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CPA129669",
-			"receivedDate": "2014-03-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CLC126697",
 			"receivedDate": "2013-10-02",
 			"response": "Advice only",
@@ -264,52 +236,58 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC157446",
-			"receivedDate": "2019-11-11",
+			"code": "CPP135363",
+			"receivedDate": "2015-02-16",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC147116",
-			"receivedDate": "2017-08-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC144288",
-			"receivedDate": "2017-01-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC143925",
-			"receivedDate": "2016-12-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA142770",
-			"receivedDate": "2016-09-01",
+			"code": "CPP133639",
+			"receivedDate": "2014-10-15",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA147968",
-			"receivedDate": "2017-10-09",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM145820",
-			"receivedDate": "2017-05-10",
+			"code": "CDM134413",
+			"receivedDate": "2014-12-03",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "COR143121",
-			"receivedDate": "2016-10-03",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CPA135717",
+			"receivedDate": "2015-03-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA129669",
+			"receivedDate": "2014-03-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM122302",
+			"receivedDate": "2013-04-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN167211",
+			"receivedDate": "2022-05-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160359",
+			"receivedDate": "2020-09-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC164465",
+			"receivedDate": "2021-09-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -385,9 +363,6 @@
 						"Sheep"
 					],
 					"name": "Over grazing"
-				},
-				{
-					"name": "Under grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105436"

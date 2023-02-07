@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8382",
 	"id": 8382,
-	"agreements": [
-		{
-			"area": 77.2,
-			"code": 6287,
-			"property": "St Abb's Head",
-			"term": 0,
-			"type": "Approved Body Declaration (S.35)"
-		}
-	],
 	"area": 122.63,
 	"casework": [
 		{
@@ -49,10 +40,10 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "GEN127392",
-			"receivedDate": "2013-10-29",
+			"code": "CPP137829",
+			"receivedDate": "2015-08-05",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Oil spill contingency plan"
 		},
 		{
 			"code": "CPP158080",
@@ -61,26 +52,14 @@
 			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "ALC167974",
-			"receivedDate": "2022-08-02",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP124200",
-			"receivedDate": "2013-06-19",
+			"code": "CPP141870",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
 			"type": "Strategic Development Plan"
 		},
 		{
-			"code": "ALC152505",
-			"receivedDate": "2018-09-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC152304",
-			"receivedDate": "2018-08-07",
+			"code": "ALC156463",
+			"receivedDate": "2019-08-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -91,14 +70,74 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "ALC152505",
+			"receivedDate": "2018-09-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC148427",
+			"receivedDate": "2017-11-24",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "ALC147712",
 			"receivedDate": "2017-09-25",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA166307",
-			"receivedDate": "2022-03-08",
+			"code": "ALC152304",
+			"receivedDate": "2018-08-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP127445",
+			"receivedDate": "2013-10-24",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP127805",
+			"receivedDate": "2013-11-26",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "GEN127392",
+			"receivedDate": "2013-10-29",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CPP124200",
+			"receivedDate": "2013-06-19",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "ALC167974",
+			"receivedDate": "2022-08-02",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC165126",
+			"receivedDate": "2021-11-16",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA166494",
+			"receivedDate": "2022-03-10",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -109,64 +148,16 @@
 			"type": "Oil spill contingency plan"
 		},
 		{
-			"code": "ALC165126",
-			"receivedDate": "2021-11-16",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA166307",
+			"receivedDate": "2022-03-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "ALC166133",
 			"receivedDate": "2022-02-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA166494",
-			"receivedDate": "2022-03-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP137829",
-			"receivedDate": "2015-08-05",
-			"response": "Advice only",
-			"type": "Oil spill contingency plan"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CPP127805",
-			"receivedDate": "2013-11-26",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
-			"code": "CPP127445",
-			"receivedDate": "2013-10-24",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "ALC156463",
-			"receivedDate": "2019-08-07",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP141870",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
-			"code": "CLC148427",
-			"receivedDate": "2017-11-24",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

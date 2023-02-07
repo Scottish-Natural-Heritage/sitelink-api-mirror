@@ -1,23 +1,8 @@
 {
 	"url": "/sitelink-api/v1/sites/10423",
 	"id": 10423,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 6816,
-			"property": "South Arran Marine Conservation Order 2015",
-			"term": 0,
-			"type": "Marine Conservation Order"
-		}
-	],
 	"area": 28000,
 	"casework": [
-		{
-			"code": "GEN159254",
-			"receivedDate": "2020-05-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
 		{
 			"code": "CLC160883",
 			"receivedDate": "2020-10-12",
@@ -25,16 +10,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC153067",
-			"receivedDate": "2018-11-01",
+			"code": "GEN159254",
+			"receivedDate": "2020-05-15",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM164856",
-			"receivedDate": "2021-10-25",
-			"response": "Advice only",
-			"type": "Harbour Infrastructure"
+			"type": "General Advice"
 		},
 		{
 			"code": "CLC140606",
@@ -55,10 +34,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC130635",
-			"receivedDate": "2014-05-01",
+			"code": "CEA142259",
+			"receivedDate": "2016-07-26",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
 			"code": "CDM141400",
@@ -67,10 +46,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA142259",
-			"receivedDate": "2016-07-26",
+			"code": "CLC153067",
+			"receivedDate": "2018-11-01",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC130635",
+			"receivedDate": "2014-05-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CDM164856",
+			"receivedDate": "2021-10-25",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
 		}
 	],
 	"designation": {

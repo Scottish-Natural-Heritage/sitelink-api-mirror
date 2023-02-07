@@ -34,16 +34,10 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "GEN114737",
-			"receivedDate": "2012-05-07",
+			"code": "CDM158983",
+			"receivedDate": "2020-04-16",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM159084",
-			"receivedDate": "2020-04-28",
-			"response": "Advice only",
-			"type": "Application related advice"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPP139828",
@@ -64,10 +58,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM158983",
-			"receivedDate": "2020-04-16",
+			"code": "GEN114737",
+			"receivedDate": "2012-05-07",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM159084",
+			"receivedDate": "2020-04-28",
+			"response": "Advice only",
+			"type": "Application related advice"
 		}
 	],
 	"designation": {

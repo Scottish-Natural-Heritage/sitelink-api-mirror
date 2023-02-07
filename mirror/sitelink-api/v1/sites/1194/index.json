@@ -76,12 +76,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "COR159548",
-			"receivedDate": "2020-06-12",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "CLC116563",
 			"receivedDate": "2012-08-10",
 			"response": "S.12 SSSI consent required",
@@ -94,28 +88,46 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM164181",
-			"receivedDate": "2021-08-04",
+			"code": "CPA139979",
+			"receivedDate": "2016-02-03",
 			"response": "Advice only",
-			"type": "Application related advice"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC124960",
-			"receivedDate": "2013-07-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP118359",
-			"receivedDate": "2012-10-16",
+			"code": "CDM154916",
+			"receivedDate": "2019-03-26",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC146719",
-			"receivedDate": "2017-07-11",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "COR159548",
+			"receivedDate": "2020-06-12",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN155750",
+			"receivedDate": "2019-06-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA141014",
+			"receivedDate": "2016-04-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC140642",
+			"receivedDate": "2016-03-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM157303",
+			"receivedDate": "2019-10-30",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM150599",
@@ -130,40 +142,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC140642",
-			"receivedDate": "2016-03-23",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "CLC146719",
+			"receivedDate": "2017-07-11",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPA139979",
-			"receivedDate": "2016-02-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC124960",
+			"receivedDate": "2013-07-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN155750",
-			"receivedDate": "2019-06-06",
+			"code": "CPP118359",
+			"receivedDate": "2012-10-16",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM157303",
-			"receivedDate": "2019-10-30",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM154916",
-			"receivedDate": "2019-03-26",
+			"code": "CDM164181",
+			"receivedDate": "2021-08-04",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA141014",
-			"receivedDate": "2016-04-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Application related advice"
 		}
 	],
 	"designation": {
@@ -317,5 +317,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Morven and Mullachdubh",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

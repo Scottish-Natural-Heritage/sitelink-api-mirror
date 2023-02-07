@@ -46,12 +46,6 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "CDM128151",
-			"receivedDate": "2013-12-12",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM116194",
 			"receivedDate": "2012-07-30",
 			"response": "Advice only",
@@ -62,6 +56,18 @@
 			"receivedDate": "2012-08-03",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "ALC137751",
+			"receivedDate": "2015-08-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPA160041",
+			"receivedDate": "2020-07-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CDM112838",
@@ -76,54 +82,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA168226",
-			"receivedDate": "2022-08-30",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM113836",
-			"receivedDate": "2012-03-12",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM118323",
-			"receivedDate": "2012-09-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA118324",
-			"receivedDate": "2012-10-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC114379",
-			"receivedDate": "2012-05-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM114764",
-			"receivedDate": "2012-06-08",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS146891",
-			"receivedDate": "2017-07-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS152123",
-			"receivedDate": "2018-08-28",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "CGS143256",
 			"receivedDate": "2016-10-13",
 			"response": "Advice only",
@@ -134,54 +92,6 @@
 			"receivedDate": "2016-10-13",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC137751",
-			"receivedDate": "2015-08-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA140330",
-			"receivedDate": "2016-02-29",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM126422",
-			"receivedDate": "2013-09-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM128799",
-			"receivedDate": "2014-01-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM125358",
-			"receivedDate": "2013-07-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM122082",
-			"receivedDate": "2013-03-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA127354",
-			"receivedDate": "2013-10-31",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA160041",
-			"receivedDate": "2020-07-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CGS142955",
@@ -200,6 +110,102 @@
 			"receivedDate": "2016-04-07",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CEA140330",
+			"receivedDate": "2016-02-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS152123",
+			"receivedDate": "2018-08-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS146891",
+			"receivedDate": "2017-07-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA127354",
+			"receivedDate": "2013-10-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM126422",
+			"receivedDate": "2013-09-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128799",
+			"receivedDate": "2014-01-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122082",
+			"receivedDate": "2013-03-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125358",
+			"receivedDate": "2013-07-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128151",
+			"receivedDate": "2013-12-12",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM114764",
+			"receivedDate": "2012-06-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM113836",
+			"receivedDate": "2012-03-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC114379",
+			"receivedDate": "2012-05-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM118323",
+			"receivedDate": "2012-09-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA118324",
+			"receivedDate": "2012-10-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA168226",
+			"receivedDate": "2022-08-30",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA169014",
+			"receivedDate": "2022-11-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

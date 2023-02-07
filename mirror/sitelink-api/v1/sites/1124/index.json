@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1124",
 	"id": 1124,
-	"agreements": [
-		{
-			"area": 12924,
-			"code": 2865,
-			"expiryDate": "2054-07-15",
-			"property": "Loch Choire Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 561.78,
 	"casework": [
 		{
@@ -20,22 +10,46 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "CGS160494",
+			"receivedDate": "2020-09-14",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "ALC112015",
 			"receivedDate": "2012-02-09",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA150380",
-			"receivedDate": "2017-07-20",
+			"code": "CPP143823",
+			"receivedDate": "2016-11-25",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP140255",
+			"receivedDate": "2016-02-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS156814",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
 		},
 		{
 			"code": "CGS144981",
 			"receivedDate": "2017-03-02",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA150380",
+			"receivedDate": "2017-07-20",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CPA158159",
@@ -48,30 +62,6 @@
 			"receivedDate": "2020-02-18",
 			"response": "Advice only",
 			"type": "Other"
-		},
-		{
-			"code": "CPP140255",
-			"receivedDate": "2016-02-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS160494",
-			"receivedDate": "2020-09-14",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS156814",
-			"receivedDate": "2019-09-12",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CPP143823",
-			"receivedDate": "2016-11-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {

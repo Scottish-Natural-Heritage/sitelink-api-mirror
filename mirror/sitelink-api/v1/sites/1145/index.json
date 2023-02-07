@@ -130,10 +130,52 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "CEA135222",
-			"receivedDate": "2015-02-10",
+			"code": "ALC155522",
+			"receivedDate": "2019-05-10",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS155919",
+			"receivedDate": "2019-06-20",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CEA136882",
+			"receivedDate": "2015-05-29",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CGS150807",
+			"receivedDate": "2018-05-30",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC151597",
+			"receivedDate": "2018-07-20",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC152359",
+			"receivedDate": "2018-09-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM125574",
+			"receivedDate": "2013-08-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC134016",
+			"receivedDate": "2014-10-27",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM128996",
@@ -142,10 +184,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC151597",
-			"receivedDate": "2018-07-20",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CEA135222",
+			"receivedDate": "2015-02-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS119268",
+			"receivedDate": "2012-11-26",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "ALC114840",
@@ -166,64 +214,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS119268",
-			"receivedDate": "2012-11-26",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC152359",
-			"receivedDate": "2018-09-09",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS150807",
-			"receivedDate": "2018-05-30",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM165048",
-			"receivedDate": "2021-11-10",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPA165591",
 			"receivedDate": "2022-01-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA136882",
-			"receivedDate": "2015-05-29",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC134016",
-			"receivedDate": "2014-10-27",
-			"response": "Licence Granted",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM125574",
-			"receivedDate": "2013-08-13",
-			"response": "Advice only",
+			"code": "CDM165048",
+			"receivedDate": "2021-11-10",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CGS155919",
-			"receivedDate": "2019-06-20",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC155522",
-			"receivedDate": "2019-05-10",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -310,5 +310,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Meikleour Area",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

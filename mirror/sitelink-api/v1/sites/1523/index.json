@@ -3,13 +3,6 @@
 	"id": 1523,
 	"agreements": [
 		{
-			"area": 0,
-			"code": 4178,
-			"property": "Kinshaldy - Fishing Rights",
-			"term": 0,
-			"type": "Rights Acquisition"
-		},
-		{
 			"area": 33.07,
 			"code": 3980,
 			"expiryDate": "2025-07-31",
@@ -18,34 +11,12 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 14.6,
-			"code": 63,
-			"property": "Tayport Tentsmuir",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 37.2,
-			"code": 253,
-			"property": "Tayport Tentsmuir",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 488.11,
 			"code": 8212,
 			"expiryDate": "2025-09-13",
 			"property": "Tentsmuir Foreshore",
 			"term": 13,
 			"type": "Land Lease"
-		},
-		{
-			"area": 79.26,
-			"code": 841932,
-			"expiryDate": "2022-10-31",
-			"property": "Tentsmuir NNR",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
 		}
 	],
 	"area": 1261.29,
@@ -63,20 +34,20 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CPP133483",
-			"receivedDate": "2014-10-06",
+			"code": "CEA115803",
+			"receivedDate": "2012-07-12",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC133024",
-			"receivedDate": "2014-09-05",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"code": "ALC136746",
+			"receivedDate": "2015-04-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC160440",
-			"receivedDate": "2020-08-05",
+			"code": "ALC156011",
+			"receivedDate": "2019-05-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -87,86 +58,8 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "ALC155829",
-			"receivedDate": "2019-04-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA115803",
-			"receivedDate": "2012-07-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC168356",
-			"receivedDate": "2022-09-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC167016",
-			"receivedDate": "2022-05-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC166240",
-			"receivedDate": "2022-03-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC119015",
-			"receivedDate": "2012-11-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC120454",
-			"receivedDate": "2013-01-22",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC114139",
-			"receivedDate": "2012-05-15",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "ALC149332",
-			"receivedDate": "2017-11-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN152110",
-			"receivedDate": "2018-08-28",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC166618",
-			"receivedDate": "2022-03-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC165142",
-			"receivedDate": "2021-11-18",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC163830",
-			"receivedDate": "2021-07-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC162758",
-			"receivedDate": "2021-03-18",
+			"code": "ALC160440",
+			"receivedDate": "2020-08-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -183,8 +76,26 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC136746",
-			"receivedDate": "2015-04-09",
+			"code": "ALC156744",
+			"receivedDate": "2019-08-28",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN152110",
+			"receivedDate": "2018-08-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC155829",
+			"receivedDate": "2019-04-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC149332",
+			"receivedDate": "2017-11-16",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -195,15 +106,81 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC156011",
-			"receivedDate": "2019-05-28",
+			"code": "CPP133483",
+			"receivedDate": "2014-10-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC133024",
+			"receivedDate": "2014-09-05",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC119015",
+			"receivedDate": "2012-11-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC114139",
+			"receivedDate": "2012-05-15",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC120454",
+			"receivedDate": "2013-01-22",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC168356",
+			"receivedDate": "2022-09-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC156744",
-			"receivedDate": "2019-08-28",
-			"response": "Licence/Consent not required",
+			"code": "ALC169726",
+			"receivedDate": "2023-01-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166240",
+			"receivedDate": "2022-03-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167016",
+			"receivedDate": "2022-05-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166618",
+			"receivedDate": "2022-03-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162758",
+			"receivedDate": "2021-03-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC165142",
+			"receivedDate": "2021-11-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC163830",
+			"receivedDate": "2021-07-02",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],

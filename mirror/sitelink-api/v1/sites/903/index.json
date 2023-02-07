@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/903",
 	"id": 903,
-	"agreements": [
-		{
-			"area": 1652,
-			"code": 5839,
-			"expiryDate": "2022-12-31",
-			"property": "Hopes Estate",
-			"term": 5,
-			"type": "SSSI Agreement (S.15)"
-		}
-	],
 	"area": 952.87,
 	"casework": [
 		{
@@ -44,6 +34,18 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
+			"code": "CEA146699",
+			"receivedDate": "2017-07-12",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CLC124628",
+			"receivedDate": "2013-07-05",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CLC114080",
 			"receivedDate": "2012-05-11",
 			"response": "S.12 SSSI consent not required",
@@ -56,22 +58,10 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CEA146699",
-			"receivedDate": "2017-07-12",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CEA166549",
 			"receivedDate": "2022-04-01",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CLC124628",
-			"receivedDate": "2013-07-05",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1567",
 	"id": 1567,
-	"agreements": [
-		{
-			"area": 12924,
-			"code": 2865,
-			"expiryDate": "2054-07-15",
-			"property": "Loch Choire Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 1072.07,
 	"casework": [
 		{
@@ -44,14 +34,32 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CGS114844",
-			"receivedDate": "2012-06-07",
+			"code": "CGS160494",
+			"receivedDate": "2020-09-14",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CGS114889",
-			"receivedDate": "2012-06-11",
+			"code": "CPP143823",
+			"receivedDate": "2016-11-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP140255",
+			"receivedDate": "2016-02-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CGS156814",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CGS144981",
+			"receivedDate": "2017-03-02",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -62,34 +70,16 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CGS144981",
-			"receivedDate": "2017-03-02",
+			"code": "CGS114844",
+			"receivedDate": "2012-06-07",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CPP140255",
-			"receivedDate": "2016-02-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS160494",
-			"receivedDate": "2020-09-14",
+			"code": "CGS114889",
+			"receivedDate": "2012-06-11",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS156814",
-			"receivedDate": "2019-09-12",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CPP143823",
-			"receivedDate": "2016-11-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {

@@ -1,36 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8212",
 	"id": 8212,
-	"agreements": [
-		{
-			"area": 128.61,
-			"code": 2818,
-			"property": "Blackhill Farm",
-			"term": 0,
-			"type": "One Off Works"
-		},
-		{
-			"area": 87.6,
-			"code": 28,
-			"property": "Braehead Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 30.62,
-			"code": 2820,
-			"property": "Gowmacmorran Farm",
-			"term": 0,
-			"type": "One Off Works"
-		},
-		{
-			"area": 0,
-			"code": 5811,
-			"property": "Wayleave - Braehead Moss (Powerlines)",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		}
-	],
 	"area": 122.17,
 	"casework": [
 		{
@@ -76,40 +46,22 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CPP158634",
-			"receivedDate": "2020-03-03",
-			"response": "Advice only",
-			"type": "Regional forest strategy"
+			"code": "CLC161619",
+			"receivedDate": "2020-12-22",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPP123540",
-			"receivedDate": "2013-05-14",
+			"code": "CPP144246",
+			"receivedDate": "2017-01-09",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP120055",
-			"receivedDate": "2013-01-07",
-			"response": "Advice only",
-			"type": "Other"
+			"type": "Local Development Plan"
 		},
 		{
 			"code": "CLC152228",
 			"receivedDate": "2018-09-05",
 			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPP158837",
-			"receivedDate": "2020-03-31",
-			"response": "Advice only",
-			"type": "Regional forest strategy"
-		},
-		{
-			"code": "ALC136872",
-			"receivedDate": "2015-05-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC132116",
@@ -124,16 +76,34 @@
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "CLC161619",
-			"receivedDate": "2020-12-22",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC136872",
+			"receivedDate": "2015-05-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP144246",
-			"receivedDate": "2017-01-09",
+			"code": "CPP123540",
+			"receivedDate": "2013-05-14",
 			"response": "Advice only",
-			"type": "Local Development Plan"
+			"type": "Other"
+		},
+		{
+			"code": "CPP120055",
+			"receivedDate": "2013-01-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP158634",
+			"receivedDate": "2020-03-03",
+			"response": "Advice only",
+			"type": "Regional forest strategy"
+		},
+		{
+			"code": "CPP158837",
+			"receivedDate": "2020-03-31",
+			"response": "Advice only",
+			"type": "Regional forest strategy"
 		}
 	],
 	"designation": {

@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/823",
 	"id": 823,
-	"agreements": [
-		{
-			"area": 16.78,
-			"code": 82,
-			"property": "Jock's Gill Wood",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 55.07,
 	"casework": [
 		{
@@ -43,22 +34,10 @@
 			"type": "Environmental Protection Act"
 		},
 		{
-			"code": "CLC121549",
-			"receivedDate": "2013-02-25",
+			"code": "GEN125412",
+			"receivedDate": "2013-08-06",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC122049",
-			"receivedDate": "2013-03-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC121668",
-			"receivedDate": "2013-02-05",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "General Advice"
 		},
 		{
 			"code": "ALC127516",
@@ -91,10 +70,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "GEN125412",
-			"receivedDate": "2013-08-06",
+			"code": "CLC121668",
+			"receivedDate": "2013-02-05",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC121549",
+			"receivedDate": "2013-02-25",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Other"
+		},
+		{
+			"code": "ALC122049",
+			"receivedDate": "2013-03-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

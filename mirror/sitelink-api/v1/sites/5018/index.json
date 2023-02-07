@@ -1,23 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/5018",
 	"id": 5018,
-	"agreements": [
-		{
-			"area": 6.93,
-			"code": 4226,
-			"property": "Corrieshalloch Gorge",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		},
-		{
-			"area": 12,
-			"code": 4595,
-			"expiryDate": "2093-03-14",
-			"property": "Corrieshalloch Woodland",
-			"term": 99,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 6.93,
 	"casework": [
 		{
@@ -51,28 +34,28 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "ALC149972",
-			"receivedDate": "2018-03-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CLC111333",
 			"receivedDate": "2012-01-25",
 			"response": "S.15 Advice with conditions",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPP166679",
-			"receivedDate": "2022-04-14",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "ALC149972",
+			"receivedDate": "2018-03-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "GEN114917",
 			"receivedDate": "2012-06-14",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CPP166679",
+			"receivedDate": "2022-04-14",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CDM163287",

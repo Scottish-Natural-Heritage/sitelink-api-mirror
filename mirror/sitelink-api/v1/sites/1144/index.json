@@ -22,12 +22,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CPP157940",
-			"receivedDate": "2020-01-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CPA116867",
 			"receivedDate": "2012-08-22",
 			"response": "Advice only",
@@ -40,16 +34,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN167387",
-			"receivedDate": "2022-06-10",
+			"code": "CPP157940",
+			"receivedDate": "2020-01-14",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPA153182",
 			"receivedDate": "2018-11-13",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN167387",
+			"receivedDate": "2022-06-10",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "ALC164409",
@@ -143,5 +143,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Meikle Loch and Kippet Hills",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

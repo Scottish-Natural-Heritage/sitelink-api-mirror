@@ -40,12 +40,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CPP114111",
-			"receivedDate": "2012-05-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CPP115866",
 			"receivedDate": "2012-07-17",
 			"response": "Advice only",
@@ -58,21 +52,9 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM118442",
-			"receivedDate": "2012-10-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC115194",
-			"receivedDate": "2012-06-25",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CLC151015",
-			"receivedDate": "2018-06-11",
-			"response": "Insufficient information",
+			"code": "CLC141966",
+			"receivedDate": "2016-07-01",
+			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
@@ -82,10 +64,28 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC141966",
-			"receivedDate": "2016-07-01",
-			"response": "S.15 Advice only",
+			"code": "CLC151015",
+			"receivedDate": "2018-06-11",
+			"response": "Insufficient information",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CDM118442",
+			"receivedDate": "2012-10-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP114111",
+			"receivedDate": "2012-05-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CLC115194",
+			"receivedDate": "2012-06-25",
+			"response": "No objection",
+			"type": "Other"
 		}
 	],
 	"designation": {
@@ -146,5 +146,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Monzie Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

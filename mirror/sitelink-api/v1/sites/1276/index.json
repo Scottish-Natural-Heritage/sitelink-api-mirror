@@ -52,8 +52,14 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "CDM133179",
-			"receivedDate": "2014-09-16",
+			"code": "COR138053",
+			"receivedDate": "2015-08-26",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM160792",
+			"receivedDate": "2020-10-06",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -64,80 +70,8 @@
 			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "ALC146006",
-			"receivedDate": "2017-05-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC152305",
-			"receivedDate": "2018-08-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM149597",
-			"receivedDate": "2018-02-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN151377",
-			"receivedDate": "2018-06-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA160306",
-			"receivedDate": "2020-08-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR138053",
-			"receivedDate": "2015-08-26",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN140615",
-			"receivedDate": "2016-03-22",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC129207",
-			"receivedDate": "2014-02-13",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM154585",
-			"receivedDate": "2019-03-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM160792",
-			"receivedDate": "2020-10-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "GEN161324",
 			"receivedDate": "2020-11-26",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA143757",
-			"receivedDate": "2016-11-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN144357",
-			"receivedDate": "2017-01-04",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
@@ -148,10 +82,76 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "GEN140615",
+			"receivedDate": "2016-03-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN144357",
+			"receivedDate": "2017-01-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA143757",
+			"receivedDate": "2016-11-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM149597",
+			"receivedDate": "2018-02-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154585",
+			"receivedDate": "2019-03-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC152305",
+			"receivedDate": "2018-08-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "GEN148439",
 			"receivedDate": "2017-11-23",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "GEN151377",
+			"receivedDate": "2018-06-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC146006",
+			"receivedDate": "2017-05-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC129207",
+			"receivedDate": "2014-02-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM133179",
+			"receivedDate": "2014-09-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA160306",
+			"receivedDate": "2020-08-26",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {

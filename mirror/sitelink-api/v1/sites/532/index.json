@@ -1,17 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/532",
 	"id": 532,
-	"agreements": [
-		{
-			"area": 438,
-			"code": 840850,
-			"expiryDate": "2023-12-31",
-			"property": "Balvraid",
-			"scheme": "Sea Eagle Management Scheme 2020 - 2023",
-			"term": 3,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 50.6,
 	"casework": [
 		{
@@ -33,16 +22,16 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP148393",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPA163113",
 			"receivedDate": "2021-05-14",
 			"response": "Advice only",
 			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CGS165925",
-			"receivedDate": "2022-02-08",
-			"response": "Advice only",
-			"type": "Forestry for people"
 		},
 		{
 			"code": "ALC163638",
@@ -51,10 +40,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP148393",
-			"receivedDate": "2017-11-21",
+			"code": "CGS165925",
+			"receivedDate": "2022-02-08",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Forestry for people"
 		}
 	],
 	"designation": {

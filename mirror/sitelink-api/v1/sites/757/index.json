@@ -14,16 +14,16 @@
 	"area": 4.99,
 	"casework": [
 		{
-			"code": "CLC159683",
-			"receivedDate": "2020-06-25",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "ALC139176",
 			"receivedDate": "2015-11-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC159683",
+			"receivedDate": "2020-06-25",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

@@ -31,8 +31,26 @@
 			"type": "Marine"
 		},
 		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CDM160505",
+			"receivedDate": "2020-09-15",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CEA159667",
 			"receivedDate": "2020-06-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA156294",
+			"receivedDate": "2019-07-19",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -49,16 +67,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC163463",
-			"receivedDate": "2021-06-07",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CDM160335",
 			"receivedDate": "2020-08-31",
 			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "ALC163463",
+			"receivedDate": "2021-06-07",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM160649",
@@ -71,24 +89,6 @@
 			"receivedDate": "2020-06-23",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CDM160505",
-			"receivedDate": "2020-09-15",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CEA156294",
-			"receivedDate": "2019-07-19",
-			"response": "Advice only",
-			"type": "EIA"
 		}
 	],
 	"designation": {

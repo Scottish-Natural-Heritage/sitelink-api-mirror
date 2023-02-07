@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/301",
 	"id": 301,
-	"agreements": [
-		{
-			"area": 17000,
-			"code": 3441,
-			"expiryDate": "2056-03-31",
-			"property": "Glencanisp and Drumrunie Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 476.22,
 	"casework": [
 		{
@@ -44,16 +34,22 @@
 			"type": "Water"
 		},
 		{
-			"code": "CGS127292",
-			"receivedDate": "2013-10-23",
+			"code": "CGS139690",
+			"receivedDate": "2016-01-12",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CPA146213",
-			"receivedDate": "2017-06-09",
+			"code": "ALC162063",
+			"receivedDate": "2021-02-10",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN140450",
+			"receivedDate": "2016-03-08",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "General Advice"
 		},
 		{
 			"code": "CPA151693",
@@ -68,28 +64,22 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM162694",
-			"receivedDate": "2021-04-09",
+			"code": "CPA146213",
+			"receivedDate": "2017-06-09",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CGS139690",
-			"receivedDate": "2016-01-12",
+			"code": "CGS127292",
+			"receivedDate": "2013-10-23",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "GEN140450",
-			"receivedDate": "2016-03-08",
+			"code": "CDM162694",
+			"receivedDate": "2021-04-09",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC162063",
-			"receivedDate": "2021-02-10",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

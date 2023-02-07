@@ -1,22 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/868",
 	"id": 868,
-	"agreements": [
-		{
-			"area": 151.2,
-			"code": 1446,
-			"property": "Kirkconnell Flow",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 4.85,
-			"code": 4177,
-			"property": "Kirkconnell Flow",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 144.78,
 	"casework": [
 		{
@@ -24,6 +8,24 @@
 			"receivedDate": "2005-08-25",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "ALC156820",
+			"receivedDate": "2019-09-11",
+			"response": "SSSI Consent Given",
+			"type": "Plant"
+		},
+		{
+			"code": "COR142779",
+			"receivedDate": "2016-09-05",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CDM149380",
+			"receivedDate": "2018-02-13",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC157552",
@@ -44,10 +46,10 @@
 			"type": "Forestry for people"
 		},
 		{
-			"code": "CDM149380",
-			"receivedDate": "2018-02-13",
+			"code": "CGS166935",
+			"receivedDate": "2022-05-06",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
 		},
 		{
 			"code": "CGS164575",
@@ -60,24 +62,6 @@
 			"receivedDate": "2021-09-17",
 			"response": "Advice only",
 			"type": "Other"
-		},
-		{
-			"code": "CGS166935",
-			"receivedDate": "2022-05-06",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "COR142779",
-			"receivedDate": "2016-09-05",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC156820",
-			"receivedDate": "2019-09-11",
-			"response": "SSSI Consent Given",
-			"type": "Plant"
 		}
 	],
 	"designation": {

@@ -22,6 +22,18 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "CPP139289",
+			"receivedDate": "2015-11-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC137985",
+			"receivedDate": "2015-08-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CLC145157",
 			"receivedDate": "2017-03-14",
 			"response": "S.12 SSSI consent required",
@@ -32,18 +44,6 @@
 			"receivedDate": "2013-02-14",
 			"response": "Advice only",
 			"type": "Renewable energy strategy"
-		},
-		{
-			"code": "ALC137985",
-			"receivedDate": "2015-08-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP139289",
-			"receivedDate": "2015-11-12",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -133,5 +133,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Green Hill of Strathdon",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

@@ -40,36 +40,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CPP133604",
-			"receivedDate": "2014-10-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA134839",
-			"receivedDate": "2015-01-14",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM127826",
-			"receivedDate": "2013-11-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP129188",
-			"receivedDate": "2014-02-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM113485",
-			"receivedDate": "2012-04-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "GEN117014",
 			"receivedDate": "2012-08-15",
 			"response": "Advice only",
@@ -80,66 +50,6 @@
 			"receivedDate": "2012-08-20",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "GEN113168",
-			"receivedDate": "2012-04-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "COR115301",
-			"receivedDate": "2012-06-26",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN118215",
-			"receivedDate": "2012-10-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA122862",
-			"receivedDate": "2013-04-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN119473",
-			"receivedDate": "2012-11-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM118394",
-			"receivedDate": "2012-10-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM114097",
-			"receivedDate": "2012-05-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN115136",
-			"receivedDate": "2012-06-18",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC152228",
-			"receivedDate": "2018-09-05",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA146353",
-			"receivedDate": "2017-06-20",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "GEN137672",
@@ -160,10 +70,22 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM126274",
-			"receivedDate": "2013-09-12",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "CLC152228",
+			"receivedDate": "2018-09-05",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CEA146353",
+			"receivedDate": "2017-06-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC132425",
+			"receivedDate": "2014-07-16",
+			"response": "Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CDM129007",
@@ -178,16 +100,100 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM126274",
+			"receivedDate": "2013-09-12",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM127864",
 			"receivedDate": "2013-11-27",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC132425",
-			"receivedDate": "2014-07-16",
+			"code": "CDM127826",
+			"receivedDate": "2013-11-22",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP129188",
+			"receivedDate": "2014-02-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA134839",
+			"receivedDate": "2015-01-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPP133604",
+			"receivedDate": "2014-10-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN113168",
+			"receivedDate": "2012-04-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "COR115301",
+			"receivedDate": "2012-06-26",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA122862",
+			"receivedDate": "2013-04-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN118215",
+			"receivedDate": "2012-10-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM113485",
+			"receivedDate": "2012-04-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN119473",
+			"receivedDate": "2012-11-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM114097",
+			"receivedDate": "2012-05-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM118394",
+			"receivedDate": "2012-10-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN115136",
+			"receivedDate": "2012-06-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP168903",
+			"receivedDate": "2022-11-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

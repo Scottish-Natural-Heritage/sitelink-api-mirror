@@ -70,10 +70,28 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "ALC132870",
-			"receivedDate": "2014-08-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CGS155839",
+			"receivedDate": "2019-06-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP112608",
+			"receivedDate": "2012-02-29",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN154238",
+			"receivedDate": "2019-02-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CGS146295",
@@ -82,22 +100,34 @@
 			"type": "SRDP including LEADER"
 		},
 		{
+			"code": "ALC148938",
+			"receivedDate": "2018-01-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CGS146438",
 			"receivedDate": "2017-06-23",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "ALC135371",
-			"receivedDate": "2015-02-04",
+			"code": "ALC148327",
+			"receivedDate": "2017-11-15",
+			"response": "Licence/Consent not required",
+			"type": "Plant"
+		},
+		{
+			"code": "ALC132870",
+			"receivedDate": "2014-08-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP112608",
-			"receivedDate": "2012-02-29",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "ALC135371",
+			"receivedDate": "2015-02-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC167736",
@@ -128,36 +158,6 @@
 			"receivedDate": "2020-05-20",
 			"response": "No comment",
 			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN154238",
-			"receivedDate": "2019-02-06",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS155839",
-			"receivedDate": "2019-06-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA144483",
-			"receivedDate": "2017-01-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC148938",
-			"receivedDate": "2018-01-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC148327",
-			"receivedDate": "2017-11-15",
-			"response": "Licence/Consent not required",
-			"type": "Plant"
 		}
 	],
 	"designation": {
@@ -207,5 +207,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Balnaguard Glen",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1446",
 	"id": 1446,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 6637,
-			"property": "Protection of Seals (Designation of Haul-Out Sites) (Scotland) Order 2014",
-			"term": 0,
-			"type": "Seal Haul-out Sites Designation Order"
-		}
-	],
 	"area": 161.75,
 	"casework": [
 		{
@@ -25,16 +16,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CLC129674",
-			"receivedDate": "2014-03-04",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "CLC137457",
 			"receivedDate": "2015-06-17",
 			"response": "No objection",
 			"type": "Other"
+		},
+		{
+			"code": "CLC129674",
+			"receivedDate": "2014-03-04",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

@@ -28,12 +28,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "GEN129887",
-			"receivedDate": "2014-03-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CEA113828",
 			"receivedDate": "2012-05-01",
 			"response": "Advice only",
@@ -46,22 +40,34 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CPP158312",
+			"receivedDate": "2020-02-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN129887",
+			"receivedDate": "2014-03-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "ALC167656",
 			"receivedDate": "2022-07-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CEA169281",
+			"receivedDate": "2022-12-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "GEN168708",
 			"receivedDate": "2022-10-17",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CPP158312",
-			"receivedDate": "2020-02-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -127,5 +133,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Gight Woods",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

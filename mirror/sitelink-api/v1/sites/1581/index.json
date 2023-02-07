@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1581",
 	"id": 1581,
-	"agreements": [
-		{
-			"area": 360,
-			"code": 8477,
-			"expiryDate": "2023-05-01",
-			"property": "McCormaig Isles",
-			"term": 4,
-			"type": "One Off Works"
-		}
-	],
 	"area": 736.78,
 	"casework": [
 		{
@@ -74,40 +64,34 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CDM146924",
-			"receivedDate": "2017-07-26",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "CPA141243",
+			"receivedDate": "2016-05-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC167678",
-			"receivedDate": "2022-07-12",
-			"response": "S.15 Advice with conditions",
+			"code": "CLC137383",
+			"receivedDate": "2015-07-06",
+			"response": "No objection",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC124799",
-			"receivedDate": "2013-07-11",
+			"code": "CLC138373",
+			"receivedDate": "2015-09-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC143667",
+			"receivedDate": "2016-10-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC142158",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC123624",
-			"receivedDate": "2013-05-28",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN149160",
-			"receivedDate": "2018-01-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC150810",
-			"receivedDate": "2018-05-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC149804",
@@ -116,10 +100,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC157492",
+			"receivedDate": "2019-11-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CGS149181",
 			"receivedDate": "2018-01-30",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC150810",
+			"receivedDate": "2018-05-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "GEN150329",
@@ -134,34 +130,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC138373",
-			"receivedDate": "2015-09-15",
+			"code": "GEN149160",
+			"receivedDate": "2018-01-30",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC137383",
-			"receivedDate": "2015-07-06",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC132105",
-			"receivedDate": "2014-07-14",
-			"response": "S.15 Advice with conditions",
-			"type": "Other"
-		},
-		{
-			"code": "ALC157492",
-			"receivedDate": "2019-11-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC142158",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CDM146924",
+			"receivedDate": "2017-07-26",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM148634",
@@ -176,16 +154,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA141243",
-			"receivedDate": "2016-05-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CLC132105",
+			"receivedDate": "2014-07-14",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
 		},
 		{
-			"code": "CLC143667",
-			"receivedDate": "2016-10-31",
+			"code": "ALC123624",
+			"receivedDate": "2013-05-28",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC124799",
+			"receivedDate": "2013-07-11",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC167678",
+			"receivedDate": "2022-07-12",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

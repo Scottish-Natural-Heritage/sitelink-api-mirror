@@ -1,22 +1,43 @@
 {
 	"url": "/sitelink-api/v1/sites/10419",
 	"id": 10419,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 8605,
-			"property": "Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Scotland) Order 2015",
-			"term": 0,
-			"type": "Fishing Order"
-		}
-	],
 	"area": 4100,
 	"casework": [
 		{
-			"code": "CLC157842",
-			"receivedDate": "2020-01-06",
+			"code": "CLC144543",
+			"receivedDate": "2017-01-25",
 			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CPA141243",
+			"receivedDate": "2016-05-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CEA139366",
+			"receivedDate": "2015-12-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC141240",
+			"receivedDate": "2016-05-10",
+			"response": "Advice only",
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC137383",
+			"receivedDate": "2015-07-06",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC143667",
+			"receivedDate": "2016-10-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "GEN149794",
@@ -31,52 +52,22 @@
 			"type": "General Advice"
 		},
 		{
+			"code": "CLC157842",
+			"receivedDate": "2020-01-06",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
 			"code": "CLC151412",
 			"receivedDate": "2018-07-09",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CEA139366",
-			"receivedDate": "2015-12-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC137383",
-			"receivedDate": "2015-07-06",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "ALC145327",
 			"receivedDate": "2017-03-29",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC141240",
-			"receivedDate": "2016-05-10",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC144543",
-			"receivedDate": "2017-01-25",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CPA141243",
-			"receivedDate": "2016-05-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC143667",
-			"receivedDate": "2016-10-31",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

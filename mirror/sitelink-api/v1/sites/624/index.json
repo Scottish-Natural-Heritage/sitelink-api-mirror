@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/624",
 	"id": 624,
-	"agreements": [
-		{
-			"area": 57.38,
-			"code": 4231,
-			"property": "Falls of Clyde and Nethan Gorge",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		}
-	],
 	"area": 18.07,
 	"casework": [
 		{
@@ -79,22 +70,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CLC136353",
-			"receivedDate": "2015-04-23",
-			"response": "Advice only",
+			"code": "CLC156255",
+			"receivedDate": "2019-07-18",
+			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC163167",
-			"receivedDate": "2021-05-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA123848",
-			"receivedDate": "2013-06-03",
+			"code": "CDM145425",
+			"receivedDate": "2017-04-07",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "GEN132506",
@@ -109,16 +94,22 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CLC156255",
-			"receivedDate": "2019-07-18",
-			"response": "S.15 Advice only",
+			"code": "CLC136353",
+			"receivedDate": "2015-04-23",
+			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CDM145425",
-			"receivedDate": "2017-04-07",
+			"code": "CEA123848",
+			"receivedDate": "2013-06-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "ALC163167",
+			"receivedDate": "2021-05-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

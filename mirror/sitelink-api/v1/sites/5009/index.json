@@ -3,70 +3,12 @@
 	"id": 5009,
 	"agreements": [
 		{
-			"area": 69.34,
-			"code": 360,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 37.94,
-			"code": 2280,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1.56,
-			"code": 2282,
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 109,
-			"code": 841931,
-			"expiryDate": "2022-12-31",
-			"property": "Blawhorn Moss",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
 			"area": 0.05,
 			"code": 7742,
 			"expiryDate": "2029-11-18",
 			"property": "Car park/access - Blawhorn Moss",
 			"term": 10,
 			"type": "Land Lease"
-		},
-		{
-			"area": 19.25,
-			"code": 8759,
-			"expiryDate": "2029-12-31",
-			"property": "Drumbeg Conservation Area",
-			"term": 10,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 0,
-			"code": 7440,
-			"property": "Servitude granted in disposition case 2280 - Blawhorn Moss",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
-		},
-		{
-			"area": 0,
-			"code": 7446,
-			"property": "Servitude granted in disposition case 2282 - Blawhorn Moss",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
-		},
-		{
-			"area": 0,
-			"code": 7394,
-			"property": "Servitude granted in disposition case 360 - Blawhorn Moss",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
 		}
 	],
 	"area": 108.48,
@@ -84,18 +26,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CEA135716",
-			"receivedDate": "2015-03-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS167301",
-			"receivedDate": "2022-06-08",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
 			"code": "CEA131545",
 			"receivedDate": "2014-06-19",
 			"response": "Advice only",
@@ -106,6 +36,18 @@
 			"receivedDate": "2014-01-13",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA135716",
+			"receivedDate": "2015-03-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS167301",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "Forestry for people"
 		}
 	],
 	"designation": {

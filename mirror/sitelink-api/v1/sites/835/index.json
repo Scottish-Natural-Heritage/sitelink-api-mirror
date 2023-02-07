@@ -4,16 +4,10 @@
 	"area": 16.8,
 	"casework": [
 		{
-			"code": "CDM165335",
-			"receivedDate": "2021-12-06",
+			"code": "CEA160210",
+			"receivedDate": "2020-08-14",
 			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM159803",
-			"receivedDate": "2020-07-07",
-			"response": "Advice only",
-			"type": "Post Application"
+			"type": "EIA"
 		},
 		{
 			"code": "CGS140339",
@@ -28,10 +22,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CEA160210",
-			"receivedDate": "2020-08-14",
+			"code": "CDM165335",
+			"receivedDate": "2021-12-06",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM159803",
+			"receivedDate": "2020-07-07",
+			"response": "Advice only",
+			"type": "Post Application"
 		}
 	],
 	"designation": {

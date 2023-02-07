@@ -14,28 +14,10 @@
 	"area": 32.5,
 	"casework": [
 		{
-			"code": "CLC129825",
-			"receivedDate": "2014-03-18",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "CDM112551",
 			"receivedDate": "2012-03-07",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN150948",
-			"receivedDate": "2018-06-07",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC138351",
-			"receivedDate": "2015-09-02",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "ALC138218",
@@ -44,8 +26,26 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CLC138351",
+			"receivedDate": "2015-09-02",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN150948",
+			"receivedDate": "2018-06-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CLC156161",
 			"receivedDate": "2019-07-11",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC129825",
+			"receivedDate": "2014-03-18",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		}

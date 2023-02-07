@@ -16,18 +16,6 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CDM145590",
-			"receivedDate": "2017-04-20",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP129386",
-			"receivedDate": "2014-02-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "GEN150125",
 			"receivedDate": "2018-04-06",
 			"response": "Advice only",
@@ -40,16 +28,22 @@
 			"type": "Other"
 		},
 		{
+			"code": "CDM145590",
+			"receivedDate": "2017-04-20",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148295",
+			"receivedDate": "2017-11-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPP127063",
 			"receivedDate": "2013-10-17",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA125329",
-			"receivedDate": "2013-08-01",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "ALC131639",
@@ -58,10 +52,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM148295",
-			"receivedDate": "2017-11-14",
+			"code": "CEA125329",
+			"receivedDate": "2013-08-01",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "CPP129386",
+			"receivedDate": "2014-02-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

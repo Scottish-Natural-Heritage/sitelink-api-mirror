@@ -50,10 +50,64 @@
 			"type": "Water"
 		},
 		{
+			"code": "ALC161358",
+			"receivedDate": "2020-12-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC154443",
+			"receivedDate": "2019-02-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN157298",
+			"receivedDate": "2019-11-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CDM151722",
+			"receivedDate": "2018-07-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC151146",
+			"receivedDate": "2018-06-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM149640",
+			"receivedDate": "2018-03-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC146926",
+			"receivedDate": "2017-07-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN149101",
+			"receivedDate": "2017-12-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "GEN147579",
 			"receivedDate": "2017-09-15",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "ALC134017",
+			"receivedDate": "2014-11-10",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC129687",
@@ -74,30 +128,6 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC151146",
-			"receivedDate": "2018-06-13",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM149640",
-			"receivedDate": "2018-03-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM151722",
-			"receivedDate": "2018-07-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM162617",
-			"receivedDate": "2021-03-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM166885",
 			"receivedDate": "2022-05-05",
 			"response": "Advice only",
@@ -116,40 +146,10 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC134017",
-			"receivedDate": "2014-11-10",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC161358",
-			"receivedDate": "2020-12-01",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC154443",
-			"receivedDate": "2019-02-25",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN157298",
-			"receivedDate": "2019-11-01",
+			"code": "CDM162617",
+			"receivedDate": "2021-03-30",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC146926",
-			"receivedDate": "2017-07-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN149101",
-			"receivedDate": "2017-12-20",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -338,5 +338,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Morrone Birkwood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

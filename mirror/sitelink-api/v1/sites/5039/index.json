@@ -3,63 +3,37 @@
 	"id": 5039,
 	"agreements": [
 		{
-			"area": 56.6,
-			"code": 543,
-			"property": "Isle of May",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 57.77,
-			"code": 544,
-			"property": "Isle of May - Fishing Rights",
-			"term": 0,
-			"type": "Rights Acquisition"
-		},
-		{
-			"area": 0.01,
-			"code": 5010,
-			"expiryDate": "2034-11-27",
-			"property": "Isle of May - The Low Light",
-			"term": 25,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
-			"area": 0.14,
-			"code": 1596,
-			"expiryDate": "2025-03-30",
-			"property": "Isle of May Priory (St Ethernan's Priory)",
-			"term": 25,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
 			"area": 0.13,
 			"code": 486,
 			"expiryDate": "2088-03-31",
 			"property": "Parts of the Isle of May",
 			"term": 131,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 0,
-			"code": 7852,
-			"property": "Servitude granted in disposition case 543 - Isle of May",
-			"term": 0,
-			"type": "Servitude (over NatureScot land granted in disposition)"
-		},
-		{
-			"area": 0.01,
-			"code": 5756,
-			"property": "Tractor Shed - Isle of May",
-			"term": 0,
-			"type": "Land Acquisition"
 		}
 	],
 	"area": 56.6,
 	"casework": [
 		{
+			"code": "COR137752",
+			"receivedDate": "2015-07-31",
+			"response": "Compliment accepted",
+			"type": "Compliments"
+		},
+		{
+			"code": "CLC139304",
+			"receivedDate": "2015-11-26",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CDM120401",
 			"receivedDate": "2013-01-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131985",
+			"receivedDate": "2014-07-09",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -74,24 +48,6 @@
 			"receivedDate": "2012-11-20",
 			"response": "Resolved",
 			"type": "Complaints"
-		},
-		{
-			"code": "CLC139304",
-			"receivedDate": "2015-11-26",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "COR137752",
-			"receivedDate": "2015-07-31",
-			"response": "Compliment accepted",
-			"type": "Compliments"
-		},
-		{
-			"code": "CDM131985",
-			"receivedDate": "2014-07-09",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

@@ -9,6 +9,14 @@
 			"property": "Conic Hill - Old Manse Farm",
 			"term": 5,
 			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 39.65,
+			"code": 842530,
+			"expiryDate": "2027-03-31",
+			"property": "Conic Hill SSSI",
+			"term": 4,
+			"type": "SSSI Agreement (S.15)"
 		}
 	],
 	"area": 60.66,
@@ -44,48 +52,6 @@
 			"type": "Other"
 		},
 		{
-			"code": "CEA169017",
-			"receivedDate": "2022-10-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM169064",
-			"receivedDate": "2021-11-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC117723",
-			"receivedDate": "2012-09-17",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC121454",
-			"receivedDate": "2013-02-27",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC124770",
-			"receivedDate": "2013-07-11",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC145602",
-			"receivedDate": "2017-04-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC123669",
-			"receivedDate": "2013-05-14",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CPA158182",
 			"receivedDate": "2020-01-31",
 			"response": "Advice only",
@@ -98,8 +64,56 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC145602",
+			"receivedDate": "2017-04-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM145820",
 			"receivedDate": "2017-05-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC123669",
+			"receivedDate": "2013-05-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC117723",
+			"receivedDate": "2012-09-17",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC124770",
+			"receivedDate": "2013-07-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC121454",
+			"receivedDate": "2013-02-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC169340",
+			"receivedDate": "2022-12-14",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CEA169017",
+			"receivedDate": "2022-10-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM169064",
+			"receivedDate": "2021-11-10",
 			"response": "Advice only",
 			"type": "Planning Application"
 		}

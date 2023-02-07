@@ -16,18 +16,6 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "CGS117437",
-			"receivedDate": "2012-09-05",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS113220",
-			"receivedDate": "2012-04-05",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "CPA140080",
 			"receivedDate": "2016-02-09",
 			"response": "Advice only",
@@ -38,6 +26,18 @@
 			"receivedDate": "2014-05-27",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CGS113220",
+			"receivedDate": "2012-04-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS117437",
+			"receivedDate": "2012-09-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {
@@ -103,5 +103,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Loch of Park",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

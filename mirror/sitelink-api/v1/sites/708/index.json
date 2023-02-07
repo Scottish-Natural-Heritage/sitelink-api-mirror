@@ -40,8 +40,8 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "CGS133510",
-			"receivedDate": "2014-09-12",
+			"code": "CGS151777",
+			"receivedDate": "2018-08-02",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -52,8 +52,8 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS151777",
-			"receivedDate": "2018-08-02",
+			"code": "CGS133510",
+			"receivedDate": "2014-09-12",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -62,12 +62,6 @@
 			"receivedDate": "2021-06-16",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "ALC163945",
-			"receivedDate": "2021-07-27",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC162577",
@@ -79,6 +73,12 @@
 			"code": "ALC162579",
 			"receivedDate": "2021-03-25",
 			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC163945",
+			"receivedDate": "2021-07-27",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
@@ -175,5 +175,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Glen Fender Meadows",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

@@ -4,12 +4,6 @@
 	"area": 25.51,
 	"casework": [
 		{
-			"code": "COR118519",
-			"receivedDate": "2012-10-29",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "CDM150912",
 			"receivedDate": "2018-06-05",
 			"response": "Advice only",
@@ -20,6 +14,12 @@
 			"receivedDate": "2014-05-02",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR118519",
+			"receivedDate": "2012-10-29",
+			"response": "Information only",
+			"type": "General Enquiries"
 		}
 	],
 	"designation": {
@@ -94,5 +94,5 @@
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

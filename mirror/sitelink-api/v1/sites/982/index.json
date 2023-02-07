@@ -106,34 +106,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CEA135176",
-			"receivedDate": "2015-02-06",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA130711",
-			"receivedDate": "2014-05-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS156123",
-			"receivedDate": "2019-07-05",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "SIR115034",
 			"receivedDate": "2012-06-19",
 			"response": "Full Release",
 			"type": "Freedom of Information request"
-		},
-		{
-			"code": "GEN116302",
-			"receivedDate": "2012-08-01",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CDM115581",
@@ -142,64 +118,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CGS167368",
-			"receivedDate": "2022-06-15",
+			"code": "GEN116302",
+			"receivedDate": "2012-08-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS156123",
+			"receivedDate": "2019-07-05",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN113328",
-			"receivedDate": "2012-03-29",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN118573",
-			"receivedDate": "2012-10-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM119346",
-			"receivedDate": "2012-11-29",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA125220",
-			"receivedDate": "2013-07-29",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC119935",
-			"receivedDate": "2012-12-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM120292",
-			"receivedDate": "2013-01-16",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM114141",
-			"receivedDate": "2012-05-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM113463",
-			"receivedDate": "2012-04-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM113315",
-			"receivedDate": "2012-04-12",
-			"response": "Outright objection",
-			"type": "Planning Application"
 		},
 		{
 			"code": "ALC147524",
@@ -208,10 +136,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN165880",
-			"receivedDate": "2022-02-03",
+			"code": "CEA130646",
+			"receivedDate": "2014-05-02",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
+		},
+		{
+			"code": "CDM119346",
+			"receivedDate": "2012-11-29",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM135064",
@@ -226,10 +160,76 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA130646",
-			"receivedDate": "2014-05-02",
+			"code": "CEA130711",
+			"receivedDate": "2014-05-07",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CEA135176",
+			"receivedDate": "2015-02-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM113315",
+			"receivedDate": "2012-04-12",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA125220",
+			"receivedDate": "2013-07-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "GEN113328",
+			"receivedDate": "2012-03-29",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN118573",
+			"receivedDate": "2012-10-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC119935",
+			"receivedDate": "2012-12-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM114141",
+			"receivedDate": "2012-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM120292",
+			"receivedDate": "2013-01-16",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM113463",
+			"receivedDate": "2012-04-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS167368",
+			"receivedDate": "2022-06-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN165880",
+			"receivedDate": "2022-02-03",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

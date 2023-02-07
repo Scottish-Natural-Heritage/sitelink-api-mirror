@@ -1,37 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1522",
 	"id": 1522,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 8370,
-			"property": "Access to Taynish Jetty or Bath House",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		},
-		{
-			"area": 2.4,
-			"code": 2203,
-			"property": "Old Mill, Taynish",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.03,
-			"code": 8369,
-			"expiryDate": "2099-03-30",
-			"property": "Taynish Mill - Boat launch and storage ground",
-			"term": 99,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
-			"area": 361,
-			"code": 12,
-			"property": "Taynish Woods",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 392.41,
 	"casework": [
 		{
@@ -53,15 +22,21 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "ALC148815",
-			"receivedDate": "2018-01-08",
-			"response": "SSSI Consent Given",
+			"code": "CLC137526",
+			"receivedDate": "2015-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC161863",
+			"receivedDate": "2021-01-22",
+			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC147854",
-			"receivedDate": "2017-10-09",
-			"response": "Licence/Consent not required",
+			"code": "ALC161082",
+			"receivedDate": "2020-11-03",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -77,16 +52,70 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC161082",
-			"receivedDate": "2020-11-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN151363",
+			"receivedDate": "2018-07-04",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "ALC156458",
 			"receivedDate": "2019-08-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147854",
+			"receivedDate": "2017-10-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN148617",
+			"receivedDate": "2017-12-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC148058",
+			"receivedDate": "2017-10-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM147389",
+			"receivedDate": "2017-09-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC148815",
+			"receivedDate": "2018-01-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC130964",
+			"receivedDate": "2014-05-06",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "ALC130678",
+			"receivedDate": "2014-05-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CPP128686",
+			"receivedDate": "2014-01-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM125422",
+			"receivedDate": "2013-08-06",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "ALC166711",
@@ -98,6 +127,12 @@
 			"code": "ALC162589",
 			"receivedDate": "2021-03-17",
 			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169366",
+			"receivedDate": "2022-12-05",
+			"response": "Licence Granted",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -113,16 +148,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM147389",
-			"receivedDate": "2017-09-05",
+			"code": "CLC164682",
+			"receivedDate": "2021-10-05",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN151363",
-			"receivedDate": "2018-07-04",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "GEN164269",
@@ -131,62 +160,8 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CLC164682",
-			"receivedDate": "2021-10-05",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "ALC164936",
 			"receivedDate": "2021-10-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC137526",
-			"receivedDate": "2015-07-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP128686",
-			"receivedDate": "2014-01-21",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC130964",
-			"receivedDate": "2014-05-06",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM125422",
-			"receivedDate": "2013-08-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC130678",
-			"receivedDate": "2014-05-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC161863",
-			"receivedDate": "2021-01-22",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN148617",
-			"receivedDate": "2017-12-12",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC148058",
-			"receivedDate": "2017-10-25",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}

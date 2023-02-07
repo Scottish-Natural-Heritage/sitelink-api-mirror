@@ -1,23 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/8450",
 	"id": 8450,
-	"agreements": [
-		{
-			"area": 1499,
-			"code": 480,
-			"property": "Rannoch Moor",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1513,
-			"code": 3915,
-			"expiryDate": "2025-08-11",
-			"property": "Rannoch Moor Sporting Lease",
-			"term": 11,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		}
-	],
 	"area": 1519.59,
 	"casework": [
 		{
@@ -45,6 +28,30 @@
 			"type": "Railways"
 		},
 		{
+			"code": "COR162127",
+			"receivedDate": "2021-02-16",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CLC161854",
+			"receivedDate": "2021-01-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155718",
+			"receivedDate": "2019-06-05",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA142780",
+			"receivedDate": "2016-09-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP146247",
 			"receivedDate": "2017-06-06",
 			"response": "Advice only",
@@ -55,30 +62,6 @@
 			"receivedDate": "2013-03-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR162127",
-			"receivedDate": "2021-02-16",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC155718",
-			"receivedDate": "2019-06-05",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC161854",
-			"receivedDate": "2021-01-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA142780",
-			"receivedDate": "2016-09-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

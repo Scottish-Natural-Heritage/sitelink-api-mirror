@@ -1,37 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/358",
 	"id": 358,
-	"agreements": [
-		{
-			"area": 563.3,
-			"code": 404,
-			"property": "Claish Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 5009,
-			"property": "Claish Moss",
-			"term": 0,
-			"type": "Servitude"
-		},
-		{
-			"area": 569.71,
-			"code": 8349,
-			"expiryDate": "2023-03-31",
-			"property": "Claish Moss NR",
-			"term": 4,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 0.25,
-			"code": 5034,
-			"property": "Exchange of ground at Claish Moss - Resipole Farm",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 568.29,
 	"casework": [
 		{
@@ -41,8 +10,8 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "ALC152455",
-			"receivedDate": "2018-09-20",
+			"code": "ALC140697",
+			"receivedDate": "2016-03-22",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -51,6 +20,12 @@
 			"receivedDate": "2018-10-17",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "ALC152455",
+			"receivedDate": "2018-09-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "GEN164610",
@@ -62,12 +37,6 @@
 			"code": "ALC165026",
 			"receivedDate": "2021-11-09",
 			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC140697",
-			"receivedDate": "2016-03-22",
-			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],

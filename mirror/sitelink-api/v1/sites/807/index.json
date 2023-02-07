@@ -34,6 +34,36 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "CGS140678",
+			"receivedDate": "2016-03-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "ALC151223",
+			"receivedDate": "2018-06-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC151893",
+			"receivedDate": "2018-08-14",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "ALC145357",
+			"receivedDate": "2017-03-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "COR130858",
+			"receivedDate": "2014-05-14",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "ALC129665",
 			"receivedDate": "2014-03-04",
 			"response": "SSSI Consent Given",
@@ -70,40 +100,10 @@
 			"type": "Application related advice"
 		},
 		{
-			"code": "CLC151893",
-			"receivedDate": "2018-08-14",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC151223",
-			"receivedDate": "2018-06-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CPA164229",
 			"receivedDate": "2021-08-24",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS140678",
-			"receivedDate": "2016-03-16",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "COR130858",
-			"receivedDate": "2014-05-14",
-			"response": "Resolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC145357",
-			"receivedDate": "2017-03-27",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {
@@ -227,5 +227,5 @@
 	],
 	"localAuthority": "Moray",
 	"name": "Inchrory",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

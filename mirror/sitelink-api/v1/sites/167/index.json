@@ -1,59 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/167",
 	"id": 167,
-	"agreements": [
-		{
-			"area": 4229.1,
-			"code": 363,
-			"property": "Beinn Eighe",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 8275,
-			"expiryDate": "2088-02-08",
-			"property": "Beinn Eighe - Loch Maree fishing rights",
-			"term": 99,
-			"type": "Sporting Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 0.02,
-			"code": 4291,
-			"expiryDate": "2063-07-26",
-			"property": "Beinn Eighe - Water Tank at Cromasaig",
-			"term": 99,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
-			"area": 10.7,
-			"code": 692,
-			"property": "Beinn Eighe Excambion",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 6645,
-			"property": "Wayleave - Beinn Eighe - 11kv extension to Torridonwith HV spurs and LV networks",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		},
-		{
-			"area": 0,
-			"code": 6646,
-			"property": "Wayleave - Beinn Eighe - 33kv line deviation for road works, Loch Maree",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		},
-		{
-			"area": 0,
-			"code": 6644,
-			"property": "Wayleave - Beinn Eighe - Grudie Bridge to Kyle of Lochalsh line, 33kv spur to Kerry Falls",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		}
-	],
 	"area": 4818.39,
 	"casework": [
 		{
@@ -105,16 +52,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "ALC145473",
-			"receivedDate": "2017-04-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA129389",
-			"receivedDate": "2014-02-24",
+			"code": "GEN117123",
+			"receivedDate": "2012-08-16",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		},
 		{
 			"code": "CLC159335",
@@ -123,38 +64,20 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN117123",
-			"receivedDate": "2012-08-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CPP112341",
 			"receivedDate": "2012-02-21",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "COR166223",
-			"receivedDate": "2022-02-23",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CDM144695",
+			"receivedDate": "2017-02-09",
+			"response": "No Comment",
+			"type": "Other Infrastructure"
 		},
 		{
-			"code": "GEN113304",
-			"receivedDate": "2012-04-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC119922",
-			"receivedDate": "2012-12-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC120353",
-			"receivedDate": "2013-01-11",
+			"code": "ALC141860",
+			"receivedDate": "2016-07-06",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -165,16 +88,16 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CLC159767",
-			"receivedDate": "2020-07-03",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "ALC145473",
+			"receivedDate": "2017-04-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS138714",
-			"receivedDate": "2015-10-15",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC127167",
+			"receivedDate": "2013-10-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC127135",
@@ -195,22 +118,52 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC127167",
-			"receivedDate": "2013-10-25",
+			"code": "CEA129389",
+			"receivedDate": "2014-02-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS138714",
+			"receivedDate": "2015-10-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "GEN113304",
+			"receivedDate": "2012-04-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC119922",
+			"receivedDate": "2012-12-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC141860",
-			"receivedDate": "2016-07-06",
+			"code": "ALC120353",
+			"receivedDate": "2013-01-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM144695",
-			"receivedDate": "2017-02-09",
-			"response": "No Comment",
-			"type": "Other Infrastructure"
+			"code": "COR166223",
+			"receivedDate": "2022-02-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "ALC169247",
+			"receivedDate": "2022-12-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC159767",
+			"receivedDate": "2020-07-03",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

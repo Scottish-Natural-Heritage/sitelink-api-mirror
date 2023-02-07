@@ -1,30 +1,19 @@
 {
 	"url": "/sitelink-api/v1/sites/8255",
 	"id": 8255,
-	"agreements": [
-		{
-			"area": 54.09,
-			"code": 8048,
-			"expiryDate": "2022-05-31",
-			"property": "Sanaigmore",
-			"scheme": "Islay Goose Management Scheme 2017 - 2023",
-			"term": 3,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 375.8,
 	"casework": [
-		{
-			"code": "CDM165554",
-			"receivedDate": "2022-01-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
 		{
 			"code": "PAC159790",
 			"receivedDate": "2020-07-06",
 			"response": "Advice only",
 			"type": "Pre Grant Application Enquiry"
+		},
+		{
+			"code": "CDM165554",
+			"receivedDate": "2022-01-07",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

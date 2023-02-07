@@ -3,49 +3,6 @@
 	"id": 5016,
 	"agreements": [
 		{
-			"area": 10.3,
-			"code": 159,
-			"property": "Cartland Craigs",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 209.05,
-			"code": 4230,
-			"property": "Chatelherault and Mauldslie Woods",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		},
-		{
-			"area": 17,
-			"code": 24,
-			"property": "Cleghorn Glen",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.1,
-			"code": 4522,
-			"property": "Cleghorn Glen - Woodend",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 57.38,
-			"code": 4231,
-			"property": "Falls of Clyde and Nethan Gorge",
-			"term": 0,
-			"type": "Approved Body Agreement (S.35)"
-		},
-		{
-			"area": 5,
-			"code": 4265,
-			"expiryDate": "2023-03-31",
-			"property": "Hyndford Bowmen",
-			"term": 35,
-			"type": "Lease (NatureScot Landlord)"
-		},
-		{
 			"area": 0.2,
 			"code": 3179,
 			"expiryDate": "2102-12-16",
@@ -53,20 +10,6 @@
 			"scheme": "Clyde Valley Woodlands Management Scheme",
 			"term": 99,
 			"type": "SSSI Agreement (S.15)"
-		},
-		{
-			"area": 16.78,
-			"code": 82,
-			"property": "Jock's Gill Wood",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0,
-			"code": 7449,
-			"property": "Servitude granted in disposition case 159 - Cartland Craigs",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
 		},
 		{
 			"area": 24,
@@ -92,22 +35,16 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CLC146337",
-			"receivedDate": "2017-06-19",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "COR154436",
+			"receivedDate": "2019-02-11",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
-			"code": "GEN135931",
-			"receivedDate": "2015-03-23",
+			"code": "CDM139742",
+			"receivedDate": "2015-08-10",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS121500",
-			"receivedDate": "2013-02-28",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM150635",
@@ -122,16 +59,10 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CDM139742",
-			"receivedDate": "2015-08-10",
+			"code": "CLC146337",
+			"receivedDate": "2017-06-19",
 			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPP138660",
-			"receivedDate": "2015-10-14",
-			"response": "Advice only",
-			"type": "Other"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC132552",
@@ -146,10 +77,22 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "COR154436",
-			"receivedDate": "2019-02-11",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CPP138660",
+			"receivedDate": "2015-10-14",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN135931",
+			"receivedDate": "2015-03-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CGS121500",
+			"receivedDate": "2013-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {

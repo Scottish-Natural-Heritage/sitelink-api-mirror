@@ -3,56 +3,12 @@
 	"id": 5063,
 	"agreements": [
 		{
-			"area": 8.7,
-			"code": 841933,
-			"expiryDate": "2022-10-31",
-			"property": "Grazing land at St Cyrus",
-			"term": 0,
-			"type": "Grazing Lease (NatureScot Landlord or Lessor)"
-		},
-		{
-			"area": 2.76,
-			"code": 8766,
-			"property": "Ground at Woodston Salmon Fishing Bothies - St Cyrus ",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 0.25,
-			"code": 6725,
-			"expiryDate": "2025-03-12",
-			"property": "Kirkside Bothy",
-			"term": 10,
-			"type": "Wider Countryside Agreement (S.49)"
-		},
-		{
-			"area": 0.25,
-			"code": 8722,
-			"property": "Land adjacent to St Cyrus NNR - car park extension",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 1.15,
-			"code": 4180,
-			"property": "Land at St Cyrus Visitor Centre",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 2.15,
 			"code": 8083,
 			"expiryDate": "2023-03-31",
 			"property": "Old Inverbervie Railway Line",
 			"term": 5,
 			"type": "SSSI Agreement (S.15)"
-		},
-		{
-			"area": 0,
-			"code": 8769,
-			"property": "Servitude granted in disposition case 8766 - St Cyrus",
-			"term": 0,
-			"type": "Servitude (to NatureScot land granted in disposition)"
 		},
 		{
 			"area": 0.24,
@@ -69,20 +25,6 @@
 			"property": "St Cyrus and Kinnaber Links",
 			"term": 25,
 			"type": "Nature Reserve Agreement (S.16)"
-		},
-		{
-			"area": 28.2,
-			"code": 2424,
-			"property": "Waterside",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 15.28,
-			"code": 1979,
-			"property": "Woodston",
-			"term": 0,
-			"type": "Land Acquisition"
 		}
 	],
 	"area": 92,
@@ -118,48 +60,6 @@
 			"type": "Marine Dredging"
 		},
 		{
-			"code": "CDM153798",
-			"receivedDate": "2019-01-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA125257",
-			"receivedDate": "2013-07-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "COR150768",
-			"receivedDate": "2018-05-20",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC165700",
-			"receivedDate": "2022-01-20",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC165799",
-			"receivedDate": "2022-01-28",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "GEN126461",
-			"receivedDate": "2013-09-23",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC130790",
-			"receivedDate": "2014-05-02",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
 			"code": "CPP162445",
 			"receivedDate": "2021-03-16",
 			"response": "Advice only",
@@ -176,6 +76,48 @@
 			"receivedDate": "2016-07-13",
 			"response": "Information only",
 			"type": "Complaints"
+		},
+		{
+			"code": "CDM153798",
+			"receivedDate": "2019-01-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "COR150768",
+			"receivedDate": "2018-05-20",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CLC130790",
+			"receivedDate": "2014-05-02",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "GEN126461",
+			"receivedDate": "2013-09-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPA125257",
+			"receivedDate": "2013-07-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC165700",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165799",
+			"receivedDate": "2022-01-28",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		}
 	],
 	"designation": {
@@ -195,5 +137,5 @@
 	"euCode": "11062",
 	"localAuthority": "Aberdeenshire",
 	"name": "St Cyrus",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

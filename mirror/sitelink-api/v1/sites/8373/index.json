@@ -3,26 +3,12 @@
 	"id": 8373,
 	"agreements": [
 		{
-			"area": 28.28,
-			"code": 3894,
-			"property": "Areas of land at Slains Estate - Forvie",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
 			"area": 273,
 			"code": 138,
 			"expiryDate": "2023-03-31",
 			"property": "Forvie and Foveran Links",
 			"term": 25,
 			"type": "Land Lease"
-		},
-		{
-			"area": 653.93,
-			"code": 2821,
-			"property": "Slains - Forvie",
-			"term": 0,
-			"type": "Land Acquisition"
 		}
 	],
 	"area": 735.48,
@@ -52,8 +38,32 @@
 			"type": "Trunk Roads"
 		},
 		{
+			"code": "CDM157085",
+			"receivedDate": "2019-10-10",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM150255",
+			"receivedDate": "2018-04-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS147770",
+			"receivedDate": "2017-10-03",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CLC148026",
 			"receivedDate": "2017-10-23",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC145829",
+			"receivedDate": "2017-05-10",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
@@ -64,52 +74,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CGS147770",
-			"receivedDate": "2017-10-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM133811",
-			"receivedDate": "2014-10-24",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "ALC135359",
-			"receivedDate": "2015-01-29",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS166288",
-			"receivedDate": "2022-03-09",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP118726",
-			"receivedDate": "2012-10-12",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
-			"code": "CGS113515",
-			"receivedDate": "2012-04-19",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM150255",
-			"receivedDate": "2018-04-10",
+			"code": "CDM126343",
+			"receivedDate": "2013-09-13",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CPP165553",
-			"receivedDate": "2022-01-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "CDM122135",
@@ -118,22 +86,40 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM126343",
-			"receivedDate": "2013-09-13",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC135359",
+			"receivedDate": "2015-01-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM157085",
-			"receivedDate": "2019-10-10",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "CDM133811",
+			"receivedDate": "2014-10-24",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
-			"code": "CLC145829",
-			"receivedDate": "2017-05-10",
+			"code": "CGS113515",
+			"receivedDate": "2012-04-19",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP118726",
+			"receivedDate": "2012-10-12",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CGS166288",
+			"receivedDate": "2022-03-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP165553",
+			"receivedDate": "2022-01-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -220,5 +206,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Sands of Forvie",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

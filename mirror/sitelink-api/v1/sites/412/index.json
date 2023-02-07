@@ -4,42 +4,6 @@
 	"area": 15.5,
 	"casework": [
 		{
-			"code": "GEN122973",
-			"receivedDate": "2013-04-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM122688",
-			"receivedDate": "2013-04-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP118520",
-			"receivedDate": "2012-10-29",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CEA166507",
-			"receivedDate": "2022-03-30",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM140618",
-			"receivedDate": "2016-03-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA130802",
-			"receivedDate": "2014-05-13",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CEA155914",
 			"receivedDate": "2019-06-19",
 			"response": "Advice only",
@@ -52,10 +16,46 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM140618",
+			"receivedDate": "2016-03-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM140718",
 			"receivedDate": "2016-03-30",
 			"response": "No Comment",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA130802",
+			"receivedDate": "2014-05-13",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CDM122688",
+			"receivedDate": "2013-04-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "GEN122973",
+			"receivedDate": "2013-04-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "CPP118520",
+			"receivedDate": "2012-10-29",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CEA166507",
+			"receivedDate": "2022-03-30",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {
@@ -122,5 +122,5 @@
 	],
 	"localAuthority": "Aberdeen City",
 	"name": "Cove",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

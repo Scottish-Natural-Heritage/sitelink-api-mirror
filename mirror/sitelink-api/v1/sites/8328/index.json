@@ -50,16 +50,28 @@
 			"type": "Water"
 		},
 		{
-			"code": "GEN147579",
-			"receivedDate": "2017-09-15",
+			"code": "ALC161358",
+			"receivedDate": "2020-12-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC143514",
+			"receivedDate": "2016-11-01",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN157298",
+			"receivedDate": "2019-11-01",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "CLC129687",
-			"receivedDate": "2014-03-10",
+			"code": "CDM150584",
+			"receivedDate": "2018-05-11",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM151722",
@@ -74,10 +86,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM150584",
-			"receivedDate": "2018-05-11",
+			"code": "ALC146926",
+			"receivedDate": "2017-07-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN147579",
+			"receivedDate": "2017-09-15",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
+		},
+		{
+			"code": "ALC134017",
+			"receivedDate": "2014-11-10",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CLC129687",
+			"receivedDate": "2014-03-10",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CDM166885",
@@ -90,36 +120,6 @@
 			"receivedDate": "2022-03-02",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "ALC134017",
-			"receivedDate": "2014-11-10",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC161358",
-			"receivedDate": "2020-12-01",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN157298",
-			"receivedDate": "2019-11-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC146926",
-			"receivedDate": "2017-07-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC143514",
-			"receivedDate": "2016-11-01",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {
@@ -257,5 +257,5 @@
 	],
 	"localAuthority": "Aberdeenshire",
 	"name": "Morrone Birkwood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

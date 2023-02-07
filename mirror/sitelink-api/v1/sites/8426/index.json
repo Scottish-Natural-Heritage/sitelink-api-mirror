@@ -4,24 +4,6 @@
 	"area": 186.58,
 	"casework": [
 		{
-			"code": "CPA147247",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM129316",
-			"receivedDate": "2014-02-20",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM168774",
-			"receivedDate": "2022-10-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CGS139083",
 			"receivedDate": "2015-11-08",
 			"response": "Advice only",
@@ -32,6 +14,18 @@
 			"receivedDate": "2015-06-10",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CPA159596",
+			"receivedDate": "2020-06-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA147247",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CDM126254",
@@ -46,10 +40,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA159596",
-			"receivedDate": "2020-06-17",
+			"code": "CDM129316",
+			"receivedDate": "2014-02-20",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168774",
+			"receivedDate": "2022-10-24",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

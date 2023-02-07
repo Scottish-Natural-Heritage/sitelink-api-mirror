@@ -10,24 +10,6 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "CDM120130",
-			"receivedDate": "2013-01-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA149914",
-			"receivedDate": "2018-03-23",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CPP165201",
-			"receivedDate": "2021-11-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "GEN154995",
 			"receivedDate": "2019-04-03",
 			"response": "Advice only",
@@ -40,16 +22,34 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA157586",
 			"receivedDate": "2019-11-27",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA144483",
-			"receivedDate": "2017-01-24",
+			"code": "CPA149914",
+			"receivedDate": "2018-03-23",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CDM120130",
+			"receivedDate": "2013-01-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPP165201",
+			"receivedDate": "2021-11-23",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {
@@ -107,5 +107,5 @@
 	],
 	"localAuthority": "Perth and Kinross",
 	"name": "Fungarth Juniper Wood",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

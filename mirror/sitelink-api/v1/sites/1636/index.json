@@ -3,14 +3,6 @@
 	"id": 1636,
 	"agreements": [
 		{
-			"area": 0.01,
-			"code": 8710,
-			"expiryDate": "2024-12-31",
-			"property": "Nether Whitlaw",
-			"term": 5,
-			"type": "Building Lease"
-		},
-		{
 			"area": 3.51,
 			"code": 3505,
 			"expiryDate": "2028-10-07",
@@ -78,16 +70,10 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CGS159675",
-			"receivedDate": "2020-06-24",
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
 			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CDM131005",
-			"receivedDate": "2014-05-22",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"type": "General Advice"
 		},
 		{
 			"code": "ALC162482",
@@ -96,10 +82,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
+			"code": "CDM131005",
+			"receivedDate": "2014-05-22",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS159675",
+			"receivedDate": "2020-06-24",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Forestry for people"
 		}
 	],
 	"designation": {

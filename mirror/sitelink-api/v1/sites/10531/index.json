@@ -4,10 +4,10 @@
 	"area": 29324.6,
 	"casework": [
 		{
-			"code": "CLC151659",
-			"receivedDate": "2018-07-25",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "GEN153965",
+			"receivedDate": "2019-01-22",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "CGS151744",
@@ -28,16 +28,40 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CLC151659",
+			"receivedDate": "2018-07-25",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "CDM152802",
 			"receivedDate": "2018-10-15",
 			"response": "Holding objection",
 			"type": "Planning Application"
 		},
 		{
+			"code": "CGS148215",
+			"receivedDate": "2017-11-06",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CLC153504",
 			"receivedDate": "2018-12-04",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CGS148254",
+			"receivedDate": "2017-11-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CDM158630",
+			"receivedDate": "2020-03-05",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CGS164219",
@@ -62,30 +86,6 @@
 			"receivedDate": "2022-02-24",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CDM158630",
-			"receivedDate": "2020-03-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN153965",
-			"receivedDate": "2019-01-22",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS148254",
-			"receivedDate": "2017-11-09",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS148215",
-			"receivedDate": "2017-11-06",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {
@@ -110,5 +110,5 @@
 		"Moray",
 		"Perth and Kinross"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

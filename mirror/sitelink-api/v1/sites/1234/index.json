@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1234",
 	"id": 1234,
-	"agreements": [
-		{
-			"area": 0,
-			"code": 6637,
-			"property": "Protection of Seals (Designation of Haul-Out Sites) (Scotland) Order 2014",
-			"term": 0,
-			"type": "Seal Haul-out Sites Designation Order"
-		}
-	],
 	"area": 1637.04,
 	"casework": [
 		{
@@ -127,30 +118,6 @@
 			"type": "Fish Farms - Aquaculture Seabed Lease"
 		},
 		{
-			"code": "CEA135471",
-			"receivedDate": "2015-02-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA135119",
-			"receivedDate": "2015-02-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC159727",
-			"receivedDate": "2020-06-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM157899",
-			"receivedDate": "2020-01-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CLC116574",
 			"receivedDate": "2012-08-02",
 			"response": "Advice only",
@@ -161,66 +128,6 @@
 			"receivedDate": "2012-08-15",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM169085",
-			"receivedDate": "2022-11-14",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM117916",
-			"receivedDate": "2012-10-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM124970",
-			"receivedDate": "2013-07-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC123692",
-			"receivedDate": "2013-05-29",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CEA123275",
-			"receivedDate": "2013-05-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM114738",
-			"receivedDate": "2012-05-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA114102",
-			"receivedDate": "2012-05-14",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM137294",
-			"receivedDate": "2015-06-30",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC138988",
-			"receivedDate": "2015-11-05",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA135861",
-			"receivedDate": "2015-03-23",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "CDM136948",
@@ -235,22 +142,52 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC138134",
+			"receivedDate": "2015-09-02",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "CPA139731",
 			"receivedDate": "2016-01-14",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM137956",
-			"receivedDate": "2015-08-19",
+			"code": "CLC138988",
+			"receivedDate": "2015-11-05",
 			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC141362",
+			"receivedDate": "2016-05-19",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CEA141472",
+			"receivedDate": "2016-05-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM137294",
+			"receivedDate": "2015-06-30",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC138134",
-			"receivedDate": "2015-09-02",
+			"code": "CDM157345",
+			"receivedDate": "2019-11-07",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM157899",
+			"receivedDate": "2020-01-10",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC127318",
@@ -265,22 +202,82 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM157345",
-			"receivedDate": "2019-11-07",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CEA141472",
-			"receivedDate": "2016-05-26",
+			"code": "CEA135471",
+			"receivedDate": "2015-02-24",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CLC141362",
-			"receivedDate": "2016-05-19",
+			"code": "CEA135861",
+			"receivedDate": "2015-03-23",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "EIA"
+		},
+		{
+			"code": "CDM137956",
+			"receivedDate": "2015-08-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CPA135119",
+			"receivedDate": "2015-02-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM117916",
+			"receivedDate": "2012-10-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA123275",
+			"receivedDate": "2013-05-13",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CDM124970",
+			"receivedDate": "2013-07-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM114738",
+			"receivedDate": "2012-05-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC123692",
+			"receivedDate": "2013-05-29",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CPA114102",
+			"receivedDate": "2012-05-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA169585",
+			"receivedDate": "2023-01-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CDM169085",
+			"receivedDate": "2022-11-14",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "ALC159727",
+			"receivedDate": "2020-06-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

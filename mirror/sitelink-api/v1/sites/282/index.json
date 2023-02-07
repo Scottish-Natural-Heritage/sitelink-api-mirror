@@ -1,15 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/282",
 	"id": 282,
-	"agreements": [
-		{
-			"area": 164,
-			"code": 1,
-			"property": "Glen Doll - Corrie Fee",
-			"term": 0,
-			"type": "Land Acquisition"
-		}
-	],
 	"area": 4974.75,
 	"casework": [
 		{
@@ -97,10 +88,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CEA134814",
-			"receivedDate": "2014-12-10",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC115821",
+			"receivedDate": "2012-07-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CPA160438",
@@ -109,27 +100,9 @@
 			"type": "SRDP"
 		},
 		{
-			"code": "ALC115821",
-			"receivedDate": "2012-07-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR125098",
-			"receivedDate": "2013-07-23",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC123054",
-			"receivedDate": "2013-05-01",
+			"code": "ALC140815",
+			"receivedDate": "2016-02-22",
 			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC121792",
-			"receivedDate": "2013-02-12",
-			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -145,22 +118,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPP163626",
-			"receivedDate": "2021-06-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC148124",
+			"receivedDate": "2017-10-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP165088",
-			"receivedDate": "2021-11-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA166526",
-			"receivedDate": "2022-04-01",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC123054",
+			"receivedDate": "2013-05-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC132575",
@@ -169,16 +136,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC140815",
-			"receivedDate": "2016-02-22",
-			"response": "Licence/Consent not required",
+			"code": "CEA134814",
+			"receivedDate": "2014-12-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "ALC121792",
+			"receivedDate": "2013-02-12",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC148124",
-			"receivedDate": "2017-10-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "COR125098",
+			"receivedDate": "2013-07-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP165088",
+			"receivedDate": "2021-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP163626",
+			"receivedDate": "2021-06-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CEA166526",
+			"receivedDate": "2022-04-01",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {
@@ -331,5 +322,5 @@
 		"Aberdeenshire",
 		"Perth and Kinross"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations Central Highland"
 }

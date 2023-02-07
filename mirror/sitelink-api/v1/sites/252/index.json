@@ -1,36 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/252",
 	"id": 252,
-	"agreements": [
-		{
-			"area": 128.61,
-			"code": 2818,
-			"property": "Blackhill Farm",
-			"term": 0,
-			"type": "One Off Works"
-		},
-		{
-			"area": 87.6,
-			"code": 28,
-			"property": "Braehead Moss",
-			"term": 0,
-			"type": "Land Acquisition"
-		},
-		{
-			"area": 30.62,
-			"code": 2820,
-			"property": "Gowmacmorran Farm",
-			"term": 0,
-			"type": "One Off Works"
-		},
-		{
-			"area": 0,
-			"code": 5811,
-			"property": "Wayleave - Braehead Moss (Powerlines)",
-			"term": 0,
-			"type": "Servitude (NatureScot land or building) incl Wayleaves"
-		}
-	],
 	"area": 122.6,
 	"casework": [
 		{
@@ -100,6 +70,18 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CLC161619",
+			"receivedDate": "2020-12-22",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA139977",
+			"receivedDate": "2016-01-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CLC153831",
 			"receivedDate": "2019-01-10",
 			"response": "S.15 Advice only",
@@ -112,26 +94,8 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPA139977",
-			"receivedDate": "2016-01-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC136872",
-			"receivedDate": "2015-05-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC125426",
 			"receivedDate": "2013-08-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC126132",
-			"receivedDate": "2013-09-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -148,10 +112,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC161619",
-			"receivedDate": "2020-12-22",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC126132",
+			"receivedDate": "2013-09-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC136872",
+			"receivedDate": "2015-05-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

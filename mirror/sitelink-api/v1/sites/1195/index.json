@@ -16,16 +16,22 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "ALC147083",
-			"receivedDate": "2017-08-01",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CPP160831",
 			"receivedDate": "2020-10-09",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CDM158475",
+			"receivedDate": "2020-02-21",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS154201",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "GEN153640",
@@ -34,10 +40,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CGS154201",
-			"receivedDate": "2019-02-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC147083",
+			"receivedDate": "2017-08-01",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM147774",
+			"receivedDate": "2017-10-03",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPP158933",
@@ -49,18 +61,6 @@
 			"code": "CDM159029",
 			"receivedDate": "2020-04-21",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM158475",
-			"receivedDate": "2020-02-21",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM147774",
-			"receivedDate": "2017-10-03",
-			"response": "Conditioned objection",
 			"type": "Planning Application"
 		}
 	],

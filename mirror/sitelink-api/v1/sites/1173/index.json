@@ -16,28 +16,40 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "ALC148045",
-			"receivedDate": "2017-10-17",
+			"code": "CPA140363",
+			"receivedDate": "2016-03-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA139287",
+			"receivedDate": "2015-12-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CLC140951",
+			"receivedDate": "2016-02-29",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "ALC143211",
+			"receivedDate": "2016-09-15",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA157852",
-			"receivedDate": "2020-01-06",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA164011",
-			"receivedDate": "2021-05-28",
-			"response": "Advice only",
-			"type": "SRDP"
 		},
 		{
 			"code": "CDM151699",
 			"receivedDate": "2018-07-27",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CEA157852",
+			"receivedDate": "2020-01-06",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA145449",
@@ -52,28 +64,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "ALC153323",
-			"receivedDate": "2018-10-02",
+			"code": "ALC148045",
+			"receivedDate": "2017-10-17",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN163787",
-			"receivedDate": "2021-03-29",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA139287",
-			"receivedDate": "2015-12-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA140363",
-			"receivedDate": "2016-03-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC153323",
+			"receivedDate": "2018-10-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CGS132033",
@@ -82,16 +82,16 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CLC140951",
-			"receivedDate": "2016-02-29",
+			"code": "CPA164011",
+			"receivedDate": "2021-05-28",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "SRDP"
 		},
 		{
-			"code": "ALC143211",
-			"receivedDate": "2016-09-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN163787",
+			"receivedDate": "2021-03-29",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -152,5 +152,5 @@
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }

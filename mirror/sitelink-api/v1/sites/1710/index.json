@@ -1,16 +1,6 @@
 {
 	"url": "/sitelink-api/v1/sites/1710",
 	"id": 1710,
-	"agreements": [
-		{
-			"area": 17000,
-			"code": 3441,
-			"expiryDate": "2056-03-31",
-			"property": "Glencanisp and Drumrunie Estate",
-			"term": 50,
-			"type": "Wider Countryside Agreement (S.49)"
-		}
-	],
 	"area": 146.02,
 	"casework": [
 		{
@@ -38,30 +28,6 @@
 			"type": "Forest Design Plan"
 		},
 		{
-			"code": "CPP115293",
-			"receivedDate": "2012-06-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA146213",
-			"receivedDate": "2017-06-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS152822",
-			"receivedDate": "2018-10-01",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM166273",
-			"receivedDate": "2022-03-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "GEN140450",
 			"receivedDate": "2016-03-08",
 			"response": "Advice only",
@@ -74,10 +40,34 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CGS152822",
+			"receivedDate": "2018-10-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA146213",
+			"receivedDate": "2017-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP147373",
 			"receivedDate": "2017-09-01",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP115293",
+			"receivedDate": "2012-06-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CDM166273",
+			"receivedDate": "2022-03-08",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {

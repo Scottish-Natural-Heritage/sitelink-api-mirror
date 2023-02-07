@@ -28,22 +28,10 @@
 			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "CEA134723",
-			"receivedDate": "2015-01-13",
+			"code": "CGS137262",
+			"receivedDate": "2015-06-27",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN134751",
-			"receivedDate": "2014-10-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC130664",
-			"receivedDate": "2014-04-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CDM116048",
@@ -52,10 +40,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN167620",
-			"receivedDate": "2022-06-08",
+			"code": "ALC130664",
+			"receivedDate": "2014-04-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "GEN134751",
+			"receivedDate": "2014-10-01",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "CEA134723",
+			"receivedDate": "2015-01-13",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CDM121221",
@@ -68,12 +68,6 @@
 			"receivedDate": "2012-11-09",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP123961",
-			"receivedDate": "2013-06-10",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP121468",
@@ -94,16 +88,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CPP123961",
+			"receivedDate": "2013-06-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN167620",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "CPA166468",
 			"receivedDate": "2022-03-15",
 			"response": "Advice only",
 			"type": "SRDP"
-		},
-		{
-			"code": "CGS137262",
-			"receivedDate": "2015-06-27",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		}
 	],
 	"designation": {
@@ -161,5 +161,5 @@
 	],
 	"localAuthority": "Moray",
 	"name": "Burn of Ballintomb",
-	"snhArea": "Tayside and Grampian"
+	"snhArea": "National Operations North"
 }
