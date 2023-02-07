@@ -13,6 +13,13 @@ provider "aws" {
   region = "eu-west-2"
 }
 
+# Some things like CloudFront are global, so need some resources created
+# in the primary US region
+provider "aws" {
+  region = "us-east-1"
+  alias  = "alternate"
+}
+
 # Create an S3 bucket for storing our files
 resource "aws_s3_bucket" "bucket" {
   bucket = "naturescot-sitelink-mirror"
@@ -48,4 +55,11 @@ resource "aws_s3_object" "content" {
   etag         = filemd5("${path.module}/mirror/${each.key}")
 
   acl = "public-read"
+}
+
+# Create a NatureScot certificate
+resource "aws_acm_certificate" "certificate" {
+  domain_name       = "sitelink-api.nature.scot"
+  validation_method = "DNS"
+  provider          = aws.alternate
 }
