@@ -1,10 +1,19 @@
-# Tell terraform where to keep it's state between runs so it can be run
-# locally as well as on ci/cd
 terraform {
+  # Tell terraform where to keep it's state between runs so it can be run
+  # locally as well as on ci/cd
   backend "s3" {
     bucket = "naturescot-sitelink-mirror-state"
     key    = "terraform-state"
     region = "eu-west-2"
+  }
+
+  # Tell terraform about the location and version of the cloudflare
+  # provider
+  required_providers {
+    cloudflare = {
+      source  = "cloudflare/cloudflare"
+      version = "~> 3.0"
+    }
   }
 }
 
