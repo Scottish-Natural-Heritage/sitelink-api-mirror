@@ -102,3 +102,72 @@ resource "aws_acm_certificate_validation" "validation" {
   ]
   provider = aws.alternate
 }
+
+# We want to use a pre-baked CORS response to allow folks to call our
+# API from anywhere, for pretty much any use
+data "aws_cloudfront_response_headers_policy" "cors_preflight_security_headers" {
+  name = "Managed-CORS-with-preflight-and-SecurityHeadersPolicy"
+}
+
+# Wrap the S3 bucket with an HTTPS CDN distribution
+resource "aws_cloudfront_distribution" "distribution" {
+
+  aliases = ["sitelink-api.nature.scot"]
+
+  default_cache_behavior {
+    allowed_methods            = ["GET", "HEAD", "OPTIONS"]
+    cached_methods             = ["GET", "HEAD"]
+    target_origin_id           = "sitelink-api-mirror"
+    viewer_protocol_policy     = "redirect-to-https"
+    response_headers_policy_id = data.aws_cloudfront_response_headers_policy.cors_preflight_security_headers.id
+    forwarded_values {
+      query_string = false
+
+      cookies {
+        forward = "none"
+      }
+    }
+  }
+
+  enabled         = true
+  is_ipv6_enabled = true
+  http_version    = "http2and3"
+
+  # The values in this block, particularly those in the custom config
+  # were found by reverse engineering an exising CloudFront distribution
+  # set to target an S3 bucket's website endpoint rather than the bucket
+  # directly. This way we can serve index.json files through CloudFront
+  # rather than index.html files.
+  origin {
+    connection_attempts = 3
+    connection_timeout  = 10
+    domain_name         = aws_s3_bucket_website_configuration.website.website_endpoint
+    origin_id           = "sitelink-api-mirror"
+
+    custom_origin_config {
+      http_port                = 80
+      https_port               = 443
+      origin_keepalive_timeout = 5
+      origin_protocol_policy   = "http-only"
+      origin_read_timeout      = 30
+      origin_ssl_protocols = [
+        "TLSv1.2",
+      ]
+    }
+  }
+
+  price_class = "PriceClass_100"
+
+  restrictions {
+    geo_restriction {
+      locations        = []
+      restriction_type = "none"
+    }
+  }
+
+  viewer_certificate {
+    acm_certificate_arn      = aws_acm_certificate.certificate.arn
+    minimum_protocol_version = "TLSv1.2_2021"
+    ssl_support_method       = "sni-only"
+  }
+}
