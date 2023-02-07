@@ -1,0 +1,19 @@
+name: Deploy the latest Sitelink-API data to AWS
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Ensure we've got terraform installed
+      uses: hashicorp/setup-terraform@v2
+    - name: Deploy the mirror to AWS
+      env:
+        TF_VAR_cloudflare_api_token: ${{secrets.API_KEY}}
+      run: |
+        terraform apply -no-color -auto-approve
