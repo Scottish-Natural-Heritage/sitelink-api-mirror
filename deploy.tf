@@ -20,6 +20,17 @@ provider "aws" {
   alias  = "alternate"
 }
 
+# Read our CloudFlare API Token from the calling shell's environment
+variable "cloudflare_api_token" {
+  type = string
+}
+
+# Cloudflare is used for our DNS certificate validation and also for our
+# final service name
+provider "cloudflare" {
+  api_token = var.cloudflare_api_token
+}
+
 # Create an S3 bucket for storing our files
 resource "aws_s3_bucket" "bucket" {
   bucket = "naturescot-sitelink-mirror"
@@ -62,4 +73,32 @@ resource "aws_acm_certificate" "certificate" {
   domain_name       = "sitelink-api.nature.scot"
   validation_method = "DNS"
   provider          = aws.alternate
+}
+
+# Find the nature.scot zone in Cloudflare
+data "cloudflare_zones" "nature_scot" {
+  filter {
+    name = "nature.scot"
+  }
+}
+
+# Create a DNS record for each validation request from ACM
+resource "cloudflare_record" "validation_records" {
+  # Each name & alias could result in a validation request, so we
+  # 'for each' this block
+  for_each = { for record in aws_acm_certificate.certificate.domain_validation_options : record.resource_record_name => record }
+  zone_id  = data.cloudflare_zones.nature_scot.zones[0].id
+  name     = each.value.resource_record_name
+  value    = each.value.resource_record_value
+  type     = each.value.resource_record_type
+  ttl      = 300
+}
+
+# Wait until the DNS records have been created and ACM has verified them
+resource "aws_acm_certificate_validation" "validation" {
+  certificate_arn = aws_acm_certificate.certificate.arn
+  validation_record_fqdns = [
+    for record in aws_acm_certificate.certificate.domain_validation_options : cloudflare_record.validation_records[record.resource_record_name].name
+  ]
+  provider = aws.alternate
 }
