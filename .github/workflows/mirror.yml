@@ -1,7 +1,6 @@
 name: Mirror latest Sitelink-API data
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '21 5 * * *'
