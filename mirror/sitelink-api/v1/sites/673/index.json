@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/673",
-	"id": 673,
 	"area": 39.75,
 	"casework": [
 		{
@@ -307,10 +305,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102568"
 		}
 	],
+	"id": 673,
 	"localAuthority": "South Lanarkshire",
 	"name": "Garrion Gill",
 	"secondaryLocalAuthorities": [
 		"North Lanarkshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/673"
 }

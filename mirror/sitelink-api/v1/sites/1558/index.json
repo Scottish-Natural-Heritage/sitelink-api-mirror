@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1558",
-	"id": 1558,
 	"area": 209.76,
 	"casework": [
 		{
@@ -188,7 +186,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100450"
 		}
 	],
+	"id": 1558,
 	"localAuthority": "Argyll and Bute",
 	"name": "Totamore Dunes and Loch Ballyhaugh",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1558"
 }

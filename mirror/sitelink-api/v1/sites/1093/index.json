@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1093",
-	"id": 1093,
 	"area": 8.54,
 	"designation": {
 		"code": "SSSI",
@@ -56,7 +54,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000228"
 		}
 	],
+	"id": 1093,
 	"localAuthority": "Highland",
 	"name": "Long Berry Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1093"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1524",
-	"id": 1524,
 	"area": 410.67,
 	"casework": [
 		{
@@ -197,7 +195,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100437"
 		}
 	],
+	"id": 1524,
 	"localAuthority": "Argyll and Bute",
 	"name": "Tayvallich Juniper and Fen",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1524"
 }

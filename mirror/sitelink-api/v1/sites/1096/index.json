@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1096",
-	"id": 1096,
 	"area": 507.82,
 	"casework": [
 		{
@@ -213,7 +211,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100560"
 		}
 	],
+	"id": 1096,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Longbridge Muir",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1096"
 }

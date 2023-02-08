@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1690",
-	"id": 1690,
 	"area": 106.85,
 	"casework": [
 		{
@@ -263,7 +261,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102578"
 		}
 	],
+	"id": 1690,
 	"localAuthority": "North Lanarkshire",
 	"name": "Hassockrigg and North Shotts Mosses",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1690"
 }

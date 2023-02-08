@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/715",
-	"id": 715,
 	"area": 19.25,
 	"casework": [
 		{
@@ -162,10 +160,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107624"
 		}
 	],
+	"id": 715,
 	"localAuthority": "Renfrewshire",
 	"name": "Glen Moss",
 	"secondaryLocalAuthorities": [
 		"Inverclyde"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/715"
 }

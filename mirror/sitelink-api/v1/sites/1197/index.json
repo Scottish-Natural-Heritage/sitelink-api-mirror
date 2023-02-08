@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1197",
-	"id": 1197,
 	"area": 85.69,
 	"casework": [
 		{
@@ -124,7 +122,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103778"
 		}
 	],
+	"id": 1197,
 	"localAuthority": "Aberdeenshire",
 	"name": "Moss of Cruden",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1197"
 }

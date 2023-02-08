@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/203",
-	"id": 203,
 	"area": 1.69,
 	"casework": [
 		{
@@ -82,7 +80,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105459"
 		}
 	],
+	"id": 203,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Bigholms Burn",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/203"
 }

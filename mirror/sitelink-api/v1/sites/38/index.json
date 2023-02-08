@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/38",
-	"id": 38,
 	"area": 39.99,
 	"casework": [
 		{
@@ -67,7 +65,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005446"
 		}
 	],
+	"id": 38,
 	"localAuthority": "Argyll and Bute",
 	"name": "Allt Broighleachan",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/38"
 }

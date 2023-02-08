@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8292",
-	"id": 8292,
 	"area": 152.44,
 	"casework": [
 		{
@@ -93,7 +91,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002290"
 		}
 	],
+	"id": 8292,
 	"localAuthority": "Argyll and Bute",
 	"name": "Loch a' Phuill",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8292"
 }

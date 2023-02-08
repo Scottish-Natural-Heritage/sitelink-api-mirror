@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1521",
-	"id": 1521,
 	"area": 1.83,
 	"casework": [
 		{
@@ -83,7 +81,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000725"
 		}
 	],
+	"id": 1521,
 	"localAuthority": "Perth and Kinross",
 	"name": "Tay Bank Section",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1521"
 }

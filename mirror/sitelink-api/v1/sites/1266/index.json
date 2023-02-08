@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1266",
-	"id": 1266,
 	"area": 1.37,
 	"casework": [
 		{
@@ -101,7 +99,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101333"
 		}
 	],
+	"id": 1266,
 	"localAuthority": "Scottish Borders",
 	"name": "Palmers Hill Railway Cutting",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1266"
 }

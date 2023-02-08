@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/641",
-	"id": 641,
 	"agreements": [
 		{
 			"area": 1.18,
@@ -219,7 +217,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107508"
 		}
 	],
+	"id": 641,
 	"localAuthority": "Stirling",
 	"name": "Flanders Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/641"
 }

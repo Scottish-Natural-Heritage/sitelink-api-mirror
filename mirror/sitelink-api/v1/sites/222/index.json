@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/222",
-	"id": 222,
 	"area": 93.16,
 	"casework": [
 		{
@@ -155,7 +153,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103940"
 		}
 	],
+	"id": 222,
 	"localAuthority": "Stirling",
 	"name": "Black Water Marshes",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/222"
 }

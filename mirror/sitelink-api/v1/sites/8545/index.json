@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8545",
-	"id": 8545,
 	"area": 7801.71,
 	"casework": [
 		{
@@ -140,10 +138,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107235"
 		}
 	],
+	"id": 8545,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Mingulay and Berneray",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8545"
 }

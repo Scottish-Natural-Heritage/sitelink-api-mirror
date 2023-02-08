@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8293",
-	"id": 8293,
 	"area": 20.64,
 	"casework": [
 		{
@@ -126,7 +124,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100917"
 		}
 	],
+	"id": 8293,
 	"localAuthority": "Highland",
 	"name": "Loch Achnacloich",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8293"
 }

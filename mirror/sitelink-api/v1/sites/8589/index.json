@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8589",
-	"id": 8589,
 	"area": 3780.16,
 	"casework": [
 		{
@@ -254,10 +252,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107385"
 		}
 	],
+	"id": 8589,
 	"localAuthority": "Orkney Islands",
 	"name": "West Westray",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8589"
 }

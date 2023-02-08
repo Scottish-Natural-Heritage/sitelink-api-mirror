@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/822",
-	"id": 822,
 	"area": 24.34,
 	"casework": [
 		{
@@ -91,7 +89,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101276"
 		}
 	],
+	"id": 822,
 	"localAuthority": "Scottish Borders",
 	"name": "Jedwater Woodlands",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/822"
 }

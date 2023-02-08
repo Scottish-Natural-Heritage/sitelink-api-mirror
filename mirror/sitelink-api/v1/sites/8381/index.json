@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8381",
-	"id": 8381,
 	"area": 1500.41,
 	"casework": [
 		{
@@ -182,10 +180,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103889"
 		}
 	],
+	"id": 8381,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "South-East Islay Skerries",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8381"
 }

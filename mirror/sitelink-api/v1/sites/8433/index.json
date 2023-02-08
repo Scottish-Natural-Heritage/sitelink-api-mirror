@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8433",
-	"id": 8433,
 	"area": 2619.37,
 	"casework": [
 		{
@@ -102,7 +100,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111267"
 		}
 	],
+	"id": 8433,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch an Duin",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8433"
 }

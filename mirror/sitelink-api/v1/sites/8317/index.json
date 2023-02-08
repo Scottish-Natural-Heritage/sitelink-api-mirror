@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8317",
-	"id": 8317,
 	"area": 2881.72,
 	"casework": [
 		{
@@ -519,7 +517,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106825"
 		}
 	],
+	"id": 8317,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Moffat Hills",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8317"
 }

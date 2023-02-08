@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8454",
-	"id": 8454,
 	"area": 619.76,
 	"casework": [
 		{
@@ -80,7 +78,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 8454,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Silver Flowe",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8454"
 }

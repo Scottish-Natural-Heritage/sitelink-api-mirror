@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8243",
-	"id": 8243,
 	"area": 9439.48,
 	"casework": [
 		{
@@ -692,10 +690,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102832"
 		}
 	],
+	"id": 8243,
 	"localAuthority": "Perth and Kinross",
 	"name": "Drumochter Hills",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8243"
 }

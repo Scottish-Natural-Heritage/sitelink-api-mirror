@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1532",
-	"id": 1532,
 	"area": 88.12,
 	"casework": [
 		{
@@ -139,7 +137,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106418"
 		}
 	],
+	"id": 1532,
 	"localAuthority": "Scottish Borders",
 	"name": "The Hirsel",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1532"
 }

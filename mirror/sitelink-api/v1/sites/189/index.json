@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/189",
-	"id": 189,
 	"area": 4089.42,
 	"casework": [
 		{
@@ -249,7 +247,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000761"
 		}
 	],
+	"id": 189,
 	"localAuthority": "Argyll and Bute",
 	"name": "Ben More - Scarisdale",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/189"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8290",
-	"id": 8290,
 	"area": 107.61,
 	"casework": [
 		{
@@ -108,7 +106,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100265"
 		}
 	],
+	"id": 8290,
 	"localAuthority": "Argyll and Bute",
 	"name": "Lismore Lochs",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8290"
 }

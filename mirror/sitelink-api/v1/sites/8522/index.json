@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8522",
-	"id": 8522,
 	"area": 286.14,
 	"casework": [
 		{
@@ -862,7 +860,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102012"
 		}
 	],
+	"id": 8522,
 	"localAuthority": "Highland",
 	"name": "Lairg and Strath Brora Lochs",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8522"
 }

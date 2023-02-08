@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8667",
-	"id": 8667,
 	"area": 8940.8,
 	"casework": [
 		{
@@ -789,11 +787,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103957"
 		}
 	],
+	"id": 8667,
 	"localAuthority": "Inverclyde",
 	"name": "Renfrewshire Heights",
 	"secondaryLocalAuthorities": [
 		"North Ayrshire",
 		"Renfrewshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8667"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/961",
-	"id": 961,
 	"area": 162.29,
 	"casework": [
 		{
@@ -270,7 +268,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004369"
 		}
 	],
+	"id": 961,
 	"localAuthority": "Highland",
 	"name": "Loch Ashie",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/961"
 }

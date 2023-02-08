@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8333",
-	"id": 8333,
 	"area": 529.74,
 	"casework": [
 		{
@@ -201,10 +199,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106842"
 		}
 	],
+	"id": 8333,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Mousa",
 	"secondaryLocalAuthorities": [
 		"Shetland Islands"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8333"
 }

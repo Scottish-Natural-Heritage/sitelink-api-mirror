@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1695",
-	"id": 1695,
 	"area": 204.92,
 	"casework": [
 		{
@@ -425,7 +423,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111289"
 		}
 	],
+	"id": 1695,
 	"localAuthority": "Scottish Borders",
 	"name": "Berwickshire Coast (Intertidal)",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1695"
 }

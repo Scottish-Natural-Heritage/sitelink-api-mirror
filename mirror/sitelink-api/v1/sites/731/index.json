@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/731",
-	"id": 731,
 	"area": 3182.82,
 	"casework": [
 		{
@@ -680,7 +678,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104392"
 		}
 	],
+	"id": 731,
 	"localAuthority": "Highland",
 	"name": "Glen Coe",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/731"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8275",
-	"id": 8275,
 	"area": 1261.75,
 	"casework": [
 		{
@@ -87,7 +85,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111532"
 		}
 	],
+	"id": 8275,
 	"localAuthority": "Highland",
 	"name": "Inverasdale Peatlands",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8275"
 }

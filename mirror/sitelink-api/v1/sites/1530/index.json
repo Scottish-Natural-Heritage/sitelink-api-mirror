@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1530",
-	"id": 1530,
 	"area": 13.27,
 	"casework": [
 		{
@@ -87,10 +85,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102456"
 		}
 	],
+	"id": 1530,
 	"localAuthority": "Shetland Islands",
 	"name": "The Cletts, Exnaboe",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1530"
 }

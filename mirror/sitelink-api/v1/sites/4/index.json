@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/4",
-	"id": 4,
 	"area": 62.9,
 	"casework": [
 		{
@@ -181,7 +179,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001528"
 		}
 	],
+	"id": 4,
 	"localAuthority": "Scottish Borders",
 	"name": "Abbey St Bathans Woodlands",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/4"
 }

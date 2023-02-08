@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1210",
-	"id": 1210,
 	"area": 168.92,
 	"casework": [
 		{
@@ -348,10 +346,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105105"
 		}
 	],
+	"id": 1210,
 	"localAuthority": "Stirling",
 	"name": "Mugdock Wood",
 	"secondaryLocalAuthorities": [
 		"East Dunbartonshire"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1210"
 }

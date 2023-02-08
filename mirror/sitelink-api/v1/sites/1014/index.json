@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1014",
-	"id": 1014,
 	"area": 33.46,
 	"casework": [
 		{
@@ -89,7 +87,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106001"
 		}
 	],
+	"id": 1014,
 	"localAuthority": "Perth and Kinross",
 	"name": "Loch Moraig",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1014"
 }

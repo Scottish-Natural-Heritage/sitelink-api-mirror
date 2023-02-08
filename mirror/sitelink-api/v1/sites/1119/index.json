@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1119",
-	"id": 1119,
 	"area": 738.95,
 	"casework": [
 		{
@@ -487,7 +485,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106085"
 		}
 	],
+	"id": 1119,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Machairs Robach and Newton",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1119"
 }

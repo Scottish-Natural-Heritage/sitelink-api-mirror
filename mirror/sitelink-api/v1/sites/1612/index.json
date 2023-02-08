@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1612",
-	"id": 1612,
 	"area": 658.15,
 	"casework": [
 		{
@@ -227,7 +225,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100471"
 		}
 	],
+	"id": 1612,
 	"localAuthority": "Argyll and Bute",
 	"name": "West Tayvallich Peninsula",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1612"
 }

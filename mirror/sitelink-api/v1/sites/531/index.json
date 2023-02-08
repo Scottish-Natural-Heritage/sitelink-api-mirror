@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/531",
-	"id": 531,
 	"area": 23.17,
 	"casework": [
 		{
@@ -129,7 +127,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105676"
 		}
 	],
+	"id": 531,
 	"localAuthority": "Scottish Borders",
 	"name": "Drone Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/531"
 }

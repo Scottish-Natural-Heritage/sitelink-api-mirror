@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1540",
-	"id": 1540,
 	"agreements": [
 		{
 			"area": 684,
@@ -250,7 +248,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102663"
 		}
 	],
+	"id": 1540,
 	"localAuthority": "South Lanarkshire",
 	"name": "Tinto Hills",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1540"
 }

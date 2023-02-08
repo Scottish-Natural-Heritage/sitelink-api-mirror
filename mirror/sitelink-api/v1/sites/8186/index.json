@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8186",
-	"id": 8186,
 	"area": 1360.22,
 	"casework": [
 		{
@@ -330,7 +328,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110878"
 		}
 	],
+	"id": 8186,
 	"localAuthority": "East Ayrshire",
 	"name": "Airds Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8186"
 }

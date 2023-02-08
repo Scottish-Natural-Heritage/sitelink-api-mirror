@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8206",
-	"id": 8206,
 	"agreements": [
 		{
 			"area": 222.7,
@@ -358,7 +356,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101823"
 		}
 	],
+	"id": 8206,
 	"localAuthority": "Highland",
 	"name": "Berriedale and Langwell Waters",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8206"
 }

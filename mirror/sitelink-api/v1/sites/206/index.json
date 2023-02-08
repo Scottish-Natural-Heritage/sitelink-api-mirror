@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/206",
-	"id": 206,
 	"area": 4,
 	"casework": [
 		{
@@ -133,7 +131,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105461"
 		}
 	],
+	"id": 206,
 	"localAuthority": "South Lanarkshire",
 	"name": "Birk Knowes",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/206"
 }

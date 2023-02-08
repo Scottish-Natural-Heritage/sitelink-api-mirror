@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1246",
-	"id": 1246,
 	"area": 240.19,
 	"casework": [
 		{
@@ -225,7 +223,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001860"
 		}
 	],
+	"id": 1246,
 	"localAuthority": "Orkney Islands",
 	"name": "Northwall",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1246"
 }

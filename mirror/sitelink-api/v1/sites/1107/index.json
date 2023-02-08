@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1107",
-	"id": 1107,
 	"area": 223.6,
 	"casework": [
 		{
@@ -429,7 +427,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111370"
 		}
 	],
+	"id": 1107,
 	"localAuthority": "Moray",
 	"name": "Lower River Spey",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1107"
 }

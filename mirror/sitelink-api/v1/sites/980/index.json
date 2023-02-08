@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/980",
-	"id": 980,
 	"agreements": [
 		{
 			"area": 11.35,
@@ -685,7 +683,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100272"
 		}
 	],
+	"id": 980,
 	"localAuthority": "Argyll and Bute",
 	"name": "Loch Eck",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/980"
 }

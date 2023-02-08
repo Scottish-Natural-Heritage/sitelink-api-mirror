@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8242",
-	"id": 8242,
 	"agreements": [
 		{
 			"area": 324,
@@ -2822,10 +2820,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005023"
 		}
 	],
+	"id": 8242,
 	"localAuthority": "Highland",
 	"name": "Dornoch Firth and Morrich More",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8242"
 }

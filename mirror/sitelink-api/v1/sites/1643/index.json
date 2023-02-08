@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1643",
-	"id": 1643,
 	"area": 0.54,
 	"casework": [
 		{
@@ -91,7 +89,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106541"
 		}
 	],
+	"id": 1643,
 	"localAuthority": "Stirling",
 	"name": "Wolf's Hole Quarry",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1643"
 }

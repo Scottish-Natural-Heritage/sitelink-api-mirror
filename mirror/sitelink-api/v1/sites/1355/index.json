@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1355",
-	"id": 1355,
 	"area": 8.31,
 	"casework": [
 		{
@@ -84,7 +82,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004027"
 		}
 	],
+	"id": 1355,
 	"localAuthority": "Scottish Borders",
 	"name": "Riskinhope",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1355"
 }

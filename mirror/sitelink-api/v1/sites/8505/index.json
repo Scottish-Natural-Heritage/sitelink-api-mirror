@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8505",
-	"id": 8505,
 	"area": 1303.23,
 	"casework": [
 		{
@@ -394,10 +392,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003545"
 		}
 	],
+	"id": 8505,
 	"localAuthority": "Aberdeenshire",
 	"name": "Fowlsheugh",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8505"
 }

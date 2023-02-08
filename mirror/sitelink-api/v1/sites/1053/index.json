@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1053",
-	"id": 1053,
 	"area": 3355.68,
 	"casework": [
 		{
@@ -665,7 +663,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112100"
 		}
 	],
+	"id": 1053,
 	"localAuthority": "Highland",
 	"name": "Loch Shiel",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1053"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8262",
-	"id": 8262,
 	"area": 263.36,
 	"designation": {
 		"code": "SAC",
@@ -74,7 +72,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106767"
 		}
 	],
+	"id": 8262,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glac na Criche",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8262"
 }

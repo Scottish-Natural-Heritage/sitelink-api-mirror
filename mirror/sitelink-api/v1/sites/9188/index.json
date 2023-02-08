@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/9188",
-	"id": 9188,
 	"area": 14703.6,
 	"casework": [
 		{
@@ -2091,7 +2089,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005220"
 		}
 	],
+	"id": 9188,
 	"localAuthority": "Highland",
 	"name": "Strath Carnaig and Strath Fleet Moors",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/9188"
 }

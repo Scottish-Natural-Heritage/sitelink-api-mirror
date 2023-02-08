@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1251",
-	"id": 1251,
 	"area": 129.69,
 	"casework": [
 		{
@@ -73,7 +71,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000812"
 		}
 	],
+	"id": 1251,
 	"localAuthority": "Highland",
 	"name": "Ob Lusa to Ardnish",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1251"
 }

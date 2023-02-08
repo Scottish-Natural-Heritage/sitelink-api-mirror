@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1696",
-	"id": 1696,
 	"area": 252.44,
 	"designation": {
 		"code": "SSSI",
@@ -63,7 +61,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101528"
 		}
 	],
+	"id": 1696,
 	"localAuthority": "Aberdeenshire",
 	"name": "Fafernie",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1696"
 }

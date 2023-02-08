@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8668",
-	"id": 8668,
 	"area": 0.11,
 	"casework": [
 		{
@@ -451,7 +449,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107593"
 		}
 	],
+	"id": 8668,
 	"localAuthority": "City of Edinburgh",
 	"name": "Imperial Dock Lock, Leith",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8668"
 }

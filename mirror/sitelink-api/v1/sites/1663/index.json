@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1663",
-	"id": 1663,
 	"agreements": [
 		{
 			"area": 0.01,
@@ -187,7 +185,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106549"
 		}
 	],
+	"id": 1663,
 	"localAuthority": "South Lanarkshire",
 	"name": "Waukenwae Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1663"
 }

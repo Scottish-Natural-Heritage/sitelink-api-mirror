@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8398",
-	"id": 8398,
 	"area": 1962.66,
 	"casework": [
 		{
@@ -140,10 +138,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100456"
 		}
 	],
+	"id": 8398,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Treshnish Isles",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8398"
 }

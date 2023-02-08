@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1094",
-	"id": 1094,
 	"area": 31.43,
 	"casework": [
 		{
@@ -177,7 +175,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102967"
 		}
 	],
+	"id": 1094,
 	"localAuthority": "Angus",
 	"name": "Long Loch of Lundie",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1094"
 }

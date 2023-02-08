@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8584",
-	"id": 8584,
 	"area": 83.43,
 	"casework": [
 		{
@@ -376,10 +374,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111234"
 		}
 	],
+	"id": 8584,
 	"localAuthority": "Moray",
 	"name": "Tips of Corsemaul and Tom Mor",
 	"secondaryLocalAuthorities": [
 		"Aberdeenshire"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8584"
 }

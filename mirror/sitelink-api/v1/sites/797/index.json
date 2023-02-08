@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/797",
-	"id": 797,
 	"area": 418.09,
 	"casework": [
 		{
@@ -331,7 +329,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002966"
 		}
 	],
+	"id": 797,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Howmore Estuary, Lochs Roag and Fada",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/797"
 }

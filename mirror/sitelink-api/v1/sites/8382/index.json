@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8382",
-	"id": 8382,
 	"area": 122.63,
 	"casework": [
 		{
@@ -216,7 +214,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106919"
 		}
 	],
+	"id": 8382,
 	"localAuthority": "Scottish Borders",
 	"name": "St Abb's Head to Fast Castle",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8382"
 }

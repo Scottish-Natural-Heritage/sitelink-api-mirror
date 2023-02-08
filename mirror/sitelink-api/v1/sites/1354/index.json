@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1354",
-	"id": 1354,
 	"agreements": [
 		{
 			"area": 66,
@@ -1694,7 +1692,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109117"
 		}
 	],
+	"id": 1354,
 	"localAuthority": "Argyll and Bute",
 	"name": "Rinns of Islay",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1354"
 }

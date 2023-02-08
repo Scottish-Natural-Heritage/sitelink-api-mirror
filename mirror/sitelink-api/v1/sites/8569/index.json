@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8569",
-	"id": 8569,
 	"area": 1175.79,
 	"casework": [
 		{
@@ -447,11 +445,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103315"
 		}
 	],
+	"id": 8569,
 	"localAuthority": "Highland",
 	"name": "Rannoch Lochs",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute",
 		"Perth and Kinross"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8569"
 }

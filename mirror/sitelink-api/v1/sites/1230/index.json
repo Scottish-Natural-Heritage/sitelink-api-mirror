@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1230",
-	"id": 1230,
 	"area": 2317.61,
 	"casework": [
 		{
@@ -310,10 +308,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106174"
 		}
 	],
+	"id": 1230,
 	"localAuthority": "Argyll and Bute",
 	"name": "North East Coll Lochs and Moors",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1230"
 }

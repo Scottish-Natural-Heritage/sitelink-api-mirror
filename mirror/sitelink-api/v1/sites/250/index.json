@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/250",
-	"id": 250,
 	"area": 8.22,
 	"casework": [
 		{
@@ -88,7 +86,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102528"
 		}
 	],
+	"id": 250,
 	"localAuthority": "East Renfrewshire",
 	"name": "Boylestone Quarry",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/250"
 }

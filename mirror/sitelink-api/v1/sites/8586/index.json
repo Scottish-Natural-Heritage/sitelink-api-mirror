@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8586",
-	"id": 8586,
 	"area": 241.77,
 	"casework": [
 		{
@@ -109,7 +107,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107361"
 		}
 	],
+	"id": 8586,
 	"localAuthority": "Argyll and Bute",
 	"name": "Treshnish Isles",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8586"
 }

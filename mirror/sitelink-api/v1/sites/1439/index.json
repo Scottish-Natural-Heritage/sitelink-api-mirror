@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1439",
-	"id": 1439,
 	"area": 7048.15,
 	"casework": [
 		{
@@ -203,7 +201,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111323"
 		}
 	],
+	"id": 1439,
 	"localAuthority": "Highland",
 	"name": "Skinsdale Peatlands",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1439"
 }

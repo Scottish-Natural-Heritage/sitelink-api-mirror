@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8557",
-	"id": 8557,
 	"area": 123.18,
 	"casework": [
 		{
@@ -339,7 +337,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100973"
 		}
 	],
+	"id": 8557,
 	"localAuthority": "Highland",
 	"name": "North Inverness Lochs",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8557"
 }

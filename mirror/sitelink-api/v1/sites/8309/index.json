@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8309",
-	"id": 8309,
 	"area": 2373.01,
 	"casework": [
 		{
@@ -1211,10 +1209,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004933"
 		}
 	],
+	"id": 8309,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Lochs Duich, Long and Alsh Reefs",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8309"
 }

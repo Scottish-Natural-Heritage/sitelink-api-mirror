@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/392",
-	"id": 392,
 	"area": 103.9,
 	"casework": [
 		{
@@ -220,7 +218,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111927"
 		}
 	],
+	"id": 392,
 	"localAuthority": "Aberdeenshire",
 	"name": "Collieston to Whinnyfold Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/392"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8230",
-	"id": 8230,
 	"area": 120.64,
 	"casework": [
 		{
@@ -414,7 +412,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100821"
 		}
 	],
+	"id": 8230,
 	"localAuthority": "Highland",
 	"name": "Conon Islands",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8230"
 }

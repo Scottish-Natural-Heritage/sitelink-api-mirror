@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8473",
-	"id": 8473,
 	"area": 5400.76,
 	"casework": [
 		{
@@ -840,10 +838,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106997"
 		}
 	],
+	"id": 8473,
 	"localAuthority": "Aberdeenshire",
 	"name": "Buchan Ness to Collieston Coast",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8473"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1267",
-	"id": 1267,
 	"area": 629.48,
 	"casework": [
 		{
@@ -143,10 +141,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106221"
 		}
 	],
+	"id": 1267,
 	"localAuthority": "Shetland Islands",
 	"name": "Papa Stour",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1267"
 }

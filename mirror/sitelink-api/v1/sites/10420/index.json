@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10420",
-	"id": 10420,
 	"area": 6200,
 	"casework": [
 		{
@@ -85,10 +83,12 @@
 			"statutoryInterest": "Protected feature"
 		}
 	],
+	"id": 10420,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Monach Isles",
 	"secondaryLocalAuthorities": [
 		"Comhairle nan Eilean Siar (Western Isles)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/10420"
 }

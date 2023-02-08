@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10508",
-	"id": 10508,
 	"area": 1381391.4,
 	"casework": [
 		{
@@ -3338,6 +3336,7 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112131"
 		}
 	],
+	"id": 10508,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Inner Hebrides and the Minches",
 	"secondaryLocalAuthorities": [
@@ -3345,5 +3344,6 @@
 		"Comhairle nan Eilean Siar (Western Isles)",
 		"Highland"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/10508"
 }

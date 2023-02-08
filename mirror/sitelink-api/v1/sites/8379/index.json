@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8379",
-	"id": 8379,
 	"area": 4544.27,
 	"casework": [
 		{
@@ -728,10 +726,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106916"
 		}
 	],
+	"id": 8379,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Sound of Arisaig (Loch Ailort to Loch Ceann Traigh)",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8379"
 }

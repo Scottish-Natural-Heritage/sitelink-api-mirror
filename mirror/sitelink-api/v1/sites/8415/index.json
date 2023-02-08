@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8415",
-	"id": 8415,
 	"area": 107.04,
 	"casework": [
 		{
@@ -212,7 +210,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112404"
 		}
 	],
+	"id": 8415,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Castle Loch, Lochmaben",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8415"
 }

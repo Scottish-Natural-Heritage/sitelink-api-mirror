@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1083",
-	"id": 1083,
 	"area": 1787.41,
 	"casework": [
 		{
@@ -474,7 +472,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106059"
 		}
 	],
+	"id": 1083,
 	"localAuthority": "Orkney Islands",
 	"name": "Lochs of Harray and Stenness",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1083"
 }

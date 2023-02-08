@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8613",
-	"id": 8613,
 	"agreements": [
 		{
 			"area": 34.6,
@@ -933,7 +931,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107560"
 		}
 	],
+	"id": 8613,
 	"localAuthority": "Argyll and Bute",
 	"name": "Cnuic agus Cladach Mhuile",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8613"
 }

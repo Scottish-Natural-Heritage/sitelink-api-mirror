@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1250",
-	"id": 1250,
 	"area": 2.77,
 	"casework": [
 		{
@@ -118,7 +116,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111313"
 		}
 	],
+	"id": 1250,
 	"localAuthority": "Scottish Borders",
 	"name": "Nut Wood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1250"
 }

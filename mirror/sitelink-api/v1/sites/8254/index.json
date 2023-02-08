@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8254",
-	"id": 8254,
 	"area": 781.33,
 	"casework": [
 		{
@@ -422,10 +420,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109765"
 		}
 	],
+	"id": 8254,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Faray and Holm of Faray",
 	"secondaryLocalAuthorities": [
 		"Orkney Islands"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8254"
 }

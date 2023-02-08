@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1017",
-	"id": 1017,
 	"area": 24.67,
 	"casework": [
 		{
@@ -69,7 +67,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106002"
 		}
 	],
+	"id": 1017,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch na Cartach",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1017"
 }

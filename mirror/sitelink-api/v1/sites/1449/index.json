@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1449",
-	"id": 1449,
 	"area": 32.65,
 	"casework": [
 		{
@@ -121,7 +119,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106349"
 		}
 	],
+	"id": 1449,
 	"localAuthority": "East Dunbartonshire",
 	"name": "South Braes",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1449"
 }

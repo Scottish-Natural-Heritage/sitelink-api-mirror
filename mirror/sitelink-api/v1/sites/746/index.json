@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/746",
-	"id": 746,
 	"area": 87.49,
 	"casework": [
 		{
@@ -115,7 +113,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105826"
 		}
 	],
+	"id": 746,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Gress Saltings",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/746"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/230",
-	"id": 230,
 	"agreements": [
 		{
 			"area": 0.05,
@@ -163,7 +161,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101064"
 		}
 	],
+	"id": 230,
 	"localAuthority": "West Lothian",
 	"name": "Blawhorn Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/230"
 }

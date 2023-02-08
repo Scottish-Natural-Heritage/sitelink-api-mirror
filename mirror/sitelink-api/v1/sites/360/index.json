@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/360",
-	"id": 360,
 	"area": 44.01,
 	"casework": [
 		{
@@ -131,7 +129,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101088"
 		}
 	],
+	"id": 360,
 	"localAuthority": "Scottish Borders",
 	"name": "Clarilaw Grasslands",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/360"
 }

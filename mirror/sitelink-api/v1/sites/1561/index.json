@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1561",
-	"id": 1561,
 	"area": 43.72,
 	"casework": [
 		{
@@ -118,7 +116,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000363"
 		}
 	],
+	"id": 1561,
 	"localAuthority": "North Ayrshire",
 	"name": "Trearne Quarry",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1561"
 }

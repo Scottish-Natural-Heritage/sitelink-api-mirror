@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/19",
-	"id": 19,
 	"area": 2.8,
 	"designation": {
 		"code": "SSSI",
@@ -56,7 +54,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000748"
 		}
 	],
+	"id": 19,
 	"localAuthority": "South Ayrshire",
 	"name": "Afton Lodge",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/19"
 }

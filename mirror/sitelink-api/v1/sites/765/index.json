@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/765",
-	"id": 765,
 	"area": 78.84,
 	"casework": [
 		{
@@ -226,7 +224,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107734"
 		}
 	],
+	"id": 765,
 	"localAuthority": "Perth and Kinross",
 	"name": "Hare Myre, Monk Myre and Stormont Loch",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/765"
 }

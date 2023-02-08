@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1291",
-	"id": 1291,
 	"area": 13.81,
 	"casework": [
 		{
@@ -113,7 +111,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106238"
 		}
 	],
+	"id": 1291,
 	"localAuthority": "Perth and Kinross",
 	"name": "Pitarrig Meadow",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1291"
 }

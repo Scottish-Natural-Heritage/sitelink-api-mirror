@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1406",
-	"id": 1406,
 	"area": 36.8,
 	"casework": [
 		{
@@ -200,7 +198,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004058"
 		}
 	],
+	"id": 1406,
 	"localAuthority": "Shetland Islands",
 	"name": "Sandwater",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1406"
 }

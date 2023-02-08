@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/545",
-	"id": 545,
 	"area": 1.27,
 	"casework": [
 		{
@@ -79,7 +77,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000095"
 		}
 	],
+	"id": 545,
 	"localAuthority": "Angus",
 	"name": "Dryleys Brick Pit",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/545"
 }

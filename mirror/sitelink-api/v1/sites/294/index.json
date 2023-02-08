@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/294",
-	"id": 294,
 	"area": 60.04,
 	"casework": [
 		{
@@ -197,7 +195,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101075"
 		}
 	],
+	"id": 294,
 	"localAuthority": "West Lothian",
 	"name": "Calderwood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/294"
 }

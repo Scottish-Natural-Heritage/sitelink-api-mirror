@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/532",
-	"id": 532,
 	"area": 50.6,
 	"casework": [
 		{
@@ -95,7 +93,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000194"
 		}
 	],
+	"id": 532,
 	"localAuthority": "Highland",
 	"name": "Druim Iosal",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/532"
 }

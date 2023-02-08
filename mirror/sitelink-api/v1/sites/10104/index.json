@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10104",
-	"id": 10104,
 	"area": 626.9,
 	"casework": [
 		{
@@ -507,7 +505,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103947"
 		}
 	],
+	"id": 10104,
 	"localAuthority": "Highland",
 	"name": "Onich to North Ballachulish Woods and Shore",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/10104"
 }

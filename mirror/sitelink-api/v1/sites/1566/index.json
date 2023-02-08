@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1566",
-	"id": 1566,
 	"agreements": [
 		{
 			"area": 199,
@@ -1274,10 +1272,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110998"
 		}
 	],
+	"id": 1566,
 	"localAuthority": "Highland",
 	"name": "Trotternish Ridge",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1566"
 }

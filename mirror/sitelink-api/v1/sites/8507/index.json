@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8507",
-	"id": 8507,
 	"area": 1.57,
 	"casework": [
 		{
@@ -86,7 +84,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110306"
 		}
 	],
+	"id": 8507,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glas Eileanan",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8507"
 }

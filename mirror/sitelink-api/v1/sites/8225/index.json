@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8225",
-	"id": 8225,
 	"agreements": [
 		{
 			"area": 61.3,
@@ -290,7 +288,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106724"
 		}
 	],
+	"id": 8225,
 	"localAuthority": "South Lanarkshire",
 	"name": "Coalburn Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8225"
 }

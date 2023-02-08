@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8572",
-	"id": 8572,
 	"area": 5474.35,
 	"casework": [
 		{
@@ -270,7 +268,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107312"
 		}
 	],
+	"id": 8572,
 	"localAuthority": "Shetland Islands",
 	"name": "Ronas Hill - North Roe and Tingon",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8572"
 }

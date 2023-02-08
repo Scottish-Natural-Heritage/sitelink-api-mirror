@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1118",
-	"id": 1118,
 	"area": 24.29,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000112"
 		}
 	],
+	"id": 1118,
 	"localAuthority": "Scottish Borders",
 	"name": "Lynslie Burn",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1118"
 }

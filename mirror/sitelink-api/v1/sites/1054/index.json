@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1054",
-	"id": 1054,
 	"agreements": [
 		{
 			"area": 93.6,
@@ -395,7 +393,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001012"
 		}
 	],
+	"id": 1054,
 	"localAuthority": "Moray",
 	"name": "Loch Spynie",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1054"
 }

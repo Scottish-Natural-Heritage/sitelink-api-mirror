@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1100",
-	"id": 1100,
 	"area": 0.88,
 	"casework": [
 		{
@@ -148,7 +146,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101616"
 		}
 	],
+	"id": 1100,
 	"localAuthority": "Moray",
 	"name": "Lossiemouth East Quarry",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1100"
 }

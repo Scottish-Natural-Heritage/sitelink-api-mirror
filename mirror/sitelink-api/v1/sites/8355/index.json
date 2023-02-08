@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8355",
-	"id": 8355,
 	"area": 272.6,
 	"casework": [
 		{
@@ -1305,7 +1303,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111366"
 		}
 	],
+	"id": 8355,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "River Bladnoch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8355"
 }

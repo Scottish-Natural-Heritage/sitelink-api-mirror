@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1675",
-	"id": 1675,
 	"area": 421.5,
 	"casework": [
 		{
@@ -302,7 +300,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003475"
 		}
 	],
+	"id": 1675,
 	"localAuthority": "Highland",
 	"name": "Longman and Castle Stuart Bays",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1675"
 }

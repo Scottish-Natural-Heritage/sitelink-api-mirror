@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1505",
-	"id": 1505,
 	"area": 232.33,
 	"casework": [
 		{
@@ -155,7 +153,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106392"
 		}
 	],
+	"id": 1505,
 	"localAuthority": "Highland",
 	"name": "Struie Channels",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1505"
 }

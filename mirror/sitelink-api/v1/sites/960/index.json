@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/960",
-	"id": 960,
 	"area": 3.33,
 	"casework": [
 		{
@@ -65,7 +63,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000687"
 		}
 	],
+	"id": 960,
 	"localAuthority": "Highland",
 	"name": "Loch Ashaig",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/960"
 }

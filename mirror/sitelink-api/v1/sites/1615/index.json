@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1615",
-	"id": 1615,
 	"area": 3.46,
 	"casework": [
 		{
@@ -109,7 +107,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106517"
 		}
 	],
+	"id": 1615,
 	"localAuthority": "City of Edinburgh",
 	"name": "Wester Craiglockhart Hill",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1615"
 }

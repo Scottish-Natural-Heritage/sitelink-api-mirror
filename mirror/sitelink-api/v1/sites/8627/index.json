@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8627",
-	"id": 8627,
 	"area": 83.19,
 	"casework": [
 		{
@@ -156,7 +154,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002701"
 		}
 	],
+	"id": 8627,
 	"localAuthority": "Argyll and Bute",
 	"name": "Barran Dubh",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8627"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/763",
-	"id": 763,
 	"area": 2.17,
 	"casework": [
 		{
@@ -103,7 +101,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103235"
 		}
 	],
+	"id": 763,
 	"localAuthority": "Highland",
 	"name": "Hangman's Bridge",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/763"
 }

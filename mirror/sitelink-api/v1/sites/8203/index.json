@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8203",
-	"id": 8203,
 	"agreements": [
 		{
 			"area": 1104,
@@ -425,10 +423,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106675"
 		}
 	],
+	"id": 8203,
 	"localAuthority": "Stirling",
 	"name": "Ben Lui",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8203"
 }

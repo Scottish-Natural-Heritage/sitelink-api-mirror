@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/841",
-	"id": 841,
 	"area": 209.3,
 	"casework": [
 		{
@@ -233,7 +231,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005961"
 		}
 	],
+	"id": 841,
 	"localAuthority": "Argyll and Bute",
 	"name": "Kilberry Coast",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/841"
 }

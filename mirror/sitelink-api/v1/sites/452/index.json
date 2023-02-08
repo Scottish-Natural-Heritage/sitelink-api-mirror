@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/452",
-	"id": 452,
 	"area": 193.3,
 	"casework": [
 		{
@@ -222,7 +220,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107787"
 		}
 	],
+	"id": 452,
 	"localAuthority": "Aberdeenshire",
 	"name": "Crathie Wood",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/452"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1603",
-	"id": 1603,
 	"area": 116.1,
 	"casework": [
 		{
@@ -165,7 +163,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106502"
 		}
 	],
+	"id": 1603,
 	"localAuthority": "Aberdeenshire",
 	"name": "West Bradieston and Craig of Garvock",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1603"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10239",
-	"id": 10239,
 	"agreements": [
 		{
 			"area": 5.42,
@@ -57,7 +55,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005089"
 		}
 	],
+	"id": 10239,
 	"localAuthority": "Renfrewshire",
 	"name": "Whinnerston",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/10239"
 }

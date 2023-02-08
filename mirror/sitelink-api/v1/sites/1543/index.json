@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1543",
-	"id": 1543,
 	"area": 6.1,
 	"casework": [
 		{
@@ -117,7 +115,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106424"
 		}
 	],
+	"id": 1543,
 	"localAuthority": "Perth and Kinross",
 	"name": "Tomnadashan Mine",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1543"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1357",
-	"id": 1357,
 	"area": 140.91,
 	"casework": [
 		{
@@ -196,7 +194,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111251"
 		}
 	],
+	"id": 1357,
 	"localAuthority": "South Lanarkshire",
 	"name": "River Clyde Meanders",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1357"
 }

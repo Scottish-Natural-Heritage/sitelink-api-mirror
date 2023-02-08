@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1475",
-	"id": 1475,
 	"area": 12.36,
 	"casework": [
 		{
@@ -118,7 +116,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000799"
 		}
 	],
+	"id": 1475,
 	"localAuthority": "Shetland Islands",
 	"name": "St Ninian's Tombolo",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1475"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8578",
-	"id": 8578,
 	"area": 5027.31,
 	"casework": [
 		{
@@ -2085,7 +2083,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107342"
 		}
 	],
+	"id": 8578,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "South Uist Machair and Lochs",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8578"
 }

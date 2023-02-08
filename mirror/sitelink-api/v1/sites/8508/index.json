@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8508",
-	"id": 8508,
 	"agreements": [
 		{
 			"area": 4003,
@@ -242,7 +240,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107166"
 		}
 	],
+	"id": 8508,
 	"localAuthority": "Aberdeenshire",
 	"name": "Glen Tanar",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8508"
 }

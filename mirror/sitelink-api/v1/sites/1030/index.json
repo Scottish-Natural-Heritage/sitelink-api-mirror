@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1030",
-	"id": 1030,
 	"area": 99.23,
 	"casework": [
 		{
@@ -115,7 +113,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103831"
 		}
 	],
+	"id": 1030,
 	"localAuthority": "Shetland Islands",
 	"name": "Loch of Girlsta",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1030"
 }

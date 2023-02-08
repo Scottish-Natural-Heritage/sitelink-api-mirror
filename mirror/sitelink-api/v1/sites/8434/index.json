@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8434",
-	"id": 8434,
 	"area": 205.61,
 	"casework": [
 		{
@@ -242,7 +240,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111316"
 		}
 	],
+	"id": 8434,
 	"localAuthority": "Highland",
 	"name": "Loch Eye",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8434"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8567",
-	"id": 8567,
 	"area": 132.02,
 	"casework": [
 		{
@@ -134,7 +132,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003727"
 		}
 	],
+	"id": 8567,
 	"localAuthority": "Highland",
 	"name": "Priest Island (Summer Isles)",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8567"
 }

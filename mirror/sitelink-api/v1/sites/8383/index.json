@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8383",
-	"id": 8383,
 	"area": 25467.57,
 	"casework": [
 		{
@@ -487,10 +485,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110061"
 		}
 	],
+	"id": 8383,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "St Kilda",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8383"
 }

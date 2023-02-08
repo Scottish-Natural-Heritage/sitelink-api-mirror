@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/511",
-	"id": 511,
 	"area": 36.52,
 	"casework": [
 		{
@@ -138,7 +136,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102813"
 		}
 	],
+	"id": 511,
 	"localAuthority": "Angus",
 	"name": "Dilty Moss",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/511"
 }

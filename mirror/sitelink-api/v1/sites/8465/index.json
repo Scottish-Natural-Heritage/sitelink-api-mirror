@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8465",
-	"id": 8465,
 	"area": 1158.19,
 	"casework": [
 		{
@@ -154,7 +152,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005096"
 		}
 	],
+	"id": 8465,
 	"localAuthority": "Highland",
 	"name": "Assynt Lochs",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8465"
 }

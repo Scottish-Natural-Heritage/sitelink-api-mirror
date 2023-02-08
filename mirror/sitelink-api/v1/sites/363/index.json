@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/363",
-	"id": 363,
 	"area": 46.18,
 	"casework": [
 		{
@@ -191,7 +189,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107661"
 		}
 	],
+	"id": 363,
 	"localAuthority": "North Ayrshire",
 	"name": "Clauchlands Point - Corrygills",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/363"
 }

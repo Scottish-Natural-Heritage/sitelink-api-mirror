@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1422",
-	"id": 1422,
 	"area": 1187.78,
 	"casework": [
 		{
@@ -108,10 +106,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102653"
 		}
 	],
+	"id": 1422,
 	"localAuthority": "South Lanarkshire",
 	"name": "Shiel Dod",
 	"secondaryLocalAuthorities": [
 		"Dumfries and Galloway"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1422"
 }

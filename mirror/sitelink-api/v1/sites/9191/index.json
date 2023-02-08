@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/9191",
-	"id": 9191,
 	"area": 1943.01,
 	"casework": [
 		{
@@ -234,7 +232,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107607"
 		}
 	],
+	"id": 9191,
 	"localAuthority": "Argyll and Bute",
 	"name": "The Oa",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/9191"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/47",
-	"id": 47,
 	"area": 9.82,
 	"casework": [
 		{
@@ -75,7 +73,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000554"
 		}
 	],
+	"id": 47,
 	"localAuthority": "Highland",
 	"name": "Allt nan Carnan",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/47"
 }

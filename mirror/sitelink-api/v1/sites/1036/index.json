@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1036",
-	"id": 1036,
 	"area": 47.05,
 	"casework": [
 		{
@@ -101,7 +99,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001080"
 		}
 	],
+	"id": 1036,
 	"localAuthority": "Aberdeenshire",
 	"name": "Loch of Park",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1036"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/990",
-	"id": 990,
 	"area": 1.19,
 	"casework": [
 		{
@@ -71,7 +69,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102610"
 		}
 	],
+	"id": 990,
 	"localAuthority": "West Dunbartonshire",
 	"name": "Loch Humphrey Burn",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/990"
 }

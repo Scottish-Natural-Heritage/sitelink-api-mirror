@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1240",
-	"id": 1240,
 	"area": 138.79,
 	"casework": [
 		{
@@ -167,7 +165,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103591"
 		}
 	],
+	"id": 1240,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "North Rona and Sula Sgeir",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1240"
 }

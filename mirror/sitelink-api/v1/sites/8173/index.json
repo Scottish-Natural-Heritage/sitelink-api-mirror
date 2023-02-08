@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8173",
-	"id": 8173,
 	"area": 5266.95,
 	"casework": [
 		{
@@ -673,7 +671,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104431"
 		}
 	],
+	"id": 8173,
 	"localAuthority": "Highland",
 	"name": "Kinloch and Kyleakin Hills (Monadh Chaol Acainn is Cheann Loch)",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8173"
 }

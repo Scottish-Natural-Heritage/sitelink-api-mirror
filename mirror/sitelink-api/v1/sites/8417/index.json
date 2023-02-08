@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8417",
-	"id": 8417,
 	"area": 2210.38,
 	"casework": [
 		{
@@ -126,7 +124,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 8417,
 	"localAuthority": "Argyll and Bute",
 	"name": "Coll",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8417"
 }

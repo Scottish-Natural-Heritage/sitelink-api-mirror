@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/843",
-	"id": 843,
 	"area": 46.44,
 	"casework": [
 		{
@@ -162,7 +160,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101282"
 		}
 	],
+	"id": 843,
 	"localAuthority": "Fife",
 	"name": "Kilconquhar Loch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/843"
 }

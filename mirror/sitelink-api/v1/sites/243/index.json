@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/243",
-	"id": 243,
 	"area": 890.83,
 	"casework": [
 		{
@@ -141,7 +139,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112139"
 		}
 	],
+	"id": 243,
 	"localAuthority": "Argyll and Bute",
 	"name": "Bonawe to Cadderlie",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/243"
 }

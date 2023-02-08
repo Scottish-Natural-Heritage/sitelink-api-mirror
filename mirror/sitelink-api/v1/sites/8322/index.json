@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8322",
-	"id": 8322,
 	"agreements": [
 		{
 			"area": 7.45,
@@ -210,10 +208,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109941"
 		}
 	],
+	"id": 8322,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Monach Islands",
 	"secondaryLocalAuthorities": [
 		"Comhairle nan Eilean Siar (Western Isles)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8322"
 }

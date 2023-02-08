@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1261",
-	"id": 1261,
 	"area": 18.44,
 	"casework": [
 		{
@@ -85,7 +83,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000901"
 		}
 	],
+	"id": 1261,
 	"localAuthority": "Fife",
 	"name": "Otterston Loch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1261"
 }

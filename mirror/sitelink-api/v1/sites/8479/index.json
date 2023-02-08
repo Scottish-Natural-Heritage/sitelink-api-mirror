@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8479",
-	"id": 8479,
 	"area": 68.71,
 	"casework": [
 		{
@@ -552,7 +550,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101078"
 		}
 	],
+	"id": 8479,
 	"localAuthority": "Fife",
 	"name": "Cameron Reservoir",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8479"
 }

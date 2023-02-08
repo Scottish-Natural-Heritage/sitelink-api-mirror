@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1582",
-	"id": 1582,
 	"area": 76.82,
 	"casework": [
 		{
@@ -214,7 +212,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106469"
 		}
 	],
+	"id": 1582,
 	"localAuthority": "South Lanarkshire",
 	"name": "Upper Nethan Valley Woods",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1582"
 }

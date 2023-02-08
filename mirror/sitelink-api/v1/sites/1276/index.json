@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1276",
-	"id": 1276,
 	"area": 69.51,
 	"casework": [
 		{
@@ -228,7 +226,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101338"
 		}
 	],
+	"id": 1276,
 	"localAuthority": "Scottish Borders",
 	"name": "Pease Bay Coast",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1276"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1043",
-	"id": 1043,
 	"area": 8.71,
 	"casework": [
 		{
@@ -243,7 +241,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003867"
 		}
 	],
+	"id": 1043,
 	"localAuthority": "Moray",
 	"name": "Loch Oire",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1043"
 }

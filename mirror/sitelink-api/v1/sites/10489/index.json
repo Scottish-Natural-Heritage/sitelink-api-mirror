@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10489",
-	"id": 10489,
 	"area": 341214.5,
 	"casework": [
 		{
@@ -138,11 +136,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 10489,
 	"localAuthority": "UK Offshore waters (Scotland)",
 	"name": "Seas off Foula",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)",
 		"Shetland Islands"
 	],
-	"snhArea": "JNCC"
+	"snhArea": "JNCC",
+	"url": "/sitelink-api/v1/sites/10489"
 }

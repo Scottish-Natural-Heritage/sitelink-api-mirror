@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/991",
-	"id": 991,
 	"area": 267,
 	"designation": {
 		"code": "SSSI",
@@ -76,7 +74,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103502"
 		}
 	],
+	"id": 991,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch Laxavat Ard and Loch Laxavat Iorach",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/991"
 }

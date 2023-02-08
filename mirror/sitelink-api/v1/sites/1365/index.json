@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1365",
-	"id": 1365,
 	"area": 48.54,
 	"casework": [
 		{
@@ -466,7 +464,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110711"
 		}
 	],
+	"id": 1365,
 	"localAuthority": "Highland",
 	"name": "River Thurso",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1365"
 }

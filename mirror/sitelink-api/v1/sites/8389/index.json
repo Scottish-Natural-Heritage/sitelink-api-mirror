@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8389",
-	"id": 8389,
 	"area": 10230.22,
 	"casework": [
 		{
@@ -3066,10 +3064,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110081"
 		}
 	],
+	"id": 8389,
 	"localAuthority": "Highland",
 	"name": "Sunart",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8389"
 }

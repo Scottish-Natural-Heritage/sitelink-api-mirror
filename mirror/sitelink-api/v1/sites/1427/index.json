@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1427",
-	"id": 1427,
 	"area": 77.89,
 	"casework": [
 		{
@@ -376,7 +374,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 1427,
 	"localAuthority": "Perth and Kinross",
 	"name": "Shingle Islands",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1427"
 }

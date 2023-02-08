@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/528",
-	"id": 528,
 	"area": 10.13,
 	"casework": [
 		{
@@ -91,7 +89,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105674"
 		}
 	],
+	"id": 528,
 	"localAuthority": "Stirling",
 	"name": "Double Craigs",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/528"
 }

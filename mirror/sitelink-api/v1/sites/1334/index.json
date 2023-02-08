@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1334",
-	"id": 1334,
 	"area": 41.13,
 	"casework": [
 		{
@@ -199,7 +197,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100612"
 		}
 	],
+	"id": 1334,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Ravenshall Wood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1334"
 }

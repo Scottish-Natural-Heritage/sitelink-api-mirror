@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1607",
-	"id": 1607,
 	"agreements": [
 		{
 			"area": 194.4,
@@ -777,7 +775,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111895"
 		}
 	],
+	"id": 1607,
 	"localAuthority": "Highland",
 	"name": "West Halladale",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1607"
 }

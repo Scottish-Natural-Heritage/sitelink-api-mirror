@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/974",
-	"id": 974,
 	"area": 5.16,
 	"casework": [
 		{
@@ -61,7 +59,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002677"
 		}
 	],
+	"id": 974,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch Dalbeg",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/974"
 }

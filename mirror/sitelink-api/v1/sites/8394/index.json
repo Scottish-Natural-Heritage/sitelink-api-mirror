@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8394",
-	"id": 8394,
 	"area": 53.18,
 	"casework": [
 		{
@@ -110,7 +108,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106941"
 		}
 	],
+	"id": 8394,
 	"localAuthority": "Scottish Borders",
 	"name": "Threepwood Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8394"
 }

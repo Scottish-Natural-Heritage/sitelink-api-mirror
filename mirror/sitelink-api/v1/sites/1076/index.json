@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1076",
-	"id": 1076,
 	"area": 17.49,
 	"casework": [
 		{
@@ -171,10 +169,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102957"
 		}
 	],
+	"id": 1076,
 	"localAuthority": "Perth and Kinross",
 	"name": "Lochindores",
 	"secondaryLocalAuthorities": [
 		"Angus"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1076"
 }

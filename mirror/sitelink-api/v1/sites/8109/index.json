@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8109",
-	"id": 8109,
 	"area": 1388.32,
 	"casework": [
 		{
@@ -127,7 +125,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109543"
 		}
 	],
+	"id": 8109,
 	"localAuthority": "Shetland Islands",
 	"name": "Otterswick",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8109"
 }

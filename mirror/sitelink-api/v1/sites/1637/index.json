@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1637",
-	"id": 1637,
 	"area": 6.02,
 	"casework": [
 		{
@@ -85,7 +83,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101431"
 		}
 	],
+	"id": 1637,
 	"localAuthority": "Scottish Borders",
 	"name": "Whitlaw Rig",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1637"
 }

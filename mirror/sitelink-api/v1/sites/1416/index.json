@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1416",
-	"id": 1416,
 	"area": 4.34,
 	"casework": [
 		{
@@ -107,7 +105,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106332"
 		}
 	],
+	"id": 1416,
 	"localAuthority": "Scottish Borders",
 	"name": "Selkirk Racecourse Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1416"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1155",
-	"id": 1155,
 	"area": 22.87,
 	"casework": [
 		{
@@ -75,7 +73,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106111"
 		}
 	],
+	"id": 1155,
 	"localAuthority": "Orkney Islands",
 	"name": "Mill Loch",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1155"
 }

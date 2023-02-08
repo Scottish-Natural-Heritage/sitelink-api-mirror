@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/387",
-	"id": 387,
 	"area": 3512,
 	"casework": [
 		{
@@ -210,7 +208,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110965"
 		}
 	],
+	"id": 387,
 	"localAuthority": "Highland",
 	"name": "Coire na Beinne Mires",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/387"
 }

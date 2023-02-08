@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/67",
-	"id": 67,
 	"area": 579.97,
 	"casework": [
 		{
@@ -175,10 +173,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112138"
 		}
 	],
+	"id": 67,
 	"localAuthority": "Highland",
 	"name": "Ard Trilleachan",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/67"
 }

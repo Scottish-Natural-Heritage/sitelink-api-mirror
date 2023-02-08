@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1171",
-	"id": 1171,
 	"area": 456.36,
 	"casework": [
 		{
@@ -169,7 +167,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100588"
 		}
 	],
+	"id": 1171,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Mochrum Lochs",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1171"
 }

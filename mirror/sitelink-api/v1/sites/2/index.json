@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/2",
-	"id": 2,
 	"area": 181.16,
 	"casework": [
 		{
@@ -260,7 +258,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105299"
 		}
 	],
+	"id": 2,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Abbey Burn Foot to Balcary Point",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/2"
 }

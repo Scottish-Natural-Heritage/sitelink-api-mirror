@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/9197",
-	"id": 9197,
 	"area": 2016.85,
 	"casework": [
 		{
@@ -110,7 +108,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110555"
 		}
 	],
+	"id": 9197,
 	"localAuthority": "Argyll and Bute",
 	"name": "Oronsay and South Colonsay",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/9197"
 }

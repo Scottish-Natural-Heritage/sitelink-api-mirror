@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/39",
-	"id": 39,
 	"area": 51.34,
 	"casework": [
 		{
@@ -119,7 +117,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100004"
 		}
 	],
+	"id": 39,
 	"localAuthority": "Argyll and Bute",
 	"name": "Allt Coire Chailein",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/39"
 }

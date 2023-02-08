@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/602",
-	"id": 602,
 	"area": 388.28,
 	"casework": [
 		{
@@ -168,7 +166,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103192"
 		}
 	],
+	"id": 602,
 	"localAuthority": "Highland",
 	"name": "Eigg - Laig to Kildonnan",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/602"
 }

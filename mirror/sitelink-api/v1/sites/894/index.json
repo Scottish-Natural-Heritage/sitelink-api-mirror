@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/894",
-	"id": 894,
 	"area": 2.56,
 	"casework": [
 		{
@@ -71,7 +69,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000297"
 		}
 	],
+	"id": 894,
 	"localAuthority": "South Ayrshire",
 	"name": "Laggan Burn",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/894"
 }

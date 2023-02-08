@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/630",
-	"id": 630,
 	"area": 22.16,
 	"casework": [
 		{
@@ -198,7 +196,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101153"
 		}
 	],
+	"id": 630,
 	"localAuthority": "Fife",
 	"name": "Ferry Hills",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/630"
 }

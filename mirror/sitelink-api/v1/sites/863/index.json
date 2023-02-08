@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/863",
-	"id": 863,
 	"area": 142.5,
 	"casework": [
 		{
@@ -95,7 +93,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100241"
 		}
 	],
+	"id": 863,
 	"localAuthority": "Argyll and Bute",
 	"name": "Kinuachdrach",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/863"
 }

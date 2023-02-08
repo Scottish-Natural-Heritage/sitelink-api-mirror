@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/260",
-	"id": 260,
 	"area": 331.16,
 	"casework": [
 		{
@@ -161,7 +159,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100088"
 		}
 	],
+	"id": 260,
 	"localAuthority": "Argyll and Bute",
 	"name": "Bridgend Flats",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/260"
 }

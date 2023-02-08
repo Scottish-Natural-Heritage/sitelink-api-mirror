@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1587",
-	"id": 1587,
 	"area": 306.11,
 	"casework": [
 		{
@@ -175,7 +173,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106489"
 		}
 	],
+	"id": 1587,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Vallay",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1587"
 }

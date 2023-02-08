@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/32",
-	"id": 32,
 	"area": 35.58,
 	"casework": [
 		{
@@ -164,7 +162,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105325"
 		}
 	],
+	"id": 32,
 	"localAuthority": "Scottish Borders",
 	"name": "Alemoor West Loch and Meadow",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/32"
 }

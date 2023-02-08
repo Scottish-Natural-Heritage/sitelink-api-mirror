@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1415",
-	"id": 1415,
 	"area": 0.94,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003510"
 		}
 	],
+	"id": 1415,
 	"localAuthority": "Shetland Islands",
 	"name": "Sel Ayre",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1415"
 }

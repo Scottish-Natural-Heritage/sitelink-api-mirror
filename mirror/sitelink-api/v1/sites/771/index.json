@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/771",
-	"id": 771,
 	"agreements": [
 		{
 			"area": 8.62,
@@ -244,7 +242,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100231"
 		}
 	],
+	"id": 771,
 	"localAuthority": "Argyll and Bute",
 	"name": "Hells Glen",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/771"
 }

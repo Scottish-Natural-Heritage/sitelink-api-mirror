@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/826",
-	"id": 826,
 	"area": 923.99,
 	"casework": [
 		{
@@ -334,7 +332,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111334"
 		}
 	],
+	"id": 826,
 	"localAuthority": "Orkney Islands",
 	"name": "Keelylang Hill and Swartaback Burn",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/826"
 }

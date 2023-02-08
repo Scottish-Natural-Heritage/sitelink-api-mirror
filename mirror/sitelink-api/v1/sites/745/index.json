@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/745",
-	"id": 745,
 	"area": 6.36,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105825"
 		}
 	],
+	"id": 745,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Grennan Bay",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/745"
 }

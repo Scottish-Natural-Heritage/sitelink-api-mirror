@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1055",
-	"id": 1055,
 	"area": 727.69,
 	"casework": [
 		{
@@ -345,7 +343,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001081"
 		}
 	],
+	"id": 1055,
 	"localAuthority": "Highland",
 	"name": "Loch Stack and River Laxford",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1055"
 }

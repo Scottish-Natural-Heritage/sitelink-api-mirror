@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1225",
-	"id": 1225,
 	"area": 1.54,
 	"casework": [
 		{
@@ -64,7 +62,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108983"
 		}
 	],
+	"id": 1225,
 	"localAuthority": "East Ayrshire",
 	"name": "Nith Bridge",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1225"
 }

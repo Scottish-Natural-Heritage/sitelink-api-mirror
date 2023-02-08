@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/486",
-	"id": 486,
 	"area": 5.63,
 	"casework": [
 		{
@@ -69,7 +67,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105641"
 		}
 	],
+	"id": 486,
 	"localAuthority": "Shetland Islands",
 	"name": "Dales Voe",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/486"
 }

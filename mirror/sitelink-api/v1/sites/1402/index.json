@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1402",
-	"id": 1402,
 	"area": 81.45,
 	"casework": [
 		{
@@ -202,7 +200,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107509"
 		}
 	],
+	"id": 1402,
 	"localAuthority": "Argyll and Bute",
 	"name": "Sanda Islands",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1402"
 }

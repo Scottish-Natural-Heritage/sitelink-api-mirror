@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1186",
-	"id": 1186,
 	"area": 8832.23,
 	"casework": [
 		{
@@ -1065,10 +1063,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106135"
 		}
 	],
+	"id": 1186,
 	"localAuthority": "Scottish Borders",
 	"name": "Moorfoot Hills",
 	"secondaryLocalAuthorities": [
 		"Midlothian"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1186"
 }

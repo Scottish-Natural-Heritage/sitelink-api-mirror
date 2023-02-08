@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/676",
-	"id": 676,
 	"area": 3.48,
 	"designation": {
 		"code": "SSSI",
@@ -56,7 +54,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100875"
 		}
 	],
+	"id": 676,
 	"localAuthority": "Highland",
 	"name": "Gartally Limestone Quarries",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/676"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/79",
-	"id": 79,
 	"area": 53,
 	"casework": [
 		{
@@ -155,7 +153,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105343"
 		}
 	],
+	"id": 79,
 	"localAuthority": "North Ayrshire",
 	"name": "Ardrossan to Saltcoats Coast",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/79"
 }

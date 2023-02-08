@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8582",
-	"id": 8582,
 	"area": 2478.91,
 	"casework": [
 		{
@@ -262,10 +260,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107355"
 		}
 	],
+	"id": 8582,
 	"localAuthority": "Shetland Islands",
 	"name": "Sumburgh Head",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8582"
 }

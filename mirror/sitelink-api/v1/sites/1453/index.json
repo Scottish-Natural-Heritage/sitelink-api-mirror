@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1453",
-	"id": 1453,
 	"area": 80.99,
 	"casework": [
 		{
@@ -138,10 +136,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112096"
 		}
 	],
+	"id": 1453,
 	"localAuthority": "Argyll and Bute",
 	"name": "South Kerrera and Gallanach",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1453"
 }

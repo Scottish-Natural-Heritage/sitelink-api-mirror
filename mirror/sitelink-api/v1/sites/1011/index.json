@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1011",
-	"id": 1011,
 	"area": 20.88,
 	"casework": [
 		{
@@ -83,7 +81,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105996"
 		}
 	],
+	"id": 1011,
 	"localAuthority": "Highland",
 	"name": "Loch Meodal",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1011"
 }

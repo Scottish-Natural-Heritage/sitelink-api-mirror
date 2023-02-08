@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/666",
-	"id": 666,
 	"area": 314.79,
 	"casework": [
 		{
@@ -322,7 +320,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103756"
 		}
 	],
+	"id": 666,
 	"localAuthority": "Aberdeenshire",
 	"name": "Gamrie and Pennan Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/666"
 }

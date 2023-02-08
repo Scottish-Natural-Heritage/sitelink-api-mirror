@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/551",
-	"id": 551,
 	"area": 4.45,
 	"casework": [
 		{
@@ -124,7 +122,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102554"
 		}
 	],
+	"id": 551,
 	"localAuthority": "West Dunbartonshire",
 	"name": "Dumbarton Rock",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/551"
 }

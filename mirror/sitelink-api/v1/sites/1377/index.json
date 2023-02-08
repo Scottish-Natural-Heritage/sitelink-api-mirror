@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1377",
-	"id": 1377,
 	"agreements": [
 		{
 			"area": 8.66,
@@ -116,7 +114,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106305"
 		}
 	],
+	"id": 1377,
 	"localAuthority": "Highland",
 	"name": "Roskill",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1377"
 }

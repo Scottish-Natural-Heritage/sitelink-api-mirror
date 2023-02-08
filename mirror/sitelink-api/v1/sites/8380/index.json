@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8380",
-	"id": 8380,
 	"area": 3437.71,
 	"casework": [
 		{
@@ -2021,10 +2019,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103637"
 		}
 	],
+	"id": 8380,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "South Uist Machair",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8380"
 }

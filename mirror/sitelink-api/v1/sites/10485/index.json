@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10485",
-	"id": 10485,
 	"area": 79475.15,
 	"casework": [
 		{
@@ -139,10 +137,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112801"
 		}
 	],
+	"id": 10485,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Coll and Tiree",
 	"secondaryLocalAuthorities": [
 		"Argyll and Bute"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/10485"
 }

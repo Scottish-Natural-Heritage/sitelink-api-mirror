@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/356",
-	"id": 356,
 	"area": 7.33,
 	"casework": [
 		{
@@ -65,7 +63,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100096"
 		}
 	],
+	"id": 356,
 	"localAuthority": "Argyll and Bute",
 	"name": "Clach Tholl",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/356"
 }

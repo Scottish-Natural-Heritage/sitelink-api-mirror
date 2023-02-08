@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8437",
-	"id": 8437,
 	"agreements": [
 		{
 			"area": 6,
@@ -138,10 +136,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 8437,
 	"localAuthority": "West Dunbartonshire",
 	"name": "Loch Lomond",
 	"secondaryLocalAuthorities": [
 		"Stirling"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8437"
 }

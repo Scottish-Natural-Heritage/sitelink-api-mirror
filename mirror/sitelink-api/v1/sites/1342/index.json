@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1342",
-	"id": 1342,
 	"area": 8.25,
 	"casework": [
 		{
@@ -71,10 +69,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102646"
 		}
 	],
+	"id": 1342,
 	"localAuthority": "South Lanarkshire",
 	"name": "Ree Burn and Glenbuck Loch",
 	"secondaryLocalAuthorities": [
 		"East Ayrshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1342"
 }

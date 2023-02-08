@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8493",
-	"id": 8493,
 	"agreements": [
 		{
 			"area": 10.9,
@@ -622,7 +620,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107075"
 		}
 	],
+	"id": 8493,
 	"localAuthority": "Orkney Islands",
 	"name": "East Sanday Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8493"
 }

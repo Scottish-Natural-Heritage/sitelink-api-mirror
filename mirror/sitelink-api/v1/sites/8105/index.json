@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8105",
-	"id": 8105,
 	"agreements": [
 		{
 			"area": 61.89,
@@ -339,7 +337,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111529"
 		}
 	],
+	"id": 8105,
 	"localAuthority": "Argyll and Bute",
 	"name": "Knapdale Lochs",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8105"
 }

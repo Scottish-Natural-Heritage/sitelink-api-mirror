@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/232",
-	"id": 232,
 	"area": 10.1,
 	"casework": [
 		{
@@ -79,7 +77,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105473"
 		}
 	],
+	"id": 232,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Blood Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/232"
 }

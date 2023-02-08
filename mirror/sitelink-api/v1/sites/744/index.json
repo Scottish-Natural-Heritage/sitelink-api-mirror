@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/744",
-	"id": 744,
 	"area": 9.06,
 	"casework": [
 		{
@@ -67,7 +65,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105824"
 		}
 	],
+	"id": 744,
 	"localAuthority": "East Ayrshire",
 	"name": "Greenock Mains",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/744"
 }

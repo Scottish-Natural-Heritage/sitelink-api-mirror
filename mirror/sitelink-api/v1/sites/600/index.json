@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/600",
-	"id": 600,
 	"area": 957.16,
 	"casework": [
 		{
@@ -231,7 +229,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105718"
 		}
 	],
+	"id": 600,
 	"localAuthority": "Highland",
 	"name": "Eigg - An Sgurr and Gleann Charadail",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/600"
 }

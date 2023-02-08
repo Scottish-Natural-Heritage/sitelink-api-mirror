@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1038",
-	"id": 1038,
 	"area": 120.9,
 	"casework": [
 		{
@@ -246,7 +244,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107791"
 		}
 	],
+	"id": 1038,
 	"localAuthority": "Aberdeenshire",
 	"name": "Loch of Skene",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1038"
 }

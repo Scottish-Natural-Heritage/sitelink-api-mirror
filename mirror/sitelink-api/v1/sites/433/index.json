@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/433",
-	"id": 433,
 	"area": 4.27,
 	"designation": {
 		"code": "SSSI",
@@ -56,7 +54,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102548"
 		}
 	],
+	"id": 433,
 	"localAuthority": "South Lanarkshire",
 	"name": "Craighead Hill Quarry",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/433"
 }

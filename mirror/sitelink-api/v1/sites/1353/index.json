@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1353",
-	"id": 1353,
 	"area": 52.44,
 	"casework": [
 		{
@@ -69,7 +67,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106277"
 		}
 	],
+	"id": 1353,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Ring Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1353"
 }

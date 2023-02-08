@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1203",
-	"id": 1203,
 	"area": 12.01,
 	"casework": [
 		{
@@ -117,7 +115,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106149"
 		}
 	],
+	"id": 1203,
 	"localAuthority": "Scottish Borders",
 	"name": "Mount Bog",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1203"
 }

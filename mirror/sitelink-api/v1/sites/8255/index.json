@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8255",
-	"id": 8255,
 	"area": 375.8,
 	"casework": [
 		{
@@ -80,7 +78,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100176"
 		}
 	],
+	"id": 8255,
 	"localAuthority": "Argyll and Bute",
 	"name": "Feur Lochain",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8255"
 }

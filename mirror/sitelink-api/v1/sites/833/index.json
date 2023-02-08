@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/833",
-	"id": 833,
 	"area": 153.07,
 	"casework": [
 		{
@@ -207,7 +205,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100534"
 		}
 	],
+	"id": 833,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Kenmure Holms",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/833"
 }

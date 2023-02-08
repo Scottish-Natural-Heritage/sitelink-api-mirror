@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8625",
-	"id": 8625,
 	"area": 484.37,
 	"casework": [
 		{
@@ -78,7 +76,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112775"
 		}
 	],
+	"id": 8625,
 	"localAuthority": "Aberdeenshire",
 	"name": "The Maim",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8625"
 }

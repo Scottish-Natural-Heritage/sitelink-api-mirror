@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/361",
-	"id": 361,
 	"area": 22.66,
 	"casework": [
 		{
@@ -158,10 +156,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107614"
 		}
 	],
+	"id": 361,
 	"localAuthority": "Moray",
 	"name": "Clashach - Covesea",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/361"
 }

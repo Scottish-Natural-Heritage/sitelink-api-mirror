@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8413",
-	"id": 8413,
 	"area": 1381.19,
 	"casework": [
 		{
@@ -1545,7 +1543,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110547"
 		}
 	],
+	"id": 8413,
 	"localAuthority": "Highland",
 	"name": "Caithness Lochs",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8413"
 }

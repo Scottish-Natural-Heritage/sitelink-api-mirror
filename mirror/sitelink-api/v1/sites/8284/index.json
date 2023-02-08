@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8284",
-	"id": 8284,
 	"area": 60.86,
 	"casework": [
 		{
@@ -266,7 +264,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100244"
 		}
 	],
+	"id": 8284,
 	"localAuthority": "Stirling",
 	"name": "Kippenrait Glen",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8284"
 }

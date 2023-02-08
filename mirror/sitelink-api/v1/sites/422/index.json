@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/422",
-	"id": 422,
 	"area": 122.47,
 	"casework": [
 		{
@@ -196,7 +194,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102790"
 		}
 	],
+	"id": 422,
 	"localAuthority": "Perth and Kinross",
 	"name": "Craig Rossie",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/422"
 }

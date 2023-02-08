@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/233",
-	"id": 233,
 	"area": 162.49,
 	"casework": [
 		{
@@ -108,10 +106,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107407"
 		}
 	],
+	"id": 233,
 	"localAuthority": "East Ayrshire",
 	"name": "Blood Moss and Slot Burn",
 	"secondaryLocalAuthorities": [
 		"South Lanarkshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/233"
 }

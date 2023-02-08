@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/747",
-	"id": 747,
 	"area": 223.07,
 	"casework": [
 		{
@@ -159,10 +157,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104123"
 		}
 	],
+	"id": 747,
 	"localAuthority": "Argyll and Bute",
 	"name": "Gribun Shore and Crags",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/747"
 }

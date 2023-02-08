@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1486",
-	"id": 1486,
 	"area": 1846.13,
 	"casework": [
 		{
@@ -621,10 +619,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103385"
 		}
 	],
+	"id": 1486,
 	"localAuthority": "Highland",
 	"name": "Strath",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1486"
 }

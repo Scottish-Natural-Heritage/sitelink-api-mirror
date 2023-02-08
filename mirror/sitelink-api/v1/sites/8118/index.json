@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8118",
-	"id": 8118,
 	"area": 1003.93,
 	"casework": [
 		{
@@ -99,7 +97,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111202"
 		}
 	],
+	"id": 8118,
 	"localAuthority": "Highland",
 	"name": "Garbh Shlios",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8118"
 }

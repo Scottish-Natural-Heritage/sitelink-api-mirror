@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1609",
-	"id": 1609,
 	"area": 534.86,
 	"casework": [
 		{
@@ -294,7 +292,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000783"
 		}
 	],
+	"id": 1609,
 	"localAuthority": "Argyll and Bute",
 	"name": "West Loch Lomondside Woodlands",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1609"
 }

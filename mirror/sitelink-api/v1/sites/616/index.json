@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/616",
-	"id": 616,
 	"area": 33.3,
 	"casework": [
 		{
@@ -96,7 +94,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101527"
 		}
 	],
+	"id": 616,
 	"localAuthority": "Aberdeenshire",
 	"name": "Eslie Moss",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/616"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8521",
-	"id": 8521,
 	"area": 1225.62,
 	"casework": [
 		{
@@ -216,10 +214,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110316"
 		}
 	],
+	"id": 8521,
 	"localAuthority": "Argyll and Bute",
 	"name": "Laggan, Islay",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8521"
 }

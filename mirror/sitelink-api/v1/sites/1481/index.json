@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1481",
-	"id": 1481,
 	"area": 6.94,
 	"casework": [
 		{
@@ -130,7 +128,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101383"
 		}
 	],
+	"id": 1481,
 	"localAuthority": "Fife",
 	"name": "Steelend Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1481"
 }

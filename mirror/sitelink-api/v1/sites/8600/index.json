@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8600",
-	"id": 8600,
 	"area": 64.2,
 	"casework": [
 		{
@@ -109,7 +107,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110823"
 		}
 	],
+	"id": 8600,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Raeburn Flow",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8600"
 }

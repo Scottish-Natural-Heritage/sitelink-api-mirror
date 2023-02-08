@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10483",
-	"id": 10483,
 	"area": 3823.27,
 	"casework": [
 		{
@@ -609,10 +607,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 10483,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Bluemull and Colgrave Sounds",
 	"secondaryLocalAuthorities": [
 		"Shetland Islands"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/10483"
 }

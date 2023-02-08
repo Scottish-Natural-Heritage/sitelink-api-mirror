@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8289",
-	"id": 8289,
 	"area": 27955.02,
 	"casework": [
 		{
@@ -435,7 +433,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103476"
 		}
 	],
+	"id": 8289,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Lewis Peatlands",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8289"
 }
