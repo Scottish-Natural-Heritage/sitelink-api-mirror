@@ -334,14 +334,13 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "SSSI Map",
-			"size": 3321,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1535/documents/33"
-		},
-		{
 			"type": "Operations Requiring Consent",
 			"size": 19,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1535/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1535"
 		},
 		{
 			"type": "Site Management Statement",
@@ -354,8 +353,9 @@
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1535/documents/1"
 		},
 		{
-			"type": "Scotland's Environment - Feature Condition",
-			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1535"
+			"type": "SSSI Map",
+			"size": 3321,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1535/documents/33"
 		}
 	],
 	"euCode": "135653",

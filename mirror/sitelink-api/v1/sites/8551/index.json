@@ -108,19 +108,17 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "SPA Citation",
-			"size": 90,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8551/documents/16"
-		},
-		{
 			"type": "Conservation Objectives",
 			"size": 33,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8551/documents/29"
 		},
 		{
-			"type": "SPA Map",
-			"size": 659,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8551/documents/45"
+			"type": "JNCC SPA Data Form",
+			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002361.pdf"
+		},
+		{
+			"type": "JNCC SPA Site Details",
+			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002361"
 		},
 		{
 			"type": "MPA Network Advice",
@@ -131,12 +129,14 @@
 			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8551"
 		},
 		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002361"
+			"type": "SPA Citation",
+			"size": 90,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8551/documents/16"
 		},
 		{
-			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002361.pdf"
+			"type": "SPA Map",
+			"size": 659,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8551/documents/45"
 		}
 	],
 	"euCode": "UK9002361",

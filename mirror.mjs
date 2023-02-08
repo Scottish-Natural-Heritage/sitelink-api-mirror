@@ -141,6 +141,14 @@ const compareCaseworks = (a, b) => {
     return a.code.localeCompare(b.code);
 }
 
+const compareDocuments = (a, b) => {
+    if (a.type.localeCompare(b.type) !== 0) {
+        return a.type.localeCompare(b.type);
+    }
+
+    return a.url.localeCompare(b.url);
+}
+
 //#endregion
 
 //#region Main Script
@@ -209,17 +217,19 @@ while (siteQueue.length != 0) {
 
         // Fix the object so the URL references are relative to our potential
         // new mirror location.
-        const { url, id, agreements, casework, ...restOfSite } = site;
+        const { url, id, agreements, casework, documents, ...restOfSite } = site;
         const newUrl = `/${baseUrl}/${id}`;
 
         const sortedAs = agreements?.sort(compareAgreements);
         const sortedCs = casework?.sort(compareCaseworks);
+        const sortedDs = documents?.sort(compareDocuments);
 
         const unorderedSite = {
             url: newUrl,
             id,
             agreements: sortedAs,
             casework: sortedCs,
+            documents: sortedDs,
             ...restOfSite
         };
         const fixedSite = Object.keys(unorderedSite).sort().reduce(

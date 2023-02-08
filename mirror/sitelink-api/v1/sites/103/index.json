@@ -90,14 +90,18 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "Site Management Statement",
-			"size": 101,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/103/documents/3"
-		},
-		{
 			"type": "Operations Requiring Consent",
 			"size": 30,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/103/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=103"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 101,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/103/documents/3"
 		},
 		{
 			"type": "SSSI Citation",
@@ -108,10 +112,6 @@
 			"type": "SSSI Map",
 			"size": 2332,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/103/documents/33"
-		},
-		{
-			"type": "Scotland's Environment - Feature Condition",
-			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=103"
 		}
 	],
 	"euCode": "139937",
