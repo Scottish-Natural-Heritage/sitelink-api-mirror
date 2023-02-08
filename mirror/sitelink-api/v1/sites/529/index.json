@@ -63,19 +63,6 @@
 	"euCode": "135568",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-09-08",
-			"name": "Fen woodland",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100519"
-		},
-		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Recovering",
@@ -90,6 +77,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100520"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-09-08",
+			"name": "Fen woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100519"
 		}
 	],
 	"id": 529,

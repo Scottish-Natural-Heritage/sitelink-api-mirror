@@ -105,28 +105,6 @@
 	"euCode": "135133",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-07-05",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				},
-				{
-					"name": "Burning"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102060"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -154,6 +132,28 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111568"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-05",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102060"
 		}
 	],
 	"id": 1091,

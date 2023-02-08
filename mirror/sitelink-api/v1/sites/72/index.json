@@ -336,6 +336,19 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105337"
 		},
 		{
+			"category": "Reptiles & amphibians",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-10-05",
+			"name": "Reptile assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103090"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -353,19 +366,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111963"
-		},
-		{
-			"category": "Reptiles & amphibians",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-10-05",
-			"name": "Reptile assemblage",
-			"pressures": [
-				{
-					"name": "Burning"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103090"
 		}
 	],
 	"id": 72,

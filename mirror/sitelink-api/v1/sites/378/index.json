@@ -87,19 +87,6 @@
 	"euCode": "136058",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-08-11",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105564"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -111,19 +98,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105566"
-		},
-		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-08-11",
-			"name": "Flood-plain fen",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111153"
 		},
 		{
 			"category": "Non-vascular plants",
@@ -146,6 +120,32 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103151"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-08-11",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105564"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-08-11",
+			"name": "Flood-plain fen",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111153"
 		},
 		{
 			"category": "Woodland",

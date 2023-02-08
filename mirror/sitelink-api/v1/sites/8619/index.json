@@ -261,19 +261,6 @@
 	"euCode": "183434",
 	"features": [
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-02-28",
-			"name": "Bryophyte assemblage",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107533"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -302,19 +289,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104091"
-		},
-		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-09-17",
-			"name": "Lichen assemblage",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002699"
 		},
 		{
 			"category": "Invertebrates",
@@ -346,6 +320,32 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104089"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-02-28",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107533"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2004-09-17",
+			"name": "Lichen assemblage",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002699"
 		},
 		{
 			"category": "Woodland",

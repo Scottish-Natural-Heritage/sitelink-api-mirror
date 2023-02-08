@@ -310,22 +310,6 @@
 	"euCode": "UK0019839",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-12-06",
-			"name": "Active raised bog",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106828"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
@@ -340,30 +324,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100301"
-		},
-		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-12-06",
-			"name": "Degraded raised bog",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106829"
-		},
-		{
-			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-08-06",
-			"name": "Intertidal mudflats and sandflats",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100305"
 		},
 		{
 			"category": "Invertebrates",
@@ -393,6 +353,46 @@
 			"lastVisitDate": "2012-09-30",
 			"name": "Otter (Lutra lutra)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106830"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-08-06",
+			"name": "Intertidal mudflats and sandflats",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100305"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-06",
+			"name": "Active raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106828"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-06",
+			"name": "Degraded raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106829"
 		},
 		{
 			"category": "Woodland",

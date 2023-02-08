@@ -305,33 +305,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101820"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-16",
-			"name": "Mesotrophic loch",
-			"pressures": [
-				{
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105442"
-		},
-		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2002-05-16",
 			"name": "Moine",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000230"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-07-25",
-			"name": "Oligotrophic river/stream",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105441"
 		},
 		{
 			"category": "Earth sciences",
@@ -353,6 +332,27 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107722"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-16",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105442"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-07-25",
+			"name": "Oligotrophic river/stream",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105441"
 		},
 		{
 			"category": "Upland habitat",

@@ -1194,6 +1194,14 @@
 	"euCode": "UK0012956",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-08-05",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103124"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1257,30 +1265,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106687"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-04-29",
-			"name": "Caledonian forest",
-			"pressures": [
-				{
-					"keywords": [
-						"Deer"
-					],
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112327"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-05",
-			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103124"
 		},
 		{
 			"category": "Upland habitat",
@@ -1365,6 +1349,35 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106683"
 		},
 		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-05-19",
+			"name": "Wet heathland with cross-leaved heath",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106681"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2021-04-29",
+			"name": "Caledonian forest",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112327"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -1386,19 +1399,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112338"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-05-19",
-			"name": "Wet heathland with cross-leaved heath",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106681"
 		}
 	],
 	"id": 8204,

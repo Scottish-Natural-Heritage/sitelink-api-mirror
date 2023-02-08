@@ -315,19 +315,6 @@
 	"euCode": "136060",
 	"features": [
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-06-30",
-			"name": "Base-rich loch",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106027"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
@@ -342,6 +329,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108815"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-06-30",
+			"name": "Base-rich loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106027"
 		}
 	],
 	"id": 1049,

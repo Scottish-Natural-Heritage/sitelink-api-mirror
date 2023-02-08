@@ -610,6 +610,31 @@
 	"euCode": "UK0030176",
 	"features": [
 		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-08-21",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111161"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -650,6 +675,19 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111561"
 		},
 		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2009-09-11",
+			"name": "Wet heathland with cross-leaved heath",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103253"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -666,31 +704,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110907"
 		},
 		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-08-21",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111161"
-		},
-		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -705,19 +718,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104433"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-09-11",
-			"name": "Wet heathland with cross-leaved heath",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103253"
 		}
 	],
 	"id": 8282,

@@ -221,41 +221,6 @@
 	"euCode": "135244",
 	"features": [
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-01-28",
-			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
-			"pressures": [
-				{
-					"name": "Natural event"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101374"
-		},
-		{
-			"category": "Lowland grassland",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2012-08-08",
-			"name": "Lowland neutral grassland",
-			"pressures": [
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106360"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -289,6 +254,41 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106362"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-01-28",
+			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101374"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2012-08-08",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106360"
 		},
 		{
 			"category": "Wetlands",

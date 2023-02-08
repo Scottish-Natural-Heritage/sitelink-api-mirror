@@ -1292,27 +1292,6 @@
 	"euCode": "135918",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-10-18",
-			"name": "Basin fen",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105305"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2002-11-17",
-			"name": "Beetle assemblage",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003767"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1342,20 +1321,30 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000402"
 		},
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-08-01",
-			"name": "Dragonfly assemblage",
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-06-14",
+			"name": "Osprey (Pandion haliaetus), breeding",
 			"pressures": [
 				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Natural event"
+					"name": "Other"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105308"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107675"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-03-28",
+			"name": "Scottish crossbill (Loxia scotica), breeding",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100725"
 		},
 		{
 			"category": "Earth sciences",
@@ -1372,6 +1361,64 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105312"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-03-19",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105311"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-11-17",
+			"name": "Beetle assemblage",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003767"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-01",
+			"name": "Dragonfly assemblage",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105308"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-01",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105309"
 		},
 		{
 			"category": "Non-vascular plants",
@@ -1393,88 +1440,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105307"
 		},
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-08-01",
-			"name": "Invertebrate assemblage",
-			"pressures": [
-				{
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105309"
-		},
-		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2010-06-25",
 			"name": "Lichen assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100720"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-30",
-			"name": "Native pinewood",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100721"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2013-06-14",
-			"name": "Osprey (Pandion haliaetus), breeding",
-			"pressures": [
-				{
-					"name": "Other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107675"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-03-19",
-			"name": "Quaternary of Scotland",
-			"pressures": [
-				{
-					"name": "Climate Change"
-				},
-				{
-					"name": "Natural event"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105311"
-		},
-		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-12",
-			"name": "Raised bog",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105306"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-03-28",
-			"name": "Scottish crossbill (Loxia scotica), breeding",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100725"
 		},
 		{
 			"category": "Upland habitat",
@@ -1504,6 +1475,35 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100727"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-10-18",
+			"name": "Basin fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105305"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-12",
+			"name": "Raised bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105306"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-09-30",
+			"name": "Native pinewood",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100721"
 		}
 	],
 	"id": 9,

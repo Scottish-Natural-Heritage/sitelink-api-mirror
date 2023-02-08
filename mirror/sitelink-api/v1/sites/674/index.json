@@ -153,14 +153,6 @@
 	"euCode": "135810",
 	"features": [
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-08-07",
-			"name": "Dalradian",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105780"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -174,17 +166,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101539"
 		},
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Declining",
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-19",
-			"name": "Narrow-mouthed whorl snail (Vertigo angustior)",
-			"pressures": [
-				{
-					"name": "Natural event"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107610"
+			"lastVisitDate": "2017-08-07",
+			"name": "Dalradian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105780"
 		},
 		{
 			"category": "Earth sciences",
@@ -193,19 +180,6 @@
 			"lastVisitDate": "2017-06-14",
 			"name": "Non-marine Devonian",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111786"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-08-07",
-			"name": "Northern brown argus butterfly (Aricia artaxerxes)",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107518"
 		},
 		{
 			"category": "Earth sciences",
@@ -222,6 +196,32 @@
 			"lastVisitDate": "2017-06-14",
 			"name": "Silurian - Devonian Chordata",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107636"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-09-19",
+			"name": "Narrow-mouthed whorl snail (Vertigo angustior)",
+			"pressures": [
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107610"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-08-07",
+			"name": "Northern brown argus butterfly (Aricia artaxerxes)",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107518"
 		}
 	],
 	"id": 674,

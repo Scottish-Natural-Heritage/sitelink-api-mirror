@@ -94,19 +94,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106247"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2010-08-12",
-			"name": "Machair loch",
-			"pressures": [
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102394"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -127,6 +114,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106248"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-08-12",
+			"name": "Machair loch",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102394"
 		}
 	],
 	"id": 1318,

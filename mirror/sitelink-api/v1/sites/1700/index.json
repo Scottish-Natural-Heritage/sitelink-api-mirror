@@ -117,25 +117,6 @@
 	"euCode": "169742",
 	"features": [
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-07-06",
-			"name": "Eutrophic loch",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002105"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -169,6 +150,25 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106585"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-06",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002105"
 		}
 	],
 	"id": 1700,

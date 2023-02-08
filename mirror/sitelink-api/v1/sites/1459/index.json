@@ -55,6 +55,45 @@
 	"euCode": "136113",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-23",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106355"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-19",
+			"name": "Sand dunes",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106356"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-26",
+			"name": "Coastal Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102128"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -85,45 +124,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102127"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-09-26",
-			"name": "Coastal Geomorphology of Scotland",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102128"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-23",
-			"name": "Maritime cliff",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106355"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-07-19",
-			"name": "Sand dunes",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106356"
 		}
 	],
 	"id": 1459,

@@ -157,6 +157,14 @@
 	"euCode": "135788",
 	"features": [
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-19",
+			"name": "Caledonian Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107767"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -165,12 +173,17 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107768"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-06-19",
-			"name": "Caledonian Igneous",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107767"
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2002-07-29",
+			"name": "Upland assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003703"
 		},
 		{
 			"category": "Vascular plants",
@@ -187,19 +200,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107769"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2002-07-29",
-			"name": "Upland assemblage",
-			"pressures": [
-				{
-					"name": "Burning"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003703"
 		},
 		{
 			"category": "Vascular plants",

@@ -116,22 +116,6 @@
 	"euCode": "UK13041",
 	"features": [
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2009-08-20",
-			"name": "Eutrophic loch",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101592"
-		},
-		{
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Goldeneye (Bucephala clangula), non-breeding",
@@ -186,6 +170,22 @@
 			"lastVisitDate": "2014-03-01",
 			"name": "Whooper swan (Cygnus cygnus), non-breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111847"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-08-20",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101592"
 		}
 	],
 	"id": 8443,

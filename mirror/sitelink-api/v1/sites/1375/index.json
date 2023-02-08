@@ -133,19 +133,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106299"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-02-24",
-			"name": "Dalradian",
-			"pressures": [
-				{
-					"name": "Flood defence/coastal defence works"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106298"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -168,6 +155,19 @@
 			"lastVisitDate": "2015-03-22",
 			"name": "Turnstone (Arenaria interpres), non-breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106302"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-02-24",
+			"name": "Dalradian",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106298"
 		}
 	],
 	"id": 1375,

@@ -1159,25 +1159,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103802"
 		},
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2010-10-31",
-			"name": "Bryophyte assemblage",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Recreation/disturbance"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103419"
-		},
-		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1232,6 +1213,25 @@
 			"lastVisitDate": "2007-03-08",
 			"name": "Tertiary Igneous",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103422"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2010-10-31",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103419"
 		},
 		{
 			"category": "Upland habitat",

@@ -69,6 +69,27 @@
 	"euCode": "135479",
 	"features": [
 		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-08-29",
+			"name": "Greylag goose (Anser anser), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105661"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-10-27",
+			"name": "Quaternary of Scotland",
+			"pressures": [
+				{
+					"name": "Extraction"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107725"
+		},
+		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -89,27 +110,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105660"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-08-29",
-			"name": "Greylag goose (Anser anser), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105661"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-10-27",
-			"name": "Quaternary of Scotland",
-			"pressures": [
-				{
-					"name": "Extraction"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107725"
 		},
 		{
 			"category": "Wetlands",

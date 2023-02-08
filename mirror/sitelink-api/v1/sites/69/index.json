@@ -87,14 +87,6 @@
 	"euCode": "135284",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-09-09",
-			"name": "Basin fen",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105336"
-		},
-		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -106,6 +98,14 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110690"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-09-09",
+			"name": "Basin fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105336"
 		}
 	],
 	"id": 69,

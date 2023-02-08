@@ -135,19 +135,6 @@
 	"euCode": "135906",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-07-22",
-			"name": "Basin fen",
-			"pressures": [
-				{
-					"name": "Grazing - other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005168"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -167,6 +154,19 @@
 			"lastVisitDate": "2012-07-31",
 			"name": "Pintail (Anas acuta), breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106009"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2021-07-22",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005168"
 		}
 	],
 	"id": 1031,

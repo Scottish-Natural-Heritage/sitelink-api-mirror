@@ -261,14 +261,6 @@
 	"euCode": "137011",
 	"features": [
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-07-30",
-			"name": "Beetle assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110752"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -283,27 +275,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000657"
-		},
-		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-08-19",
-			"name": "Bryophyte assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100162"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-06-26",
-			"name": "Fluvial Geomorphology of Scotland",
-			"pressures": [
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107719"
 		},
 		{
 			"category": "Birds",
@@ -348,6 +319,57 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105732"
 		},
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-26",
+			"name": "Fluvial Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107719"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-07-30",
+			"name": "Beetle assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110752"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2005-08-19",
+			"name": "Bryophyte assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100162"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-05-20",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105731"
+		},
+		{
 			"category": "Wetlands",
 			"conditionLatest": "Favourable Declining",
 			"conditionSummary": "Favourable",
@@ -385,28 +407,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100164"
-		},
-		{
-			"category": "Vascular plants",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-05-20",
-			"name": "Vascular plant assemblage",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Cattle"
-					],
-					"name": "Over grazing"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105731"
 		}
 	],
 	"id": 610,

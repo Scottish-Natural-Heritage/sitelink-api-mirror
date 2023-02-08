@@ -416,14 +416,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102987"
 		},
 		{
-			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-01",
-			"name": "Intertidal mudflats and sandflats",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102992"
-		},
-		{
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Knot (Calidris canutus), non-breeding",
@@ -462,21 +454,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111857"
 		},
 		{
-			"category": "Coast",
-			"conditionSummary": "Not Assessed",
-			"name": "Saltmarsh",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Shelduck (Tadorna tadorna), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Wetlands",
-			"conditionSummary": "Not Assessed",
-			"name": "Transition saltmarsh",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -496,6 +476,26 @@
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Wigeon (Anas penelope), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Coast",
+			"conditionSummary": "Not Assessed",
+			"name": "Saltmarsh",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-09-01",
+			"name": "Intertidal mudflats and sandflats",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102992"
+		},
+		{
+			"category": "Wetlands",
+			"conditionSummary": "Not Assessed",
+			"name": "Transition saltmarsh",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],

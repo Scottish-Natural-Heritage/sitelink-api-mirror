@@ -153,6 +153,30 @@
 	"euCode": "169789",
 	"features": [
 		{
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2011-03-31",
+			"name": "Capercaillie (Tetrao urogallus), breeding",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101493"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-03-01",
+			"name": "Scottish crossbill (Loxia scotica), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106582"
+		},
+		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -170,22 +194,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107754"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-03-31",
-			"name": "Capercaillie (Tetrao urogallus), breeding",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101493"
 		},
 		{
 			"category": "Non-vascular plants",
@@ -223,14 +231,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101494"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-03-01",
-			"name": "Scottish crossbill (Loxia scotica), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106582"
 		}
 	],
 	"id": 1697,

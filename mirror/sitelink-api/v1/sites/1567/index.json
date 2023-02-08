@@ -117,19 +117,6 @@
 	"euCode": "135121",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-05-28",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102156"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -149,6 +136,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111592"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-28",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102156"
 		}
 	],
 	"id": 1567,

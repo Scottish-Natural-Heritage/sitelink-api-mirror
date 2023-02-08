@@ -362,6 +362,32 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002075"
 		},
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-08",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002076"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-04-30",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106799"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -378,19 +404,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103467"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-07-08",
-			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"pressures": [
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002076"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -402,19 +415,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103470"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-04-30",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106799"
 		},
 		{
 			"category": "Upland habitat",

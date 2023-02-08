@@ -81,14 +81,6 @@
 	"euCode": "135385",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-15",
-			"name": "Basin fen",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101363"
-		},
-		{
 			"category": "Vascular plants",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -103,6 +95,14 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106332"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-09-15",
+			"name": "Basin fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101363"
 		}
 	],
 	"id": 1416,

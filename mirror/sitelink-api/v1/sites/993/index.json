@@ -3872,14 +3872,6 @@
 	"euCode": "135440",
 	"features": [
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-09-27",
-			"name": "Beetle assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105985"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -3894,19 +3886,6 @@
 			"lastVisitDate": "2014-03-31",
 			"name": "Cormorant (Phalacrocorax carbo), non-breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107414"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-12-31",
-			"name": "Eutrophic loch",
-			"pressures": [
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103845"
 		},
 		{
 			"category": "Birds",
@@ -3939,14 +3918,6 @@
 			"lastVisitDate": "2014-03-31",
 			"name": "Greylag goose (Anser anser), non-breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105988"
-		},
-		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-07-20",
-			"name": "Hydromorphological mire range",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105983"
 		},
 		{
 			"category": "Birds",
@@ -3997,6 +3968,35 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107417"
 		},
 		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-03-31",
+			"name": "Whooper swan (Cygnus cygnus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105987"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-12-31",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103845"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-09-27",
+			"name": "Beetle assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105985"
+		},
+		{
 			"category": "Vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -4005,12 +4005,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105984"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-31",
-			"name": "Whooper swan (Cygnus cygnus), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105987"
+			"lastVisitDate": "2015-07-20",
+			"name": "Hydromorphological mire range",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105983"
 		}
 	],
 	"id": 993,

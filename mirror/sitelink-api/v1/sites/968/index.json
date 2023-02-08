@@ -69,19 +69,6 @@
 	"euCode": "139925",
 	"features": [
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-10-31",
-			"name": "Bryophyte assemblage",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102908"
-		},
-		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -93,6 +80,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004965"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-10-31",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102908"
 		}
 	],
 	"id": 968,

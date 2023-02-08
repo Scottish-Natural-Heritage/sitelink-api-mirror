@@ -145,22 +145,6 @@
 	"euCode": "134980",
 	"features": [
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-08-12",
-			"name": "Beetle (Stenus glacialis)",
-			"pressures": [
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105667"
-		},
-		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -178,6 +162,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000407"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-08-12",
+			"name": "Beetle (Stenus glacialis)",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105667"
 		},
 		{
 			"category": "Upland habitat",

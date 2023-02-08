@@ -209,6 +209,35 @@
 	"euCode": "136119",
 	"features": [
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-11",
+			"name": "Cambrian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103801"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-09-11",
+			"name": "Moine",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103109"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-07-03",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107713"
+		},
+		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -226,51 +255,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105410"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-09-11",
-			"name": "Cambrian",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103801"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-07-03",
-			"name": "Invertebrate assemblage",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107713"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-09-11",
-			"name": "Moine",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103109"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2010-09-27",
-			"name": "Native pinewood",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Proactive on-site management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103800"
 		},
 		{
 			"category": "Upland habitat",
@@ -298,6 +282,22 @@
 			"lastVisitDate": "2007-08-17",
 			"name": "Vascular plant assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103112"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2010-09-27",
+			"name": "Native pinewood",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Proactive on-site management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103800"
 		}
 	],
 	"id": 167,

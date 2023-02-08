@@ -171,6 +171,19 @@
 	"euCode": "135299",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2013-09-07",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105372"
+		},
+		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Recovering",
@@ -188,19 +201,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101046"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2013-09-07",
-			"name": "Mesotrophic loch",
-			"pressures": [
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105372"
 		},
 		{
 			"category": "Wetlands",

@@ -1146,6 +1146,41 @@
 	"euCode": "UK0014739",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-07-23",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"pressures": [
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002366"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-08-31",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Development"
+				},
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111353"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1186,43 +1221,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106930"
 		},
 		{
-			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-06-28",
-			"name": "Bog woodland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106925"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-11-04",
-			"name": "Caledonian forest",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101018"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-07-23",
-			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"pressures": [
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002366"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -1255,25 +1253,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111380"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-08-31",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Development"
-				},
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111353"
 		},
 		{
 			"category": "Upland habitat",
@@ -1311,6 +1290,27 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106926"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-06-28",
+			"name": "Bog woodland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106925"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2011-11-04",
+			"name": "Caledonian forest",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101018"
 		}
 	],
 	"id": 8385,

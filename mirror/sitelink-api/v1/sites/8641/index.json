@@ -665,40 +665,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100563"
 		},
 		{
-			"category": "Reptiles & amphibians",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2010-07-31",
-			"name": "Great crested newt (Triturus cristatus)",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100564"
-		},
-		{
-			"category": "Marine (including marine mammals)",
-			"conditionSummary": "Not Assessed",
-			"name": "Intertidal mudflats and sandflats",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Marine (including marine mammals)",
-			"conditionSummary": "Not Assessed",
-			"name": "Reefs",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Marine (including marine mammals)",
-			"conditionSummary": "Not Assessed",
-			"name": "Shallow inlets and bays",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Recovering",
@@ -727,8 +693,42 @@
 		{
 			"category": "Marine (including marine mammals)",
 			"conditionSummary": "Not Assessed",
+			"name": "Intertidal mudflats and sandflats",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Reefs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Shallow inlets and bays",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
 			"name": "Subtidal sandbanks",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Reptiles & amphibians",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2010-07-31",
+			"name": "Great crested newt (Triturus cristatus)",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100564"
 		}
 	],
 	"id": 8641,

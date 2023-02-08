@@ -341,6 +341,20 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106342"
 		},
 		{
+			"category": "Freshwater habitats",
+			"conditionSummary": "Not Assessed",
+			"name": "River shingle/sand",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Plant pests and diseases"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -358,20 +372,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106341"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionSummary": "Not Assessed",
-			"name": "River shingle/sand",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
-					"name": "Plant pests and diseases"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1427,

@@ -553,22 +553,6 @@
 	"euCode": "135033",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2001-07-26",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				},
-				{
-					"name": "Other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000362"
-		},
-		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -583,6 +567,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109286"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-07-26",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000362"
 		}
 	],
 	"id": 1503,

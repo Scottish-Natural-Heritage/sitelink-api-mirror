@@ -169,22 +169,6 @@
 	"euCode": "135072",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2011-06-21",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				},
-				{
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104927"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -199,6 +183,22 @@
 			"lastVisitDate": "2007-05-14",
 			"name": "Moine",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102041"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2011-06-21",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104927"
 		}
 	],
 	"id": 1009,

@@ -159,22 +159,6 @@
 	"euCode": "135390",
 	"features": [
 		{
-			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-05-29",
-			"name": "Upland oak woodland",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105509"
-		},
-		{
 			"category": "Wetlands",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -193,6 +177,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101075"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-05-29",
+			"name": "Upland oak woodland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105509"
 		}
 	],
 	"id": 294,

@@ -6431,6 +6431,38 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000460"
 		},
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-08-16",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106721"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2011-09-09",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Natural event"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111347"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -6453,22 +6485,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106719"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-08-16",
-			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"pressures": [
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106721"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -6486,30 +6502,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106720"
-		},
-		{
-			"category": "Vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-08-24",
-			"name": "Marsh saxifrage (Saxifraga hirculus)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103932"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-09-09",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Natural event"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111347"
 		},
 		{
 			"category": "Upland habitat",
@@ -6537,6 +6529,14 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106717"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-08-24",
+			"name": "Marsh saxifrage (Saxifraga hirculus)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103932"
 		}
 	],
 	"id": 8218,

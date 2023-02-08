@@ -121,22 +121,6 @@
 	"euCode": "135836",
 	"features": [
 		{
-			"category": "Vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-09-03",
-			"name": "Grass-wrack pondweed (Potamogeton compressus)",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107774"
-		},
-		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -154,6 +138,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111528"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-09-03",
+			"name": "Grass-wrack pondweed (Potamogeton compressus)",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107774"
 		}
 	],
 	"id": 1025,

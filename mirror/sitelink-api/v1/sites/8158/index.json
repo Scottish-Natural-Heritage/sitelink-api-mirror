@@ -491,17 +491,20 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110777"
 		},
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-05-01",
-			"name": "Bryophyte assemblage",
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-09-12",
+			"name": "Loch trophic range",
 			"pressures": [
 				{
+					"keywords": [
+						"Canadian Pondweed"
+					],
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106604"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100248"
 		},
 		{
 			"category": "Invertebrates",
@@ -521,6 +524,19 @@
 		},
 		{
 			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-05-01",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106604"
+		},
+		{
+			"category": "Non-vascular plants",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2011-04-12",
@@ -535,22 +551,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111428"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-09-12",
-			"name": "Loch trophic range",
-			"pressures": [
-				{
-					"keywords": [
-						"Canadian Pondweed"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100248"
 		},
 		{
 			"category": "Woodland",

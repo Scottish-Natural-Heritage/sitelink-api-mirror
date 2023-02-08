@@ -81,6 +81,19 @@
 	"euCode": "135161",
 	"features": [
 		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-10-22",
+			"name": "Beetle assemblage",
+			"pressures": [
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105693"
+		},
+		{
 			"category": "Wetlands",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -96,19 +109,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105692"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-10-22",
-			"name": "Beetle assemblage",
-			"pressures": [
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105693"
 		}
 	],
 	"id": 569,

@@ -172,6 +172,19 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106729"
 		},
 		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-05-28",
+			"name": "Species-rich grassland with mat-grass in upland areas",
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106728"
+		},
+		{
 			"category": "Vascular plants",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -186,19 +199,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101096"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-05-28",
-			"name": "Species-rich grassland with mat-grass in upland areas",
-			"pressures": [
-				{
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106728"
 		}
 	],
 	"id": 8232,

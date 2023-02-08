@@ -216,6 +216,22 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106383"
 		},
 		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-05-31",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106382"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Recovering",
@@ -233,22 +249,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102137"
-		},
-		{
-			"category": "Vascular plants",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-05-31",
-			"name": "Vascular plant assemblage",
-			"pressures": [
-				{
-					"name": "Burning"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106382"
 		}
 	],
 	"id": 1491,

@@ -1483,39 +1483,6 @@
 	"euCode": "135587",
 	"features": [
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-07-06",
-			"name": "Beetle assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106280"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2005-11-04",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Agricultural operations"
-				},
-				{
-					"keywords": [
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100341"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1537,22 +1504,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110834"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2006-06-06",
-			"name": "Coastal Geomorphology of Scotland",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100347"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1564,14 +1515,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109114"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-09-06",
-			"name": "Dalradian",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105024"
 		},
 		{
 			"category": "Birds",
@@ -1596,6 +1539,14 @@
 			"lastVisitDate": "2016-06-30",
 			"name": "Hen harrier (Circus cyaneus), breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109115"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-04-02",
+			"name": "Whooper swan (Cygnus cygnus), passage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109117"
 		},
 		{
 			"category": "Coast",
@@ -1665,6 +1616,63 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106279"
 		},
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2006-06-06",
+			"name": "Coastal Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100347"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-09-06",
+			"name": "Dalradian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105024"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-07-06",
+			"name": "Beetle assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106280"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2005-11-04",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100341"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1682,14 +1690,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001898"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-04-02",
-			"name": "Whooper swan (Cygnus cygnus), passage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109117"
 		}
 	],
 	"id": 1354,

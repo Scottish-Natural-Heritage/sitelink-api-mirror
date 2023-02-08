@@ -3371,6 +3371,43 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106715"
 		},
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-06-23",
+			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100781"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2011-09-22",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105062"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-05-02",
+			"name": "Green shield-moss (Buxbaumia viridis)",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Forestry operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100788"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -3393,49 +3430,6 @@
 			"lastVisitDate": "2021-09-21",
 			"name": "Blanket bog",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112805"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2002-09-05",
-			"name": "Bog woodland",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004838"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-10-05",
-			"name": "Caledonian forest",
-			"pressures": [
-				{
-					"keywords": [
-						"Conifers"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Deer"
-					],
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106707"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-06-23",
-			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100781"
 		},
 		{
 			"category": "Upland habitat",
@@ -3465,22 +3459,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005293"
-		},
-		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-05-02",
-			"name": "Green shield-moss (Buxbaumia viridis)",
-			"pressures": [
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Forestry operations"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100788"
 		},
 		{
 			"category": "Upland habitat",
@@ -3541,19 +3519,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112803"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-09-22",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105062"
 		},
 		{
 			"category": "Upland habitat",
@@ -3620,6 +3585,41 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112350"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2002-09-05",
+			"name": "Bog woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004838"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-10-05",
+			"name": "Caledonian forest",
+			"pressures": [
+				{
+					"keywords": [
+						"Conifers"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106707"
 		}
 	],
 	"id": 8217,

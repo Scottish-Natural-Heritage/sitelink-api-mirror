@@ -113,6 +113,19 @@
 	"euCode": "134997",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2002-07-28",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001447"
+		},
+		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -135,19 +148,6 @@
 			"lastVisitDate": "2004-06-25",
 			"name": "Lichen assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004194"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2002-07-28",
-			"name": "Maritime cliff",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001447"
 		},
 		{
 			"category": "Woodland",

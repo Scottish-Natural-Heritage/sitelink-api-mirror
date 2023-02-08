@@ -1091,31 +1091,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110129"
 		},
 		{
-			"category": "Marine (including marine mammals)",
-			"conditionSummary": "Not Assessed",
-			"name": "Harbour seal (Phoca vitulina)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "1996-09-09",
-			"name": "Intertidal mudflats and sandflats",
-			"pressures": [
-				{
-					"name": "Forestry operations"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001328"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionSummary": "Not Assessed",
-			"name": "Invertebrate assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1130,12 +1105,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112161"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionSummary": "Not Assessed",
-			"name": "Otter (Lutra lutra)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -1162,6 +1131,53 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112159"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-04-14",
+			"name": "Scaup (Aythya marila), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112330"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-01-30",
+			"name": "Teal (Anas crecca), non-breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112160"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-01-30",
+			"name": "Waterfowl assemblage, non-breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110126"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-01-30",
+			"name": "Wigeon (Anas penelope), non-breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110130"
 		},
 		{
 			"category": "Coast",
@@ -1214,44 +1230,41 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106960"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2018-04-14",
-			"name": "Scaup (Aythya marila), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112330"
+			"category": "Invertebrates",
+			"conditionSummary": "Not Assessed",
+			"name": "Invertebrate assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
-			"category": "Birds",
+			"category": "Mammals (except marine)",
+			"conditionSummary": "Not Assessed",
+			"name": "Otter (Lutra lutra)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Harbour seal (Phoca vitulina)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-01-30",
-			"name": "Teal (Anas crecca), non-breeding",
+			"lastVisitDate": "1996-09-09",
+			"name": "Intertidal mudflats and sandflats",
 			"pressures": [
 				{
-					"name": "Recreation/disturbance"
+					"name": "Forestry operations"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112160"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001328"
 		},
 		{
 			"category": "Vascular plants",
 			"conditionSummary": "Not Assessed",
 			"name": "Vascular plant assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-01-30",
-			"name": "Waterfowl assemblage, non-breeding",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110126"
 		},
 		{
 			"category": "Woodland",
@@ -1265,19 +1278,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110846"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-01-30",
-			"name": "Wigeon (Anas penelope), non-breeding",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110130"
 		}
 	],
 	"id": 8420,

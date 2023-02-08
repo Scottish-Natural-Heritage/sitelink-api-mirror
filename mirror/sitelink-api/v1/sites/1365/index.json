@@ -435,19 +435,6 @@
 	"euCode": "136098",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-05-29",
-			"name": "Flood-plain fen",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102099"
-		},
-		{
 			"category": "Vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -462,6 +449,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110711"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-05-29",
+			"name": "Flood-plain fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102099"
 		}
 	],
 	"id": 1365,

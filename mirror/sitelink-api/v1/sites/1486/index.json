@@ -507,6 +507,41 @@
 	"euCode": "136205",
 	"features": [
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2006-07-21",
+			"name": "Mineralogy of Scotland",
+			"pressures": [
+				{
+					"name": "Extraction"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103381"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2006-07-21",
+			"name": "Tertiary Igneous",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103384"
+		},
+		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Favourable Declining",
 			"conditionSummary": "Favourable",
@@ -529,25 +564,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111676"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2006-07-21",
-			"name": "Mineralogy of Scotland",
-			"pressures": [
-				{
-					"name": "Extraction"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103381"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -561,22 +577,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106381"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-07-21",
-			"name": "Tertiary Igneous",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103384"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -588,19 +588,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003235"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-03-19",
-			"name": "Upland birch woodland",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103854"
 		},
 		{
 			"category": "Vascular plants",
@@ -617,6 +604,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103385"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-03-19",
+			"name": "Upland birch woodland",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103854"
 		}
 	],
 	"id": 1486,

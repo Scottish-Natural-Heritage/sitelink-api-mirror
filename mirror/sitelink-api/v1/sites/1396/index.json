@@ -832,36 +832,6 @@
 	"euCode": "135975",
 	"features": [
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-09-13",
-			"name": "Bryophyte assemblage",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110678"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-05-13",
-			"name": "Invertebrate assemblage",
-			"pressures": [
-				{
-					"keywords": [
-						"Deer",
-						"Goats"
-					],
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107432"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -914,6 +884,36 @@
 			"lastVisitDate": "2004-06-18",
 			"name": "Tertiary Igneous",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003511"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-05-13",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Goats"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107432"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-09-13",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110678"
 		},
 		{
 			"category": "Upland habitat",

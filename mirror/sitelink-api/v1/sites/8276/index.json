@@ -130,51 +130,6 @@
 	"euCode": "UK0013041",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2011-09-28",
-			"name": "Alpine and subalpine calcareous grasslands",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101976"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-08-18",
-			"name": "Alpine and subalpine heaths",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101977"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-08-18",
-			"name": "Base-rich fens",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101978"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -223,6 +178,51 @@
 			"lastVisitDate": "2016-06-09",
 			"name": "Shifting dunes with marram",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109832"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2011-09-28",
+			"name": "Alpine and subalpine calcareous grasslands",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101976"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-08-18",
+			"name": "Alpine and subalpine heaths",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101977"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2010-08-18",
+			"name": "Base-rich fens",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101978"
 		}
 	],
 	"id": 8276,

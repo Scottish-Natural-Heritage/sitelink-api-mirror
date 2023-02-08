@@ -111,33 +111,6 @@
 	"euCode": "135663",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2006-12-06",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Cattle",
-						"Deer",
-						"Sheep"
-					],
-					"name": "Over grazing"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100585"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -165,6 +138,33 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100588"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2006-12-06",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Cattle",
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100585"
 		}
 	],
 	"id": 1171,

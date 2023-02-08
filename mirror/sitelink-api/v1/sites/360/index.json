@@ -81,22 +81,6 @@
 	"euCode": "135250",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2014-07-17",
-			"name": "Basin fen",
-			"pressures": [
-				{
-					"keywords": [
-						"Other (add species to the pressure comment)"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105552"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Recovering",
@@ -127,6 +111,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101088"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2014-07-17",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105552"
 		}
 	],
 	"id": 360,

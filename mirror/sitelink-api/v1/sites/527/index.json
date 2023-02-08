@@ -1133,12 +1133,25 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108309"
 		},
 		{
-			"category": "Marine (including marine mammals)",
+			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-08-01",
-			"name": "Eelgrass beds",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004706"
+			"lastVisitDate": "2016-10-25",
+			"name": "Whooper swan (Cygnus cygnus), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105673"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-01-30",
+			"name": "Wigeon (Anas penelope), non-breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108310"
 		},
 		{
 			"category": "Coast",
@@ -1180,33 +1193,20 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108306"
 		},
 		{
+			"category": "Marine (including marine mammals)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-08-01",
+			"name": "Eelgrass beds",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004706"
+		},
+		{
 			"category": "Vascular plants",
 			"conditionLatest": "Partially destroyed",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2011-06-23",
 			"name": "Vascular plant assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104559"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-10-25",
-			"name": "Whooper swan (Cygnus cygnus), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105673"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-01-30",
-			"name": "Wigeon (Anas penelope), non-breeding",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=108310"
 		}
 	],
 	"id": 527,

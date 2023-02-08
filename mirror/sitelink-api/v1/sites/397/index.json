@@ -157,21 +157,12 @@
 	"euCode": "135191",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Recovered",
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-07-01",
-			"name": "Alkaline fen",
-			"pressures": [
-				{
-					"keywords": [
-						"Bracken",
-						"Gorse"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105577"
+			"lastVisitDate": "2006-03-11",
+			"name": "Ordovician Igneous",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100119"
 		},
 		{
 			"category": "Invertebrates",
@@ -198,12 +189,21 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105578"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-03-11",
-			"name": "Ordovician Igneous",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100119"
+			"lastVisitDate": "2013-07-01",
+			"name": "Alkaline fen",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Gorse"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105577"
 		},
 		{
 			"category": "Upland habitat",

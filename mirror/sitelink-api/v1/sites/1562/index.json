@@ -87,12 +87,17 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104097"
 		},
 		{
-			"category": "Marine (including marine mammals)",
+			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-11-21",
-			"name": "Grey seal (Halichoerus grypus)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111451"
+			"lastVisitDate": "2015-06-30",
+			"name": "Seabird colony, breeding",
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107455"
 		},
 		{
 			"category": "Coast",
@@ -111,17 +116,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004872"
 		},
 		{
-			"category": "Birds",
+			"category": "Marine (including marine mammals)",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-06-30",
-			"name": "Seabird colony, breeding",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107455"
+			"lastVisitDate": "2014-11-21",
+			"name": "Grey seal (Halichoerus grypus)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111451"
 		}
 	],
 	"id": 1562,

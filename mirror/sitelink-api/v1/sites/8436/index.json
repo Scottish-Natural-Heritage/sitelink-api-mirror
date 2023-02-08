@@ -3290,14 +3290,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-12-31",
-			"name": "Eutrophic loch",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102915"
-		},
-		{
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Gadwall (Anas strepera), non-breeding",
@@ -3356,6 +3348,14 @@
 			"conditionSummary": "Not Assessed",
 			"name": "Whooper swan (Cygnus cygnus), non-breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-12-31",
+			"name": "Eutrophic loch",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102915"
 		}
 	],
 	"id": 8436,

@@ -455,20 +455,20 @@
 	"euCode": "135380",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-08-12",
+			"name": "Maritime cliff",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101072"
+		},
+		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2007-07-04",
 			"name": "Caledonian Structures of the Southern Uplands",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101070"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-06-26",
-			"name": "Fly assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107433"
 		},
 		{
 			"category": "Earth sciences",
@@ -479,12 +479,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000011"
 		},
 		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Recovered",
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-12",
-			"name": "Maritime cliff",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101072"
+			"lastVisitDate": "2015-06-26",
+			"name": "Fly assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107433"
 		}
 	],
 	"id": 278,

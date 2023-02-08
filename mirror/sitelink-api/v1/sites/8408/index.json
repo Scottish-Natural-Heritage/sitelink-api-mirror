@@ -176,28 +176,6 @@
 	"euCode": "UK0013594",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-09-14",
-			"name": "Base-rich fens",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				},
-				{
-					"name": "Proactive on-site management"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101423"
-		},
-		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -231,6 +209,28 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003653"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-09-14",
+			"name": "Base-rich fens",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Proactive on-site management"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101423"
 		}
 	],
 	"id": 8408,

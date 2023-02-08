@@ -585,6 +585,19 @@
 	"euCode": "135764",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-05-01",
+			"name": "Saltmarsh",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106318"
+		},
+		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -615,19 +628,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107592"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-05-01",
-			"name": "Saltmarsh",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106318"
 		},
 		{
 			"category": "Woodland",

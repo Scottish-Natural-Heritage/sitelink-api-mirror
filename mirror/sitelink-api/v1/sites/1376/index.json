@@ -457,14 +457,6 @@
 	"euCode": "135947",
 	"features": [
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-02-01",
-			"name": "Callovian",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105007"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -498,6 +490,38 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106303"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-09-02",
+			"name": "Sand dunes",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken",
+						"Chamerion angustifolium/ rosebay willowherb",
+						"Gorse",
+						"Scrub",
+						"Senecio jacobaea",
+						"Thistles"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106304"
+		},
+		{
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-02-01",
+			"name": "Callovian",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105007"
 		},
 		{
 			"category": "Earth sciences",
@@ -537,30 +561,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107481"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-09-02",
-			"name": "Sand dunes",
-			"pressures": [
-				{
-					"keywords": [
-						"Bracken",
-						"Chamerion angustifolium/ rosebay willowherb",
-						"Gorse",
-						"Scrub",
-						"Senecio jacobaea",
-						"Thistles"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106304"
 		},
 		{
 			"category": "Woodland",

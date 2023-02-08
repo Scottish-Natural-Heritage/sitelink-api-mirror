@@ -432,6 +432,28 @@
 	"euCode": "UK0012785",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-08-29",
+			"name": "Calcium-rich nutrient-poor lakes, lochs and pools",
+			"pressures": [
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106924"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -464,28 +486,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103380"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-29",
-			"name": "Calcium-rich nutrient-poor lakes, lochs and pools",
-			"pressures": [
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106924"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -513,19 +513,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106922"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-03-19",
-			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103382"
 		},
 		{
 			"category": "Upland habitat",
@@ -561,6 +548,19 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106921"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2008-03-19",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103382"
 		}
 	],
 	"id": 8384,

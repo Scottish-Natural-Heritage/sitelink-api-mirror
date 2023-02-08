@@ -75,6 +75,25 @@
 	"euCode": "135504",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2004-07-14",
+			"name": "Eutrophic loch",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001826"
+		},
+		{
 			"category": "Invertebrates",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -104,25 +123,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100584"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-07-14",
-			"name": "Eutrophic loch",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001826"
 		}
 	],
 	"id": 1160,

@@ -111,19 +111,6 @@
 	"euCode": "135242",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-07-15",
-			"name": "Basin fen",
-			"pressures": [
-				{
-					"name": "Grazing - other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102797"
-		},
-		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -156,6 +143,19 @@
 			"lastVisitDate": "2002-08-19",
 			"name": "Rocky slopes (includes inland cliff, rocky outcrops, chasmophytic vegetation)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001569"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-07-15",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102797"
 		},
 		{
 			"category": "Wetlands",

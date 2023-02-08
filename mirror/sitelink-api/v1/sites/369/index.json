@@ -393,28 +393,6 @@
 	"euCode": "135014",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-05-30",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"keywords": [
-						"Deer"
-					],
-					"name": "Over grazing"
-				},
-				{
-					"keywords": [
-						"Deer"
-					],
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112059"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
@@ -439,6 +417,28 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111588"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2018-05-30",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112059"
 		}
 	],
 	"id": 369,

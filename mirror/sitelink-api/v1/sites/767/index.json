@@ -61,19 +61,6 @@
 	"euCode": "139936",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-09-02",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102265"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -88,6 +75,19 @@
 			"lastVisitDate": "2009-09-02",
 			"name": "Moine",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102267"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-09-02",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"name": "Dumping/ storage of materials"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102265"
 		}
 	],
 	"id": 767,

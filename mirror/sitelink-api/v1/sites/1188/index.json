@@ -544,19 +544,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100961"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-08-15",
-			"name": "Coastal Geomorphology of Scotland",
-			"pressures": [
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106140"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -576,17 +563,42 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004452"
 		},
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-11",
-			"name": "Invertebrate assemblage",
+			"lastVisitDate": "2004-02-28",
+			"name": "Teal (Anas crecca), non-breeding",
 			"pressures": [
 				{
-					"name": "Military activities"
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107709"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004453"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2004-02-28",
+			"name": "Wigeon (Anas penelope), non-breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004454"
 		},
 		{
 			"category": "Coast",
@@ -621,23 +633,30 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111246"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-02-28",
-			"name": "Teal (Anas crecca), non-breeding",
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2015-08-15",
+			"name": "Coastal Geomorphology of Scotland",
 			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				},
-				{
-					"name": "Other"
-				},
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004453"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106140"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-11",
+			"name": "Invertebrate assemblage",
+			"pressures": [
+				{
+					"name": "Military activities"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107709"
 		},
 		{
 			"category": "Vascular plants",
@@ -651,25 +670,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106139"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-02-28",
-			"name": "Wigeon (Anas penelope), non-breeding",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004454"
 		}
 	],
 	"id": 1188,

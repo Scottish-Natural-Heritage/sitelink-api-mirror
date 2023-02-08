@@ -45,14 +45,6 @@
 	"euCode": "134985",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2003-09-12",
-			"name": "Basin fen - Schwingmoor type",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001131"
-		},
-		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -64,6 +56,14 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101086"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-09-12",
+			"name": "Basin fen - Schwingmoor type",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001131"
 		}
 	],
 	"id": 348,

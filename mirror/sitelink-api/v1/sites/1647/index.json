@@ -87,6 +87,28 @@
 	"euCode": "135035",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-07-19",
+			"name": "Oligotrophic loch",
+			"pressures": [
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100712"
+		},
+		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -120,28 +142,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107727"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2009-07-19",
-			"name": "Oligotrophic loch",
-			"pressures": [
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100712"
 		},
 		{
 			"category": "Wetlands",

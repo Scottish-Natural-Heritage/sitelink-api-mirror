@@ -111,14 +111,6 @@
 	"euCode": "135438",
 	"features": [
 		{
-			"category": "Lowland heath",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2020-06-15",
-			"name": "Lowland dry heath",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112456"
-		},
-		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -130,6 +122,14 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100473"
+		},
+		{
+			"category": "Lowland heath",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2020-06-15",
+			"name": "Lowland dry heath",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112456"
 		},
 		{
 			"category": "Lowland heath",

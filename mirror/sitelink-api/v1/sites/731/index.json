@@ -587,25 +587,6 @@
 	"euCode": "136043",
 	"features": [
 		{
-			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-10-02",
-			"name": "Bryophyte assemblage",
-			"pressures": [
-				{
-					"name": "Maintenance activities "
-				},
-				{
-					"name": "Recreation/disturbance"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107690"
-		},
-		{
 			"category": "Earth sciences",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -633,6 +614,25 @@
 			"lastVisitDate": "2006-08-09",
 			"name": "Mass movement",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103809"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-10-02",
+			"name": "Bryophyte assemblage",
+			"pressures": [
+				{
+					"name": "Maintenance activities "
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107690"
 		},
 		{
 			"category": "Upland habitat",

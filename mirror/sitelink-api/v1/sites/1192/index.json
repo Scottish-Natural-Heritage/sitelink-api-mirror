@@ -110,20 +110,17 @@
 	"euCode": "135362",
 	"features": [
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-08-31",
-			"name": "Loch trophic range",
+			"category": "Birds",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-02-09",
+			"name": "Teal (Anas crecca), non-breeding",
 			"pressures": [
-				{
-					"name": "Water management"
-				},
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101318"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106145"
 		},
 		{
 			"category": "Coast",
@@ -151,17 +148,20 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106144"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-02-09",
-			"name": "Teal (Anas crecca), non-breeding",
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Recovering",
+			"lastVisitDate": "2009-08-31",
+			"name": "Loch trophic range",
 			"pressures": [
+				{
+					"name": "Water management"
+				},
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106145"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101318"
 		}
 	],
 	"id": 1192,

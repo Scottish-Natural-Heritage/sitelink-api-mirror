@@ -963,23 +963,6 @@
 	"euCode": "135204",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-09-20",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"keywords": [
-						"Off road vehicles",
-						"Roads/ hill tracks"
-					],
-					"name": "Agricultural operations"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101312"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1010,6 +993,23 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106138"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-09-20",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Off road vehicles",
+						"Roads/ hill tracks"
+					],
+					"name": "Agricultural operations"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101312"
 		},
 		{
 			"category": "Upland habitat",

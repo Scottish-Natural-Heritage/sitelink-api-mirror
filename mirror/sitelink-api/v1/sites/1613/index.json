@@ -183,19 +183,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106513"
 		},
 		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-07-12",
-			"name": "Maritime cliff",
-			"pressures": [
-				{
-					"name": "Grazing - other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106509"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
@@ -210,6 +197,19 @@
 			"lastVisitDate": "2017-06-08",
 			"name": "Seabird colony, breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107468"
+		},
+		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-12",
+			"name": "Maritime cliff",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106509"
 		}
 	],
 	"id": 1613,

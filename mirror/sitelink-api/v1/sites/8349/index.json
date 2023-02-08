@@ -160,22 +160,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005252"
 		},
 		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-03-07",
-			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
-			"pressures": [
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103334"
-		},
-		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -198,6 +182,22 @@
 			"lastVisitDate": "2022-06-09",
 			"name": "Plants in crevices on base-rich rocks",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005255"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-03-07",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103334"
 		}
 	],
 	"id": 8349,

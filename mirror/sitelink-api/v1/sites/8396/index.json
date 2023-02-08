@@ -176,19 +176,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106942"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-06-26",
-			"name": "Naturally nutrient-rich lakes or lochs which are often dominated by pondweed",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100442"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -203,6 +190,19 @@
 			"lastVisitDate": "2013-07-17",
 			"name": "Shifting dunes with marram",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110839"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-26",
+			"name": "Naturally nutrient-rich lakes or lochs which are often dominated by pondweed",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100442"
 		}
 	],
 	"id": 8396,

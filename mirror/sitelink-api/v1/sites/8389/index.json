@@ -2912,58 +2912,6 @@
 	"euCode": "UK0019803",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-06-17",
-			"name": "Dry heaths",
-			"pressures": [
-				{
-					"keywords": [
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Deer",
-						"Sheep"
-					],
-					"name": "Over grazing"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106934"
-		},
-		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-06-17",
-			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
-			"pressures": [
-				{
-					"keywords": [
-						"Exotic conifers",
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106933"
-		},
-		{
 			"category": "Mammals (except marine)",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -3011,11 +2959,11 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103397"
 		},
 		{
-			"category": "Woodland",
+			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2009-11-17",
-			"name": "Western acidic oak woodland",
+			"lastVisitDate": "2014-06-17",
+			"name": "Dry heaths",
 			"pressures": [
 				{
 					"keywords": [
@@ -3025,13 +2973,22 @@
 				},
 				{
 					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
 						"Deer",
-						"Goats"
+						"Sheep"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103403"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106934"
 		},
 		{
 			"category": "Upland habitat",
@@ -3062,6 +3019,49 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110081"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-06-17",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"keywords": [
+						"Exotic conifers",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106933"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-11-17",
+			"name": "Western acidic oak woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Goats"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103403"
 		}
 	],
 	"id": 8389,

@@ -1097,31 +1097,6 @@
 	"euCode": "UK0019812",
 	"features": [
 		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-05-19",
-			"name": "Alder woodland on floodplains",
-			"pressures": [
-				{
-					"name": "Flood defence/coastal defence works"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				},
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100904"
-		},
-		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -1168,6 +1143,31 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106787"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-05-19",
+			"name": "Alder woodland on floodplains",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100904"
 		}
 	],
 	"id": 8274,
