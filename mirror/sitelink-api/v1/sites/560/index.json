@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/560",
-	"id": 560,
 	"area": 6431.81,
 	"casework": [
 		{
@@ -262,7 +260,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101898"
 		}
 	],
+	"id": 560,
 	"localAuthority": "Highland",
 	"name": "Dunbeath Peatlands",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/560"
 }

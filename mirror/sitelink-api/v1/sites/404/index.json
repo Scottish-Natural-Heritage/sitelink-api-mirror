@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/404",
-	"id": 404,
 	"area": 12.32,
 	"casework": [
 		{
@@ -191,7 +189,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105582"
 		}
 	],
+	"id": 404,
 	"localAuthority": "North Ayrshire",
 	"name": "Corrie Foreshore and Limestone Mines",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/404"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1078",
-	"id": 1078,
 	"area": 41.53,
 	"casework": [
 		{
@@ -155,7 +153,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106051"
 		}
 	],
+	"id": 1078,
 	"localAuthority": "Fife",
 	"name": "Lochmill Loch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1078"
 }

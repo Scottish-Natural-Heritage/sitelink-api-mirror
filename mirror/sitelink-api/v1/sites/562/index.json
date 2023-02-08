@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/562",
-	"id": 562,
 	"area": 151.84,
 	"casework": [
 		{
@@ -219,7 +217,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101900"
 		}
 	],
+	"id": 562,
 	"localAuthority": "Highland",
 	"name": "Dunbeath Water",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/562"
 }

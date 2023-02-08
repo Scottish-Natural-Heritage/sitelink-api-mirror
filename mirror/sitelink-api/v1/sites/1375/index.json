@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1375",
-	"id": 1375,
 	"area": 135.8,
 	"casework": [
 		{
@@ -172,7 +170,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106302"
 		}
 	],
+	"id": 1375,
 	"localAuthority": "Aberdeenshire",
 	"name": "Rosehearty to Fraserburgh Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1375"
 }

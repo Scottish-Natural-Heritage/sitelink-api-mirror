@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8351",
-	"id": 8351,
 	"area": 86.75,
 	"casework": [
 		{
@@ -136,7 +134,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106864"
 		}
 	],
+	"id": 8351,
 	"localAuthority": "Aberdeenshire",
 	"name": "Reidside Moss",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8351"
 }

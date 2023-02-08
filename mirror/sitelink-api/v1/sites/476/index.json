@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/476",
-	"id": 476,
 	"area": 10399.37,
 	"casework": [
 		{
@@ -569,7 +567,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105633"
 		}
 	],
+	"id": 476,
 	"localAuthority": "Highland",
 	"name": "Cuillins",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/476"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/506",
-	"id": 506,
 	"area": 29.24,
 	"casework": [
 		{
@@ -163,7 +161,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102811"
 		}
 	],
+	"id": 506,
 	"localAuthority": "Perth and Kinross",
 	"name": "Den of Riechip",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/506"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/761",
-	"id": 761,
 	"area": 105.9,
 	"casework": [
 		{
@@ -210,10 +208,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002003"
 		}
 	],
+	"id": 761,
 	"localAuthority": "South Lanarkshire",
 	"name": "Hamilton Low Parks",
 	"secondaryLocalAuthorities": [
 		"North Lanarkshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/761"
 }

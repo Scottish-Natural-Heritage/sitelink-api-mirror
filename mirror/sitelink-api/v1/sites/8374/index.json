@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8374",
-	"id": 8374,
 	"agreements": [
 		{
 			"area": 60,
@@ -182,7 +180,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106904"
 		}
 	],
+	"id": 8374,
 	"localAuthority": "Perth and Kinross",
 	"name": "Shelforkie Moss",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8374"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/509",
-	"id": 509,
 	"area": 123.44,
 	"casework": [
 		{
@@ -145,7 +143,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107480"
 		}
 	],
+	"id": 509,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Derskelpin Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/509"
 }

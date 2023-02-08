@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/338",
-	"id": 338,
 	"area": 160.27,
 	"casework": [
 		{
@@ -255,7 +253,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102535"
 		}
 	],
+	"id": 338,
 	"localAuthority": "South Lanarkshire",
 	"name": "Carstairs Kames",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/338"
 }

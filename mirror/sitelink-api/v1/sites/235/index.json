@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/235",
-	"id": 235,
 	"area": 197.9,
 	"casework": [
 		{
@@ -85,7 +83,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000375"
 		}
 	],
+	"id": 235,
 	"localAuthority": "Moray",
 	"name": "Bochel Wood",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/235"
 }

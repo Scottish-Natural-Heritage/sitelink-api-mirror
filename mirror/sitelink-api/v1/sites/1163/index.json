@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1163",
-	"id": 1163,
 	"area": 21.15,
 	"casework": [
 		{
@@ -168,7 +166,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107540"
 		}
 	],
+	"id": 1163,
 	"localAuthority": "Perth and Kinross",
 	"name": "Milton Wood",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1163"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1237",
-	"id": 1237,
 	"area": 200.43,
 	"casework": [
 		{
@@ -101,7 +99,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106185"
 		}
 	],
+	"id": 1237,
 	"localAuthority": "Orkney Islands",
 	"name": "North Hill",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1237"
 }

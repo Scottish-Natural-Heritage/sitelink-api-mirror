@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/428",
-	"id": 428,
 	"agreements": [
 		{
 			"area": 252.7,
@@ -362,7 +360,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100823"
 		}
 	],
+	"id": 428,
 	"localAuthority": "Highland",
 	"name": "Craigellachie",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/428"
 }

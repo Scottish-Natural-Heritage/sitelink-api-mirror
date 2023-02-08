@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1292",
-	"id": 1292,
 	"area": 7.6,
 	"casework": [
 		{
@@ -95,7 +93,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103789"
 		}
 	],
+	"id": 1292,
 	"localAuthority": "Aberdeenshire",
 	"name": "Pitcaple and Legatsden Quarries",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1292"
 }

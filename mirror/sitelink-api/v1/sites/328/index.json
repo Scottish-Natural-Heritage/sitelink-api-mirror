@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/328",
-	"id": 328,
 	"area": 44.83,
 	"casework": [
 		{
@@ -113,7 +111,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105533"
 		}
 	],
+	"id": 328,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Carrick Ponds",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/328"
 }

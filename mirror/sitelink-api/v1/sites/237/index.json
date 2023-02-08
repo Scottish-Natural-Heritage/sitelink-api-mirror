@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/237",
-	"id": 237,
 	"area": 2.27,
 	"casework": [
 		{
@@ -91,10 +89,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000179"
 		}
 	],
+	"id": 237,
 	"localAuthority": "Moray",
 	"name": "Boghole, Muckle Burn",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/237"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1611",
-	"id": 1611,
 	"agreements": [
 		{
 			"area": 963,
@@ -149,7 +147,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102163"
 		}
 	],
+	"id": 1611,
 	"localAuthority": "Highland",
 	"name": "West Strathnaver",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1611"
 }

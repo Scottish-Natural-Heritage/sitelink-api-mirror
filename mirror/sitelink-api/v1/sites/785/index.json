@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/785",
-	"id": 785,
 	"area": 1.51,
 	"casework": [
 		{
@@ -88,7 +86,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101563"
 		}
 	],
+	"id": 785,
 	"localAuthority": "Aberdeenshire",
 	"name": "Hill of Longhaven",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/785"
 }

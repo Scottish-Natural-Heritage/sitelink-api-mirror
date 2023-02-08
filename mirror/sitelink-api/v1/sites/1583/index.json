@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1583",
-	"id": 1583,
 	"agreements": [
 		{
 			"area": 5155.76,
@@ -1798,7 +1796,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100701"
 		}
 	],
+	"id": 1583,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Upper Solway Flats and Marshes",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1583"
 }

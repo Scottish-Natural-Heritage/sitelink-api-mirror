@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8634",
-	"id": 8634,
 	"area": 9639.4,
 	"casework": [
 		{
@@ -339,7 +337,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107557"
 		}
 	],
+	"id": 8634,
 	"localAuthority": "Highland",
 	"name": "Fannich Hills",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8634"
 }

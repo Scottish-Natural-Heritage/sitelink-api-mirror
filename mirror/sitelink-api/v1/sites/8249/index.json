@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8249",
-	"id": 8249,
 	"area": 619.54,
 	"casework": [
 		{
@@ -94,7 +92,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109760"
 		}
 	],
+	"id": 8249,
 	"localAuthority": "Shetland Islands",
 	"name": "East Mires and Lumbister",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8249"
 }

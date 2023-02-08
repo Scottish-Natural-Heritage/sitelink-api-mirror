@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8576",
-	"id": 8576,
 	"area": 1939.76,
 	"casework": [
 		{
@@ -453,7 +451,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107332"
 		}
 	],
+	"id": 8576,
 	"localAuthority": "Argyll and Bute",
 	"name": "Sléibhtean agus Cladach Thiriodh (Tiree Wetlands and Coast)",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8576"
 }

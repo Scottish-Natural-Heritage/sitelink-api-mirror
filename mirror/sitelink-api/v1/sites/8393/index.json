@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8393",
-	"id": 8393,
 	"area": 62.42,
 	"casework": [
 		{
@@ -111,10 +109,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003777"
 		}
 	],
+	"id": 8393,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "The Vadills",
 	"secondaryLocalAuthorities": [
 		"Shetland Islands"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8393"
 }

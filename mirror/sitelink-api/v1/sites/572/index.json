@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/572",
-	"id": 572,
 	"area": 792.66,
 	"casework": [
 		{
@@ -702,7 +700,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105694"
 		}
 	],
+	"id": 572,
 	"localAuthority": "Highland",
 	"name": "Dunnet Links",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/572"
 }

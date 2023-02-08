@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/262",
-	"id": 262,
 	"area": 22.66,
 	"casework": [
 		{
@@ -103,7 +101,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100091"
 		}
 	],
+	"id": 262,
 	"localAuthority": "Stirling",
 	"name": "Brig o' Turk Mires",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/262"
 }

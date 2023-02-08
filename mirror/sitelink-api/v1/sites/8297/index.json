@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8297",
-	"id": 8297,
 	"area": 1214.54,
 	"casework": [
 		{
@@ -469,10 +467,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102038"
 		}
 	],
+	"id": 8297,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Loch Laxford",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8297"
 }

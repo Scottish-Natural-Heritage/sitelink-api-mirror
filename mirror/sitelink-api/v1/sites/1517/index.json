@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1517",
-	"id": 1517,
 	"area": 8.33,
 	"casework": [
 		{
@@ -85,7 +83,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100636"
 		}
 	],
+	"id": 1517,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Talnotry Mine",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1517"
 }

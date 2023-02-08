@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1715",
-	"id": 1715,
 	"area": 669.6,
 	"casework": [
 		{
@@ -284,7 +282,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106600"
 		}
 	],
+	"id": 1715,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Berneray",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1715"
 }

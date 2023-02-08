@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1239",
-	"id": 1239,
 	"agreements": [
 		{
 			"area": 0.85,
@@ -68,7 +66,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106186"
 		}
 	],
+	"id": 1239,
 	"localAuthority": "Shetland Islands",
 	"name": "North Roe Meadow",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1239"
 }

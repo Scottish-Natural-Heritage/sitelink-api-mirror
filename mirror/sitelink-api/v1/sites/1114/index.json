@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1114",
-	"id": 1114,
 	"area": 1080.98,
 	"casework": [
 		{
@@ -492,7 +490,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106083"
 		}
 	],
+	"id": 1114,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Luskentyre Banks and Saltings",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1114"
 }

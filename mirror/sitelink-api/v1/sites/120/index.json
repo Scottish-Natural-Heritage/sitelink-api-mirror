@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/120",
-	"id": 120,
 	"area": 56.17,
 	"casework": [
 		{
@@ -229,7 +227,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101048"
 		}
 	],
+	"id": 120,
 	"localAuthority": "City of Edinburgh",
 	"name": "Balerno Common",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/120"
 }

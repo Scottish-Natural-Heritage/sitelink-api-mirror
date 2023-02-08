@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/450",
-	"id": 450,
 	"agreements": [
 		{
 			"area": 91.4,
@@ -106,7 +104,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105609"
 		}
 	],
+	"id": 450,
 	"localAuthority": "South Lanarkshire",
 	"name": "Cranley Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/450"
 }

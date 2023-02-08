@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/977",
-	"id": 977,
 	"area": 1665.06,
 	"casework": [
 		{
@@ -859,7 +857,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103495"
 		}
 	],
+	"id": 977,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch Druidibeg",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/977"
 }

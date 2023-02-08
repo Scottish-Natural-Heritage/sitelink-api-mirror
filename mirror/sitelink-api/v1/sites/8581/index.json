@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8581",
-	"id": 8581,
 	"area": 3909.45,
 	"casework": [
 		{
@@ -254,10 +252,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110396"
 		}
 	],
+	"id": 8581,
 	"localAuthority": "Orkney Islands",
 	"name": "Sule Skerry and Sule Stack",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8581"
 }

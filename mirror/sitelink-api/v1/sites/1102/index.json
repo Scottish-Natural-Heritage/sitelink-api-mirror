@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1102",
-	"id": 1102,
 	"area": 12.57,
 	"casework": [
 		{
@@ -207,7 +205,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106070"
 		}
 	],
+	"id": 1102,
 	"localAuthority": "Highland",
 	"name": "Loth Gorge",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1102"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8404",
-	"id": 8404,
 	"agreements": [
 		{
 			"area": 4.68,
@@ -100,7 +98,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100647"
 		}
 	],
+	"id": 8404,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Tynron Juniper Wood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8404"
 }

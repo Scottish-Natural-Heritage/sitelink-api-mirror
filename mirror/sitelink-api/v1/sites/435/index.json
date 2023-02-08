@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/435",
-	"id": 435,
 	"area": 3.2,
 	"casework": [
 		{
@@ -122,7 +120,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105600"
 		}
 	],
+	"id": 435,
 	"localAuthority": "Argyll and Bute",
 	"name": "Craighouse Ravine, Jura",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/435"
 }

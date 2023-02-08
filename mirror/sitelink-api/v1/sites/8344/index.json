@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8344",
-	"id": 8344,
 	"area": 446.2,
 	"casework": [
 		{
@@ -236,7 +234,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109984"
 		}
 	],
+	"id": 8344,
 	"localAuthority": "Highland",
 	"name": "Oldshoremore and Sandwood",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8344"
 }

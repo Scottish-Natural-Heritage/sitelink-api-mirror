@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/195",
-	"id": 195,
 	"area": 5415.64,
 	"casework": [
 		{
@@ -434,7 +432,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103868"
 		}
 	],
+	"id": 195,
 	"localAuthority": "Highland",
 	"name": "Ben Wyvis",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/195"
 }

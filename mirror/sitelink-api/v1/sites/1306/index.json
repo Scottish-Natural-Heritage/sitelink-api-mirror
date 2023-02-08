@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1306",
-	"id": 1306,
 	"area": 4.69,
 	"casework": [
 		{
@@ -107,7 +105,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000064"
 		}
 	],
+	"id": 1306,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Port of Ness",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1306"
 }

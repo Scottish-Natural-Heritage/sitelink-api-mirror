@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1710",
-	"id": 1710,
 	"area": 146.02,
 	"casework": [
 		{
@@ -115,7 +113,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005158"
 		}
 	],
+	"id": 1710,
 	"localAuthority": "Highland",
 	"name": "Loch Awe and Loch Ailsh",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1710"
 }

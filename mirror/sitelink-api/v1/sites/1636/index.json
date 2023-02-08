@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1636",
-	"id": 1636,
 	"agreements": [
 		{
 			"area": 3.51,
@@ -209,7 +207,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106535"
 		}
 	],
+	"id": 1636,
 	"localAuthority": "Scottish Borders",
 	"name": "Whitlaw Mosses",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1636"
 }

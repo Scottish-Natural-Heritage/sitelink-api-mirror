@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1122",
-	"id": 1122,
 	"area": 9.42,
 	"designation": {
 		"code": "SSSI",
@@ -55,7 +53,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101309"
 		}
 	],
+	"id": 1122,
 	"localAuthority": "Scottish Borders",
 	"name": "Makerstoun - Corbie Craigs to Trows' Craigs",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1122"
 }

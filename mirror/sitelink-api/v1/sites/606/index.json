@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/606",
-	"id": 606,
 	"area": 66.49,
 	"casework": [
 		{
@@ -230,10 +228,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103199"
 		}
 	],
+	"id": 606,
 	"localAuthority": "Highland",
 	"name": "Elgol Coast",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/606"
 }

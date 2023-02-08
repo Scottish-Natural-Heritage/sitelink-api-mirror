@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1395",
-	"id": 1395,
 	"agreements": [
 		{
 			"area": 78.8,
@@ -651,7 +649,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111468"
 		}
 	],
+	"id": 1395,
 	"localAuthority": "Argyll and Bute",
 	"name": "Ruel Estuary",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1395"
 }

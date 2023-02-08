@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8215",
-	"id": 8215,
 	"area": 244.1,
 	"casework": [
 		{
@@ -159,7 +157,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100494"
 		}
 	],
+	"id": 8215,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Burrow Head",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8215"
 }

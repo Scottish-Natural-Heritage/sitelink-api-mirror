@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1223",
-	"id": 1223,
 	"area": 18.27,
 	"casework": [
 		{
@@ -267,7 +265,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101323"
 		}
 	],
+	"id": 1223,
 	"localAuthority": "Scottish Borders",
 	"name": "Newtown St Boswells Woods",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1223"
 }

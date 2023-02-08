@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8587",
-	"id": 8587,
 	"area": 3365.2,
 	"casework": [
 		{
@@ -252,10 +250,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103786"
 		}
 	],
+	"id": 8587,
 	"localAuthority": "Aberdeenshire",
 	"name": "Troup, Pennan and Lion's Heads",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8587"
 }

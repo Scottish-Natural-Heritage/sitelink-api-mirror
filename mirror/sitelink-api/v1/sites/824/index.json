@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/824",
-	"id": 824,
 	"area": 0.73,
 	"casework": [
 		{
@@ -65,7 +63,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102005"
 		}
 	],
+	"id": 824,
 	"localAuthority": "Highland",
 	"name": "John o' Groats",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/824"
 }

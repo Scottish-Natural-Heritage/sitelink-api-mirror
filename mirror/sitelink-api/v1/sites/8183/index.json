@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8183",
-	"id": 8183,
 	"area": 52.98,
 	"casework": [
 		{
@@ -84,7 +82,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101342"
 		}
 	],
+	"id": 8183,
 	"localAuthority": "Midlothian",
 	"name": "Peeswit Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8183"
 }

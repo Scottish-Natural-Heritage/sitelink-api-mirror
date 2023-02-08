@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8108",
-	"id": 8108,
 	"area": 629.2,
 	"casework": [
 		{
@@ -93,7 +91,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109542"
 		}
 	],
+	"id": 8108,
 	"localAuthority": "Shetland Islands",
 	"name": "Valla Field",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8108"
 }

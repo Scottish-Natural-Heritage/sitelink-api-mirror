@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10481",
-	"id": 10481,
 	"area": 21173.17,
 	"casework": [
 		{
@@ -536,10 +534,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 10481,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "North Orkney",
 	"secondaryLocalAuthorities": [
 		"Orkney Islands"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/10481"
 }

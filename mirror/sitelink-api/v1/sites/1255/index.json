@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1255",
-	"id": 1255,
 	"area": 45.8,
 	"casework": [
 		{
@@ -127,7 +125,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107792"
 		}
 	],
+	"id": 1255,
 	"localAuthority": "Aberdeenshire",
 	"name": "Old Wood of Drum",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1255"
 }

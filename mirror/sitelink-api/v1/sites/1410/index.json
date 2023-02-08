@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1410",
-	"id": 1410,
 	"area": 1.81,
 	"casework": [
 		{
@@ -75,7 +73,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106329"
 		}
 	],
+	"id": 1410,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Scare Rocks",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1410"
 }

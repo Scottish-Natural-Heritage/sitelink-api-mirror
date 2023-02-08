@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1511",
-	"id": 1511,
 	"area": 23.45,
 	"casework": [
 		{
@@ -105,7 +103,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106402"
 		}
 	],
+	"id": 1511,
 	"localAuthority": "Fife",
 	"name": "Swinkie Muir",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1511"
 }

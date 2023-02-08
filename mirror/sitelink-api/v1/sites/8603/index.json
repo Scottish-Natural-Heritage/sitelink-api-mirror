@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8603",
-	"id": 8603,
 	"area": 33.57,
 	"casework": [
 		{
@@ -184,7 +182,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002097"
 		}
 	],
+	"id": 8603,
 	"localAuthority": "North Lanarkshire",
 	"name": "West Fannyside Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8603"
 }

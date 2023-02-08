@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1591",
-	"id": 1591,
 	"area": 23.67,
 	"casework": [
 		{
@@ -65,7 +63,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000627"
 		}
 	],
+	"id": 1591,
 	"localAuthority": "Shetland Islands",
 	"name": "Voxter Voe and Valayre Quarry",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1591"
 }

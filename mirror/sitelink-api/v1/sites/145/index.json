@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/145",
-	"id": 145,
 	"area": 3.92,
 	"casework": [
 		{
@@ -98,7 +96,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111748"
 		}
 	],
+	"id": 145,
 	"localAuthority": "East Lothian",
 	"name": "Bangley Quarry",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/145"
 }

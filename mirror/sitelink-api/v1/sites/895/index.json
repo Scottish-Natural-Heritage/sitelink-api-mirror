@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/895",
-	"id": 895,
 	"area": 1230.02,
 	"casework": [
 		{
@@ -239,7 +237,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105926"
 		}
 	],
+	"id": 895,
 	"localAuthority": "Argyll and Bute",
 	"name": "Laggan Peninsula and Bay",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/895"
 }

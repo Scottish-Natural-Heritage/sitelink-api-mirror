@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10422",
-	"id": 10422,
 	"area": 80300,
 	"casework": [
 		{
@@ -282,10 +280,12 @@
 			"statutoryInterest": "Protected feature"
 		}
 	],
+	"id": 10422,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Small Isles",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/10422"
 }

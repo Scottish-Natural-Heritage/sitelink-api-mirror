@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8573",
-	"id": 8573,
 	"area": 5480.84,
 	"casework": [
 		{
@@ -382,10 +380,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107313"
 		}
 	],
+	"id": 8573,
 	"localAuthority": "Orkney Islands",
 	"name": "Rousay",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8573"
 }

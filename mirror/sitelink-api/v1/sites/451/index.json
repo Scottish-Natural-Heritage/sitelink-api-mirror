@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/451",
-	"id": 451,
 	"area": 283.11,
 	"casework": [
 		{
@@ -129,7 +127,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105611"
 		}
 	],
+	"id": 451,
 	"localAuthority": "Argyll and Bute",
 	"name": "Crannach Wood",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/451"
 }

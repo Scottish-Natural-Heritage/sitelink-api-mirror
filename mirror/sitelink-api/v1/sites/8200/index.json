@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8200",
-	"id": 8200,
 	"area": 6653.48,
 	"casework": [
 		{
@@ -319,7 +317,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106656"
 		}
 	],
+	"id": 8200,
 	"localAuthority": "Highland",
 	"name": "Ben Alder and Aonach Beag",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8200"
 }

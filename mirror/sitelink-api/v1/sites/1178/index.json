@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1178",
-	"id": 1178,
 	"agreements": [
 		{
 			"area": 7.45,
@@ -221,7 +219,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106125"
 		}
 	],
+	"id": 1178,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Monach Isles",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1178"
 }

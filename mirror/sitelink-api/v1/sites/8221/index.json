@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8221",
-	"id": 8221,
 	"area": 49.3,
 	"casework": [
 		{
@@ -154,7 +152,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100502"
 		}
 	],
+	"id": 8221,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Carsegowan Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8221"
 }

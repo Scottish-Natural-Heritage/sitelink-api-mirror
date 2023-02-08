@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10423",
-	"id": 10423,
 	"area": 28000,
 	"casework": [
 		{
@@ -156,10 +154,12 @@
 			"statutoryInterest": "Protected feature"
 		}
 	],
+	"id": 10423,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "South Arran",
 	"secondaryLocalAuthorities": [
 		"North Ayrshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/10423"
 }

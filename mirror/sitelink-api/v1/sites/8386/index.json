@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8386",
-	"id": 8386,
 	"area": 207,
 	"casework": [
 		{
@@ -108,7 +106,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102150"
 		}
 	],
+	"id": 8386,
 	"localAuthority": "Highland",
 	"name": "Strathy Point",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8386"
 }

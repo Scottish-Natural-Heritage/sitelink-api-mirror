@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1048",
-	"id": 1048,
 	"area": 4148.44,
 	"casework": [
 		{
@@ -182,7 +180,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106026"
 		}
 	],
+	"id": 1048,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Mointeach Scadabhaigh",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1048"
 }

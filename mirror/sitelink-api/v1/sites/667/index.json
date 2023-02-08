@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/667",
-	"id": 667,
 	"area": 44.6,
 	"casework": [
 		{
@@ -206,10 +204,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102876"
 		}
 	],
+	"id": 667,
 	"localAuthority": "Angus",
 	"name": "Gannochy Gorge",
 	"secondaryLocalAuthorities": [
 		"Aberdeenshire"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/667"
 }

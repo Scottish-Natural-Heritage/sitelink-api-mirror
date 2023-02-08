@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8428",
-	"id": 8428,
 	"area": 3262.13,
 	"casework": [
 		{
@@ -128,7 +126,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110154"
 		}
 	],
+	"id": 8428,
 	"localAuthority": "Argyll and Bute",
 	"name": "Gruinart Flats, Islay",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8428"
 }

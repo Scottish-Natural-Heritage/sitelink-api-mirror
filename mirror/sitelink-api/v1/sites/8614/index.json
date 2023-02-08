@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8614",
-	"id": 8614,
 	"area": 10801.78,
 	"casework": [
 		{
@@ -1218,7 +1216,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102498"
 		}
 	],
+	"id": 8614,
 	"localAuthority": "North Ayrshire",
 	"name": "Arran Moors",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8614"
 }

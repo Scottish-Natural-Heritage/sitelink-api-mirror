@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/660",
-	"id": 660,
 	"area": 10.2,
 	"casework": [
 		{
@@ -149,7 +147,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002494"
 		}
 	],
+	"id": 660,
 	"localAuthority": "Aberdeenshire",
 	"name": "Fowlsheugh",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/660"
 }

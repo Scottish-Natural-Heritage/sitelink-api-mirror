@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1272",
-	"id": 1272,
 	"agreements": [
 		{
 			"area": 321.3,
@@ -3365,7 +3363,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103308"
 		}
 	],
+	"id": 1272,
 	"localAuthority": "Highland",
 	"name": "Parallel Roads of Lochaber",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1272"
 }

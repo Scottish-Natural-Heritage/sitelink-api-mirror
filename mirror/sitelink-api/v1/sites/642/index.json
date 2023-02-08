@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/642",
-	"id": 642,
 	"area": 59.28,
 	"casework": [
 		{
@@ -130,7 +128,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004132"
 		}
 	],
+	"id": 642,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Flannan Isles",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/642"
 }

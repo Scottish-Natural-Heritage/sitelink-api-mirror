@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/383",
-	"id": 383,
 	"area": 39.61,
 	"casework": [
 		{
@@ -98,7 +96,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103158"
 		}
 	],
+	"id": 383,
 	"localAuthority": "Highland",
 	"name": "Coille Phuiteachain",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/383"
 }

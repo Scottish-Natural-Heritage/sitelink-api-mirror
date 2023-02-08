@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8638",
-	"id": 8638,
 	"area": 65.24,
 	"casework": [
 		{
@@ -200,7 +198,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107545"
 		}
 	],
+	"id": 8638,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glen Shira",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8638"
 }

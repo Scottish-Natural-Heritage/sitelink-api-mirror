@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/603",
-	"id": 603,
 	"area": 24.49,
 	"casework": [
 		{
@@ -73,7 +71,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105722"
 		}
 	],
+	"id": 603,
 	"localAuthority": "Highland",
 	"name": "Eilean Chlamail - Camas nan Ceann",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/603"
 }

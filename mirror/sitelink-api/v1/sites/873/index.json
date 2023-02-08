@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/873",
-	"id": 873,
 	"area": 7.2,
 	"casework": [
 		{
@@ -102,7 +100,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101285"
 		}
 	],
+	"id": 873,
 	"localAuthority": "Scottish Borders",
 	"name": "Kirkhope Linns",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/873"
 }

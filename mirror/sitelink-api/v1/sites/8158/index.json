@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8158",
-	"id": 8158,
 	"area": 586.85,
 	"casework": [
 		{
@@ -568,7 +566,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109548"
 		}
 	],
+	"id": 8158,
 	"localAuthority": "Argyll and Bute",
 	"name": "Knapdale Woods",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8158"
 }

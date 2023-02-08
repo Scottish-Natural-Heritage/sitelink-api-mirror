@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1234",
-	"id": 1234,
 	"area": 1637.04,
 	"casework": [
 		{
@@ -413,7 +411,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102359"
 		}
 	],
+	"id": 1234,
 	"localAuthority": "Shetland Islands",
 	"name": "North Fetlar",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1234"
 }

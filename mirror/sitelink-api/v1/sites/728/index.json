@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/728",
-	"id": 728,
 	"area": 81.8,
 	"casework": [
 		{
@@ -149,7 +147,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105810"
 		}
 	],
+	"id": 728,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glenacardoch Point",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/728"
 }

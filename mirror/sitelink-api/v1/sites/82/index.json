@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/82",
-	"id": 82,
 	"area": 1783.83,
 	"casework": [
 		{
@@ -219,7 +217,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004839"
 		}
 	],
+	"id": 82,
 	"localAuthority": "Argyll and Bute",
 	"name": "Ardura - Auchnacraig",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/82"
 }

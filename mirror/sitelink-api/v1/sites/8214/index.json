@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8214",
-	"id": 8214,
 	"area": 206.03,
 	"casework": [
 		{
@@ -382,7 +380,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106700"
 		}
 	],
+	"id": 8214,
 	"localAuthority": "Aberdeenshire",
 	"name": "Buchan Ness to Collieston",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8214"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1672",
-	"id": 1672,
 	"area": 356.48,
 	"casework": [
 		{
@@ -241,7 +239,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112136"
 		}
 	],
+	"id": 1672,
 	"localAuthority": "Argyll and Bute",
 	"name": "Airds Park and Coille Nathais",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1672"
 }

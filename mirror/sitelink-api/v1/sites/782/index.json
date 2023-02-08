@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/782",
-	"id": 782,
 	"area": 809.18,
 	"casework": [
 		{
@@ -224,7 +222,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102285"
 		}
 	],
+	"id": 782,
 	"localAuthority": "Shetland Islands",
 	"name": "Hill of Colvadale and Sobul",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/782"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/431",
-	"id": 431,
 	"area": 13.89,
 	"casework": [
 		{
@@ -140,7 +138,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111796"
 		}
 	],
+	"id": 431,
 	"localAuthority": "Fife",
 	"name": "Craighall Den",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/431"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1676",
-	"id": 1676,
 	"area": 65,
 	"casework": [
 		{
@@ -127,7 +125,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004911"
 		}
 	],
+	"id": 1676,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Obain Loch Euphoirt",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1676"
 }

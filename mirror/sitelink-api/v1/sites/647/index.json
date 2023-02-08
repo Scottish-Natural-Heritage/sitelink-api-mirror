@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/647",
-	"id": 647,
 	"agreements": [
 		{
 			"area": 2522,
@@ -482,7 +480,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000800"
 		}
 	],
+	"id": 647,
 	"localAuthority": "Highland",
 	"name": "Foinaven",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/647"
 }

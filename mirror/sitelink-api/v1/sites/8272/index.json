@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8272",
-	"id": 8272,
 	"area": 9501.27,
 	"casework": [
 		{
@@ -697,7 +695,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004080"
 		}
 	],
+	"id": 8272,
 	"localAuthority": "Orkney Islands",
 	"name": "Hoy",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8272"
 }

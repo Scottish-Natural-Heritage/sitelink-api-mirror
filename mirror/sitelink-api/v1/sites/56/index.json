@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/56",
-	"id": 56,
 	"area": 64.81,
 	"casework": [
 		{
@@ -71,7 +69,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000195"
 		}
 	],
+	"id": 56,
 	"localAuthority": "Highland",
 	"name": "An Cleireach",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/56"
 }

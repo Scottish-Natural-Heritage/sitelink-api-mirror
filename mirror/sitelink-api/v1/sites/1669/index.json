@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1669",
-	"id": 1669,
 	"area": 8.51,
 	"casework": [
 		{
@@ -89,7 +87,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003852"
 		}
 	],
+	"id": 1669,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch Siadar",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1669"
 }

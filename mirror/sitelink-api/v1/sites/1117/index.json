@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1117",
-	"id": 1117,
 	"agreements": [
 		{
 			"area": 6.6,
@@ -173,7 +171,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101308"
 		}
 	],
+	"id": 1117,
 	"localAuthority": "Scottish Borders",
 	"name": "Lynnwood - Whitlaw Wood, Slitrig",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1117"
 }

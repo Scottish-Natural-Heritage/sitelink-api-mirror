@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/493",
-	"id": 493,
 	"area": 36.66,
 	"casework": [
 		{
@@ -138,7 +136,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112216"
 		}
 	],
+	"id": 493,
 	"localAuthority": "Stirling",
 	"name": "Dalveich Meadow",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/493"
 }

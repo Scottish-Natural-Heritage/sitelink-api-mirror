@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/772",
-	"id": 772,
 	"area": 152.48,
 	"casework": [
 		{
@@ -348,7 +346,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107720"
 		}
 	],
+	"id": 772,
 	"localAuthority": "Highland",
 	"name": "Helmsdale Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/772"
 }

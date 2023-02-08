@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8602",
-	"id": 8602,
 	"area": 12507.39,
 	"casework": [
 		{
@@ -535,10 +533,12 @@
 			"statutoryInterest": "SAC qualifying feature"
 		}
 	],
+	"id": 8602,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Sound of Barra",
 	"secondaryLocalAuthorities": [
 		"Comhairle nan Eilean Siar (Western Isles)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8602"
 }

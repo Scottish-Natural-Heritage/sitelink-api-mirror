@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8267",
-	"id": 8267,
 	"area": 101.45,
 	"casework": [
 		{
@@ -102,7 +100,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005683"
 		}
 	],
+	"id": 8267,
 	"localAuthority": "Perth and Kinross",
 	"name": "Glenartney Juniper Wood",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8267"
 }

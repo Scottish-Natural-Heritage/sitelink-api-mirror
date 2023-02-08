@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/700",
-	"id": 700,
 	"area": 546.37,
 	"casework": [
 		{
@@ -572,7 +570,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105792"
 		}
 	],
+	"id": 700,
 	"localAuthority": "Highland",
 	"name": "Glen Beasdale",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/700"
 }

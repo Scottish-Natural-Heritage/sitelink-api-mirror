@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10421",
-	"id": 10421,
 	"area": 59900,
 	"casework": [
 		{
@@ -516,10 +514,12 @@
 			"statutoryInterest": "Protected feature"
 		}
 	],
+	"id": 10421,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Wester Ross",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/10421"
 }

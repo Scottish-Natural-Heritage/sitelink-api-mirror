@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1007",
-	"id": 1007,
 	"agreements": [
 		{
 			"area": 223,
@@ -242,7 +240,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103270"
 		}
 	],
+	"id": 1007,
 	"localAuthority": "Highland",
 	"name": "Loch Maree",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1007"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/355",
-	"id": 355,
 	"area": 17.34,
 	"casework": [
 		{
@@ -72,7 +70,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100509"
 		}
 	],
+	"id": 355,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Chanlockfoot",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/355"
 }

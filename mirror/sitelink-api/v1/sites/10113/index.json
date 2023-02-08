@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10113",
-	"id": 10113,
 	"agreements": [
 		{
 			"area": 290.7,
@@ -2713,11 +2711,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107653"
 		}
 	],
+	"id": 10113,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glen Etive and Glen Fyne",
 	"secondaryLocalAuthorities": [
 		"Highland",
 		"Stirling"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/10113"
 }

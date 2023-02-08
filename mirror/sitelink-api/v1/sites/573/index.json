@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/573",
-	"id": 573,
 	"area": 5.17,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101905"
 		}
 	],
+	"id": 573,
 	"localAuthority": "Highland",
 	"name": "Dunrobin Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/573"
 }

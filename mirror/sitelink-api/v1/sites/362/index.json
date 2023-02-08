@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/362",
-	"id": 362,
 	"area": 9.66,
 	"casework": [
 		{
@@ -88,7 +86,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105554"
 		}
 	],
+	"id": 362,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Clatteringshaws Dam Quarry",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/362"
 }

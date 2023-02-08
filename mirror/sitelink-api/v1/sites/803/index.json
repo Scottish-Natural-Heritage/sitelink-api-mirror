@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/803",
-	"id": 803,
 	"area": 75.36,
 	"casework": [
 		{
@@ -88,7 +86,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001502"
 		}
 	],
+	"id": 803,
 	"localAuthority": "Argyll and Bute",
 	"name": "Inchlonaig",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/803"
 }

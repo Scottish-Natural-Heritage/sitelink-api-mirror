@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1207",
-	"id": 1207,
 	"area": 1.62,
 	"casework": [
 		{
@@ -69,7 +67,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000080"
 		}
 	],
+	"id": 1207,
 	"localAuthority": "Orkney Islands",
 	"name": "Muckle Head and Selwick",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1207"
 }

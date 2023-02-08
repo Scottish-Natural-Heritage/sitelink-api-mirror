@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1597",
-	"id": 1597,
 	"agreements": [
 		{
 			"area": 48,
@@ -260,7 +258,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100704"
 		}
 	],
+	"id": 1597,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Water of Ken Woods",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1597"
 }

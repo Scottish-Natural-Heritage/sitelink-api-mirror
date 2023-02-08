@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/171",
-	"id": 171,
 	"area": 38.5,
 	"casework": [
 		{
@@ -59,7 +57,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105415"
 		}
 	],
+	"id": 171,
 	"localAuthority": "Argyll and Bute",
 	"name": "Beinn Shiantaidh",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/171"
 }

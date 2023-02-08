@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/523",
-	"id": 523,
 	"area": 64.24,
 	"casework": [
 		{
@@ -162,7 +160,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101116"
 		}
 	],
+	"id": 523,
 	"localAuthority": "Scottish Borders",
 	"name": "Dolphinton - West Linton Fens and Grassland",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/523"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/950",
-	"id": 950,
 	"area": 242.47,
 	"casework": [
 		{
@@ -129,7 +127,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102607"
 		}
 	],
+	"id": 950,
 	"localAuthority": "South Ayrshire",
 	"name": "Littleton and Balhamie Hills",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/950"
 }

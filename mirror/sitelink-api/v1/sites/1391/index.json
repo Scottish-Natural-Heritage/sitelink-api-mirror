@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1391",
-	"id": 1391,
 	"area": 25.64,
 	"casework": [
 		{
@@ -59,7 +57,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103345"
 		}
 	],
+	"id": 1391,
 	"localAuthority": "Highland",
 	"name": "Rubha Camas na Cailinn",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1391"
 }

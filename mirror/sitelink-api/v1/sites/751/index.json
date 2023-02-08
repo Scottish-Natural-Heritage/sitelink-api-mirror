@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/751",
-	"id": 751,
 	"area": 3261.32,
 	"casework": [
 		{
@@ -410,7 +408,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105830"
 		}
 	],
+	"id": 751,
 	"localAuthority": "Argyll and Bute",
 	"name": "Gruinart Flats",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/751"
 }

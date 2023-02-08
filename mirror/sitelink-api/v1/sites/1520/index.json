@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1520",
-	"id": 1520,
 	"agreements": [
 		{
 			"area": 1,
@@ -200,7 +198,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100417"
 		}
 	],
+	"id": 1520,
 	"localAuthority": "Argyll and Bute",
 	"name": "Tarbert to Skipness Coast",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1520"
 }

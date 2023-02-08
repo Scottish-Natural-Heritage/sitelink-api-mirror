@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/723",
-	"id": 723,
 	"area": 3922.33,
 	"casework": [
 		{
@@ -501,7 +499,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105803"
 		}
 	],
+	"id": 723,
 	"localAuthority": "Highland",
 	"name": "Glen Strathfarrar",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/723"
 }

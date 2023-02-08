@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/748",
-	"id": 748,
 	"area": 1.74,
 	"casework": [
 		{
@@ -65,7 +63,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105828"
 		}
 	],
+	"id": 748,
 	"localAuthority": "Scottish Borders",
 	"name": "Grieston Quarry",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/748"
 }

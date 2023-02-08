@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10262",
-	"id": 10262,
 	"agreements": [
 		{
 			"area": 9.74,
@@ -98,7 +96,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111415"
 		}
 	],
+	"id": 10262,
 	"localAuthority": "North Ayrshire",
 	"name": "Portencross Woods",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/10262"
 }

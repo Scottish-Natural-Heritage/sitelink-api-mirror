@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1162",
-	"id": 1162,
 	"area": 25.51,
 	"casework": [
 		{
@@ -89,10 +87,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000154"
 		}
 	],
+	"id": 1162,
 	"localAuthority": "Aberdeenshire",
 	"name": "Milton Ness",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1162"
 }

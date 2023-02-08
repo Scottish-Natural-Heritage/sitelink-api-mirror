@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/112",
-	"id": 112,
 	"area": 15.15,
 	"casework": [
 		{
@@ -93,7 +91,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103879"
 		}
 	],
+	"id": 112,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Back Wood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/112"
 }

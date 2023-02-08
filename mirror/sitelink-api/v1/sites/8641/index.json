@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8641",
-	"id": 8641,
 	"area": 48752.99,
 	"casework": [
 		{
@@ -733,10 +731,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 8641,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Luce Bay and Sands",
 	"secondaryLocalAuthorities": [
 		"Dumfries and Galloway"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8641"
 }

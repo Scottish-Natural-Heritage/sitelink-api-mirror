@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/430",
-	"id": 430,
 	"area": 303.5,
 	"casework": [
 		{
@@ -154,11 +152,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105596"
 		}
 	],
+	"id": 430,
 	"localAuthority": "West Lothian",
 	"name": "Craigengar",
 	"secondaryLocalAuthorities": [
 		"Scottish Borders",
 		"South Lanarkshire"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/430"
 }

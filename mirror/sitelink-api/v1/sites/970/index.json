@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/970",
-	"id": 970,
 	"area": 6582.48,
 	"casework": [
 		{
@@ -278,7 +276,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111598"
 		}
 	],
+	"id": 970,
 	"localAuthority": "Highland",
 	"name": "Loch Caluim Flows",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/970"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/713",
-	"id": 713,
 	"area": 65.19,
 	"casework": [
 		{
@@ -179,7 +177,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000631"
 		}
 	],
+	"id": 713,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glen Loin",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/713"
 }

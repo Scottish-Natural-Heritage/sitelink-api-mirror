@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/254",
-	"id": 254,
 	"area": 8.39,
 	"casework": [
 		{
@@ -96,7 +94,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101068"
 		}
 	],
+	"id": 254,
 	"localAuthority": "Scottish Borders",
 	"name": "Branxholme Easter Loch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/254"
 }

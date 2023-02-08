@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1254",
-	"id": 1254,
 	"area": 1.95,
 	"casework": [
 		{
@@ -77,7 +75,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000293"
 		}
 	],
+	"id": 1254,
 	"localAuthority": "Scottish Borders",
 	"name": "Old Cambus Quarry",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1254"
 }

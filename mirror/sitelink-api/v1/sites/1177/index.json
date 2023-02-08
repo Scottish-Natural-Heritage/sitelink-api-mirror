@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1177",
-	"id": 1177,
 	"area": 1.32,
 	"casework": [
 		{
@@ -202,7 +200,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110768"
 		}
 	],
+	"id": 1177,
 	"localAuthority": "North Lanarkshire",
 	"name": "Mollinsburn Road Cutting",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1177"
 }

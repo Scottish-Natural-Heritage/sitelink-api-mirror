@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/118",
-	"id": 118,
 	"area": 34.97,
 	"designation": {
 		"code": "SSSI",
@@ -71,7 +69,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105371"
 		}
 	],
+	"id": 118,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Bailliewhirr",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/118"
 }

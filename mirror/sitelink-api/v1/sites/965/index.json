@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/965",
-	"id": 965,
 	"area": 1105.66,
 	"casework": [
 		{
@@ -500,7 +498,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003740"
 		}
 	],
+	"id": 965,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Loch Bee",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/965"
 }

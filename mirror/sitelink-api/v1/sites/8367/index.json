@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8367",
-	"id": 8367,
 	"area": 1289.33,
 	"casework": [
 		{
@@ -3600,7 +3598,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105264"
 		}
 	],
+	"id": 8367,
 	"localAuthority": "Stirling",
 	"name": "River Teith",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8367"
 }

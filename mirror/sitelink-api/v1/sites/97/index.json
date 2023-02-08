@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/97",
-	"id": 97,
 	"area": 177.13,
 	"casework": [
 		{
@@ -108,7 +106,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105357"
 		}
 	],
+	"id": 97,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Auchencairn and Orchardton Bays",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/97"
 }

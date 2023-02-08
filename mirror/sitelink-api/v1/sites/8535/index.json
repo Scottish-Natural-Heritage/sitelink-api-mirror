@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8535",
-	"id": 8535,
 	"area": 186.27,
 	"casework": [
 		{
@@ -316,7 +314,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111842"
 		}
 	],
+	"id": 8535,
 	"localAuthority": "Angus",
 	"name": "Loch of Lintrathen",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8535"
 }

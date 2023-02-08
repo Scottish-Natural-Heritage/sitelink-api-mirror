@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1700",
-	"id": 1700,
 	"area": 628.24,
 	"casework": [
 		{
@@ -173,7 +171,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106585"
 		}
 	],
+	"id": 1700,
 	"localAuthority": "Argyll and Bute",
 	"name": "Ceann a' Mhara to Loch a' Phuill",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1700"
 }

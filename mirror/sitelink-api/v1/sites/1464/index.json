@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1464",
-	"id": 1464,
 	"area": 6.14,
 	"casework": [
 		{
@@ -94,7 +92,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106359"
 		}
 	],
+	"id": 1464,
 	"localAuthority": "Moray",
 	"name": "Spynie Quarry",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1464"
 }

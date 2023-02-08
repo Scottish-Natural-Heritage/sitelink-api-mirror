@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/883",
-	"id": 883,
 	"area": 16.94,
 	"casework": [
 		{
@@ -110,7 +108,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105917"
 		}
 	],
+	"id": 883,
 	"localAuthority": "Inverclyde",
 	"name": "Knocknairs Hill",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/883"
 }

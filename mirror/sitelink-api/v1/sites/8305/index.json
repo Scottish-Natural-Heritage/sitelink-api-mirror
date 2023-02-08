@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8305",
-	"id": 8305,
 	"area": 43.14,
 	"casework": [
 		{
@@ -121,10 +119,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002303"
 		}
 	],
+	"id": 8305,
 	"localAuthority": "Marine Scotland (inshore)",
 	"name": "Loch Roag Lagoons",
 	"secondaryLocalAuthorities": [
 		"Comhairle nan Eilean Siar (Western Isles)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8305"
 }

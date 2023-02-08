@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1617",
-	"id": 1617,
 	"area": 0.84,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102164"
 		}
 	],
+	"id": 1617,
 	"localAuthority": "Highland",
 	"name": "Westerdale Quarry",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1617"
 }

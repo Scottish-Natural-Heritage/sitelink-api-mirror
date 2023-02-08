@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/401",
-	"id": 401,
 	"agreements": [
 		{
 			"area": 12.25,
@@ -265,10 +263,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107771"
 		}
 	],
+	"id": 401,
 	"localAuthority": "Aberdeenshire",
 	"name": "Corby, Lily and Bishops Lochs",
 	"secondaryLocalAuthorities": [
 		"Aberdeen City"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/401"
 }

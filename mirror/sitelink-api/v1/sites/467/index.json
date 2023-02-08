@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/467",
-	"id": 467,
 	"area": 3614.15,
 	"casework": [
 		{
@@ -2335,7 +2333,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100858"
 		}
 	],
+	"id": 467,
 	"localAuthority": "Highland",
 	"name": "Cromarty Firth",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/467"
 }

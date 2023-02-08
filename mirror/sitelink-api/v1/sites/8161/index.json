@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8161",
-	"id": 8161,
 	"area": 7833.3,
 	"casework": [
 		{
@@ -262,10 +260,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111311"
 		}
 	],
+	"id": 8161,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "North Lowther Uplands",
 	"secondaryLocalAuthorities": [
 		"South Lanarkshire"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8161"
 }

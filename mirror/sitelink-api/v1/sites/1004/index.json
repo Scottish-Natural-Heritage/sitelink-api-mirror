@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1004",
-	"id": 1004,
 	"area": 63.13,
 	"casework": [
 		{
@@ -191,7 +189,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105990"
 		}
 	],
+	"id": 1004,
 	"localAuthority": "Stirling",
 	"name": "Loch Lubnaig Marshes",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1004"
 }

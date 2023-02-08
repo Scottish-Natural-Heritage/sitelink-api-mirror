@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8350",
-	"id": 8350,
 	"area": 75.85,
 	"casework": [
 		{
@@ -393,7 +391,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111403"
 		}
 	],
+	"id": 8350,
 	"localAuthority": "South Lanarkshire",
 	"name": "Red Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8350"
 }

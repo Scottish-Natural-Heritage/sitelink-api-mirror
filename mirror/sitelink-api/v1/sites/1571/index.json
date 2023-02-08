@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1571",
-	"id": 1571,
 	"area": 55.71,
 	"casework": [
 		{
@@ -168,7 +166,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001974"
 		}
 	],
+	"id": 1571,
 	"localAuthority": "South Ayrshire",
 	"name": "Turnberry Dunes",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1571"
 }

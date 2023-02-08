@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1435",
-	"id": 1435,
 	"area": 36.67,
 	"casework": [
 		{
@@ -113,7 +111,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102655"
 		}
 	],
+	"id": 1435,
 	"localAuthority": "North Ayrshire",
 	"name": "Skelmorlie Glen",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1435"
 }

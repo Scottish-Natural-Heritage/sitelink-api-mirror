@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8481",
-	"id": 8481,
 	"area": 6734.48,
 	"casework": [
 		{
@@ -222,10 +220,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107030"
 		}
 	],
+	"id": 8481,
 	"localAuthority": "Highland",
 	"name": "Cape Wrath",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8481"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/415",
-	"id": 415,
 	"area": 122.52,
 	"casework": [
 		{
@@ -83,7 +81,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107677"
 		}
 	],
+	"id": 415,
 	"localAuthority": "Aberdeenshire",
 	"name": "Coyles of Muick",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/415"
 }

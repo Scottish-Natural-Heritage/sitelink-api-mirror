@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/173",
-	"id": 173,
 	"area": 20.6,
 	"casework": [
 		{
@@ -100,7 +98,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100035"
 		}
 	],
+	"id": 173,
 	"localAuthority": "Argyll and Bute",
 	"name": "Bellochantuy and Tangy Gorges",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/173"
 }

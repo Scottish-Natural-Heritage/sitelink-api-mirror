@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10114",
-	"id": 10114,
 	"area": 34585.96,
 	"casework": [
 		{
@@ -525,7 +523,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107654"
 		}
 	],
+	"id": 10114,
 	"localAuthority": "Argyll and Bute",
 	"name": "Jura, Scarba and the Garvellachs",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/10114"
 }

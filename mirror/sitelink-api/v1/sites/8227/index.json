@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8227",
-	"id": 8227,
 	"area": 310.07,
 	"casework": [
 		{
@@ -171,7 +169,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104371"
 		}
 	],
+	"id": 8227,
 	"localAuthority": "Highland",
 	"name": "Coille Mhor",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8227"
 }

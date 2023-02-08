@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/581",
-	"id": 581,
 	"area": 424.96,
 	"casework": [
 		{
@@ -246,7 +244,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105699"
 		}
 	],
+	"id": 581,
 	"localAuthority": "Fife",
 	"name": "Earlshall Muir",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/581"
 }

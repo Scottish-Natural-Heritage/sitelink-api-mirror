@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/368",
-	"id": 368,
 	"area": 0.21,
 	"designation": {
 		"code": "SSSI",
@@ -51,7 +49,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103441"
 		}
 	],
+	"id": 368,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Cnoc a' Chapuill",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/368"
 }

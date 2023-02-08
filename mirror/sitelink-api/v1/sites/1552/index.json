@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1552",
-	"id": 1552,
 	"area": 14.59,
 	"casework": [
 		{
@@ -87,7 +85,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106434"
 		}
 	],
+	"id": 1552,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Torrs Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1552"
 }

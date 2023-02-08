@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8420",
-	"id": 8420,
 	"agreements": [
 		{
 			"area": 324,
@@ -1282,7 +1280,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110130"
 		}
 	],
+	"id": 8420,
 	"localAuthority": "Highland",
 	"name": "Dornoch Firth and Loch Fleet",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8420"
 }

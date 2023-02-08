@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8346",
-	"id": 8346,
 	"agreements": [
 		{
 			"area": 0.91,
@@ -253,7 +251,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004203"
 		}
 	],
+	"id": 8346,
 	"localAuthority": "Perth and Kinross",
 	"name": "Pitkeathly Mires",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8346"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1274",
-	"id": 1274,
 	"area": 62.24,
 	"casework": [
 		{
@@ -194,7 +192,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103012"
 		}
 	],
+	"id": 1274,
 	"localAuthority": "Perth and Kinross",
 	"name": "Pass of Killiecrankie",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1274"
 }

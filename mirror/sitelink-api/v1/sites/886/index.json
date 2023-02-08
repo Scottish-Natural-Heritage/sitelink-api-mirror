@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/886",
-	"id": 886,
 	"area": 100.37,
 	"casework": [
 		{
@@ -120,10 +118,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101287"
 		}
 	],
+	"id": 886,
 	"localAuthority": "Fife",
 	"name": "Lacesston Muir and Glen Burn Gorge",
 	"secondaryLocalAuthorities": [
 		"Perth and Kinross"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/886"
 }

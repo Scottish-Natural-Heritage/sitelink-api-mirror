@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/880",
-	"id": 880,
 	"area": 141.27,
 	"casework": [
 		{
@@ -210,7 +208,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002652"
 		}
 	],
+	"id": 880,
 	"localAuthority": "Highland",
 	"name": "Knockie Lochs",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/880"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10258",
-	"id": 10258,
 	"area": 96575,
 	"casework": [
 		{
@@ -60,10 +58,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
+	"id": 10258,
 	"localAuthority": "UK Offshore waters (Scotland)",
 	"name": "Pobie Bank Reef",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "JNCC"
+	"snhArea": "JNCC",
+	"url": "/sitelink-api/v1/sites/10258"
 }

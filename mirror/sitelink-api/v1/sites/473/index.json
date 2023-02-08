@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/473",
-	"id": 473,
 	"area": 6.95,
 	"casework": [
 		{
@@ -64,7 +62,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102198"
 		}
 	],
+	"id": 473,
 	"localAuthority": "Orkney Islands",
 	"name": "Cruaday Quarry",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/473"
 }

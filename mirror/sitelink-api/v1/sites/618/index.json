@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/618",
-	"id": 618,
 	"area": 97.22,
 	"casework": [
 		{
@@ -112,7 +110,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105736"
 		}
 	],
+	"id": 618,
 	"localAuthority": "Orkney Islands",
 	"name": "Eynhallow",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/618"
 }

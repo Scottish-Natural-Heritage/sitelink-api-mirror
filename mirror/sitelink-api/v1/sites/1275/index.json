@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1275",
-	"id": 1275,
 	"area": 35.23,
 	"casework": [
 		{
@@ -171,7 +169,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106226"
 		}
 	],
+	"id": 1275,
 	"localAuthority": "Stirling",
 	"name": "Pass of Leny Flushes",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1275"
 }

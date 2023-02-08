@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/346",
-	"id": 346,
 	"area": 267.61,
 	"casework": [
 		{
@@ -713,7 +711,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001746"
 		}
 	],
+	"id": 346,
 	"localAuthority": "Renfrewshire",
 	"name": "Castle Semple and Barr Lochs",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/346"
 }

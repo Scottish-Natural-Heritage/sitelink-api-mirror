@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1025",
-	"id": 1025,
 	"agreements": [
 		{
 			"area": 13.4,
@@ -158,7 +156,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111528"
 		}
 	],
+	"id": 1025,
 	"localAuthority": "Aberdeenshire",
 	"name": "Loch of Aboyne",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1025"
 }

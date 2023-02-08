@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8495",
-	"id": 8495,
 	"area": 143.59,
 	"casework": [
 		{
@@ -490,7 +488,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107076"
 		}
 	],
+	"id": 8495,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Eoligarry, Barra",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8495"
 }

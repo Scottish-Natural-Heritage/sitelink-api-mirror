@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8295",
-	"id": 8295,
 	"agreements": [
 		{
 			"area": 6.39,
@@ -798,10 +796,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004891"
 		}
 	],
+	"id": 8295,
 	"localAuthority": "Argyll and Bute",
 	"name": "Loch Etive Woods",
 	"secondaryLocalAuthorities": [
 		"Highland"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8295"
 }

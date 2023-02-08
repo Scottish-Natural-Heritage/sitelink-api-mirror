@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8363",
-	"id": 8363,
 	"area": 921.46,
 	"casework": [
 		{
@@ -1546,7 +1544,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106872"
 		}
 	],
+	"id": 8363,
 	"localAuthority": "Highland",
 	"name": "River Oykel",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8363"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/924",
-	"id": 924,
 	"area": 34.8,
 	"casework": [
 		{
@@ -72,7 +70,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101582"
 		}
 	],
+	"id": 924,
 	"localAuthority": "Moray",
 	"name": "Lethenhill",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/924"
 }

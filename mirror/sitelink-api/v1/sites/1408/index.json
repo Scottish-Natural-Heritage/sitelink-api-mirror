@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1408",
-	"id": 1408,
 	"area": 55.47,
 	"casework": [
 		{
@@ -81,7 +79,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110474"
 		}
 	],
+	"id": 1408,
 	"localAuthority": "Shetland Islands",
 	"name": "Saxa Vord",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1408"
 }

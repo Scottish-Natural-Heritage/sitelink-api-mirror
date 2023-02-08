@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/487",
-	"id": 487,
 	"area": 26.48,
 	"casework": [
 		{
@@ -248,7 +246,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000664"
 		}
 	],
+	"id": 487,
 	"localAuthority": "Midlothian",
 	"name": "Dalkeith Oakwood",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/487"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1067",
-	"id": 1067,
 	"area": 13.75,
 	"casework": [
 		{
@@ -112,7 +110,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106043"
 		}
 	],
+	"id": 1067,
 	"localAuthority": "Stirling",
 	"name": "Loch Watston",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1067"
 }

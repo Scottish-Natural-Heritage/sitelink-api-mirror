@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1398",
-	"id": 1398,
 	"area": 31.05,
 	"casework": [
 		{
@@ -73,7 +71,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106322"
 		}
 	],
+	"id": 1398,
 	"localAuthority": "Argyll and Bute",
 	"name": "S' Airde Beinn",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/1398"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1388",
-	"id": 1388,
 	"area": 35.62,
 	"casework": [
 		{
@@ -149,7 +147,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100627"
 		}
 	],
+	"id": 1388,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Royal Ordnance, Powfoot",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1388"
 }

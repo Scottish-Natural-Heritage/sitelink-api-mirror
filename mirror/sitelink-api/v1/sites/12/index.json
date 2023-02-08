@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/12",
-	"id": 12,
 	"area": 208.25,
 	"casework": [
 		{
@@ -286,7 +284,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105317"
 		}
 	],
+	"id": 12,
 	"localAuthority": "Highland",
 	"name": "Achanalt Marshes",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/12"
 }

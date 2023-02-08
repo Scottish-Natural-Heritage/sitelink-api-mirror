@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8527",
-	"id": 8527,
 	"area": 21.57,
 	"casework": [
 		{
@@ -390,7 +388,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100927"
 		}
 	],
+	"id": 8527,
 	"localAuthority": "Highland",
 	"name": "Loch Flemington",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8527"
 }

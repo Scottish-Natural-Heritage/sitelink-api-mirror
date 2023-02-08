@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1492",
-	"id": 1492,
 	"area": 7299,
 	"casework": [
 		{
@@ -365,7 +363,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103737"
 		}
 	],
+	"id": 1492,
 	"localAuthority": "Highland",
 	"name": "Strathmore Peatlands",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1492"
 }

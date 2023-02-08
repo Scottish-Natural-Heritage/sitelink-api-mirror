@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/10261",
-	"id": 10261,
 	"area": 255.68,
 	"casework": [
 		{
@@ -371,7 +369,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111333"
 		}
 	],
+	"id": 10261,
 	"localAuthority": "North Ayrshire",
 	"name": "Southannan Sands",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/10261"
 }

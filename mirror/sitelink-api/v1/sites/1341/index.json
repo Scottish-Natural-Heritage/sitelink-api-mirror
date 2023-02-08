@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1341",
-	"id": 1341,
 	"area": 6.43,
 	"casework": [
 		{
@@ -72,7 +70,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106269"
 		}
 	],
+	"id": 1341,
 	"localAuthority": "Perth and Kinross",
 	"name": "Redmyre",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1341"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/640",
-	"id": 640,
 	"area": 23.35,
 	"casework": [
 		{
@@ -55,7 +53,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001523"
 		}
 	],
+	"id": 640,
 	"localAuthority": "Highland",
 	"name": "Fionn Loch Islands",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/640"
 }

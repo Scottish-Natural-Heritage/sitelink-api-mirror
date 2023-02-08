@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8204",
-	"id": 8204,
 	"area": 9316.12,
 	"casework": [
 		{
@@ -1403,7 +1401,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106681"
 		}
 	],
+	"id": 8204,
 	"localAuthority": "Highland",
 	"name": "Ben Nevis",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8204"
 }

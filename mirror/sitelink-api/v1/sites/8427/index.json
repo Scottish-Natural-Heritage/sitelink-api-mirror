@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8427",
-	"id": 8427,
 	"area": 246.02,
 	"casework": [
 		{
@@ -144,7 +142,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101254"
 		}
 	],
+	"id": 8427,
 	"localAuthority": "Scottish Borders",
 	"name": "Greenlaw Moor",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/8427"
 }

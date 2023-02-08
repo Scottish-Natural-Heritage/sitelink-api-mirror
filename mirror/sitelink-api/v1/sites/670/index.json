@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/670",
-	"id": 670,
 	"area": 229.3,
 	"designation": {
 		"code": "SSSI",
@@ -134,7 +132,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103818"
 		}
 	],
+	"id": 670,
 	"localAuthority": "Aberdeenshire",
 	"name": "Garbh Choire",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/670"
 }

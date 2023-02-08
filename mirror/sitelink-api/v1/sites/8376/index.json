@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8376",
-	"id": 8376,
 	"area": 1438.28,
 	"casework": [
 		{
@@ -228,7 +226,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003247"
 		}
 	],
+	"id": 8376,
 	"localAuthority": "Highland",
 	"name": "Sligachan Peatlands",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/8376"
 }

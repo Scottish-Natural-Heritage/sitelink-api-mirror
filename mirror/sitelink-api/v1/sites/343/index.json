@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/343",
-	"id": 343,
 	"area": 107.61,
 	"casework": [
 		{
@@ -357,7 +355,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105541"
 		}
 	],
+	"id": 343,
 	"localAuthority": "Dumfries and Galloway",
 	"name": "Castle Loch",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/343"
 }

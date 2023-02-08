@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1596",
-	"id": 1596,
 	"area": 62.6,
 	"casework": [
 		{
@@ -129,7 +127,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106495"
 		}
 	],
+	"id": 1596,
 	"localAuthority": "Aberdeenshire",
 	"name": "Wartle Moss",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1596"
 }

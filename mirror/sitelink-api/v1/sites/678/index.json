@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/678",
-	"id": 678,
 	"area": 66.26,
 	"casework": [
 		{
@@ -331,7 +329,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105783"
 		}
 	],
+	"id": 678,
 	"localAuthority": "Clackmannanshire",
 	"name": "Gartmorn Dam",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/678"
 }

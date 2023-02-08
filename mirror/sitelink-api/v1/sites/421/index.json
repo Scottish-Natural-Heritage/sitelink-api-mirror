@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/421",
-	"id": 421,
 	"area": 27.94,
 	"casework": [
 		{
@@ -95,7 +93,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105593"
 		}
 	],
+	"id": 421,
 	"localAuthority": "Perth and Kinross",
 	"name": "Craig More",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/421"
 }

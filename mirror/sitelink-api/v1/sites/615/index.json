@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/615",
-	"id": 615,
 	"area": 43.08,
 	"casework": [
 		{
@@ -59,7 +57,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000053"
 		}
 	],
+	"id": 615,
 	"localAuthority": "Shetland Islands",
 	"name": "Eshaness Coast",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/615"
 }

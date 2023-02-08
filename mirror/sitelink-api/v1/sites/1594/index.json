@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1594",
-	"id": 1594,
 	"area": 151.39,
 	"casework": [
 		{
@@ -92,7 +90,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003785"
 		}
 	],
+	"id": 1594,
 	"localAuthority": "Shetland Islands",
 	"name": "Ward of Culswick",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/1594"
 }

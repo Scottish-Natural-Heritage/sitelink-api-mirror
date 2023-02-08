@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1701",
-	"id": 1701,
 	"area": 1824.92,
 	"casework": [
 		{
@@ -1933,6 +1931,7 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106586"
 		}
 	],
+	"id": 1701,
 	"localAuthority": "Argyll and Bute",
 	"name": "Inner Clyde",
 	"secondaryLocalAuthorities": [
@@ -1940,5 +1939,6 @@
 		"Renfrewshire",
 		"West Dunbartonshire"
 	],
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1701"
 }

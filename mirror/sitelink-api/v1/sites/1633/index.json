@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1633",
-	"id": 1633,
 	"area": 401.5,
 	"casework": [
 		{
@@ -630,7 +628,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005264"
 		}
 	],
+	"id": 1633,
 	"localAuthority": "Highland",
 	"name": "Whiteness Head",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1633"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/539",
-	"id": 539,
 	"area": 126.34,
 	"casework": [
 		{
@@ -269,7 +267,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111502"
 		}
 	],
+	"id": 539,
 	"localAuthority": "Perth and Kinross",
 	"name": "Drummond Lochs",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/539"
 }

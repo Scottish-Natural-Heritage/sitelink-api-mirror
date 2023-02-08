@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8518",
-	"id": 8518,
 	"area": 409.2,
 	"casework": [
 		{
@@ -1078,7 +1076,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107206"
 		}
 	],
+	"id": 8518,
 	"localAuthority": "Argyll and Bute",
 	"name": "Kintyre Goose Roosts",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8518"
 }

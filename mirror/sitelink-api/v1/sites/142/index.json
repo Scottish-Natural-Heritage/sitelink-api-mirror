@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/142",
-	"id": 142,
 	"area": 820.86,
 	"casework": [
 		{
@@ -613,7 +611,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105387"
 		}
 	],
+	"id": 142,
 	"localAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 	"name": "Balranald Bog and Loch nam Feithean",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/142"
 }

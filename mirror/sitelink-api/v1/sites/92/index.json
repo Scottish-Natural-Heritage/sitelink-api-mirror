@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/92",
-	"id": 92,
 	"area": 60.49,
 	"casework": [
 		{
@@ -279,7 +277,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100021"
 		}
 	],
+	"id": 92,
 	"localAuthority": "Argyll and Bute",
 	"name": "Artilligan and Abhainn Srathain Burns",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/92"
 }

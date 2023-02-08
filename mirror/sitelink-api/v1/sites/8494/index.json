@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8494",
-	"id": 8494,
 	"agreements": [
 		{
 			"area": 215,
@@ -118,7 +116,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110277"
 		}
 	],
+	"id": 8494,
 	"localAuthority": "Argyll and Bute",
 	"name": "Eilean na Muice Duibhe (Duich Moss)",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8494"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/98",
-	"id": 98,
 	"area": 105.59,
 	"casework": [
 		{
@@ -156,7 +154,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105358"
 		}
 	],
+	"id": 98,
 	"localAuthority": "Midlothian",
 	"name": "Auchencorth Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/98"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/373",
-	"id": 373,
 	"agreements": [
 		{
 			"area": 38.3,
@@ -222,10 +220,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105559"
 		}
 	],
+	"id": 373,
 	"localAuthority": "West Lothian",
 	"name": "Cobbinshaw Moss",
 	"secondaryLocalAuthorities": [
 		"South Lanarkshire"
 	],
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/373"
 }

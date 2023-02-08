@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8212",
-	"id": 8212,
 	"area": 122.17,
 	"casework": [
 		{
@@ -162,7 +160,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002234"
 		}
 	],
+	"id": 8212,
 	"localAuthority": "South Lanarkshire",
 	"name": "Braehead Moss",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8212"
 }

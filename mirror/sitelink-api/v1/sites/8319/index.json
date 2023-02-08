@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8319",
-	"id": 8319,
 	"area": 1149.02,
 	"casework": [
 		{
@@ -416,10 +414,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100310"
 		}
 	],
+	"id": 8319,
 	"localAuthority": "Argyll and Bute",
 	"name": "Moine Mhor",
 	"secondaryLocalAuthorities": [
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8319"
 }

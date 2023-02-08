@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1110",
-	"id": 1110,
 	"area": 2.05,
 	"casework": [
 		{
@@ -71,7 +69,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000438"
 		}
 	],
+	"id": 1110,
 	"localAuthority": "East Ayrshire",
 	"name": "Lugar Sill",
-	"snhArea": "National Operations West Central"
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/1110"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/786",
-	"id": 786,
 	"area": 1885.9,
 	"casework": [
 		{
@@ -217,10 +215,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105849"
 		}
 	],
+	"id": 786,
 	"localAuthority": "Aberdeenshire",
 	"name": "Hill of Towanreef",
 	"secondaryLocalAuthorities": [
 		"Moray"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/786"
 }

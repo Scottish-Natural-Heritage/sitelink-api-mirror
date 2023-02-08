@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/981",
-	"id": 981,
 	"area": 114.94,
 	"casework": [
 		{
@@ -130,7 +128,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000741"
 		}
 	],
+	"id": 981,
 	"localAuthority": "Highland",
 	"name": "Loch Etteridge",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/981"
 }

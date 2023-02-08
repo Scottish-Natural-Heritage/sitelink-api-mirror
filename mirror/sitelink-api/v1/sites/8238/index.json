@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8238",
-	"id": 8238,
 	"area": 580.99,
 	"casework": [
 		{
@@ -285,11 +283,13 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101500"
 		}
 	],
+	"id": 8238,
 	"localAuthority": "Moray",
 	"name": "Culbin Bar",
 	"secondaryLocalAuthorities": [
 		"Highland",
 		"Marine Scotland (inshore)"
 	],
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/8238"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/687",
-	"id": 687,
 	"area": 51.8,
 	"casework": [
 		{
@@ -131,7 +129,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002501"
 		}
 	],
+	"id": 687,
 	"localAuthority": "Aberdeenshire",
 	"name": "Gight Woods",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/687"
 }

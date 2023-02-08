@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/329",
-	"id": 329,
 	"area": 11.99,
 	"casework": [
 		{
@@ -114,7 +112,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001738"
 		}
 	],
+	"id": 329,
 	"localAuthority": "Fife",
 	"name": "Carriston Reservoir",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/329"
 }

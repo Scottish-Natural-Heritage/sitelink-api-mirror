@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1062",
-	"id": 1062,
 	"area": 7.31,
 	"casework": [
 		{
@@ -61,7 +59,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103851"
 		}
 	],
+	"id": 1062,
 	"localAuthority": "Perth and Kinross",
 	"name": "Loch Tummel Flush",
-	"snhArea": "National Operations Central Highland"
+	"snhArea": "National Operations Central Highland",
+	"url": "/sitelink-api/v1/sites/1062"
 }

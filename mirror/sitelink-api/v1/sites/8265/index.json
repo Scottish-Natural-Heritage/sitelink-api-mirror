@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/8265",
-	"id": 8265,
 	"area": 705.91,
 	"casework": [
 		{
@@ -290,7 +288,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100203"
 		}
 	],
+	"id": 8265,
 	"localAuthority": "Argyll and Bute",
 	"name": "Glen Creran Woods",
-	"snhArea": "National Operations West"
+	"snhArea": "National Operations West",
+	"url": "/sitelink-api/v1/sites/8265"
 }

@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/702",
-	"id": 702,
 	"area": 1513,
 	"casework": [
 		{
@@ -203,7 +201,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101544"
 		}
 	],
+	"id": 702,
 	"localAuthority": "Aberdeenshire",
 	"name": "Glen Callater",
-	"snhArea": "National Operations North"
+	"snhArea": "National Operations North",
+	"url": "/sitelink-api/v1/sites/702"
 }

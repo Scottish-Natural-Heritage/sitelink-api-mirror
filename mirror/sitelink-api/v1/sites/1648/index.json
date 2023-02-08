@@ -1,6 +1,4 @@
 {
-	"url": "/sitelink-api/v1/sites/1648",
-	"id": 1648,
 	"area": 14.22,
 	"casework": [
 		{
@@ -76,7 +74,9 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101436"
 		}
 	],
+	"id": 1648,
 	"localAuthority": "Scottish Borders",
 	"name": "Woodhead Moss",
-	"snhArea": "National Operations South"
+	"snhArea": "National Operations South",
+	"url": "/sitelink-api/v1/sites/1648"
 }
