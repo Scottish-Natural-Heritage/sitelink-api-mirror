@@ -102,9 +102,26 @@
 	"dffcSite": true,
 	"documents": [
 		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2079"
+		},
+		{
+			"type": "JNCC GCR Site Details",
+			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2422"
+		},
+		{
 			"type": "Operations Requiring Consent",
 			"size": 32,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/28"
+		},
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1351"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 66,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/3"
 		},
 		{
 			"type": "SSSI Citation",
@@ -115,23 +132,6 @@
 			"type": "SSSI Map",
 			"size": 1409,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/33"
-		},
-		{
-			"type": "Site Management Statement",
-			"size": 66,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1351/documents/3"
-		},
-		{
-			"type": "Scotland's Environment - Feature Condition",
-			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1351"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2422"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2079"
 		}
 	],
 	"euCode": "135296",
