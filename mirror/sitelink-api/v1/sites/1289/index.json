@@ -85,6 +85,25 @@
 	"euCode": "139858",
 	"features": [
 		{
+			"category": "Earth sciences",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2021-06-29",
+			"name": "Ordovician Igneous",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005080"
+		},
+		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -104,25 +123,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001875"
-		},
-		{
-			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-06-29",
-			"name": "Ordovician Igneous",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005080"
 		},
 		{
 			"category": "Upland habitat",

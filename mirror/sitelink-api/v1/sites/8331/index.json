@@ -723,22 +723,6 @@
 	"euCode": "UK0030217",
 	"features": [
 		{
-			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-10-02",
-			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111199"
-		},
-		{
 			"category": "Mammals (except marine)",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -753,6 +737,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111377"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2014-10-02",
+			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111199"
 		},
 		{
 			"category": "Woodland",

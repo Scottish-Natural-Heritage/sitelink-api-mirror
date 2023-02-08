@@ -111,19 +111,6 @@
 	"euCode": "135481",
 	"features": [
 		{
-			"category": "Lowland grassland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-07-17",
-			"name": "Lowland neutral grassland",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101426"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -143,6 +130,19 @@
 			"lastVisitDate": "2015-08-11",
 			"name": "Soldierfly (Oxycera dives)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106534"
+		},
+		{
+			"category": "Lowland grassland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2007-07-17",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101426"
 		}
 	],
 	"id": 1635,

@@ -371,35 +371,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100302"
 		},
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-12-06",
-			"name": "Estuarine raised bog",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106121"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-09-01",
-			"name": "Marsh fritillary butterfly (Euphydryas aurinia)",
-			"pressures": [
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106123"
-		},
-		{
 			"category": "Coast",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -420,6 +391,35 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106122"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2014-09-01",
+			"name": "Marsh fritillary butterfly (Euphydryas aurinia)",
+			"pressures": [
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106123"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-12-06",
+			"name": "Estuarine raised bog",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106121"
 		},
 		{
 			"category": "Woodland",

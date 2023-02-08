@@ -117,6 +117,19 @@
 	"euCode": "135345",
 	"features": [
 		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-10-17",
+			"name": "Whooper swan (Cygnus cygnus), non-breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105380"
+		},
+		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Favourable Declining",
 			"conditionSummary": "Favourable",
@@ -131,19 +144,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001365"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-10-17",
-			"name": "Whooper swan (Cygnus cygnus), non-breeding",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105380"
 		}
 	],
 	"id": 129,

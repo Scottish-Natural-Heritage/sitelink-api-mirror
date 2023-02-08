@@ -11927,22 +11927,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110724"
 		},
 		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-12-11",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Forestry operations"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106887"
-		},
-		{
 			"category": "Fish",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -11974,28 +11958,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110722"
 		},
 		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-09-27",
-			"name": "Rivers with floating vegetation often dominated by water-crowfoot",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water management"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106886"
-		},
-		{
 			"category": "Fish",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -12025,6 +11987,44 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110723"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-09-27",
+			"name": "Rivers with floating vegetation often dominated by water-crowfoot",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water management"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106886"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-12-11",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106887"
 		}
 	],
 	"id": 8369,

@@ -88,6 +88,19 @@
 	"euCode": "UK0012696",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2005-06-16",
+			"name": "Vegetated sea cliffs",
+			"pressures": [
+				{
+					"name": "Grazing - other"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103575"
+		},
+		{
 			"category": "Marine (including marine mammals)",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -108,19 +121,6 @@
 			"conditionSummary": "Not Assessed",
 			"name": "Sea caves",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-06-16",
-			"name": "Vegetated sea cliffs",
-			"pressures": [
-				{
-					"name": "Grazing - other"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103575"
 		}
 	],
 	"id": 8340,

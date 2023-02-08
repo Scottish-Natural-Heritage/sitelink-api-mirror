@@ -6777,22 +6777,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111911"
 		},
 		{
-			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable Recovering",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "1995-01-01",
-			"name": "Beetle assemblage",
-			"pressures": [
-				{
-					"name": "Flood defence/coastal defence works"
-				},
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001327"
-		},
-		{
 			"category": "Fish",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -6822,41 +6806,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110726"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-08-28",
-			"name": "Fly assemblage",
-			"pressures": [
-				{
-					"name": "Flood defence/coastal defence works"
-				},
-				{
-					"name": "Game/ fisheries management"
-				},
-				{
-					"name": "Water quality"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107434"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-12-11",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104895"
 		},
 		{
 			"category": "Fish",
@@ -6944,6 +6893,57 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110891"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "1995-01-01",
+			"name": "Beetle assemblage",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				},
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001327"
+		},
+		{
+			"category": "Invertebrates",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2015-08-28",
+			"name": "Fly assemblage",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				},
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107434"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2011-12-11",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104895"
 		},
 		{
 			"category": "Vascular plants",

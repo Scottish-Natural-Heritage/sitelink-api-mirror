@@ -93,6 +93,22 @@
 	"euCode": "135456",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2016-08-24",
+			"name": "Oligotrophic loch",
+			"pressures": [
+				{
+					"keywords": [
+						"Nuttall’s pondweed"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105470"
+		},
+		{
 			"category": "Wetlands",
 			"conditionLatest": "Unfavourable Recovering",
 			"conditionSummary": "Favourable",
@@ -111,22 +127,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105469"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-24",
-			"name": "Oligotrophic loch",
-			"pressures": [
-				{
-					"keywords": [
-						"Nuttall’s pondweed"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105470"
 		},
 		{
 			"category": "Wetlands",

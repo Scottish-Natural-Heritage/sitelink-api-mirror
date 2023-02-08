@@ -87,25 +87,6 @@
 	"euCode": "135020",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "1999-10-30",
-			"name": "Basin fen",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001874"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -123,6 +104,25 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106231"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "1999-10-30",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001874"
 		}
 	],
 	"id": 1282,

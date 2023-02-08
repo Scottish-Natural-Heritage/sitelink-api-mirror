@@ -103,6 +103,22 @@
 	"euCode": "135128",
 	"features": [
 		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2009-06-12",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"name": "Water management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102163"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -129,22 +145,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102162"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-06-12",
-			"name": "Breeding bird assemblage",
-			"pressures": [
-				{
-					"name": "Burning"
-				},
-				{
-					"name": "Water management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102163"
 		}
 	],
 	"id": 1611,

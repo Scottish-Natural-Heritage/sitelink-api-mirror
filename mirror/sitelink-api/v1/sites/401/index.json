@@ -218,24 +218,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107770"
 		},
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-09-03",
-			"name": "Hydromorphological mire range",
-			"pressures": [
-				{
-					"keywords": [
-						"Birch",
-						"Scots pine",
-						"Willow"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110854"
-		},
-		{
 			"category": "Freshwater habitats",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
@@ -253,6 +235,24 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001992"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-09-03",
+			"name": "Hydromorphological mire range",
+			"pressures": [
+				{
+					"keywords": [
+						"Birch",
+						"Scots pine",
+						"Willow"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110854"
 		},
 		{
 			"category": "Wetlands",

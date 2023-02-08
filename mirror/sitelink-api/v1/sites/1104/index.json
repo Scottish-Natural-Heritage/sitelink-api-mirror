@@ -363,6 +363,24 @@
 	"euCode": "135875",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2003-07-09",
+			"name": "Oligotrophic river/stream",
+			"pressures": [
+				{
+					"keywords": [
+						"Himalayan balsam",
+						"Japanese Knotweed",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001809"
+		},
+		{
 			"category": "Non-vascular plants",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -387,24 +405,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101618"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2003-07-09",
-			"name": "Oligotrophic river/stream",
-			"pressures": [
-				{
-					"keywords": [
-						"Himalayan balsam",
-						"Japanese Knotweed",
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001809"
 		},
 		{
 			"category": "Woodland",

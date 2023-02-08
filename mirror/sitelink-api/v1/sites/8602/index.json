@@ -515,12 +515,6 @@
 	"euCode": "UK0012705",
 	"features": [
 		{
-			"category": "Mammals (Marine)",
-			"name": "Harbour seal (Phoca vitulina)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
-			"statutoryInterest": "SAC qualifying feature"
-		},
-		{
 			"category": "Inshore sublittoral rock (Marine)",
 			"name": "Reefs",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
@@ -529,6 +523,12 @@
 		{
 			"category": "Inshore sublittoral sediment (Marine)",
 			"name": "Subtidal sandbanks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
+			"statutoryInterest": "SAC qualifying feature"
+		},
+		{
+			"category": "Mammals (Marine)",
+			"name": "Harbour seal (Phoca vitulina)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0",
 			"statutoryInterest": "SAC qualifying feature"
 		}

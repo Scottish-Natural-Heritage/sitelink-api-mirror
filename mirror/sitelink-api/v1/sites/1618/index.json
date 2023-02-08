@@ -159,6 +159,28 @@
 	"euCode": "135600",
 	"features": [
 		{
+			"category": "Coast",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2013-07-15",
+			"name": "Sand dunes",
+			"pressures": [
+				{
+					"name": "Flood defence/coastal defence works"
+				},
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Under grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106519"
+		},
+		{
 			"category": "Invertebrates",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -182,28 +204,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107723"
-		},
-		{
-			"category": "Coast",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-07-15",
-			"name": "Sand dunes",
-			"pressures": [
-				{
-					"name": "Flood defence/coastal defence works"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Under grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106519"
 		}
 	],
 	"id": 1618,

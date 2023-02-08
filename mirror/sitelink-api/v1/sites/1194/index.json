@@ -201,6 +201,29 @@
 	"euCode": "135874",
 	"features": [
 		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-13",
+			"name": "Breeding bird assemblage",
+			"pressures": [
+				{
+					"name": "Burning"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Grouse"
+					],
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Wildlife crime"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107801"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -231,29 +254,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107799"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-06-13",
-			"name": "Breeding bird assemblage",
-			"pressures": [
-				{
-					"name": "Burning"
-				},
-				{
-					"keywords": [
-						"Deer",
-						"Grouse"
-					],
-					"name": "Game/ fisheries management"
-				},
-				{
-					"name": "Wildlife crime"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107801"
 		},
 		{
 			"category": "Upland habitat",

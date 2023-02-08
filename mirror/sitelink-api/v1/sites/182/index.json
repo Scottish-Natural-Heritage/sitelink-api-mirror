@@ -130,6 +130,25 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101806"
 		},
 		{
+			"category": "Vascular plants",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-07-19",
+			"name": "Vascular plant assemblage",
+			"pressures": [
+				{
+					"name": "Other"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105428"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Recovering",
@@ -150,25 +169,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103678"
-		},
-		{
-			"category": "Vascular plants",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-07-19",
-			"name": "Vascular plant assemblage",
-			"pressures": [
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Trampling"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105428"
 		}
 	],
 	"id": 182,

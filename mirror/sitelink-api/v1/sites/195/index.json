@@ -331,36 +331,12 @@
 	"euCode": "136111",
 	"features": [
 		{
-			"category": "Upland habitat",
-			"conditionLatest": "Favourable Recovered",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-06-25",
-			"name": "Blanket bog",
-			"pressures": [
-				{
-					"keywords": [
-						"Off road vehicles"
-					],
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105451"
-		},
-		{
 			"category": "Birds",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2011-07-01",
 			"name": "Dotterel (Charadrius morinellus), breeding",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100765"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-09",
-			"name": "Dystrophic and oligotrophic lochs",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105452"
 		},
 		{
 			"category": "Earth sciences",
@@ -398,6 +374,30 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105453"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2017-09-09",
+			"name": "Dystrophic and oligotrophic lochs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105452"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable Recovered",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2013-06-25",
+			"name": "Blanket bog",
+			"pressures": [
+				{
+					"keywords": [
+						"Off road vehicles"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105451"
 		},
 		{
 			"category": "Upland habitat",

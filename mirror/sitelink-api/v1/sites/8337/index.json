@@ -396,6 +396,19 @@
 	"euCode": "UK0030223",
 	"features": [
 		{
+			"category": "Mammals (except marine)",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2011-09-21",
+			"name": "Otter (Lutra lutra)",
+			"pressures": [
+				{
+					"name": "Development"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105212"
+		},
+		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
@@ -410,19 +423,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100970"
-		},
-		{
-			"category": "Mammals (except marine)",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-09-21",
-			"name": "Otter (Lutra lutra)",
-			"pressures": [
-				{
-					"name": "Development"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105212"
 		},
 		{
 			"category": "Woodland",

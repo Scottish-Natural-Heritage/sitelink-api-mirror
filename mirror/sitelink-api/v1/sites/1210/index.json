@@ -213,6 +213,33 @@
 	"euCode": "139853",
 	"features": [
 		{
+			"category": "Freshwater habitats",
+			"conditionLatest": "Unfavourable No change",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2009-07-01",
+			"name": "Mesotrophic loch",
+			"pressures": [
+				{
+					"name": "Air pollution"
+				},
+				{
+					"keywords": [
+						"Canadian Pondweed",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Fishing",
+						"Walking"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100313"
+		},
+		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -262,33 +289,6 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107582"
-		},
-		{
-			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2009-07-01",
-			"name": "Mesotrophic loch",
-			"pressures": [
-				{
-					"name": "Air pollution"
-				},
-				{
-					"keywords": [
-						"Canadian Pondweed",
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				},
-				{
-					"keywords": [
-						"Fishing",
-						"Walking"
-					],
-					"name": "Recreation/disturbance"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100313"
 		},
 		{
 			"category": "Woodland",

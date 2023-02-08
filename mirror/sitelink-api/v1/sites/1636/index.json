@@ -133,20 +133,12 @@
 	"euCode": "135200",
 	"features": [
 		{
-			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
+			"category": "Earth sciences",
+			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-16",
-			"name": "Basin fen",
-			"pressures": [
-				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "Proactive on-site management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101428"
+			"lastVisitDate": "2002-02-15",
+			"name": "Quaternary of Scotland",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000399"
 		},
 		{
 			"category": "Invertebrates",
@@ -173,14 +165,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107436"
 		},
 		{
-			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2002-02-15",
-			"name": "Quaternary of Scotland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000399"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
@@ -205,6 +189,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106535"
+		},
+		{
+			"category": "Wetlands",
+			"conditionLatest": "Unfavourable Recovering",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-09-16",
+			"name": "Basin fen",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Proactive on-site management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101428"
 		}
 	],
 	"id": 1636,

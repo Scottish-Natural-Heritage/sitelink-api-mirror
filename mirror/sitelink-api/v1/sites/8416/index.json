@@ -50,12 +50,30 @@
 	"euCode": "UK13007",
 	"features": [
 		{
+			"category": "Invertebrates",
+			"conditionSummary": "Not Assessed",
+			"name": "Dragonfly assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Non-vascular plants",
+			"conditionSummary": "Not Assessed",
+			"name": "Bryophyte assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2000-12-11",
 			"name": "Blanket bog",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001166"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionSummary": "Not Assessed",
+			"name": "Depressions on peat substrates",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Vascular plants",
@@ -67,24 +85,6 @@
 			"category": "Vascular plants",
 			"conditionSummary": "Not Assessed",
 			"name": "Brown beak-sedge (Rhynchospora fusca)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Non-vascular plants",
-			"conditionSummary": "Not Assessed",
-			"name": "Bryophyte assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Upland habitat",
-			"conditionSummary": "Not Assessed",
-			"name": "Depressions on peat substrates",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Invertebrates",
-			"conditionSummary": "Not Assessed",
-			"name": "Dragonfly assemblage",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],

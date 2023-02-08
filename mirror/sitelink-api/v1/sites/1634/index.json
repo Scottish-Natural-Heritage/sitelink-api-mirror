@@ -293,32 +293,46 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004736"
 		},
 		{
-			"category": "Lowland grassland",
+			"category": "Birds",
 			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-08-03",
-			"name": "Lowland neutral grassland",
+			"lastVisitDate": "2001-06-30",
+			"name": "Puffin (Fratercula arctica), breeding",
 			"pressures": [
 				{
-					"name": "Invasive species"
-				},
-				{
-					"name": "No proactive management"
-				},
-				{
-					"name": "Over grazing"
-				},
-				{
-					"name": "Recreation/disturbance"
-				},
-				{
-					"name": "Under grazing"
-				},
-				{
-					"name": "Water quality"
+					"name": "Game/ fisheries management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107655"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002046"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Declining",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-04-02",
+			"name": "Purple sandpiper (Calidris maritima), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106532"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2001-06-30",
+			"name": "Shag (Phalacrocorax aristotelis), breeding",
+			"pressures": [
+				{
+					"name": "Game/ fisheries management"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002045"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2012-04-02",
+			"name": "Turnstone (Arenaria interpres), non-breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106533"
 		},
 		{
 			"category": "Coast",
@@ -372,40 +386,6 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103078"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2001-06-30",
-			"name": "Puffin (Fratercula arctica), breeding",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002046"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-04-02",
-			"name": "Purple sandpiper (Calidris maritima), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106532"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2001-06-30",
-			"name": "Shag (Phalacrocorax aristotelis), breeding",
-			"pressures": [
-				{
-					"name": "Game/ fisheries management"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002045"
-		},
-		{
 			"category": "Invertebrates",
 			"conditionLatest": "Favourable Declining",
 			"conditionSummary": "Favourable",
@@ -422,12 +402,32 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106531"
 		},
 		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-04-02",
-			"name": "Turnstone (Arenaria interpres), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106533"
+			"category": "Lowland grassland",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2016-08-03",
+			"name": "Lowland neutral grassland",
+			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
+				},
+				{
+					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
+				},
+				{
+					"name": "Under grazing"
+				},
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107655"
 		}
 	],
 	"id": 1634,

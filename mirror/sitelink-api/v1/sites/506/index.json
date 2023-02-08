@@ -129,22 +129,6 @@
 	"euCode": "135239",
 	"features": [
 		{
-			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2000-08-03",
-			"name": "Upland mixed ash woodland",
-			"pressures": [
-				{
-					"keywords": [
-						"Deer"
-					],
-					"name": "Over grazing"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000688"
-		},
-		{
 			"category": "Vascular plants",
 			"conditionLatest": "Favourable Recovered",
 			"conditionSummary": "Favourable",
@@ -159,6 +143,22 @@
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102811"
+		},
+		{
+			"category": "Woodland",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2000-08-03",
+			"name": "Upland mixed ash woodland",
+			"pressures": [
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000688"
 		}
 	],
 	"id": 506,
