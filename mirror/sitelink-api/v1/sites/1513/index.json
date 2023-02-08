@@ -32,14 +32,14 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "46697",
-			"receivedDate": "2008-02-29",
+			"code": "44486",
+			"receivedDate": "2007-10-25",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "44486",
-			"receivedDate": "2007-10-25",
+			"code": "46697",
+			"receivedDate": "2008-02-29",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -56,16 +56,10 @@
 			"type": "Hazardous Substances"
 		},
 		{
-			"code": "CDM161463",
-			"receivedDate": "2020-12-10",
+			"code": "CDM134957",
+			"receivedDate": "2015-01-16",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC143555",
-			"receivedDate": "2016-10-17",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "CDM153180",
@@ -74,40 +68,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC148856",
-			"receivedDate": "2018-01-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC136702",
-			"receivedDate": "2015-05-18",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM134957",
-			"receivedDate": "2015-01-16",
+			"code": "CDM161463",
+			"receivedDate": "2020-12-10",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM166461",
-			"receivedDate": "2022-03-28",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CLC165888",
-			"receivedDate": "2022-01-31",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CDM165900",
-			"receivedDate": "2022-02-04",
-			"response": "Advice only",
-			"type": "Application related advice"
 		},
 		{
 			"code": "CDM162993",
@@ -116,16 +80,52 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA158662",
-			"receivedDate": "2020-03-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM165056",
 			"receivedDate": "2021-10-27",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CDM165900",
+			"receivedDate": "2022-02-04",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM166461",
+			"receivedDate": "2022-03-28",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CLC136702",
+			"receivedDate": "2015-05-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC143555",
+			"receivedDate": "2016-10-17",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC148856",
+			"receivedDate": "2018-01-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165888",
+			"receivedDate": "2022-01-31",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CPA158662",
+			"receivedDate": "2020-03-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

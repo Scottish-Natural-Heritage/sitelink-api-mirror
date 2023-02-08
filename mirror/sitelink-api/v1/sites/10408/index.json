@@ -2,6 +2,18 @@
 	"area": 11400,
 	"casework": [
 		{
+			"code": "CDM144037",
+			"receivedDate": "2016-12-13",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CEA143369",
+			"receivedDate": "2016-10-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC137366",
 			"receivedDate": "2015-07-02",
 			"response": "Advice only",
@@ -14,10 +26,10 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
-			"code": "CLC162392",
-			"receivedDate": "2021-03-09",
+			"code": "CLC141935",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
 			"code": "CLC142148",
@@ -26,34 +38,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CLC141935",
-			"receivedDate": "2016-06-30",
+			"code": "CLC162392",
+			"receivedDate": "2021-03-09",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA143369",
-			"receivedDate": "2016-10-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM144037",
-			"receivedDate": "2016-12-13",
-			"response": "Advice only",
-			"type": "Harbour Infrastructure"
-		},
-		{
-			"code": "CPP157461",
-			"receivedDate": "2019-11-15",
-			"response": "Advice only",
-			"type": "Oil spill contingency plan"
+			"type": "Other"
 		},
 		{
 			"code": "CPA124027",
 			"receivedDate": "2013-06-12",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP157461",
+			"receivedDate": "2019-11-15",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
 		}
 	],
 	"designation": {

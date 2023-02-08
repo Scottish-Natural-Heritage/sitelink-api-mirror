@@ -12,6 +12,12 @@
 	"area": 777.57,
 	"casework": [
 		{
+			"code": "CDM157991",
+			"receivedDate": "2020-01-14",
+			"response": "Holding objection",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDM159738",
 			"receivedDate": "2020-06-30",
 			"response": "Advice only",
@@ -22,48 +28,6 @@
 			"receivedDate": "2021-01-12",
 			"response": "Advice only",
 			"type": "S.36 Application"
-		},
-		{
-			"code": "GEN142524",
-			"receivedDate": "2016-08-12",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC151026",
-			"receivedDate": "2018-06-12",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM157991",
-			"receivedDate": "2020-01-14",
-			"response": "Holding objection",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CLC146470",
-			"receivedDate": "2017-06-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP135561",
-			"receivedDate": "2015-03-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM168912",
-			"receivedDate": "2022-11-04",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM167866",
-			"receivedDate": "2022-07-28",
-			"response": "Advice only",
-			"type": "Post Application"
 		},
 		{
 			"code": "CDM167257",
@@ -90,14 +54,44 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM167866",
+			"receivedDate": "2022-07-28",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM168912",
+			"receivedDate": "2022-11-04",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDM169305",
 			"receivedDate": "2022-12-09",
 			"response": "Advice only",
 			"type": "Post Application"
 		},
 		{
-			"code": "CPP163696",
-			"receivedDate": "2021-07-05",
+			"code": "CEA165293",
+			"receivedDate": "2021-11-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC146470",
+			"receivedDate": "2017-06-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC151026",
+			"receivedDate": "2018-06-12",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPP135561",
+			"receivedDate": "2015-03-02",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -108,14 +102,8 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA165293",
-			"receivedDate": "2021-11-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP165313",
-			"receivedDate": "2021-11-10",
+			"code": "CPP163696",
+			"receivedDate": "2021-07-05",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -124,6 +112,18 @@
 			"receivedDate": "2021-08-09",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP165313",
+			"receivedDate": "2021-11-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN142524",
+			"receivedDate": "2016-08-12",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

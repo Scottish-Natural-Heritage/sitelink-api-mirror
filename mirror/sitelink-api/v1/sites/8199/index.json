@@ -2,20 +2,14 @@
 	"area": 523.48,
 	"casework": [
 		{
-			"code": "ALC114610",
-			"receivedDate": "2012-05-25",
+			"code": "ALC113625",
+			"receivedDate": "2012-03-26",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC136923",
-			"receivedDate": "2015-06-02",
-			"response": "Conditioned objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC155786",
-			"receivedDate": "2019-06-07",
+			"code": "ALC114610",
+			"receivedDate": "2012-05-25",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -26,15 +20,27 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC147188",
+			"receivedDate": "2017-08-03",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC151926",
 			"receivedDate": "2018-08-15",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC147188",
-			"receivedDate": "2017-08-03",
-			"response": "SSSI Consent Given (subject to conditions)",
+			"code": "ALC155786",
+			"receivedDate": "2019-06-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159800",
+			"receivedDate": "2020-07-07",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -42,6 +48,18 @@
 			"receivedDate": "2018-03-26",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC136923",
+			"receivedDate": "2015-06-02",
+			"response": "Conditioned objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR124498",
+			"receivedDate": "2013-04-29",
+			"response": "Resolved",
+			"type": "General Enquiries"
 		},
 		{
 			"code": "CPP130950",
@@ -60,24 +78,6 @@
 			"receivedDate": "2014-09-08",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "ALC113625",
-			"receivedDate": "2012-03-26",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR124498",
-			"receivedDate": "2013-04-29",
-			"response": "Resolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC159800",
-			"receivedDate": "2020-07-07",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

@@ -20,12 +20,6 @@
 	"area": 5016,
 	"casework": [
 		{
-			"code": "9308",
-			"receivedDate": "2002-11-29",
-			"response": "B. Support",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "10720",
 			"receivedDate": "2003-03-05",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
@@ -80,10 +74,10 @@
 			"type": "Water"
 		},
 		{
-			"code": "28175",
-			"receivedDate": "2005-09-15",
-			"response": "Information/Advice only",
-			"type": "Rural Stewardship Scheme"
+			"code": "25460",
+			"receivedDate": "2005-05-23",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Mixed Use"
 		},
 		{
 			"code": "25899",
@@ -92,10 +86,10 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "25460",
-			"receivedDate": "2005-05-23",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Mixed Use"
+			"code": "28175",
+			"receivedDate": "2005-09-15",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "30341",
@@ -116,10 +110,16 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "38824",
-			"receivedDate": "2007-02-15",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
+			"code": "34369",
+			"receivedDate": "2006-07-24",
+			"response": "1. No Comment",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "35628",
+			"receivedDate": "2006-08-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "35859",
@@ -140,40 +140,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "35628",
-			"receivedDate": "2006-08-03",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "34369",
-			"receivedDate": "2006-07-24",
-			"response": "1. No Comment",
-			"type": "Other plans and strategies"
-		},
-		{
-			"code": "39647",
-			"receivedDate": "2007-03-13",
+			"code": "38824",
+			"receivedDate": "2007-02-15",
 			"response": "Information/Advice only",
-			"type": "Consultation from a regulatory authority (s.15)"
-		},
-		{
-			"code": "42345",
-			"receivedDate": "2007-06-15",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "42346",
-			"receivedDate": "2007-07-11",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "42426",
-			"receivedDate": "2007-04-23",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
+			"type": "Housing Developments"
 		},
 		{
 			"code": "39180",
@@ -188,6 +158,12 @@
 			"type": "Other Pollution Acts"
 		},
 		{
+			"code": "39647",
+			"receivedDate": "2007-03-13",
+			"response": "Information/Advice only",
+			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
 			"code": "40687",
 			"receivedDate": "2007-04-11",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -200,8 +176,14 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "43611",
-			"receivedDate": "2007-08-01",
+			"code": "42345",
+			"receivedDate": "2007-06-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "42346",
+			"receivedDate": "2007-07-11",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
 		},
@@ -212,10 +194,16 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "46496",
-			"receivedDate": "2007-11-22",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
+			"code": "42426",
+			"receivedDate": "2007-04-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "43611",
+			"receivedDate": "2007-08-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "44872",
@@ -254,10 +242,16 @@
 			"type": "Water"
 		},
 		{
-			"code": "51330",
-			"receivedDate": "2008-08-28",
+			"code": "46496",
+			"receivedDate": "2007-11-22",
 			"response": "Information/Advice only",
-			"type": "Other Species"
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "49887",
+			"receivedDate": "2008-04-09",
+			"response": "Case withdrawn, no response required",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "49948",
@@ -266,10 +260,16 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "49887",
-			"receivedDate": "2008-04-09",
-			"response": "Case withdrawn, no response required",
-			"type": "Application for consent from a public body (s.13)"
+			"code": "51330",
+			"receivedDate": "2008-08-28",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "51940",
+			"receivedDate": "2008-10-28",
+			"response": "Information/Advice only",
+			"type": "Long Term Forest Plan"
 		},
 		{
 			"code": "53341",
@@ -281,36 +281,6 @@
 			"code": "54364",
 			"receivedDate": "2009-03-26",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "51940",
-			"receivedDate": "2008-10-28",
-			"response": "Information/Advice only",
-			"type": "Long Term Forest Plan"
-		},
-		{
-			"code": "57910",
-			"receivedDate": "2009-04-02",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "57948",
-			"receivedDate": "2009-09-17",
-			"response": "Information/Advice only",
-			"type": "Controlled Activities Regulations"
-		},
-		{
-			"code": "57867",
-			"receivedDate": "2009-03-26",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
-			"code": "57909",
-			"receivedDate": "2009-06-24",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
@@ -332,16 +302,28 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "60612",
-			"receivedDate": "2010-01-11",
+			"code": "57867",
+			"receivedDate": "2009-03-26",
 			"response": "Information/Advice only",
-			"type": "Intertidal Fisheries (inc. bait digging)"
+			"type": "Site Search"
 		},
 		{
-			"code": "58808",
-			"receivedDate": "2009-07-08",
+			"code": "57909",
+			"receivedDate": "2009-06-24",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "57910",
+			"receivedDate": "2009-04-02",
 			"response": "Information/Advice only",
-			"type": "Rural Development Contract - Rural Priority"
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "57948",
+			"receivedDate": "2009-09-17",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
 		},
 		{
 			"code": "57955",
@@ -350,16 +332,16 @@
 			"type": "Water"
 		},
 		{
-			"code": "63800",
-			"receivedDate": "2010-07-29",
+			"code": "58808",
+			"receivedDate": "2009-07-08",
 			"response": "Information/Advice only",
-			"type": "Application for consent from a public body (s.13)"
+			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "62789",
-			"receivedDate": "2010-06-20",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "60612",
+			"receivedDate": "2010-01-11",
+			"response": "Information/Advice only",
+			"type": "Intertidal Fisheries (inc. bait digging)"
 		},
 		{
 			"code": "62574",
@@ -380,10 +362,16 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "69117",
-			"receivedDate": "2011-04-18",
-			"response": "Information/Advice only",
+			"code": "62789",
+			"receivedDate": "2010-06-20",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "63800",
+			"receivedDate": "2010-07-29",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "65314",
@@ -410,16 +398,34 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "71581",
-			"receivedDate": "2011-08-15",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "68199",
 			"receivedDate": "2011-04-14",
 			"response": "Information/Advice only",
 			"type": "Housing Developments"
+		},
+		{
+			"code": "69117",
+			"receivedDate": "2011-04-18",
+			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "71045",
+			"receivedDate": "2011-08-25",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "71324",
+			"receivedDate": "2011-07-27",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "71581",
+			"receivedDate": "2011-08-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "71774",
@@ -440,142 +446,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "71324",
-			"receivedDate": "2011-07-27",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "71045",
-			"receivedDate": "2011-08-25",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "ALC138173",
-			"receivedDate": "2015-08-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM139491",
-			"receivedDate": "2015-12-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC137449",
-			"receivedDate": "2015-06-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC139551",
-			"receivedDate": "2015-10-20",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP139556",
-			"receivedDate": "2015-11-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "COR139922",
-			"receivedDate": "2016-01-29",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP137996",
-			"receivedDate": "2015-08-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN154524",
-			"receivedDate": "2019-01-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN154526",
-			"receivedDate": "2019-02-04",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "ALC154531",
-			"receivedDate": "2019-02-25",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC160658",
-			"receivedDate": "2020-06-08",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "ALC160661",
-			"receivedDate": "2020-07-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC156482",
-			"receivedDate": "2019-05-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN161742",
-			"receivedDate": "2020-12-21",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC161748",
-			"receivedDate": "2020-11-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS161123",
-			"receivedDate": "2020-11-10",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC159133",
-			"receivedDate": "2020-02-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC111654",
-			"receivedDate": "2012-01-20",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC116043",
-			"receivedDate": "2012-07-18",
-			"response": "No objection",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC112379",
-			"receivedDate": "2012-03-02",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC112240",
-			"receivedDate": "2012-02-16",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "9308",
+			"receivedDate": "2002-11-29",
+			"response": "B. Support",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "ALC112247",
@@ -584,279 +458,39 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN112235",
-			"receivedDate": "2012-02-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN112238",
-			"receivedDate": "2012-02-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC110741",
-			"receivedDate": "2011-12-12",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC144326",
-			"receivedDate": "2016-12-02",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "COR148895",
-			"receivedDate": "2018-01-10",
-			"response": "Unresolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC141654",
-			"receivedDate": "2016-04-26",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM154174",
-			"receivedDate": "2019-01-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA154399",
-			"receivedDate": "2019-01-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM156855",
-			"receivedDate": "2019-09-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA157141",
-			"receivedDate": "2019-08-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC157145",
-			"receivedDate": "2019-08-14",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC143980",
-			"receivedDate": "2016-10-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC138613",
-			"receivedDate": "2015-10-08",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "GEN139567",
-			"receivedDate": "2015-12-21",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "CLC141673",
-			"receivedDate": "2016-05-31",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "COR140934",
-			"receivedDate": "2016-04-15",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CDM142497",
-			"receivedDate": "2016-08-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC140126",
-			"receivedDate": "2016-01-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN140978",
-			"receivedDate": "2016-03-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC140123",
-			"receivedDate": "2016-01-12",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM140230",
-			"receivedDate": "2015-12-30",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC143737",
-			"receivedDate": "2016-11-18",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC141207",
-			"receivedDate": "2016-05-09",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC137544",
-			"receivedDate": "2015-07-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC138269",
-			"receivedDate": "2015-09-10",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC153826",
-			"receivedDate": "2018-12-07",
+			"code": "ALC113260",
+			"receivedDate": "2012-04-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC153828",
-			"receivedDate": "2018-12-19",
+			"code": "ALC113651",
+			"receivedDate": "2012-04-02",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP149557",
-			"receivedDate": "2018-01-31",
-			"response": "Advice only",
-			"type": "Core paths plan"
-		},
-		{
-			"code": "CGS149565",
-			"receivedDate": "2018-02-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "COR149777",
-			"receivedDate": "2018-03-14",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CDM156979",
-			"receivedDate": "2019-09-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA154754",
-			"receivedDate": "2019-03-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM149754",
-			"receivedDate": "2018-03-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN150867",
-			"receivedDate": "2018-05-21",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA149155",
-			"receivedDate": "2018-01-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN150261",
-			"receivedDate": "2018-03-29",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC157983",
-			"receivedDate": "2019-10-17",
+			"code": "ALC117746",
+			"receivedDate": "2012-09-26",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA157985",
-			"receivedDate": "2019-11-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "COR150001",
-			"receivedDate": "2018-03-29",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP150010",
-			"receivedDate": "2018-03-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM152797",
-			"receivedDate": "2018-10-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC155500",
-			"receivedDate": "2019-03-22",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "ALC155501",
-			"receivedDate": "2019-02-04",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC156380",
-			"receivedDate": "2019-07-29",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC153824",
-			"receivedDate": "2018-12-04",
+			"code": "ALC120316",
+			"receivedDate": "2013-01-14",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC151146",
-			"receivedDate": "2018-06-13",
-			"response": "Licence/Consent not required",
+			"code": "ALC137449",
+			"receivedDate": "2015-06-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC138173",
+			"receivedDate": "2015-08-30",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -878,40 +512,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP148047",
-			"receivedDate": "2017-09-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "COR148669",
-			"receivedDate": "2017-12-14",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPA148505",
-			"receivedDate": "2017-11-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC145575",
-			"receivedDate": "2017-04-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP148033",
-			"receivedDate": "2017-09-05",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM148034",
-			"receivedDate": "2017-08-25",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC151146",
+			"receivedDate": "2018-06-13",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC152274",
@@ -920,334 +524,76 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN152287",
-			"receivedDate": "2018-08-09",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "COR147839",
-			"receivedDate": "2017-10-04",
-			"response": "Resolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC146524",
-			"receivedDate": "2017-05-17",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM148932",
-			"receivedDate": "2018-01-12",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP145352",
-			"receivedDate": "2017-03-28",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM145545",
-			"receivedDate": "2017-03-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN149039",
-			"receivedDate": "2018-01-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC144927",
-			"receivedDate": "2017-01-12",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM125400",
-			"receivedDate": "2013-08-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN125980",
-			"receivedDate": "2013-08-21",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC125981",
-			"receivedDate": "2013-08-19",
-			"response": "S.12 SSSI consent not required",
-			"type": "Other"
-		},
-		{
-			"code": "CDM125376",
-			"receivedDate": "2013-08-02",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC128728",
-			"receivedDate": "2013-12-18",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN132035",
-			"receivedDate": "2014-06-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC129017",
-			"receivedDate": "2014-02-05",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "COR119692",
-			"receivedDate": "2012-12-11",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN122153",
-			"receivedDate": "2013-03-22",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA120472",
-			"receivedDate": "2013-01-23",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC131989",
-			"receivedDate": "2014-05-16",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC124524",
-			"receivedDate": "2013-05-16",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA129310",
-			"receivedDate": "2014-02-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN125977",
-			"receivedDate": "2013-08-12",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA133584",
-			"receivedDate": "2014-09-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM130605",
-			"receivedDate": "2014-04-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC130660",
-			"receivedDate": "2014-05-01",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM133118",
-			"receivedDate": "2014-09-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC135728",
-			"receivedDate": "2015-02-20",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM138377",
-			"receivedDate": "2015-09-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA133940",
-			"receivedDate": "2014-11-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM133149",
-			"receivedDate": "2014-09-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC128726",
-			"receivedDate": "2013-11-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC128729",
-			"receivedDate": "2013-12-18",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM135787",
-			"receivedDate": "2015-03-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM133121",
-			"receivedDate": "2014-09-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR133669",
-			"receivedDate": "2014-10-15",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC129497",
-			"receivedDate": "2014-02-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC113260",
-			"receivedDate": "2012-04-10",
+			"code": "ALC153824",
+			"receivedDate": "2018-12-04",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC117746",
-			"receivedDate": "2012-09-26",
+			"code": "ALC153826",
+			"receivedDate": "2018-12-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC121749",
-			"receivedDate": "2013-02-01",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC119978",
-			"receivedDate": "2013-01-03",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM120636",
-			"receivedDate": "2013-01-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC113651",
-			"receivedDate": "2012-04-02",
+			"code": "ALC153828",
+			"receivedDate": "2018-12-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC118201",
-			"receivedDate": "2012-10-15",
-			"response": "S.15 Advice only",
-			"type": "CAR Licence"
+			"code": "ALC154531",
+			"receivedDate": "2019-02-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA114389",
-			"receivedDate": "2012-05-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC155501",
+			"receivedDate": "2019-02-04",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC120316",
-			"receivedDate": "2013-01-14",
+			"code": "ALC156380",
+			"receivedDate": "2019-07-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157145",
+			"receivedDate": "2019-08-14",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157983",
+			"receivedDate": "2019-10-17",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM114326",
-			"receivedDate": "2012-05-22",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC160661",
+			"receivedDate": "2020-07-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "COR167089",
-			"receivedDate": "2022-05-20",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "ALC161748",
+			"receivedDate": "2020-11-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA169036",
-			"receivedDate": "2022-07-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM163108",
-			"receivedDate": "2021-05-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM168216",
-			"receivedDate": "2022-08-29",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA158931",
-			"receivedDate": "2020-04-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC159051",
-			"receivedDate": "2020-04-21",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"code": "ALC163797",
+			"receivedDate": "2021-05-05",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC165801",
 			"receivedDate": "2021-07-12",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM165922",
-			"receivedDate": "2022-02-08",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM165923",
-			"receivedDate": "2022-02-08",
-			"response": "Advice only",
-			"type": "Application related advice"
 		},
 		{
 			"code": "ALC165805",
@@ -1262,10 +608,400 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC163797",
-			"receivedDate": "2021-05-05",
+			"code": "ALC166810",
+			"receivedDate": "2022-04-04",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM114326",
+			"receivedDate": "2012-05-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM120636",
+			"receivedDate": "2013-01-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125376",
+			"receivedDate": "2013-08-02",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125400",
+			"receivedDate": "2013-08-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM130605",
+			"receivedDate": "2014-04-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133118",
+			"receivedDate": "2014-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133121",
+			"receivedDate": "2014-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133149",
+			"receivedDate": "2014-09-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM135787",
+			"receivedDate": "2015-03-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM138377",
+			"receivedDate": "2015-09-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM139491",
+			"receivedDate": "2015-12-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM140230",
+			"receivedDate": "2015-12-30",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM142497",
+			"receivedDate": "2016-08-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145545",
+			"receivedDate": "2017-03-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148034",
+			"receivedDate": "2017-08-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148932",
+			"receivedDate": "2018-01-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149754",
+			"receivedDate": "2018-03-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152797",
+			"receivedDate": "2018-10-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154174",
+			"receivedDate": "2019-01-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156855",
+			"receivedDate": "2019-09-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156979",
+			"receivedDate": "2019-09-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163108",
+			"receivedDate": "2021-05-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165922",
+			"receivedDate": "2022-02-08",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM165923",
+			"receivedDate": "2022-02-08",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM168216",
+			"receivedDate": "2022-08-29",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS149565",
+			"receivedDate": "2018-02-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS161123",
+			"receivedDate": "2020-11-10",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC110741",
+			"receivedDate": "2011-12-12",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC111654",
+			"receivedDate": "2012-01-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC112240",
+			"receivedDate": "2012-02-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC112379",
+			"receivedDate": "2012-03-02",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC116043",
+			"receivedDate": "2012-07-18",
+			"response": "No objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC118201",
+			"receivedDate": "2012-10-15",
+			"response": "S.15 Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC119978",
+			"receivedDate": "2013-01-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC121749",
+			"receivedDate": "2013-02-01",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC124524",
+			"receivedDate": "2013-05-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC125981",
+			"receivedDate": "2013-08-19",
+			"response": "S.12 SSSI consent not required",
+			"type": "Other"
+		},
+		{
+			"code": "CLC128726",
+			"receivedDate": "2013-11-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC128728",
+			"receivedDate": "2013-12-18",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC128729",
+			"receivedDate": "2013-12-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC129017",
+			"receivedDate": "2014-02-05",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC129497",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC130660",
+			"receivedDate": "2014-05-01",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC131989",
+			"receivedDate": "2014-05-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC135728",
+			"receivedDate": "2015-02-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC137544",
+			"receivedDate": "2015-07-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC138269",
+			"receivedDate": "2015-09-10",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC138613",
+			"receivedDate": "2015-10-08",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC139551",
+			"receivedDate": "2015-10-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC140123",
+			"receivedDate": "2016-01-12",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC140126",
+			"receivedDate": "2016-01-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC141207",
+			"receivedDate": "2016-05-09",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC141654",
+			"receivedDate": "2016-04-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC141673",
+			"receivedDate": "2016-05-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC143737",
+			"receivedDate": "2016-11-18",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC143980",
+			"receivedDate": "2016-10-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144326",
+			"receivedDate": "2016-12-02",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC144927",
+			"receivedDate": "2017-01-12",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC145575",
+			"receivedDate": "2017-04-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146524",
+			"receivedDate": "2017-05-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC155500",
+			"receivedDate": "2019-03-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC156482",
+			"receivedDate": "2019-05-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC159051",
+			"receivedDate": "2020-04-21",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC159133",
+			"receivedDate": "2020-02-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC160658",
+			"receivedDate": "2020-06-08",
+			"response": "Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CLC164871",
@@ -1274,10 +1010,274 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC166810",
-			"receivedDate": "2022-04-04",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "COR119692",
+			"receivedDate": "2012-12-11",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR133669",
+			"receivedDate": "2014-10-15",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR139922",
+			"receivedDate": "2016-01-29",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR140934",
+			"receivedDate": "2016-04-15",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR147839",
+			"receivedDate": "2017-10-04",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR148669",
+			"receivedDate": "2017-12-14",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR148895",
+			"receivedDate": "2018-01-10",
+			"response": "Unresolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR149777",
+			"receivedDate": "2018-03-14",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR150001",
+			"receivedDate": "2018-03-29",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR167089",
+			"receivedDate": "2022-05-20",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA114389",
+			"receivedDate": "2012-05-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA120472",
+			"receivedDate": "2013-01-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA129310",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133584",
+			"receivedDate": "2014-09-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133940",
+			"receivedDate": "2014-11-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA148505",
+			"receivedDate": "2017-11-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA149155",
+			"receivedDate": "2018-01-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA154399",
+			"receivedDate": "2019-01-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA154754",
+			"receivedDate": "2019-03-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157141",
+			"receivedDate": "2019-08-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157985",
+			"receivedDate": "2019-11-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA158931",
+			"receivedDate": "2020-04-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA169036",
+			"receivedDate": "2022-07-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP137996",
+			"receivedDate": "2015-08-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP139556",
+			"receivedDate": "2015-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP145352",
+			"receivedDate": "2017-03-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP148033",
+			"receivedDate": "2017-09-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP148047",
+			"receivedDate": "2017-09-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP149557",
+			"receivedDate": "2018-01-31",
+			"response": "Advice only",
+			"type": "Core paths plan"
+		},
+		{
+			"code": "CPP150010",
+			"receivedDate": "2018-03-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN112235",
+			"receivedDate": "2012-02-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN112238",
+			"receivedDate": "2012-02-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN122153",
+			"receivedDate": "2013-03-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN125977",
+			"receivedDate": "2013-08-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN125980",
+			"receivedDate": "2013-08-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN132035",
+			"receivedDate": "2014-06-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN139567",
+			"receivedDate": "2015-12-21",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "GEN140978",
+			"receivedDate": "2016-03-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149039",
+			"receivedDate": "2018-01-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN150261",
+			"receivedDate": "2018-03-29",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN150867",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN152287",
+			"receivedDate": "2018-08-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN154524",
+			"receivedDate": "2019-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN154526",
+			"receivedDate": "2019-02-04",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "GEN161742",
+			"receivedDate": "2020-12-21",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

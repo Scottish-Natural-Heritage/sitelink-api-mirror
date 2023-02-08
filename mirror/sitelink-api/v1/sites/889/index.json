@@ -26,28 +26,10 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CEA155004",
-			"receivedDate": "2019-04-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM159280",
-			"receivedDate": "2020-05-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA111648",
-			"receivedDate": "2012-02-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM157112",
-			"receivedDate": "2019-10-10",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "ALC145904",
+			"receivedDate": "2017-05-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM143476",
@@ -56,22 +38,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC157555",
-			"receivedDate": "2019-11-25",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "CDM157112",
+			"receivedDate": "2019-10-10",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "ALC145904",
-			"receivedDate": "2017-05-18",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM159280",
+			"receivedDate": "2020-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP168129",
-			"receivedDate": "2022-08-17",
+			"code": "CDM159328",
+			"receivedDate": "2020-05-26",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA155004",
+			"receivedDate": "2019-04-05",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA165094",
@@ -80,16 +68,22 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPP168024",
-			"receivedDate": "2022-08-05",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CEA169180",
 			"receivedDate": "2022-12-01",
 			"response": "Advice only",
 			"type": "SEA"
+		},
+		{
+			"code": "CLC157555",
+			"receivedDate": "2019-11-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA111648",
+			"receivedDate": "2012-02-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA163299",
@@ -98,10 +92,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM159328",
-			"receivedDate": "2020-05-26",
+			"code": "CPP168024",
+			"receivedDate": "2022-08-05",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP168129",
+			"receivedDate": "2022-08-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

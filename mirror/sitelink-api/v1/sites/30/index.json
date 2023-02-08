@@ -2,14 +2,14 @@
 	"area": 16.61,
 	"casework": [
 		{
-			"code": "24616",
-			"receivedDate": "2005-04-11",
+			"code": "22560",
+			"receivedDate": "2004-12-24",
 			"response": "Information/Advice only",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "22560",
-			"receivedDate": "2004-12-24",
+			"code": "24616",
+			"receivedDate": "2005-04-11",
 			"response": "Information/Advice only",
 			"type": "Notice of Intent"
 		},
@@ -26,58 +26,10 @@
 			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "GEN161665",
-			"receivedDate": "2021-01-06",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM154574",
-			"receivedDate": "2019-03-04",
-			"response": "Advice only",
-			"type": "Other Infrastructure"
-		},
-		{
-			"code": "CDM138302",
-			"receivedDate": "2015-09-14",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CLC138279",
-			"receivedDate": "2015-09-09",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN153770",
-			"receivedDate": "2018-12-31",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM147241",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CEA148041",
-			"receivedDate": "2017-10-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC150851",
-			"receivedDate": "2018-06-01",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CEA145982",
-			"receivedDate": "2017-05-22",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC133989",
+			"receivedDate": "2014-11-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM125379",
@@ -92,16 +44,58 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC133989",
-			"receivedDate": "2014-11-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM138302",
+			"receivedDate": "2015-09-14",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM147241",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM154574",
+			"receivedDate": "2019-03-04",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CDM165532",
+			"receivedDate": "2022-01-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA145982",
+			"receivedDate": "2017-05-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148041",
+			"receivedDate": "2017-10-24",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC129610",
 			"receivedDate": "2014-03-06",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC138279",
+			"receivedDate": "2015-09-09",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC150851",
+			"receivedDate": "2018-06-01",
+			"response": "Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CLC169479",
@@ -116,16 +110,22 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN164248",
-			"receivedDate": "2021-08-24",
+			"code": "GEN153770",
+			"receivedDate": "2018-12-31",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM165532",
-			"receivedDate": "2022-01-06",
+			"code": "GEN161665",
+			"receivedDate": "2021-01-06",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN164248",
+			"receivedDate": "2021-08-24",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

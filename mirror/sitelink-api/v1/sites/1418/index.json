@@ -12,22 +12,16 @@
 	"area": 62.4,
 	"casework": [
 		{
-			"code": "CDM116857",
-			"receivedDate": "2012-08-22",
+			"code": "CDM115656",
+			"receivedDate": "2012-07-09",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP116692",
-			"receivedDate": "2012-08-10",
+			"code": "CDM116857",
+			"receivedDate": "2012-08-22",
 			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC141342",
-			"receivedDate": "2016-05-19",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM143754",
@@ -36,22 +30,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA140602",
-			"receivedDate": "2016-03-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CLC117745",
 			"receivedDate": "2012-09-26",
 			"response": "S.15 Advice with conditions",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CDM115656",
-			"receivedDate": "2012-07-09",
+			"code": "CLC141342",
+			"receivedDate": "2016-05-19",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC165163",
+			"receivedDate": "2021-11-18",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC165970",
@@ -60,10 +54,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC165163",
-			"receivedDate": "2021-11-18",
+			"code": "CPA140602",
+			"receivedDate": "2016-03-18",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP116692",
+			"receivedDate": "2012-08-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

@@ -8,74 +8,32 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "56713",
-			"receivedDate": "2009-08-14",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Consultation from a regulatory authority (s.15)"
-		},
-		{
 			"code": "54925",
 			"receivedDate": "2009-05-21",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CGS139083",
-			"receivedDate": "2015-11-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA137037",
-			"receivedDate": "2015-06-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA162110",
-			"receivedDate": "2021-02-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA160119",
-			"receivedDate": "2020-08-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA160963",
-			"receivedDate": "2020-10-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA159596",
-			"receivedDate": "2020-06-17",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN149688",
-			"receivedDate": "2018-02-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA147247",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN148770",
-			"receivedDate": "2017-12-18",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "56713",
+			"receivedDate": "2009-08-14",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Consultation from a regulatory authority (s.15)"
 		},
 		{
 			"code": "CDM126254",
 			"receivedDate": "2013-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129316",
+			"receivedDate": "2014-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168774",
+			"receivedDate": "2022-10-24",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -86,22 +44,52 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM129316",
-			"receivedDate": "2014-02-20",
+			"code": "CEA137037",
+			"receivedDate": "2015-06-10",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "GEN162590",
-			"receivedDate": "2021-03-29",
+			"code": "CEA160119",
+			"receivedDate": "2020-08-07",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
 		},
 		{
-			"code": "CDM168774",
-			"receivedDate": "2022-10-24",
+			"code": "CEA160340",
+			"receivedDate": "2020-08-27",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "CEA160963",
+			"receivedDate": "2020-10-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS139083",
+			"receivedDate": "2015-11-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA147247",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA159596",
+			"receivedDate": "2020-06-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162110",
+			"receivedDate": "2021-02-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP167024",
@@ -110,10 +98,22 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA160340",
-			"receivedDate": "2020-08-27",
+			"code": "GEN148770",
+			"receivedDate": "2017-12-18",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149688",
+			"receivedDate": "2018-02-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN162590",
+			"receivedDate": "2021-03-29",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

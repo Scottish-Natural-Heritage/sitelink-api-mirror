@@ -24,16 +24,16 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "35322",
-			"receivedDate": "2006-09-06",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "34795",
 			"receivedDate": "2006-08-16",
 			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
 			"type": "Other Developments"
+		},
+		{
+			"code": "35322",
+			"receivedDate": "2006-09-06",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "55393",
@@ -48,8 +48,26 @@
 			"type": "Water"
 		},
 		{
-			"code": "ALC161358",
-			"receivedDate": "2020-12-01",
+			"code": "ALC117613",
+			"receivedDate": "2012-09-20",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134017",
+			"receivedDate": "2014-11-10",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146926",
+			"receivedDate": "2017-07-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151146",
+			"receivedDate": "2018-06-13",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -60,20 +78,8 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN157298",
-			"receivedDate": "2019-11-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM151722",
-			"receivedDate": "2018-07-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC151146",
-			"receivedDate": "2018-06-13",
+			"code": "ALC161358",
+			"receivedDate": "2020-12-01",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -84,58 +90,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC146926",
-			"receivedDate": "2017-07-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN149101",
-			"receivedDate": "2017-12-20",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN147579",
-			"receivedDate": "2017-09-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC134017",
-			"receivedDate": "2014-11-10",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC129687",
-			"receivedDate": "2014-03-10",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC117613",
-			"receivedDate": "2012-09-20",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA114639",
-			"receivedDate": "2012-05-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM166885",
-			"receivedDate": "2022-05-05",
+			"code": "CDM151722",
+			"receivedDate": "2018-07-30",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN166211",
-			"receivedDate": "2022-03-02",
+			"code": "CDM162617",
+			"receivedDate": "2021-03-30",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM166212",
@@ -144,10 +108,46 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM162617",
-			"receivedDate": "2021-03-30",
+			"code": "CDM166885",
+			"receivedDate": "2022-05-05",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CLC129687",
+			"receivedDate": "2014-03-10",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA114639",
+			"receivedDate": "2012-05-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN147579",
+			"receivedDate": "2017-09-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149101",
+			"receivedDate": "2017-12-20",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN157298",
+			"receivedDate": "2019-11-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN166211",
+			"receivedDate": "2022-03-02",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

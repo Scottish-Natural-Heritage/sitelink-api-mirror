@@ -36,16 +36,16 @@
 	"area": 821.6,
 	"casework": [
 		{
-			"code": "16362",
-			"receivedDate": "2004-02-23",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Species Licensing"
-		},
-		{
 			"code": "16234",
 			"receivedDate": "2004-02-04",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "16362",
+			"receivedDate": "2004-02-23",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Species Licensing"
 		},
 		{
 			"code": "22404",
@@ -60,10 +60,16 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "COR136807",
-			"receivedDate": "2015-05-18",
-			"response": "Resolved",
-			"type": "Complaints"
+			"code": "CLC131618",
+			"receivedDate": "2014-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC156150",
+			"receivedDate": "2019-07-08",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC157486",
@@ -78,27 +84,9 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CLC156150",
-			"receivedDate": "2019-07-08",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC131618",
-			"receivedDate": "2014-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "COR126319",
-			"receivedDate": "2013-12-16",
+			"code": "COR118659",
+			"receivedDate": "2012-11-05",
 			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "COR129294",
-			"receivedDate": "2014-02-19",
-			"response": "Information only",
 			"type": "Complaints"
 		},
 		{
@@ -114,8 +102,20 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "COR118659",
-			"receivedDate": "2012-11-05",
+			"code": "COR126319",
+			"receivedDate": "2013-12-16",
+			"response": "Resolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR129294",
+			"receivedDate": "2014-02-19",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "COR136807",
+			"receivedDate": "2015-05-18",
 			"response": "Resolved",
 			"type": "Complaints"
 		}

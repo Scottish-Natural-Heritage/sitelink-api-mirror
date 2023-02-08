@@ -44,10 +44,28 @@
 			"type": "Telecommunications"
 		},
 		{
-			"code": "CPA158384",
-			"receivedDate": "2020-02-12",
+			"code": "ALC167396",
+			"receivedDate": "2022-06-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM123803",
+			"receivedDate": "2013-06-03",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM124102",
+			"receivedDate": "2013-06-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129510",
+			"receivedDate": "2014-03-03",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM161113",
@@ -60,6 +78,12 @@
 			"receivedDate": "2020-11-10",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA157928",
+			"receivedDate": "2020-01-14",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CGS142729",
@@ -80,44 +104,8 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA157928",
-			"receivedDate": "2020-01-14",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP146641",
-			"receivedDate": "2017-07-06",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CDM124102",
-			"receivedDate": "2013-06-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM129510",
-			"receivedDate": "2014-03-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM123803",
-			"receivedDate": "2013-06-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC167396",
-			"receivedDate": "2022-06-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA165850",
-			"receivedDate": "2022-02-01",
+			"code": "CPA158384",
+			"receivedDate": "2020-02-12",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -128,10 +116,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA165850",
+			"receivedDate": "2022-02-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA166429",
 			"receivedDate": "2022-03-24",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP146641",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
 		}
 	],
 	"designation": {

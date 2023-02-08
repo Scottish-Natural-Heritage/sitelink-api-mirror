@@ -14,92 +14,8 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "GEN117123",
-			"receivedDate": "2012-08-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC113847",
 			"receivedDate": "2012-05-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC161202",
-			"receivedDate": "2020-11-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC112306",
-			"receivedDate": "2012-02-29",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC140714",
-			"receivedDate": "2016-03-22",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
-			"code": "ALC157445",
-			"receivedDate": "2019-11-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC156327",
-			"receivedDate": "2019-07-16",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA150693",
-			"receivedDate": "2018-05-21",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CLC149344",
-			"receivedDate": "2018-02-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CGS148374",
-			"receivedDate": "2017-11-21",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS126357",
-			"receivedDate": "2013-09-16",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS128419",
-			"receivedDate": "2014-01-08",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC124550",
-			"receivedDate": "2013-07-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC132350",
-			"receivedDate": "2014-07-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC126667",
-			"receivedDate": "2013-10-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -116,15 +32,27 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "COR166223",
-			"receivedDate": "2022-02-23",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "ALC124550",
+			"receivedDate": "2013-07-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC169247",
-			"receivedDate": "2022-12-07",
+			"code": "ALC126667",
+			"receivedDate": "2013-10-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156327",
+			"receivedDate": "2019-07-16",
 			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157445",
+			"receivedDate": "2019-11-15",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -138,6 +66,78 @@
 			"receivedDate": "2021-05-06",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169247",
+			"receivedDate": "2022-12-07",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS126357",
+			"receivedDate": "2013-09-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS128419",
+			"receivedDate": "2014-01-08",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS148374",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC112306",
+			"receivedDate": "2012-02-29",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC132350",
+			"receivedDate": "2014-07-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC140714",
+			"receivedDate": "2016-03-22",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CLC149344",
+			"receivedDate": "2018-02-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC161202",
+			"receivedDate": "2020-11-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR166223",
+			"receivedDate": "2022-02-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA150693",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "GEN117123",
+			"receivedDate": "2012-08-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

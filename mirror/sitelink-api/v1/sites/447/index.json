@@ -8,28 +8,10 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CGS112508",
-			"receivedDate": "2012-01-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN131798",
-			"receivedDate": "2014-07-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM129153",
-			"receivedDate": "2014-02-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP127247",
-			"receivedDate": "2013-10-28",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC117796",
+			"receivedDate": "2012-09-25",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM122527",
@@ -38,16 +20,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC117796",
-			"receivedDate": "2012-09-25",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC117741",
-			"receivedDate": "2012-09-25",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CDM129153",
+			"receivedDate": "2014-02-11",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM164304",
@@ -56,10 +32,28 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CGS112508",
+			"receivedDate": "2012-01-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC117741",
+			"receivedDate": "2012-09-25",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CPA165591",
 			"receivedDate": "2022-01-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP127247",
+			"receivedDate": "2013-10-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP160353",
@@ -72,6 +66,12 @@
 			"receivedDate": "2021-07-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN131798",
+			"receivedDate": "2014-07-01",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

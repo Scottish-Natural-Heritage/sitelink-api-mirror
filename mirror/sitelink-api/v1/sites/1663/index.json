@@ -18,6 +18,12 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "51572",
+			"receivedDate": "2008-11-06",
+			"response": "Information/Advice only",
+			"type": "Waste Tips / Landfill"
+		},
+		{
 			"code": "54268",
 			"receivedDate": "2009-04-15",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -30,10 +36,10 @@
 			"type": "Waste Tips / Landfill"
 		},
 		{
-			"code": "51572",
-			"receivedDate": "2008-11-06",
-			"response": "Information/Advice only",
-			"type": "Waste Tips / Landfill"
+			"code": "54403",
+			"receivedDate": "2009-04-24",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "56413",
@@ -42,16 +48,28 @@
 			"type": "Waste Tips / Landfill"
 		},
 		{
-			"code": "54403",
-			"receivedDate": "2009-04-24",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Pollution Acts"
+			"code": "ALC123847",
+			"receivedDate": "2013-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN146282",
-			"receivedDate": "2017-06-13",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC133739",
+			"receivedDate": "2014-10-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM129550",
+			"receivedDate": "2014-03-04",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131137",
+			"receivedDate": "2014-05-23",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA146214",
@@ -66,46 +84,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CLC146692",
-			"receivedDate": "2017-07-11",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM131137",
-			"receivedDate": "2014-05-23",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC127022",
-			"receivedDate": "2013-10-21",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
 			"code": "CGS127121",
 			"receivedDate": "2013-10-23",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM129550",
-			"receivedDate": "2014-03-04",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA127304",
-			"receivedDate": "2013-10-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC133739",
-			"receivedDate": "2014-10-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC118654",
@@ -114,16 +96,34 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC123847",
-			"receivedDate": "2013-06-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC127022",
+			"receivedDate": "2013-10-21",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146692",
+			"receivedDate": "2017-07-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA127304",
+			"receivedDate": "2013-10-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP167566",
 			"receivedDate": "2022-06-30",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN146282",
+			"receivedDate": "2017-06-13",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

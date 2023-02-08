@@ -20,16 +20,16 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "70586",
-			"receivedDate": "2011-08-02",
-			"response": "Information/Advice only",
-			"type": "Controlled Activities Regulations"
-		},
-		{
 			"code": "69744",
 			"receivedDate": "2011-06-27",
 			"response": "Information/Advice only",
 			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "70586",
+			"receivedDate": "2011-08-02",
+			"response": "Information/Advice only",
+			"type": "Controlled Activities Regulations"
 		},
 		{
 			"code": "71268",
@@ -38,21 +38,27 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CPP115866",
-			"receivedDate": "2012-07-17",
+			"code": "CDM118442",
+			"receivedDate": "2012-10-23",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP110288",
-			"receivedDate": "2011-12-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "CLC115194",
+			"receivedDate": "2012-06-25",
+			"response": "No objection",
+			"type": "Other"
 		},
 		{
 			"code": "CLC141966",
 			"receivedDate": "2016-07-01",
 			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC151015",
+			"receivedDate": "2018-06-11",
+			"response": "Insufficient information",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
@@ -62,16 +68,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC151015",
-			"receivedDate": "2018-06-11",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM118442",
-			"receivedDate": "2012-10-23",
+			"code": "CPP110288",
+			"receivedDate": "2011-12-07",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP114111",
@@ -80,10 +80,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC115194",
-			"receivedDate": "2012-06-25",
-			"response": "No objection",
-			"type": "Other"
+			"code": "CPP115866",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

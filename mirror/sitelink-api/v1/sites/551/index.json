@@ -2,16 +2,16 @@
 	"area": 4.45,
 	"casework": [
 		{
-			"code": "CLC162074",
-			"receivedDate": "2021-02-05",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "ALC155224",
 			"receivedDate": "2019-04-24",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM150717",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC144016",
@@ -26,18 +26,6 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "GEN144002",
-			"receivedDate": "2016-12-09",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM150717",
-			"receivedDate": "2018-05-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CLC147191",
 			"receivedDate": "2017-08-21",
 			"response": "S.15 Advice only",
@@ -50,10 +38,16 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPP123022",
-			"receivedDate": "2013-05-01",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "CLC158454",
+			"receivedDate": "2020-02-20",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC162074",
+			"receivedDate": "2021-02-05",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC162681",
@@ -62,10 +56,16 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC158454",
-			"receivedDate": "2020-02-20",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CPP123022",
+			"receivedDate": "2013-05-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN144002",
+			"receivedDate": "2016-12-09",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

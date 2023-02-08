@@ -2,10 +2,22 @@
 	"area": 4.08,
 	"casework": [
 		{
-			"code": "CLC155926",
-			"receivedDate": "2019-06-19",
+			"code": "CDM166131",
+			"receivedDate": "2022-02-21",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM166348",
+			"receivedDate": "2022-03-14",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM166579",
+			"receivedDate": "2022-03-14",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CGS156005",
@@ -20,22 +32,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM166579",
-			"receivedDate": "2022-03-14",
+			"code": "CLC155926",
+			"receivedDate": "2019-06-19",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM166348",
-			"receivedDate": "2022-03-14",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM166131",
-			"receivedDate": "2022-02-21",
-			"response": "Advice only",
-			"type": "Post Application"
+			"type": "Other"
 		}
 	],
 	"designation": {

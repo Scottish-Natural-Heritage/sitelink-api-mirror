@@ -20,15 +20,15 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "40817",
-			"receivedDate": "2007-04-18",
-			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "39765",
 			"receivedDate": "2007-01-09",
 			"response": "Information/Advice only",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "40817",
+			"receivedDate": "2007-04-18",
+			"response": "NCA - Refused consent (s.13, s.16) or recommended refusal of consent (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
@@ -44,9 +44,21 @@
 			"type": "Local Plan"
 		},
 		{
+			"code": "68541",
+			"receivedDate": "2011-04-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
 			"code": "68617",
 			"receivedDate": "2011-05-02",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "69297",
+			"receivedDate": "2011-06-03",
+			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
@@ -56,52 +68,10 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "69297",
-			"receivedDate": "2011-06-03",
-			"response": "Information/Advice only",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "68541",
-			"receivedDate": "2011-04-07",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "CLC116508",
-			"receivedDate": "2012-08-09",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP136875",
-			"receivedDate": "2015-05-28",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM137478",
-			"receivedDate": "2015-07-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA161118",
-			"receivedDate": "2020-11-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM142594",
-			"receivedDate": "2016-08-19",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA144331",
-			"receivedDate": "2017-01-10",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC113939",
+			"receivedDate": "2012-05-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC144051",
@@ -110,27 +80,21 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC144185",
-			"receivedDate": "2016-12-23",
+			"code": "CDM137478",
+			"receivedDate": "2015-07-13",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142594",
+			"receivedDate": "2016-08-19",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM142599",
 			"receivedDate": "2016-08-19",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP154655",
-			"receivedDate": "2019-03-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM151382",
-			"receivedDate": "2018-07-05",
-			"response": "No Comment",
 			"type": "Planning Application"
 		},
 		{
@@ -140,16 +104,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA126723",
-			"receivedDate": "2013-10-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CDM151382",
+			"receivedDate": "2018-07-05",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
-			"code": "ALC113939",
-			"receivedDate": "2012-05-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM168456",
+			"receivedDate": "2022-09-22",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CEA144331",
+			"receivedDate": "2017-01-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC116508",
+			"receivedDate": "2012-08-09",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC123227",
@@ -158,16 +134,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPA121355",
-			"receivedDate": "2013-02-22",
+			"code": "CLC144185",
+			"receivedDate": "2016-12-23",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN114473",
-			"receivedDate": "2012-05-29",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CPA115498",
@@ -176,10 +146,40 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM168456",
-			"receivedDate": "2022-09-22",
+			"code": "CPA121355",
+			"receivedDate": "2013-02-22",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA126723",
+			"receivedDate": "2013-10-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA161118",
+			"receivedDate": "2020-11-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP136875",
+			"receivedDate": "2015-05-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP154655",
+			"receivedDate": "2019-03-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN114473",
+			"receivedDate": "2012-05-29",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

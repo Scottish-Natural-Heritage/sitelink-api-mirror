@@ -2,16 +2,16 @@
 	"area": 12.16,
 	"casework": [
 		{
-			"code": "30494",
-			"receivedDate": "2006-01-30",
-			"response": "B. Support",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
 			"code": "29197",
 			"receivedDate": "2005-11-15",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "30494",
+			"receivedDate": "2006-01-30",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "46942",
@@ -38,30 +38,6 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM145918",
-			"receivedDate": "2017-05-19",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM132488",
-			"receivedDate": "2014-08-04",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR131153",
-			"receivedDate": "2014-05-29",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "ALC133135",
 			"receivedDate": "2014-09-12",
 			"response": "SSSI Consent Given",
@@ -74,10 +50,34 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM132488",
+			"receivedDate": "2014-08-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145918",
+			"receivedDate": "2017-05-19",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CDM163852",
 			"receivedDate": "2021-07-20",
 			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "COR131153",
+			"receivedDate": "2014-05-29",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,6 +2,12 @@
 	"area": 306.11,
 	"casework": [
 		{
+			"code": "29023",
+			"receivedDate": "2005-11-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "6184",
 			"receivedDate": "2001-06-11",
 			"response": "Information/Advice only",
@@ -14,52 +20,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "29023",
-			"receivedDate": "2005-11-14",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "CDM137929",
-			"receivedDate": "2015-08-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN153937",
-			"receivedDate": "2019-01-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC154219",
-			"receivedDate": "2019-02-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA151214",
-			"receivedDate": "2018-06-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR145461",
-			"receivedDate": "2017-04-10",
-			"response": "Unresolved",
-			"type": "Complaints"
-		},
-		{
 			"code": "ALC153282",
 			"receivedDate": "2018-11-14",
 			"response": "SSSI Consent Refused",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA131756",
-			"receivedDate": "2014-07-01",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC154219",
+			"receivedDate": "2019-02-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM126582",
@@ -80,10 +50,40 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM137929",
+			"receivedDate": "2015-08-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA118004",
 			"receivedDate": "2012-10-05",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CEA131756",
+			"receivedDate": "2014-07-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA151214",
+			"receivedDate": "2018-06-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "COR145461",
+			"receivedDate": "2017-04-10",
+			"response": "Unresolved",
+			"type": "Complaints"
+		},
+		{
+			"code": "GEN153937",
+			"receivedDate": "2019-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

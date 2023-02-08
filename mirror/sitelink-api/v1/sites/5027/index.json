@@ -50,10 +50,10 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "CDM161364",
-			"receivedDate": "2020-12-01",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC123461",
+			"receivedDate": "2013-04-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM110047",
@@ -62,16 +62,52 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC145707",
-			"receivedDate": "2017-05-02",
+			"code": "CDM123215",
+			"receivedDate": "2013-05-13",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM125645",
+			"receivedDate": "2013-08-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM160749",
+			"receivedDate": "2020-10-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161364",
+			"receivedDate": "2020-12-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS113515",
+			"receivedDate": "2012-04-19",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS147770",
+			"receivedDate": "2017-10-03",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS166288",
+			"receivedDate": "2022-03-09",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "SIR144463",
-			"receivedDate": "2017-01-23",
-			"response": "Full Release",
-			"type": "Environmental Information Regulations request"
+			"code": "CLC129536",
+			"receivedDate": "2014-03-03",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC137492",
@@ -80,10 +116,28 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
+			"code": "CLC145707",
+			"receivedDate": "2017-05-02",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC157297",
 			"receivedDate": "2019-10-24",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC166035",
+			"receivedDate": "2022-02-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR119217",
+			"receivedDate": "2012-11-22",
+			"response": "Resolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "COR149230",
@@ -98,70 +152,10 @@
 			"type": "General Enquiries"
 		},
 		{
-			"code": "CGS147770",
-			"receivedDate": "2017-10-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "CPA145858",
 			"receivedDate": "2017-05-12",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "SIR127514",
-			"receivedDate": "2013-11-07",
-			"response": "Full Release",
-			"type": "Environmental Information Regulations request"
-		},
-		{
-			"code": "CDM125645",
-			"receivedDate": "2013-08-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM123215",
-			"receivedDate": "2013-05-13",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CLC129536",
-			"receivedDate": "2014-03-03",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CGS113515",
-			"receivedDate": "2012-04-19",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC123461",
-			"receivedDate": "2013-04-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR119217",
-			"receivedDate": "2012-11-22",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "GEN167387",
-			"receivedDate": "2022-06-10",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS166288",
-			"receivedDate": "2022-03-09",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "CPP165553",
@@ -170,16 +164,22 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC166035",
-			"receivedDate": "2022-02-17",
+			"code": "GEN167387",
+			"receivedDate": "2022-06-10",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM160749",
-			"receivedDate": "2020-10-05",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "SIR127514",
+			"receivedDate": "2013-11-07",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
+		},
+		{
+			"code": "SIR144463",
+			"receivedDate": "2017-01-23",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
 		}
 	],
 	"designation": {

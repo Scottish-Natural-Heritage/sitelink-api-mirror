@@ -32,14 +32,26 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "GEN115039",
-			"receivedDate": "2012-06-19",
+			"code": "ALC164132",
+			"receivedDate": "2021-08-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM165854",
+			"receivedDate": "2022-02-02",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CEA141461",
 			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA164854",
+			"receivedDate": "2021-10-25",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -56,28 +68,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM165854",
-			"receivedDate": "2022-02-02",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
 			"code": "CPP163074",
 			"receivedDate": "2021-05-11",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC164132",
-			"receivedDate": "2021-08-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA164854",
-			"receivedDate": "2021-10-25",
+			"code": "GEN115039",
+			"receivedDate": "2012-06-19",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

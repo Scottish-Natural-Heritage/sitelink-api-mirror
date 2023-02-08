@@ -2,20 +2,14 @@
 	"area": 99.62,
 	"casework": [
 		{
-			"code": "14001",
-			"receivedDate": "2003-10-06",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "12905",
 			"receivedDate": "2003-06-02",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "19373",
-			"receivedDate": "2004-07-27",
+			"code": "14001",
+			"receivedDate": "2003-10-06",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
@@ -26,21 +20,27 @@
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
+			"code": "19373",
+			"receivedDate": "2004-07-27",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "25503",
 			"receivedDate": "2005-05-31",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "42579",
-			"receivedDate": "2007-07-23",
-			"response": "Information/Advice only",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "37344",
 			"receivedDate": "2006-11-22",
 			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "42579",
+			"receivedDate": "2007-07-23",
+			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
@@ -50,28 +50,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CDM161901",
 			"receivedDate": "2021-01-27",
 			"response": "Holding objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN160090",
-			"receivedDate": "2020-08-05",
+			"code": "CDM163210",
+			"receivedDate": "2021-05-24",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP130123",
-			"receivedDate": "2014-04-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM168471",
@@ -80,10 +68,22 @@
 			"type": "Application related advice"
 		},
 		{
-			"code": "CDM163210",
-			"receivedDate": "2021-05-24",
+			"code": "CPP130123",
+			"receivedDate": "2014-04-04",
 			"response": "Advice only",
-			"type": "Application related advice"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN160090",
+			"receivedDate": "2020-08-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN164553",

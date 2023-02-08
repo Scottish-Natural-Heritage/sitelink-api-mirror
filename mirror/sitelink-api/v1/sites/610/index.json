@@ -44,16 +44,16 @@
 	"area": 471.13,
 	"casework": [
 		{
-			"code": "19389",
-			"receivedDate": "2004-07-09",
-			"response": "Information/Advice only",
-			"type": "Felling Licence"
-		},
-		{
 			"code": "14319",
 			"receivedDate": "2003-10-23",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "19389",
+			"receivedDate": "2004-07-09",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
 		},
 		{
 			"code": "30179",
@@ -62,76 +62,10 @@
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
-			"code": "CDM158093",
-			"receivedDate": "2020-01-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR159499",
-			"receivedDate": "2020-06-10",
-			"response": "Information only",
-			"type": "Complaints"
-		},
-		{
-			"code": "ALC158211",
-			"receivedDate": "2020-01-29",
+			"code": "ALC129228",
+			"receivedDate": "2014-01-31",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC161652",
-			"receivedDate": "2021-01-07",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC144776",
-			"receivedDate": "2017-02-16",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC155913",
-			"receivedDate": "2019-05-07",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC156976",
-			"receivedDate": "2019-09-26",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM142146",
-			"receivedDate": "2016-07-12",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN143098",
-			"receivedDate": "2016-09-29",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM140996",
-			"receivedDate": "2016-04-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC138340",
-			"receivedDate": "2015-09-17",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA153386",
-			"receivedDate": "2018-11-27",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "ALC153934",
@@ -140,57 +74,15 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA157876",
-			"receivedDate": "2020-01-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS149622",
-			"receivedDate": "2018-02-28",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM148473",
-			"receivedDate": "2017-11-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC150401",
-			"receivedDate": "2018-05-01",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA152735",
-			"receivedDate": "2018-10-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM145745",
-			"receivedDate": "2017-05-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS127058",
-			"receivedDate": "2013-10-22",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC129228",
-			"receivedDate": "2014-01-31",
+			"code": "ALC156976",
+			"receivedDate": "2019-09-26",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC169049",
-			"receivedDate": "2022-10-24",
-			"response": "SSSI Consent Given (subject to conditions)",
+			"code": "ALC158211",
+			"receivedDate": "2020-01-29",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -206,10 +98,118 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC169049",
+			"receivedDate": "2022-10-24",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM140996",
+			"receivedDate": "2016-04-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142146",
+			"receivedDate": "2016-07-12",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145745",
+			"receivedDate": "2017-05-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148473",
+			"receivedDate": "2017-11-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158093",
+			"receivedDate": "2020-01-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA153386",
+			"receivedDate": "2018-11-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS127058",
+			"receivedDate": "2013-10-22",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS149622",
+			"receivedDate": "2018-02-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC138340",
+			"receivedDate": "2015-09-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC144776",
+			"receivedDate": "2017-02-16",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC150401",
+			"receivedDate": "2018-05-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155913",
+			"receivedDate": "2019-05-07",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC161652",
+			"receivedDate": "2021-01-07",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "CLC163622",
 			"receivedDate": "2021-06-17",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC165527",
+			"receivedDate": "2021-12-15",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR159499",
+			"receivedDate": "2020-06-10",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CPA152735",
+			"receivedDate": "2018-10-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157876",
+			"receivedDate": "2020-01-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA164914",
@@ -218,10 +218,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC165527",
-			"receivedDate": "2021-12-15",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "GEN143098",
+			"receivedDate": "2016-09-29",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -8,22 +8,10 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CLC139286",
-			"receivedDate": "2015-11-19",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "ALC145711",
 			"receivedDate": "2017-05-02",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN121716",
-			"receivedDate": "2013-03-08",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CLC134154",
@@ -32,10 +20,10 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CLC166757",
-			"receivedDate": "2022-04-25",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CLC139286",
+			"receivedDate": "2015-11-19",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC159755",
@@ -48,6 +36,18 @@
 			"receivedDate": "2021-06-01",
 			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC166757",
+			"receivedDate": "2022-04-25",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN121716",
+			"receivedDate": "2013-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

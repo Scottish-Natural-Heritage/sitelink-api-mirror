@@ -2,15 +2,15 @@
 	"area": 2,
 	"casework": [
 		{
-			"code": "51037",
-			"receivedDate": "2008-08-08",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
 			"code": "47936",
 			"receivedDate": "2008-05-13",
 			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "51037",
+			"receivedDate": "2008-08-08",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
@@ -20,16 +20,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN157980",
-			"receivedDate": "2019-10-21",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
 			"code": "CLC130467",
 			"receivedDate": "2014-04-23",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "GEN157980",
+			"receivedDate": "2019-10-21",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
 		}
 	],
 	"designation": {

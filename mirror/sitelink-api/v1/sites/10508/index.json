@@ -2,58 +2,568 @@
 	"area": 1381391.4,
 	"casework": [
 		{
+			"code": "ALC147568",
+			"receivedDate": "2017-09-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC150208",
+			"receivedDate": "2018-04-12",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151582",
+			"receivedDate": "2018-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC153664",
+			"receivedDate": "2018-12-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC154509",
 			"receivedDate": "2019-02-28",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM162473",
-			"receivedDate": "2021-03-19",
-			"response": "Holding objection",
+			"code": "ALC157614",
+			"receivedDate": "2019-12-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM141028",
+			"receivedDate": "2016-04-25",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM141044",
+			"receivedDate": "2016-04-21",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CDM142009",
+			"receivedDate": "2016-07-05",
+			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA161906",
-			"receivedDate": "2021-01-28",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM161916",
-			"receivedDate": "2021-01-28",
+			"code": "CDM142364",
+			"receivedDate": "2016-08-03",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA161939",
-			"receivedDate": "2021-02-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA161947",
-			"receivedDate": "2021-02-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA162106",
-			"receivedDate": "2021-02-12",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM162133",
-			"receivedDate": "2021-02-17",
+			"code": "CDM142593",
+			"receivedDate": "2016-08-17",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC161465",
-			"receivedDate": "2020-12-10",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"code": "CDM142715",
+			"receivedDate": "2016-08-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142938",
+			"receivedDate": "2016-09-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM142983",
+			"receivedDate": "2016-09-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM143111",
+			"receivedDate": "2016-09-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM143123",
+			"receivedDate": "2016-10-03",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM143800",
+			"receivedDate": "2016-11-23",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM143890",
+			"receivedDate": "2016-12-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144108",
+			"receivedDate": "2016-12-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144167",
+			"receivedDate": "2016-12-20",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM144293",
+			"receivedDate": "2017-01-11",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144345",
+			"receivedDate": "2017-01-16",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM144387",
+			"receivedDate": "2017-01-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144482",
+			"receivedDate": "2017-01-16",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM144523",
+			"receivedDate": "2017-01-24",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145495",
+			"receivedDate": "2017-03-31",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CDM145658",
+			"receivedDate": "2017-04-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM145975",
+			"receivedDate": "2017-05-24",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM146216",
+			"receivedDate": "2017-06-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146382",
+			"receivedDate": "2017-06-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146663",
+			"receivedDate": "2017-07-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147101",
+			"receivedDate": "2017-08-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147107",
+			"receivedDate": "2017-08-11",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147311",
+			"receivedDate": "2017-08-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147907",
+			"receivedDate": "2017-10-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147927",
+			"receivedDate": "2017-10-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148213",
+			"receivedDate": "2017-11-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148274",
+			"receivedDate": "2017-11-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148351",
+			"receivedDate": "2017-11-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148352",
+			"receivedDate": "2017-11-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148361",
+			"receivedDate": "2017-11-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148444",
+			"receivedDate": "2017-11-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148787",
+			"receivedDate": "2017-12-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148796",
+			"receivedDate": "2017-12-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148799",
+			"receivedDate": "2017-12-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149075",
+			"receivedDate": "2018-01-18",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149141",
+			"receivedDate": "2018-01-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149374",
+			"receivedDate": "2018-02-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149376",
+			"receivedDate": "2018-02-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149497",
+			"receivedDate": "2018-02-21",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149571",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149572",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149709",
+			"receivedDate": "2018-03-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149875",
+			"receivedDate": "2018-03-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149971",
+			"receivedDate": "2018-03-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM150087",
+			"receivedDate": "2018-04-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151650",
+			"receivedDate": "2018-07-25",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152069",
+			"receivedDate": "2018-08-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152343",
+			"receivedDate": "2018-09-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152417",
+			"receivedDate": "2018-09-18",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM152613",
+			"receivedDate": "2019-02-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152993",
+			"receivedDate": "2019-02-12",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153509",
+			"receivedDate": "2018-12-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153564",
+			"receivedDate": "2018-12-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153566",
+			"receivedDate": "2018-12-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153666",
+			"receivedDate": "2018-12-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153767",
+			"receivedDate": "2019-01-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153973",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154288",
+			"receivedDate": "2019-02-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154329",
+			"receivedDate": "2019-02-14",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM154392",
+			"receivedDate": "2019-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154430",
+			"receivedDate": "2019-02-21",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CDM154938",
+			"receivedDate": "2019-03-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154985",
+			"receivedDate": "2019-04-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155280",
+			"receivedDate": "2019-04-26",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155696",
+			"receivedDate": "2019-06-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155997",
+			"receivedDate": "2019-06-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156215",
+			"receivedDate": "2019-07-15",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CDM156343",
+			"receivedDate": "2019-07-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156344",
+			"receivedDate": "2019-07-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156551",
+			"receivedDate": "2019-08-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157074",
+			"receivedDate": "2019-10-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157310",
+			"receivedDate": "2019-11-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157858",
+			"receivedDate": "2020-01-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158357",
+			"receivedDate": "2020-02-12",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM158402",
+			"receivedDate": "2020-02-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158404",
+			"receivedDate": "2020-02-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158573",
+			"receivedDate": "2020-03-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158679",
+			"receivedDate": "2020-03-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158826",
+			"receivedDate": "2020-03-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158982",
+			"receivedDate": "2020-04-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM159093",
+			"receivedDate": "2020-04-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM159673",
+			"receivedDate": "2020-06-25",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM159685",
+			"receivedDate": "2020-06-16",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CDM160587",
@@ -62,8 +572,8 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM158402",
-			"receivedDate": "2020-02-18",
+			"code": "CDM160706",
+			"receivedDate": "2020-09-30",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -80,100 +590,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN161975",
-			"receivedDate": "2021-01-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM154985",
-			"receivedDate": "2019-04-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA155014",
-			"receivedDate": "2019-04-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA155901",
-			"receivedDate": "2019-06-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP154674",
-			"receivedDate": "2019-03-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN156474",
-			"receivedDate": "2019-08-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM154938",
-			"receivedDate": "2019-03-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC154945",
-			"receivedDate": "2019-03-29",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC160751",
-			"receivedDate": "2020-10-05",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA160984",
-			"receivedDate": "2020-10-27",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA158431",
-			"receivedDate": "2020-02-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CDM161218",
 			"receivedDate": "2020-11-17",
 			"response": "No Comment",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM158357",
-			"receivedDate": "2020-02-12",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC159330",
-			"receivedDate": "2020-05-25",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC160012",
-			"receivedDate": "2020-07-29",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA161099",
-			"receivedDate": "2020-11-09",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "CDM161246",
@@ -182,178 +602,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC160612",
-			"receivedDate": "2020-09-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC160629",
-			"receivedDate": "2020-09-25",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CPA159238",
-			"receivedDate": "2020-05-14",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA160441",
-			"receivedDate": "2020-09-08",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC160443",
-			"receivedDate": "2020-09-08",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM160706",
-			"receivedDate": "2020-09-30",
-			"response": "Advice only",
+			"code": "CDM161916",
+			"receivedDate": "2021-01-28",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA159186",
-			"receivedDate": "2020-05-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA161408",
-			"receivedDate": "2020-12-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM162302",
-			"receivedDate": "2021-03-04",
+			"code": "CDM162133",
+			"receivedDate": "2021-02-17",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC159408",
-			"receivedDate": "2020-06-02",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC161538",
-			"receivedDate": "2020-12-17",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA161548",
-			"receivedDate": "2020-12-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC159438",
-			"receivedDate": "2020-06-04",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC159461",
-			"receivedDate": "2020-06-08",
-			"response": "No comment",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC159466",
-			"receivedDate": "2020-06-08",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA159572",
-			"receivedDate": "2020-06-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC161498",
-			"receivedDate": "2020-12-14",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC161513",
-			"receivedDate": "2020-12-15",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC161750",
-			"receivedDate": "2020-11-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC162391",
-			"receivedDate": "2021-03-11",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC159097",
-			"receivedDate": "2020-04-29",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC159643",
-			"receivedDate": "2020-06-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC159644",
-			"receivedDate": "2020-06-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA158893",
-			"receivedDate": "2020-03-27",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM158573",
-			"receivedDate": "2020-03-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC160614",
-			"receivedDate": "2020-09-24",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM158826",
-			"receivedDate": "2020-03-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC158980",
-			"receivedDate": "2020-04-15",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC161638",
-			"receivedDate": "2021-01-06",
-			"response": "No objection",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
 			"code": "CDM162230",
@@ -362,100 +620,154 @@
 			"type": "Harbour Infrastructure"
 		},
 		{
-			"code": "CLC158652",
-			"receivedDate": "2020-03-09",
+			"code": "CDM162302",
+			"receivedDate": "2021-03-04",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM158679",
-			"receivedDate": "2020-03-12",
+			"code": "CDM162473",
+			"receivedDate": "2021-03-19",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162872",
+			"receivedDate": "2021-04-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163637",
+			"receivedDate": "2021-07-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163893",
+			"receivedDate": "2021-07-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164192",
+			"receivedDate": "2021-08-19",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM164211",
+			"receivedDate": "2021-08-23",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CDM164759",
+			"receivedDate": "2021-10-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165402",
+			"receivedDate": "2021-12-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165859",
+			"receivedDate": "2022-02-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166107",
+			"receivedDate": "2022-02-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166673",
+			"receivedDate": "2022-04-14",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM166713",
+			"receivedDate": "2022-04-20",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167506",
+			"receivedDate": "2022-06-29",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167797",
+			"receivedDate": "2022-07-22",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM158982",
-			"receivedDate": "2020-04-15",
+			"code": "CDM167803",
+			"receivedDate": "2022-07-22",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA141340",
-			"receivedDate": "2016-05-18",
+			"code": "CDM167804",
+			"receivedDate": "2022-07-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167806",
+			"receivedDate": "2022-07-22",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168071",
+			"receivedDate": "2022-08-17",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM168088",
+			"receivedDate": "2022-08-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168324",
+			"receivedDate": "2022-09-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168501",
+			"receivedDate": "2022-09-27",
+			"response": "No Comment",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CDM169072",
+			"receivedDate": "2022-11-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM169404",
+			"receivedDate": "2022-12-16",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA140805",
+			"receivedDate": "2016-04-06",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CLC144670",
-			"receivedDate": "2017-02-07",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC144692",
-			"receivedDate": "2017-02-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC143789",
-			"receivedDate": "2016-11-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC144637",
-			"receivedDate": "2017-02-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC142444",
-			"receivedDate": "2016-08-03",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM142593",
-			"receivedDate": "2016-08-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA149065",
-			"receivedDate": "2018-01-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM149075",
-			"receivedDate": "2018-01-18",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC147564",
-			"receivedDate": "2017-08-31",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC147648",
-			"receivedDate": "2017-09-22",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC141962",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC142600",
-			"receivedDate": "2016-08-18",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CEA141107",
@@ -464,80 +776,278 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM144482",
+			"code": "CEA141215",
+			"receivedDate": "2016-05-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA141340",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA141343",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA142487",
+			"receivedDate": "2016-08-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA142519",
+			"receivedDate": "2016-08-15",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA144344",
 			"receivedDate": "2017-01-16",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC144537",
-			"receivedDate": "2017-01-25",
+			"code": "CEA145272",
+			"receivedDate": "2017-02-16",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "CPA144552",
-			"receivedDate": "2017-01-26",
+			"code": "CEA145625",
+			"receivedDate": "2017-04-07",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
-			"code": "CPA142402",
-			"receivedDate": "2016-08-08",
+			"code": "CEA145832",
+			"receivedDate": "2017-05-12",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC142412",
-			"receivedDate": "2016-08-05",
+			"code": "CEA145939",
+			"receivedDate": "2017-05-23",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "GEN144493",
-			"receivedDate": "2017-01-20",
+			"code": "CEA145940",
+			"receivedDate": "2017-05-23",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC156887",
-			"receivedDate": "2019-09-16",
+			"code": "CEA145941",
+			"receivedDate": "2017-05-23",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC154567",
-			"receivedDate": "2019-03-01",
+			"code": "CEA145942",
+			"receivedDate": "2017-05-23",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC153980",
-			"receivedDate": "2019-01-21",
+			"code": "CEA146004",
+			"receivedDate": "2017-05-29",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "CGS154832",
-			"receivedDate": "2019-03-20",
+			"code": "CEA146074",
+			"receivedDate": "2017-06-02",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC154878",
-			"receivedDate": "2019-03-22",
+			"code": "CEA146613",
+			"receivedDate": "2017-07-05",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "COR155565",
-			"receivedDate": "2019-05-22",
-			"response": "Unresolved",
-			"type": "Complaints"
+			"code": "CEA146615",
+			"receivedDate": "2017-07-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA146950",
+			"receivedDate": "2017-07-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147092",
+			"receivedDate": "2017-08-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147390",
+			"receivedDate": "2017-09-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147635",
+			"receivedDate": "2017-09-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147636",
+			"receivedDate": "2017-09-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147678",
+			"receivedDate": "2017-09-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147871",
+			"receivedDate": "2017-10-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147893",
+			"receivedDate": "2017-10-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147894",
+			"receivedDate": "2017-10-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148149",
+			"receivedDate": "2017-11-02",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148350",
+			"receivedDate": "2017-11-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148743",
+			"receivedDate": "2017-12-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148839",
+			"receivedDate": "2017-12-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA148841",
+			"receivedDate": "2017-12-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149796",
+			"receivedDate": "2018-03-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149878",
+			"receivedDate": "2018-03-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149976",
+			"receivedDate": "2018-03-21",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA150214",
+			"receivedDate": "2018-04-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA150367",
+			"receivedDate": "2018-04-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA150618",
+			"receivedDate": "2018-03-30",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA150619",
+			"receivedDate": "2018-03-30",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA151298",
+			"receivedDate": "2018-07-02",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA151488",
+			"receivedDate": "2018-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA152076",
+			"receivedDate": "2018-08-24",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA154179",
 			"receivedDate": "2019-01-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA155055",
+			"receivedDate": "2019-04-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA155095",
+			"receivedDate": "2019-04-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA155574",
+			"receivedDate": "2019-05-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA155901",
+			"receivedDate": "2019-06-18",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -548,226 +1058,190 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CLC155929",
-			"receivedDate": "2019-06-20",
+			"code": "CEA158431",
+			"receivedDate": "2020-02-19",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC154381",
-			"receivedDate": "2019-02-19",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC154383",
-			"receivedDate": "2019-02-19",
+			"code": "CEA158785",
+			"receivedDate": "2020-03-24",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "CDM154392",
-			"receivedDate": "2019-02-20",
+			"code": "CEA158839",
+			"receivedDate": "2020-03-31",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "CPA155711",
-			"receivedDate": "2019-06-03",
+			"code": "CEA159186",
+			"receivedDate": "2020-05-07",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
-			"code": "ALC153664",
-			"receivedDate": "2018-12-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM154430",
-			"receivedDate": "2019-02-21",
+			"code": "CEA160441",
+			"receivedDate": "2020-09-08",
 			"response": "Advice only",
-			"type": "Harbour Infrastructure"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC155436",
-			"receivedDate": "2019-05-13",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM155696",
-			"receivedDate": "2019-06-04",
+			"code": "CEA161099",
+			"receivedDate": "2020-11-09",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC155698",
-			"receivedDate": "2019-06-04",
+			"code": "CEA161548",
+			"receivedDate": "2020-12-18",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "CLC155700",
-			"receivedDate": "2019-05-30",
-			"response": "S.15 Advice with conditions",
+			"code": "CEA161906",
+			"receivedDate": "2021-01-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161939",
+			"receivedDate": "2021-02-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161947",
+			"receivedDate": "2021-02-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA162836",
+			"receivedDate": "2021-04-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA163091",
+			"receivedDate": "2021-05-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA163179",
+			"receivedDate": "2021-05-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA163676",
+			"receivedDate": "2021-07-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA164217",
+			"receivedDate": "2021-08-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA164218",
+			"receivedDate": "2021-08-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA164959",
+			"receivedDate": "2021-11-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA165439",
+			"receivedDate": "2021-12-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA165526",
+			"receivedDate": "2022-01-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA166764",
+			"receivedDate": "2022-04-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA166765",
+			"receivedDate": "2022-04-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA167475",
+			"receivedDate": "2022-06-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA167853",
+			"receivedDate": "2022-07-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA168039",
+			"receivedDate": "2022-08-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA169012",
+			"receivedDate": "2022-11-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA169107",
+			"receivedDate": "2022-11-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS146573",
+			"receivedDate": "2017-06-30",
+			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CLC154292",
-			"receivedDate": "2019-02-12",
+			"code": "CGS150526",
+			"receivedDate": "2018-05-09",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CLC155559",
-			"receivedDate": "2019-05-21",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CPA155399",
-			"receivedDate": "2019-05-08",
+			"code": "CGS152954",
+			"receivedDate": "2018-10-26",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CEA155095",
-			"receivedDate": "2019-04-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM153973",
-			"receivedDate": "2019-01-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC156840",
-			"receivedDate": "2019-09-12",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC144225",
-			"receivedDate": "2016-12-22",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC144296",
-			"receivedDate": "2017-01-12",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA144048",
-			"receivedDate": "2016-12-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC142102",
-			"receivedDate": "2016-07-13",
+			"code": "CGS154832",
+			"receivedDate": "2019-03-20",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CPA144276",
-			"receivedDate": "2017-01-06",
+			"code": "CLC140550",
+			"receivedDate": "2016-03-17",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM144293",
-			"receivedDate": "2017-01-11",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC142529",
-			"receivedDate": "2016-08-15",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA142519",
-			"receivedDate": "2016-08-15",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA142781",
-			"receivedDate": "2016-09-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA142487",
-			"receivedDate": "2016-08-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC143248",
-			"receivedDate": "2016-10-12",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA144275",
-			"receivedDate": "2017-01-06",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM144523",
-			"receivedDate": "2017-01-24",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA141343",
-			"receivedDate": "2016-05-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM142364",
-			"receivedDate": "2016-08-03",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM142938",
-			"receivedDate": "2016-09-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC141967",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA141215",
-			"receivedDate": "2016-05-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM142715",
-			"receivedDate": "2016-08-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA140805",
-			"receivedDate": "2016-04-06",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Licence to disturb European Protected Species"
 		},
 		{
 			"code": "CLC141450",
@@ -776,64 +1250,52 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC144525",
-			"receivedDate": "2017-01-24",
+			"code": "CLC141646",
+			"receivedDate": "2016-06-06",
 			"response": "No comment",
 			"type": "Other"
 		},
 		{
-			"code": "CPA143658",
-			"receivedDate": "2016-11-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM142009",
-			"receivedDate": "2016-07-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM143111",
-			"receivedDate": "2016-09-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM143890",
-			"receivedDate": "2016-12-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC143327",
-			"receivedDate": "2016-10-18",
+			"code": "CLC141855",
+			"receivedDate": "2016-06-24",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC142405",
-			"receivedDate": "2016-08-05",
+			"code": "CLC141954",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC142413",
-			"receivedDate": "2016-08-05",
+			"code": "CLC141962",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CEA144344",
-			"receivedDate": "2017-01-16",
+			"code": "CLC141967",
+			"receivedDate": "2016-06-30",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC142088",
 			"receivedDate": "2016-07-12",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC142102",
+			"receivedDate": "2016-07-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC142164",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
 			"code": "CLC142260",
@@ -854,22 +1316,46 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM142983",
-			"receivedDate": "2016-09-21",
+			"code": "CLC142405",
+			"receivedDate": "2016-08-05",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
-			"code": "CDM141044",
-			"receivedDate": "2016-04-21",
+			"code": "CLC142412",
+			"receivedDate": "2016-08-05",
 			"response": "Advice only",
-			"type": "Other Infrastructure"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM143800",
-			"receivedDate": "2016-11-23",
+			"code": "CLC142413",
+			"receivedDate": "2016-08-05",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "Other"
+		},
+		{
+			"code": "CLC142427",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC142444",
+			"receivedDate": "2016-08-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC142529",
+			"receivedDate": "2016-08-15",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC142600",
+			"receivedDate": "2016-08-18",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC142920",
@@ -878,104 +1364,20 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC141855",
-			"receivedDate": "2016-06-24",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC141954",
-			"receivedDate": "2016-06-30",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA140663",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CLC143093",
 			"receivedDate": "2016-09-28",
 			"response": "Advice only",
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CDM143123",
-			"receivedDate": "2016-10-03",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM141028",
-			"receivedDate": "2016-04-25",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CPP140850",
-			"receivedDate": "2016-04-11",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CLC144284",
-			"receivedDate": "2017-01-11",
-			"response": "Insufficient information",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC140550",
-			"receivedDate": "2016-03-17",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC142164",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC144400",
-			"receivedDate": "2017-01-18",
+			"code": "CLC143248",
+			"receivedDate": "2016-10-12",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM144108",
-			"receivedDate": "2016-12-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM144345",
-			"receivedDate": "2017-01-16",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CDM144387",
-			"receivedDate": "2017-01-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM144167",
-			"receivedDate": "2016-12-20",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CLC141646",
-			"receivedDate": "2016-06-06",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CLC142427",
-			"receivedDate": "2016-08-08",
+			"code": "CLC143327",
+			"receivedDate": "2016-10-18",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
@@ -986,28 +1388,394 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM155997",
-			"receivedDate": "2019-06-26",
+			"code": "CLC143789",
+			"receivedDate": "2016-11-22",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
 		},
 		{
-			"code": "CDM156343",
-			"receivedDate": "2019-07-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM156344",
-			"receivedDate": "2019-07-25",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC156427",
-			"receivedDate": "2019-08-05",
+			"code": "CLC144225",
+			"receivedDate": "2016-12-22",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC144284",
+			"receivedDate": "2017-01-11",
+			"response": "Insufficient information",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC144296",
+			"receivedDate": "2017-01-12",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC144400",
+			"receivedDate": "2017-01-18",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC144525",
+			"receivedDate": "2017-01-24",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144537",
+			"receivedDate": "2017-01-25",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144637",
+			"receivedDate": "2017-02-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC144670",
+			"receivedDate": "2017-02-07",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC144692",
+			"receivedDate": "2017-02-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144963",
+			"receivedDate": "2017-03-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145119",
+			"receivedDate": "2017-03-10",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC145267",
+			"receivedDate": "2017-03-22",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145406",
+			"receivedDate": "2017-04-05",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145432",
+			"receivedDate": "2017-04-07",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145447",
+			"receivedDate": "2017-04-07",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC145603",
+			"receivedDate": "2017-04-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145642",
+			"receivedDate": "2017-04-26",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145686",
+			"receivedDate": "2017-04-28",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC145695",
+			"receivedDate": "2017-05-01",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC146013",
+			"receivedDate": "2017-05-30",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC146169",
+			"receivedDate": "2017-05-31",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146170",
+			"receivedDate": "2017-05-31",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146233",
+			"receivedDate": "2017-06-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146289",
+			"receivedDate": "2017-06-14",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC146345",
+			"receivedDate": "2017-06-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC146388",
+			"receivedDate": "2017-06-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC146396",
+			"receivedDate": "2017-06-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC146570",
+			"receivedDate": "2017-07-03",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC146652",
+			"receivedDate": "2017-07-07",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC146703",
+			"receivedDate": "2017-07-12",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC146825",
+			"receivedDate": "2017-07-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC146827",
+			"receivedDate": "2017-07-19",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC146910",
+			"receivedDate": "2017-07-25",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC147093",
+			"receivedDate": "2017-08-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147123",
+			"receivedDate": "2017-08-14",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC147131",
+			"receivedDate": "2017-08-15",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC147209",
+			"receivedDate": "2017-08-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147221",
+			"receivedDate": "2017-08-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147258",
+			"receivedDate": "2017-08-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147310",
+			"receivedDate": "2017-08-29",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC147379",
+			"receivedDate": "2017-09-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC147564",
+			"receivedDate": "2017-08-31",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC147648",
+			"receivedDate": "2017-09-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148000",
+			"receivedDate": "2017-10-23",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148013",
+			"receivedDate": "2017-10-23",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148118",
+			"receivedDate": "2017-10-31",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148294",
+			"receivedDate": "2017-11-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148460",
+			"receivedDate": "2017-11-27",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148464",
+			"receivedDate": "2017-11-28",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148558",
+			"receivedDate": "2017-12-07",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148577",
+			"receivedDate": "2017-12-08",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148583",
+			"receivedDate": "2017-12-08",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148600",
+			"receivedDate": "2017-12-11",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148627",
+			"receivedDate": "2017-12-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC148630",
+			"receivedDate": "2017-12-04",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148695",
+			"receivedDate": "2017-08-22",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC148744",
+			"receivedDate": "2017-12-20",
+			"response": "Advice only",
+			"type": "\"Navigation only\" related licence"
+		},
+		{
+			"code": "CLC149139",
+			"receivedDate": "2018-01-26",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149247",
+			"receivedDate": "2018-02-02",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149251",
+			"receivedDate": "2018-02-02",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC149344",
+			"receivedDate": "2018-02-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149511",
+			"receivedDate": "2018-02-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149525",
+			"receivedDate": "2018-02-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC149527",
+			"receivedDate": "2018-02-21",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC149568",
@@ -1016,45 +1784,93 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM149571",
-			"receivedDate": "2018-02-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM149572",
-			"receivedDate": "2018-02-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153941",
-			"receivedDate": "2019-01-21",
+			"code": "CLC149623",
+			"receivedDate": "2018-03-02",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA153805",
-			"receivedDate": "2019-01-07",
+			"code": "CLC149716",
+			"receivedDate": "2018-03-09",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149826",
+			"receivedDate": "2018-03-19",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149866",
+			"receivedDate": "2018-03-15",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC149882",
+			"receivedDate": "2018-03-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC149943",
+			"receivedDate": "2018-03-26",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC149959",
+			"receivedDate": "2018-03-23",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC150016",
+			"receivedDate": "2018-03-29",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC150304",
+			"receivedDate": "2018-04-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC150523",
+			"receivedDate": "2018-05-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC150604",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC150732",
+			"receivedDate": "2018-05-24",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC150884",
+			"receivedDate": "2018-05-28",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC151060",
+			"receivedDate": "2018-06-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC151712",
 			"receivedDate": "2018-07-30",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA149796",
-			"receivedDate": "2018-03-27",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC157406",
-			"receivedDate": "2019-11-12",
-			"response": "No comment",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
@@ -1064,8 +1880,284 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC149959",
-			"receivedDate": "2018-03-23",
+			"code": "CLC151878",
+			"receivedDate": "2018-08-10",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152171",
+			"receivedDate": "2018-09-03",
+			"response": "Conditioned objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC152293",
+			"receivedDate": "2018-09-07",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152457",
+			"receivedDate": "2018-09-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152463",
+			"receivedDate": "2018-09-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152511",
+			"receivedDate": "2018-09-24",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152549",
+			"receivedDate": "2018-09-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC152637",
+			"receivedDate": "2018-10-04",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152790",
+			"receivedDate": "2018-10-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC153016",
+			"receivedDate": "2018-11-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153262",
+			"receivedDate": "2018-11-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC153539",
+			"receivedDate": "2018-12-10",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153612",
+			"receivedDate": "2018-12-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153680",
+			"receivedDate": "2018-12-19",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153711",
+			"receivedDate": "2018-12-21",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153719",
+			"receivedDate": "2018-12-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153941",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153980",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC154292",
+			"receivedDate": "2019-02-12",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154381",
+			"receivedDate": "2019-02-19",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154383",
+			"receivedDate": "2019-02-19",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154567",
+			"receivedDate": "2019-03-01",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC154710",
+			"receivedDate": "2019-03-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154711",
+			"receivedDate": "2019-03-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154860",
+			"receivedDate": "2019-03-22",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154878",
+			"receivedDate": "2019-03-22",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC154945",
+			"receivedDate": "2019-03-29",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC155045",
+			"receivedDate": "2019-04-08",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC155279",
+			"receivedDate": "2019-04-25",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC155328",
+			"receivedDate": "2019-05-02",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC155436",
+			"receivedDate": "2019-05-13",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC155559",
+			"receivedDate": "2019-05-21",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC155590",
+			"receivedDate": "2019-05-24",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC155698",
+			"receivedDate": "2019-06-04",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC155700",
+			"receivedDate": "2019-05-30",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "CLC155826",
+			"receivedDate": "2019-06-09",
+			"response": "Advice only",
+			"type": "Marine Post Consent Activity"
+		},
+		{
+			"code": "CLC155929",
+			"receivedDate": "2019-06-20",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC156126",
+			"receivedDate": "2019-07-04",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC156147",
+			"receivedDate": "2019-07-05",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC156232",
+			"receivedDate": "2019-07-10",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC156427",
+			"receivedDate": "2019-08-05",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC156557",
+			"receivedDate": "2019-08-15",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC156671",
+			"receivedDate": "2019-08-15",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC156840",
+			"receivedDate": "2019-09-12",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC156887",
+			"receivedDate": "2019-09-16",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC156904",
+			"receivedDate": "2019-09-20",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC157360",
+			"receivedDate": "2019-11-08",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
@@ -1088,124 +2180,16 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CEA149976",
-			"receivedDate": "2018-03-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC150016",
-			"receivedDate": "2018-03-29",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPP150039",
-			"receivedDate": "2018-04-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC154710",
-			"receivedDate": "2019-03-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC154711",
-			"receivedDate": "2019-03-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM157074",
-			"receivedDate": "2019-10-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153612",
-			"receivedDate": "2018-12-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC151878",
-			"receivedDate": "2018-08-10",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM152069",
-			"receivedDate": "2018-08-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM149709",
-			"receivedDate": "2018-03-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC154860",
-			"receivedDate": "2019-03-22",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC155328",
-			"receivedDate": "2019-05-02",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA157770",
-			"receivedDate": "2019-12-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM154288",
-			"receivedDate": "2019-02-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA152118",
-			"receivedDate": "2018-08-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC150604",
-			"receivedDate": "2018-05-15",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CEA150618",
-			"receivedDate": "2018-03-30",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA151488",
-			"receivedDate": "2018-07-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC149826",
-			"receivedDate": "2018-03-19",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
 			"code": "CLC157399",
 			"receivedDate": "2019-11-12",
 			"response": "Advice only",
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC157406",
+			"receivedDate": "2019-11-12",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC157515",
@@ -1214,166 +2198,10 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC155045",
-			"receivedDate": "2019-04-08",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA152076",
-			"receivedDate": "2018-08-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA150619",
-			"receivedDate": "2018-03-30",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA155055",
-			"receivedDate": "2019-04-09",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC156126",
-			"receivedDate": "2019-07-04",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC156147",
-			"receivedDate": "2019-07-05",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM157310",
-			"receivedDate": "2019-11-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM154329",
-			"receivedDate": "2019-02-14",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC149344",
-			"receivedDate": "2018-02-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM149376",
-			"receivedDate": "2018-02-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC150208",
-			"receivedDate": "2018-04-12",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA151553",
-			"receivedDate": "2018-07-17",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA149878",
-			"receivedDate": "2018-03-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC149882",
-			"receivedDate": "2018-03-21",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC156232",
-			"receivedDate": "2019-07-10",
+			"code": "CLC157620",
+			"receivedDate": "2019-12-03",
 			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM156551",
-			"receivedDate": "2019-08-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC156557",
-			"receivedDate": "2019-08-15",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC152637",
-			"receivedDate": "2018-10-04",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC152790",
-			"receivedDate": "2018-10-15",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA155574",
-			"receivedDate": "2019-05-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC150884",
-			"receivedDate": "2018-05-28",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPP152709",
-			"receivedDate": "2018-10-09",
-			"response": "Advice only",
-			"type": "Oil spill contingency plan"
-		},
-		{
-			"code": "CLC149139",
-			"receivedDate": "2018-01-26",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM149141",
-			"receivedDate": "2018-01-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA149218",
-			"receivedDate": "2018-02-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA150214",
-			"receivedDate": "2018-04-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM149971",
-			"receivedDate": "2018-03-28",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Marine Post Consent Activity"
 		},
 		{
 			"code": "CLC157782",
@@ -1382,142 +2210,592 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
-			"code": "GEN151924",
-			"receivedDate": "2018-08-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM157858",
-			"receivedDate": "2020-01-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC155826",
-			"receivedDate": "2019-06-09",
-			"response": "Advice only",
-			"type": "Marine Post Consent Activity"
-		},
-		{
-			"code": "CLC150523",
-			"receivedDate": "2018-05-09",
+			"code": "CLC157921",
+			"receivedDate": "2020-01-13",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CGS150526",
-			"receivedDate": "2018-05-09",
+			"code": "CLC158268",
+			"receivedDate": "2020-02-06",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM149374",
-			"receivedDate": "2018-02-13",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "CLC158643",
+			"receivedDate": "2020-03-09",
+			"response": "No comment",
+			"type": "\"Navigation only\" related licence"
 		},
 		{
-			"code": "GEN149363",
-			"receivedDate": "2018-02-12",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC155590",
-			"receivedDate": "2019-05-24",
+			"code": "CLC158652",
+			"receivedDate": "2020-03-09",
 			"response": "Advice only",
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
-			"code": "CLC153711",
-			"receivedDate": "2018-12-21",
-			"response": "No objection",
+			"code": "CLC158751",
+			"receivedDate": "2020-03-20",
+			"response": "No comment",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC156671",
-			"receivedDate": "2019-08-15",
+			"code": "CLC158762",
+			"receivedDate": "2020-03-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC158866",
+			"receivedDate": "2020-04-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC158974",
+			"receivedDate": "2020-04-14",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC158980",
+			"receivedDate": "2020-04-15",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC159097",
+			"receivedDate": "2020-04-29",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC159325",
+			"receivedDate": "2020-05-25",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC159326",
+			"receivedDate": "2020-05-25",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC159330",
+			"receivedDate": "2020-05-25",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC159408",
+			"receivedDate": "2020-06-02",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC159438",
+			"receivedDate": "2020-06-04",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC159461",
+			"receivedDate": "2020-06-08",
 			"response": "No comment",
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CLC151060",
-			"receivedDate": "2018-06-13",
+			"code": "CLC159466",
+			"receivedDate": "2020-06-08",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC150304",
-			"receivedDate": "2018-04-20",
+			"code": "CLC159574",
+			"receivedDate": "2020-06-17",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC159643",
+			"receivedDate": "2020-06-23",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC157360",
-			"receivedDate": "2019-11-08",
+			"code": "CLC159644",
+			"receivedDate": "2020-06-23",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC153680",
-			"receivedDate": "2018-12-19",
+			"code": "CLC159760",
+			"receivedDate": "2020-07-03",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM156215",
-			"receivedDate": "2019-07-15",
+			"code": "CLC159831",
+			"receivedDate": "2020-07-09",
 			"response": "Advice only",
-			"type": "Other Infrastructure"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM149875",
-			"receivedDate": "2018-03-21",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "CLC160012",
+			"receivedDate": "2020-07-29",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA152246",
-			"receivedDate": "2018-09-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CLC160361",
+			"receivedDate": "2020-09-01",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC153262",
-			"receivedDate": "2018-11-20",
+			"code": "CLC160443",
+			"receivedDate": "2020-09-08",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC160612",
+			"receivedDate": "2020-09-24",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CLC149511",
-			"receivedDate": "2018-02-21",
+			"code": "CLC160614",
+			"receivedDate": "2020-09-24",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC160629",
+			"receivedDate": "2020-09-25",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC160751",
+			"receivedDate": "2020-10-05",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA149517",
-			"receivedDate": "2018-02-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CLC161465",
+			"receivedDate": "2020-12-10",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
-			"code": "CLC149525",
-			"receivedDate": "2018-02-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC149527",
-			"receivedDate": "2018-02-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC149623",
-			"receivedDate": "2018-03-02",
+			"code": "CLC161498",
+			"receivedDate": "2020-12-14",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC161513",
+			"receivedDate": "2020-12-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC161538",
+			"receivedDate": "2020-12-17",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC161638",
+			"receivedDate": "2021-01-06",
+			"response": "No objection",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC161750",
+			"receivedDate": "2020-11-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162391",
+			"receivedDate": "2021-03-11",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162607",
+			"receivedDate": "2021-03-30",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162619",
+			"receivedDate": "2021-03-31",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC162670",
+			"receivedDate": "2021-04-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162707",
+			"receivedDate": "2021-04-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162918",
+			"receivedDate": "2021-04-29",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC163004",
+			"receivedDate": "2021-05-05",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC163015",
+			"receivedDate": "2021-05-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC163019",
+			"receivedDate": "2021-05-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC163427",
+			"receivedDate": "2021-06-14",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC163557",
+			"receivedDate": "2021-06-23",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC164054",
+			"receivedDate": "2021-08-09",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC164063",
+			"receivedDate": "2021-08-10",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC164066",
+			"receivedDate": "2021-08-10",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC164397",
+			"receivedDate": "2021-09-08",
+			"response": "No objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC164756",
+			"receivedDate": "2021-10-14",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC164876",
+			"receivedDate": "2021-10-27",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165273",
+			"receivedDate": "2021-11-30",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165375",
+			"receivedDate": "2021-12-09",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165376",
+			"receivedDate": "2021-12-09",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165410",
+			"receivedDate": "2021-12-07",
+			"response": "Advice only",
+			"type": "Installation of marine renewable energy devices"
+		},
+		{
+			"code": "CLC165452",
+			"receivedDate": "2021-12-16",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC165690",
+			"receivedDate": "2022-01-14",
+			"response": "Advice only",
+			"type": "Marine Post Consent Activity"
+		},
+		{
+			"code": "CLC165699",
+			"receivedDate": "2022-01-20",
+			"response": "No objection",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC165747",
+			"receivedDate": "2022-01-25",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165794",
+			"receivedDate": "2022-01-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165868",
+			"receivedDate": "2022-02-02",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166003",
+			"receivedDate": "2022-02-14",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC166077",
+			"receivedDate": "2022-02-18",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC166098",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC166100",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC166101",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC166105",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC166328",
+			"receivedDate": "2022-03-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC166352",
+			"receivedDate": "2022-03-15",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166410",
+			"receivedDate": "2022-03-23",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC166568",
+			"receivedDate": "2022-04-04",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC166594",
+			"receivedDate": "2022-04-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166595",
+			"receivedDate": "2022-04-06",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166631",
+			"receivedDate": "2022-04-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC166834",
+			"receivedDate": "2022-05-02",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166858",
+			"receivedDate": "2022-05-03",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166860",
+			"receivedDate": "2022-05-03",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167086",
+			"receivedDate": "2022-05-20",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC167583",
+			"receivedDate": "2022-07-05",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167687",
+			"receivedDate": "2022-07-13",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC167871",
+			"receivedDate": "2022-07-14",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC167895",
+			"receivedDate": "2022-08-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167897",
+			"receivedDate": "2022-08-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167898",
+			"receivedDate": "2022-08-01",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC168056",
+			"receivedDate": "2022-08-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC168144",
+			"receivedDate": "2022-08-23",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC168153",
+			"receivedDate": "2022-08-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC168154",
+			"receivedDate": "2022-08-24",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC168192",
+			"receivedDate": "2022-08-25",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC168275",
+			"receivedDate": "2022-09-02",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC168810",
+			"receivedDate": "2022-10-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC168835",
+			"receivedDate": "2022-10-27",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC168941",
+			"receivedDate": "2022-11-08",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC169065",
+			"receivedDate": "2022-11-17",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC169570",
+			"receivedDate": "2023-01-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "COR148375",
+			"receivedDate": "2017-11-15",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR155565",
+			"receivedDate": "2019-05-22",
+			"response": "Unresolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "COR155800",
@@ -1526,136 +2804,100 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "CLC157921",
-			"receivedDate": "2020-01-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"code": "COR158941",
+			"receivedDate": "2020-04-09",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
-			"code": "CDM153666",
-			"receivedDate": "2018-12-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153719",
-			"receivedDate": "2018-12-21",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM153767",
-			"receivedDate": "2019-01-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC156904",
-			"receivedDate": "2019-09-20",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CDM152993",
-			"receivedDate": "2019-02-12",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA150367",
-			"receivedDate": "2018-04-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC155279",
-			"receivedDate": "2019-04-25",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CDM155280",
-			"receivedDate": "2019-04-26",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA155438",
-			"receivedDate": "2019-05-13",
+			"code": "CPA140663",
+			"receivedDate": "2016-03-08",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC157614",
-			"receivedDate": "2019-12-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC157620",
-			"receivedDate": "2019-12-03",
-			"response": "No comment",
-			"type": "Marine Post Consent Activity"
-		},
-		{
-			"code": "CGS146573",
-			"receivedDate": "2017-06-30",
+			"code": "CPA142402",
+			"receivedDate": "2016-08-08",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146827",
-			"receivedDate": "2017-07-19",
+			"code": "CPA142781",
+			"receivedDate": "2016-09-02",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146825",
-			"receivedDate": "2017-07-20",
+			"code": "CPA143658",
+			"receivedDate": "2016-11-18",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146289",
-			"receivedDate": "2017-06-14",
+			"code": "CPA144048",
+			"receivedDate": "2016-12-15",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC144963",
-			"receivedDate": "2017-03-01",
+			"code": "CPA144275",
+			"receivedDate": "2017-01-06",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA146950",
-			"receivedDate": "2017-07-26",
+			"code": "CPA144276",
+			"receivedDate": "2017-01-06",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM145658",
-			"receivedDate": "2017-04-27",
+			"code": "CPA144552",
+			"receivedDate": "2017-01-26",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA144846",
+			"receivedDate": "2017-02-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA144994",
+			"receivedDate": "2017-03-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA145214",
+			"receivedDate": "2017-03-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA145585",
+			"receivedDate": "2017-04-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA146322",
+			"receivedDate": "2017-06-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA146401",
+			"receivedDate": "2017-06-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA146903",
 			"receivedDate": "2017-07-25",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC146910",
-			"receivedDate": "2017-07-25",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC147221",
-			"receivedDate": "2017-08-23",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "CPA147222",
@@ -1694,32 +2936,26 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM146663",
-			"receivedDate": "2017-07-07",
+			"code": "CPA149037",
+			"receivedDate": "2018-01-19",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM148213",
-			"receivedDate": "2017-11-07",
+			"code": "CPA149040",
+			"receivedDate": "2018-01-09",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA145942",
-			"receivedDate": "2017-05-23",
+			"code": "CPA149065",
+			"receivedDate": "2018-01-22",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM147101",
-			"receivedDate": "2017-08-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA153083",
-			"receivedDate": "2018-11-06",
+			"code": "CPA149218",
+			"receivedDate": "2018-02-02",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -1730,172 +2966,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM148444",
-			"receivedDate": "2017-11-24",
+			"code": "CPA149517",
+			"receivedDate": "2018-02-21",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145447",
-			"receivedDate": "2017-04-07",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CDM148274",
-			"receivedDate": "2017-11-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS152954",
-			"receivedDate": "2018-10-26",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC153016",
-			"receivedDate": "2018-11-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM152343",
-			"receivedDate": "2018-09-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC147123",
-			"receivedDate": "2017-08-14",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA147092",
-			"receivedDate": "2017-08-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC147093",
-			"receivedDate": "2017-08-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA147635",
-			"receivedDate": "2017-09-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA147636",
-			"receivedDate": "2017-09-21",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA147871",
-			"receivedDate": "2017-10-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA147893",
-			"receivedDate": "2017-10-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA147894",
-			"receivedDate": "2017-10-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA151298",
-			"receivedDate": "2018-07-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC149866",
-			"receivedDate": "2018-03-15",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM152613",
-			"receivedDate": "2019-02-12",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA148350",
-			"receivedDate": "2017-11-03",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM148351",
-			"receivedDate": "2017-11-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM148352",
-			"receivedDate": "2017-11-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM148361",
-			"receivedDate": "2017-11-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148558",
-			"receivedDate": "2017-12-07",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC148600",
-			"receivedDate": "2017-12-11",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC145432",
-			"receivedDate": "2017-04-07",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM147927",
-			"receivedDate": "2017-10-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC147209",
-			"receivedDate": "2017-08-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC151582",
-			"receivedDate": "2018-07-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC152511",
-			"receivedDate": "2018-09-24",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA149607",
@@ -1910,818 +2984,164 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC148460",
-			"receivedDate": "2017-11-27",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC148464",
-			"receivedDate": "2017-11-28",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC145267",
-			"receivedDate": "2017-03-22",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM145975",
-			"receivedDate": "2017-05-24",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CEA147678",
-			"receivedDate": "2017-09-25",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM147907",
-			"receivedDate": "2017-10-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA145941",
-			"receivedDate": "2017-05-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA146004",
-			"receivedDate": "2017-05-29",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC148000",
-			"receivedDate": "2017-10-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC150732",
-			"receivedDate": "2018-05-24",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC152549",
-			"receivedDate": "2018-09-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA145939",
-			"receivedDate": "2017-05-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC148013",
-			"receivedDate": "2017-10-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM151650",
-			"receivedDate": "2018-07-25",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148695",
-			"receivedDate": "2017-08-22",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC147131",
-			"receivedDate": "2017-08-15",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM153509",
-			"receivedDate": "2018-12-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPA149609",
 			"receivedDate": "2018-02-26",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC149943",
-			"receivedDate": "2018-03-26",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM150087",
-			"receivedDate": "2018-04-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP152394",
-			"receivedDate": "2018-09-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC148577",
-			"receivedDate": "2017-12-08",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC148583",
-			"receivedDate": "2017-12-08",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA148743",
-			"receivedDate": "2017-12-20",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC148744",
-			"receivedDate": "2017-12-20",
-			"response": "Advice only",
-			"type": "\"Navigation only\" related licence"
-		},
-		{
-			"code": "CDM146382",
-			"receivedDate": "2017-06-20",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC146388",
-			"receivedDate": "2017-06-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC145406",
-			"receivedDate": "2017-04-05",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA146322",
-			"receivedDate": "2017-06-19",
+			"code": "CPA151553",
+			"receivedDate": "2018-07-17",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC153539",
-			"receivedDate": "2018-12-10",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM153564",
-			"receivedDate": "2018-12-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM153566",
-			"receivedDate": "2018-12-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM152417",
-			"receivedDate": "2018-09-18",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC152457",
-			"receivedDate": "2018-09-20",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC152463",
-			"receivedDate": "2018-09-21",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM149497",
-			"receivedDate": "2018-02-21",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC147258",
-			"receivedDate": "2017-08-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC146013",
-			"receivedDate": "2017-05-30",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC146345",
-			"receivedDate": "2017-06-20",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC152171",
-			"receivedDate": "2018-09-03",
-			"response": "Conditioned objection",
-			"type": "Other"
-		},
-		{
-			"code": "CLC152293",
-			"receivedDate": "2018-09-07",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC149247",
-			"receivedDate": "2018-02-02",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC149251",
-			"receivedDate": "2018-02-02",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC148627",
-			"receivedDate": "2017-12-12",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC148630",
-			"receivedDate": "2017-12-04",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA145214",
-			"receivedDate": "2017-03-13",
+			"code": "CPA152118",
+			"receivedDate": "2018-08-29",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146396",
-			"receivedDate": "2017-06-22",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CPA146401",
-			"receivedDate": "2017-06-23",
+			"code": "CPA152246",
+			"receivedDate": "2018-09-05",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA145940",
-			"receivedDate": "2017-05-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC146233",
-			"receivedDate": "2017-06-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC147310",
-			"receivedDate": "2017-08-29",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM147311",
-			"receivedDate": "2017-08-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145119",
-			"receivedDate": "2017-03-10",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CEA145625",
-			"receivedDate": "2017-04-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM148796",
-			"receivedDate": "2017-12-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM148799",
-			"receivedDate": "2017-12-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC147379",
-			"receivedDate": "2017-09-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA146074",
-			"receivedDate": "2017-06-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN146686",
-			"receivedDate": "2017-07-10",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC146703",
-			"receivedDate": "2017-07-12",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC145695",
-			"receivedDate": "2017-05-01",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM148787",
-			"receivedDate": "2017-12-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145642",
-			"receivedDate": "2017-04-26",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA145585",
-			"receivedDate": "2017-04-12",
+			"code": "CPA153083",
+			"receivedDate": "2018-11-06",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA146613",
-			"receivedDate": "2017-07-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA146615",
-			"receivedDate": "2017-07-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA145272",
-			"receivedDate": "2017-02-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA147390",
-			"receivedDate": "2017-09-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC145603",
-			"receivedDate": "2017-04-21",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "ALC147568",
-			"receivedDate": "2017-09-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA148839",
-			"receivedDate": "2017-12-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA148841",
-			"receivedDate": "2017-12-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC146652",
-			"receivedDate": "2017-07-07",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC145686",
-			"receivedDate": "2017-04-28",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA144994",
-			"receivedDate": "2017-03-03",
+			"code": "CPA153805",
+			"receivedDate": "2019-01-07",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146169",
-			"receivedDate": "2017-05-31",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC146170",
-			"receivedDate": "2017-05-31",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC148294",
-			"receivedDate": "2017-11-13",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "COR148375",
-			"receivedDate": "2017-11-15",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPA149037",
-			"receivedDate": "2018-01-19",
+			"code": "CPA155014",
+			"receivedDate": "2019-04-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA149040",
-			"receivedDate": "2018-01-09",
+			"code": "CPA155399",
+			"receivedDate": "2019-05-08",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC146570",
-			"receivedDate": "2017-07-03",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA145832",
-			"receivedDate": "2017-05-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM146216",
-			"receivedDate": "2017-06-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA144846",
-			"receivedDate": "2017-02-21",
+			"code": "CPA155438",
+			"receivedDate": "2019-05-13",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM147107",
-			"receivedDate": "2017-08-11",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148118",
-			"receivedDate": "2017-10-31",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA148149",
-			"receivedDate": "2017-11-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM145495",
-			"receivedDate": "2017-03-31",
-			"response": "Advice only",
-			"type": "Harbour Infrastructure"
-		},
-		{
-			"code": "CDM166713",
-			"receivedDate": "2022-04-20",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM168071",
-			"receivedDate": "2022-08-17",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CPP169519",
-			"receivedDate": "2023-01-10",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC168153",
-			"receivedDate": "2022-08-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC168154",
-			"receivedDate": "2022-08-24",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CEA169107",
-			"receivedDate": "2022-11-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA167853",
-			"receivedDate": "2022-07-28",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA168629",
-			"receivedDate": "2022-10-07",
+			"code": "CPA155711",
+			"receivedDate": "2019-06-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC168056",
-			"receivedDate": "2022-08-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA167475",
-			"receivedDate": "2022-06-27",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC168192",
-			"receivedDate": "2022-08-25",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM168324",
-			"receivedDate": "2022-09-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC167895",
-			"receivedDate": "2022-08-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC167897",
-			"receivedDate": "2022-08-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC167898",
-			"receivedDate": "2022-08-01",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC167086",
-			"receivedDate": "2022-05-20",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CDM168501",
-			"receivedDate": "2022-09-27",
-			"response": "No Comment",
-			"type": "Other Infrastructure"
-		},
-		{
-			"code": "CDM169404",
-			"receivedDate": "2022-12-16",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA168039",
-			"receivedDate": "2022-08-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM168088",
-			"receivedDate": "2022-08-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC168144",
-			"receivedDate": "2022-08-23",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC168810",
-			"receivedDate": "2022-10-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM167797",
-			"receivedDate": "2022-07-22",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM167803",
-			"receivedDate": "2022-07-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM167804",
-			"receivedDate": "2022-07-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM167806",
-			"receivedDate": "2022-07-22",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC168275",
-			"receivedDate": "2022-09-02",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC168835",
-			"receivedDate": "2022-10-27",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC168941",
-			"receivedDate": "2022-11-08",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CPA169429",
-			"receivedDate": "2022-12-20",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CLC166594",
-			"receivedDate": "2022-04-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC166595",
-			"receivedDate": "2022-04-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC167687",
-			"receivedDate": "2022-07-13",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CPA168981",
-			"receivedDate": "2022-11-08",
+			"code": "CPA157770",
+			"receivedDate": "2019-12-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC167871",
-			"receivedDate": "2022-07-14",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CEA169012",
-			"receivedDate": "2022-11-14",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC149716",
-			"receivedDate": "2018-03-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM169072",
-			"receivedDate": "2022-11-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM167506",
-			"receivedDate": "2022-06-29",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC169065",
-			"receivedDate": "2022-11-17",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC169570",
-			"receivedDate": "2023-01-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC167583",
-			"receivedDate": "2022-07-05",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM166673",
-			"receivedDate": "2022-04-14",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CPA165226",
-			"receivedDate": "2021-11-24",
+			"code": "CPA158406",
+			"receivedDate": "2020-02-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC166858",
-			"receivedDate": "2022-05-03",
+			"code": "CPA158820",
+			"receivedDate": "2020-03-25",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC166860",
-			"receivedDate": "2022-05-03",
+			"code": "CPA158893",
+			"receivedDate": "2020-03-27",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA159238",
+			"receivedDate": "2020-05-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA159572",
+			"receivedDate": "2020-06-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA159876",
+			"receivedDate": "2020-07-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA159905",
+			"receivedDate": "2020-07-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA160322",
+			"receivedDate": "2020-08-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA160984",
+			"receivedDate": "2020-10-27",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA161408",
+			"receivedDate": "2020-12-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162106",
+			"receivedDate": "2021-02-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162693",
+			"receivedDate": "2021-04-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164038",
+			"receivedDate": "2021-08-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164064",
+			"receivedDate": "2021-08-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA164270",
 			"receivedDate": "2021-08-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA165226",
+			"receivedDate": "2021-11-24",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -2732,220 +3152,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM164211",
-			"receivedDate": "2021-08-23",
-			"response": "Advice only",
-			"type": "Harbour Infrastructure"
-		},
-		{
-			"code": "CEA164217",
-			"receivedDate": "2021-08-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA164218",
-			"receivedDate": "2021-08-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM165859",
-			"receivedDate": "2022-02-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC165868",
-			"receivedDate": "2022-02-02",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPP165883",
-			"receivedDate": "2022-02-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC165690",
-			"receivedDate": "2022-01-14",
-			"response": "Advice only",
-			"type": "Marine Post Consent Activity"
-		},
-		{
-			"code": "CLC162707",
-			"receivedDate": "2021-04-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA166764",
-			"receivedDate": "2022-04-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA166765",
-			"receivedDate": "2022-04-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC166631",
-			"receivedDate": "2022-04-11",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC162918",
-			"receivedDate": "2021-04-29",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA158785",
-			"receivedDate": "2020-03-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC158751",
-			"receivedDate": "2020-03-20",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC158762",
-			"receivedDate": "2020-03-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA159876",
-			"receivedDate": "2020-07-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA163179",
-			"receivedDate": "2021-05-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA163091",
-			"receivedDate": "2021-05-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR158941",
-			"receivedDate": "2020-04-09",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPA159905",
-			"receivedDate": "2020-07-17",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC165699",
-			"receivedDate": "2022-01-20",
-			"response": "No objection",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC164397",
-			"receivedDate": "2021-09-08",
-			"response": "No objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA158820",
-			"receivedDate": "2020-03-25",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA158839",
-			"receivedDate": "2020-03-31",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM159093",
-			"receivedDate": "2020-04-28",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPA166174",
 			"receivedDate": "2022-02-25",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC163015",
-			"receivedDate": "2021-05-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC163019",
-			"receivedDate": "2021-05-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA160322",
-			"receivedDate": "2020-08-31",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC158974",
-			"receivedDate": "2020-04-14",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CEA162836",
-			"receivedDate": "2021-04-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM163637",
-			"receivedDate": "2021-07-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC160361",
-			"receivedDate": "2020-09-01",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPP159212",
-			"receivedDate": "2020-05-12",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CLC165747",
-			"receivedDate": "2022-01-25",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM166107",
-			"receivedDate": "2022-02-23",
-			"response": "Advice only",
-			"type": "Planning Application"
 		},
 		{
 			"code": "CPA166213",
@@ -2954,178 +3164,52 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN162554",
-			"receivedDate": "2021-03-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC165794",
-			"receivedDate": "2022-01-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC162670",
-			"receivedDate": "2021-04-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA162693",
-			"receivedDate": "2021-04-08",
+			"code": "CPA168629",
+			"receivedDate": "2022-10-07",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM162872",
-			"receivedDate": "2021-04-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA163676",
-			"receivedDate": "2021-07-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC165410",
-			"receivedDate": "2021-12-07",
-			"response": "Advice only",
-			"type": "Installation of marine renewable energy devices"
-		},
-		{
-			"code": "CLC166352",
-			"receivedDate": "2022-03-15",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC163004",
-			"receivedDate": "2021-05-05",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC166568",
-			"receivedDate": "2022-04-04",
-			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CLC159760",
-			"receivedDate": "2020-07-03",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC158268",
-			"receivedDate": "2020-02-06",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM159673",
-			"receivedDate": "2020-06-25",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC163427",
-			"receivedDate": "2021-06-14",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA164959",
-			"receivedDate": "2021-11-03",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM159685",
-			"receivedDate": "2020-06-16",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM158404",
-			"receivedDate": "2020-02-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA158406",
-			"receivedDate": "2020-02-03",
+			"code": "CPA168981",
+			"receivedDate": "2022-11-08",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC159831",
-			"receivedDate": "2020-07-09",
+			"code": "CPA169429",
+			"receivedDate": "2022-12-20",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CPA164038",
-			"receivedDate": "2021-08-06",
+			"code": "CPP140850",
+			"receivedDate": "2016-04-11",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "CLC164063",
-			"receivedDate": "2021-08-10",
+			"code": "CPP150039",
+			"receivedDate": "2018-04-03",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC164066",
-			"receivedDate": "2021-08-10",
+			"code": "CPP152394",
+			"receivedDate": "2018-09-14",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC164756",
-			"receivedDate": "2021-10-14",
+			"code": "CPP152709",
+			"receivedDate": "2018-10-09",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "Oil spill contingency plan"
 		},
 		{
-			"code": "CDM164759",
-			"receivedDate": "2021-10-14",
+			"code": "CPP154674",
+			"receivedDate": "2019-03-08",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC166328",
-			"receivedDate": "2022-03-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC158643",
-			"receivedDate": "2020-03-09",
-			"response": "No comment",
-			"type": "\"Navigation only\" related licence"
-		},
-		{
-			"code": "CLC159574",
-			"receivedDate": "2020-06-17",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC162607",
-			"receivedDate": "2021-03-30",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC165273",
-			"receivedDate": "2021-11-30",
-			"response": "Advice only",
-			"type": "Other"
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP158060",
@@ -3134,148 +3218,64 @@
 			"type": "Oil spill contingency plan"
 		},
 		{
-			"code": "CDM165402",
-			"receivedDate": "2021-12-14",
+			"code": "CPP159212",
+			"receivedDate": "2020-05-12",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Local Development Plan"
 		},
 		{
-			"code": "CDM163893",
-			"receivedDate": "2021-07-26",
+			"code": "CPP165883",
+			"receivedDate": "2022-02-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC166003",
-			"receivedDate": "2022-02-14",
+			"code": "CPP169519",
+			"receivedDate": "2023-01-10",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC158866",
-			"receivedDate": "2020-04-01",
+			"code": "GEN144493",
+			"receivedDate": "2017-01-20",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC159325",
-			"receivedDate": "2020-05-25",
+			"code": "GEN146686",
+			"receivedDate": "2017-07-10",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC159326",
-			"receivedDate": "2020-05-25",
+			"code": "GEN149363",
+			"receivedDate": "2018-02-12",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC165375",
-			"receivedDate": "2021-12-09",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC165376",
-			"receivedDate": "2021-12-09",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA165526",
-			"receivedDate": "2022-01-05",
+			"code": "GEN151924",
+			"receivedDate": "2018-08-15",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC166410",
-			"receivedDate": "2022-03-23",
-			"response": "No comment",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC166077",
-			"receivedDate": "2022-02-18",
+			"code": "GEN156474",
+			"receivedDate": "2019-08-08",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC166098",
-			"receivedDate": "2022-02-22",
+			"code": "GEN161975",
+			"receivedDate": "2021-01-15",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC166100",
-			"receivedDate": "2022-02-22",
+			"code": "GEN162554",
+			"receivedDate": "2021-03-25",
 			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC166101",
-			"receivedDate": "2022-02-22",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CLC164054",
-			"receivedDate": "2021-08-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM164192",
-			"receivedDate": "2021-08-19",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC164876",
-			"receivedDate": "2021-10-27",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA164064",
-			"receivedDate": "2021-08-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC166105",
-			"receivedDate": "2022-02-22",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC166834",
-			"receivedDate": "2022-05-02",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC162619",
-			"receivedDate": "2021-03-31",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA165439",
-			"receivedDate": "2021-12-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC165452",
-			"receivedDate": "2021-12-16",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC163557",
-			"receivedDate": "2021-06-23",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,10 +2,10 @@
 	"area": 28.87,
 	"casework": [
 		{
-			"code": "GEN160256",
-			"receivedDate": "2020-08-24",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC125013",
+			"receivedDate": "2013-07-04",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CGS143291",
@@ -14,28 +14,28 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "COR149910",
-			"receivedDate": "2018-03-21",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
 			"code": "COR127723",
 			"receivedDate": "2013-11-20",
 			"response": "Information only",
 			"type": "Complaints"
 		},
 		{
-			"code": "ALC125013",
-			"receivedDate": "2013-07-04",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "COR149910",
+			"receivedDate": "2018-03-21",
+			"response": "Resolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "COR158701",
 			"receivedDate": "2020-03-02",
 			"response": "Resolved",
 			"type": "Complaints"
+		},
+		{
+			"code": "GEN160256",
+			"receivedDate": "2020-08-24",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,6 +2,12 @@
 	"area": 4818.39,
 	"casework": [
 		{
+			"code": "19037",
+			"receivedDate": "2004-07-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "20593",
 			"receivedDate": "2004-09-22",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -12,12 +18,6 @@
 			"receivedDate": "2004-09-09",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Housing Developments"
-		},
-		{
-			"code": "19037",
-			"receivedDate": "2004-07-14",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
 		},
 		{
 			"code": "20927",
@@ -32,14 +32,14 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "53911",
-			"receivedDate": "2009-04-01",
+			"code": "53910",
+			"receivedDate": "2009-03-27",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "53910",
-			"receivedDate": "2009-03-27",
+			"code": "53911",
+			"receivedDate": "2009-04-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from a public body (s.13)"
 		},
@@ -48,90 +48,6 @@
 			"receivedDate": "2010-07-26",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "GEN117123",
-			"receivedDate": "2012-08-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC159335",
-			"receivedDate": "2020-05-26",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP112341",
-			"receivedDate": "2012-02-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM144695",
-			"receivedDate": "2017-02-09",
-			"response": "No Comment",
-			"type": "Other Infrastructure"
-		},
-		{
-			"code": "ALC141860",
-			"receivedDate": "2016-07-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA150693",
-			"receivedDate": "2018-05-21",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "ALC145473",
-			"receivedDate": "2017-04-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC127167",
-			"receivedDate": "2013-10-25",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC127135",
-			"receivedDate": "2013-10-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC126567",
-			"receivedDate": "2013-09-26",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN126742",
-			"receivedDate": "2013-09-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA129389",
-			"receivedDate": "2014-02-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS138714",
-			"receivedDate": "2015-10-15",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN113304",
-			"receivedDate": "2012-04-11",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "ALC119922",
@@ -146,10 +62,34 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "COR166223",
-			"receivedDate": "2022-02-23",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "ALC126567",
+			"receivedDate": "2013-09-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC127135",
+			"receivedDate": "2013-10-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC127167",
+			"receivedDate": "2013-10-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC141860",
+			"receivedDate": "2016-07-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC145473",
+			"receivedDate": "2017-04-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC169247",
@@ -158,10 +98,70 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM144695",
+			"receivedDate": "2017-02-09",
+			"response": "No Comment",
+			"type": "Other Infrastructure"
+		},
+		{
+			"code": "CEA129389",
+			"receivedDate": "2014-02-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS138714",
+			"receivedDate": "2015-10-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC159335",
+			"receivedDate": "2020-05-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC159767",
 			"receivedDate": "2020-07-03",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR166223",
+			"receivedDate": "2022-02-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA150693",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPP112341",
+			"receivedDate": "2012-02-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN113304",
+			"receivedDate": "2012-04-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN117123",
+			"receivedDate": "2012-08-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN126742",
+			"receivedDate": "2013-09-19",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

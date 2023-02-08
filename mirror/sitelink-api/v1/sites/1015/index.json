@@ -8,12 +8,6 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "13627",
-			"receivedDate": "2003-09-08",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
 			"code": "12584",
 			"receivedDate": "2003-07-14",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -24,6 +18,12 @@
 			"receivedDate": "2003-08-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "13627",
+			"receivedDate": "2003-09-08",
+			"response": "Information/Advice only",
+			"type": "Site Search"
 		},
 		{
 			"code": "14693",
@@ -38,24 +38,6 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "28415",
-			"receivedDate": "2005-10-06",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "28348",
-			"receivedDate": "2005-10-10",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "26120",
-			"receivedDate": "2005-06-27",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "25066",
 			"receivedDate": "2005-05-05",
 			"response": "Information/Advice only",
@@ -66,6 +48,24 @@
 			"receivedDate": "2005-05-20",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "26120",
+			"receivedDate": "2005-06-27",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "28348",
+			"receivedDate": "2005-10-10",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "28415",
+			"receivedDate": "2005-10-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "30682",
@@ -110,36 +110,6 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "CLC114418",
-			"receivedDate": "2012-05-28",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA146322",
-			"receivedDate": "2017-06-19",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC147310",
-			"receivedDate": "2017-08-29",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "GEN146369",
-			"receivedDate": "2017-06-21",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "CPP132922",
-			"receivedDate": "2014-09-01",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC122857",
 			"receivedDate": "2013-04-24",
 			"response": "SSSI Consent Given",
@@ -152,16 +122,46 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "GEN166295",
-			"receivedDate": "2022-03-07",
+			"code": "CLC114418",
+			"receivedDate": "2012-05-28",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147310",
+			"receivedDate": "2017-08-29",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC164886",
 			"receivedDate": "2021-10-27",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA146322",
+			"receivedDate": "2017-06-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP132922",
+			"receivedDate": "2014-09-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN146369",
+			"receivedDate": "2017-06-21",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "GEN166295",
+			"receivedDate": "2022-03-07",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

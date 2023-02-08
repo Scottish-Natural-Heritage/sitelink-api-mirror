@@ -2,52 +2,10 @@
 	"area": 2284.47,
 	"casework": [
 		{
-			"code": "CDM162133",
-			"receivedDate": "2021-02-17",
+			"code": "CDM153566",
+			"receivedDate": "2018-12-10",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN156474",
-			"receivedDate": "2019-08-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM161613",
-			"receivedDate": "2021-01-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC160612",
-			"receivedDate": "2020-09-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA161792",
-			"receivedDate": "2021-01-19",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC159439",
-			"receivedDate": "2020-06-04",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA154761",
-			"receivedDate": "2019-03-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA157238",
-			"receivedDate": "2019-10-25",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CDM157077",
@@ -56,10 +14,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP152709",
-			"receivedDate": "2018-10-09",
+			"code": "CDM161613",
+			"receivedDate": "2021-01-05",
 			"response": "Advice only",
-			"type": "Oil spill contingency plan"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162133",
+			"receivedDate": "2021-02-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165653",
+			"receivedDate": "2022-01-17",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA152876",
@@ -68,10 +38,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA152246",
-			"receivedDate": "2018-09-05",
+			"code": "CEA158839",
+			"receivedDate": "2020-03-31",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "EIA"
 		},
 		{
 			"code": "CLC153262",
@@ -86,40 +56,22 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CPA151294",
-			"receivedDate": "2018-07-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM153566",
-			"receivedDate": "2018-12-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA163153",
-			"receivedDate": "2021-05-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC165868",
-			"receivedDate": "2022-02-02",
+			"code": "CLC159439",
+			"receivedDate": "2020-06-04",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CDM165653",
-			"receivedDate": "2022-01-17",
+			"code": "CLC159795",
+			"receivedDate": "2020-07-06",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CEA158839",
-			"receivedDate": "2020-03-31",
+			"code": "CLC160612",
+			"receivedDate": "2020-09-24",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Other"
 		},
 		{
 			"code": "CLC162805",
@@ -134,8 +86,8 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
-			"code": "CLC159795",
-			"receivedDate": "2020-07-06",
+			"code": "CLC165868",
+			"receivedDate": "2022-02-02",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
@@ -144,6 +96,54 @@
 			"receivedDate": "2022-02-22",
 			"response": "Advice only",
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA151294",
+			"receivedDate": "2018-07-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA152246",
+			"receivedDate": "2018-09-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA154761",
+			"receivedDate": "2019-03-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157238",
+			"receivedDate": "2019-10-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA161792",
+			"receivedDate": "2021-01-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA163153",
+			"receivedDate": "2021-05-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP152709",
+			"receivedDate": "2018-10-09",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "GEN156474",
+			"receivedDate": "2019-08-08",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

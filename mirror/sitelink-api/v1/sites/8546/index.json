@@ -2,18 +2,6 @@
 	"area": 4182.75,
 	"casework": [
 		{
-			"code": "6182",
-			"receivedDate": "2001-08-30",
-			"response": "Information/Advice only",
-			"type": "Road: Non Trunk Consultation"
-		},
-		{
-			"code": "5944",
-			"receivedDate": "2002-04-30",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Planning Related Casework"
-		},
-		{
 			"code": "24931",
 			"receivedDate": "2005-02-18",
 			"response": "Information/Advice only",
@@ -32,10 +20,22 @@
 			"type": "Microrenewables"
 		},
 		{
+			"code": "5944",
+			"receivedDate": "2002-04-30",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Planning Related Casework"
+		},
+		{
 			"code": "60264",
 			"receivedDate": "2010-03-08",
 			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
 			"type": "Onshore Wind"
+		},
+		{
+			"code": "6182",
+			"receivedDate": "2001-08-30",
+			"response": "Information/Advice only",
+			"type": "Road: Non Trunk Consultation"
 		},
 		{
 			"code": "62552",
@@ -50,26 +50,38 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "CPA142199",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN153937",
-			"receivedDate": "2019-01-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM143218",
-			"receivedDate": "2016-10-06",
+			"code": "CDM128146",
+			"receivedDate": "2013-12-13",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM142428",
-			"receivedDate": "2016-08-08",
+			"code": "CDM128368",
+			"receivedDate": "2014-01-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128370",
+			"receivedDate": "2014-01-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128770",
+			"receivedDate": "2014-01-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129224",
+			"receivedDate": "2014-02-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129317",
+			"receivedDate": "2014-02-20",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -80,10 +92,28 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CDM142428",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM143218",
+			"receivedDate": "2016-10-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM145092",
 			"receivedDate": "2017-02-16",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA128149",
+			"receivedDate": "2013-12-13",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA128411",
@@ -92,28 +122,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM128370",
-			"receivedDate": "2014-01-06",
+			"code": "CEA128577",
+			"receivedDate": "2014-01-16",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC131298",
-			"receivedDate": "2014-06-02",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM128770",
-			"receivedDate": "2014-01-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM128146",
-			"receivedDate": "2013-12-13",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
 			"code": "CEA128798",
@@ -128,10 +140,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM129224",
-			"receivedDate": "2014-02-14",
+			"code": "CLC131298",
+			"receivedDate": "2014-06-02",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
+		},
+		{
+			"code": "CPA125055",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA135939",
@@ -140,34 +158,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA128577",
-			"receivedDate": "2014-01-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA128149",
-			"receivedDate": "2013-12-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM128368",
-			"receivedDate": "2014-01-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM129317",
-			"receivedDate": "2014-02-20",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA125055",
-			"receivedDate": "2013-07-23",
+			"code": "CPA142199",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN153937",
+			"receivedDate": "2019-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

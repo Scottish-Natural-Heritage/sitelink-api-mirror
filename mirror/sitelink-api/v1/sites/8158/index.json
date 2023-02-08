@@ -2,16 +2,16 @@
 	"area": 586.85,
 	"casework": [
 		{
-			"code": "12073",
-			"receivedDate": "2003-06-30",
-			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
-			"type": "Telecommunications"
-		},
-		{
 			"code": "11407",
 			"receivedDate": "2003-05-21",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "12073",
+			"receivedDate": "2003-06-30",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Telecommunications"
 		},
 		{
 			"code": "13492",
@@ -44,12 +44,6 @@
 			"type": "Other Forestry Plans, Strategies & Schemes"
 		},
 		{
-			"code": "42595",
-			"receivedDate": "2007-07-11",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "39425",
 			"receivedDate": "2007-03-02",
 			"response": "NCA - Issued application for consent form",
@@ -62,6 +56,18 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "42595",
+			"receivedDate": "2007-07-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "44974",
+			"receivedDate": "2007-10-18",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
 			"code": "46741",
 			"receivedDate": "2007-11-05",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -70,12 +76,6 @@
 		{
 			"code": "46743",
 			"receivedDate": "2007-12-06",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "44974",
-			"receivedDate": "2007-10-18",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Consultation from a public body (s.12)"
 		},
@@ -98,22 +98,16 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "55743",
-			"receivedDate": "2009-03-17",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "55826",
-			"receivedDate": "2008-07-31",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "55738",
 			"receivedDate": "2009-05-08",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
+		},
+		{
+			"code": "55743",
+			"receivedDate": "2009-03-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
 			"code": "55775",
@@ -134,10 +128,16 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "64966",
-			"receivedDate": "2010-08-13",
+			"code": "55826",
+			"receivedDate": "2008-07-31",
 			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "60915",
+			"receivedDate": "2010-02-11",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
 		},
 		{
 			"code": "62191",
@@ -158,46 +158,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "60915",
-			"receivedDate": "2010-02-11",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "CLC140424",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC138870",
-			"receivedDate": "2015-10-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC162202",
-			"receivedDate": "2021-02-24",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP162203",
-			"receivedDate": "2021-02-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC154972",
-			"receivedDate": "2019-04-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC159021",
-			"receivedDate": "2020-04-21",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "64966",
+			"receivedDate": "2010-08-13",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "ALC110866",
@@ -206,16 +170,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP141010",
-			"receivedDate": "2016-04-20",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC127856",
+			"receivedDate": "2013-11-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP142075",
-			"receivedDate": "2016-06-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC134489",
+			"receivedDate": "2014-11-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC144641",
@@ -224,98 +188,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC155586",
-			"receivedDate": "2019-05-22",
+			"code": "ALC145284",
+			"receivedDate": "2017-03-17",
 			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC154448",
-			"receivedDate": "2019-02-25",
-			"response": "No comment",
-			"type": "Other"
-		},
-		{
-			"code": "CDM141857",
-			"receivedDate": "2016-06-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC138228",
-			"receivedDate": "2015-08-28",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC142763",
-			"receivedDate": "2016-08-22",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC143667",
-			"receivedDate": "2016-10-31",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA141691",
-			"receivedDate": "2016-06-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC138822",
-			"receivedDate": "2015-10-26",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC156657",
-			"receivedDate": "2019-08-12",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC156693",
-			"receivedDate": "2019-09-02",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC149624",
-			"receivedDate": "2018-03-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC147230",
-			"receivedDate": "2017-08-17",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC153344",
-			"receivedDate": "2018-11-26",
-			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC145327",
 			"receivedDate": "2017-03-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC145296",
-			"receivedDate": "2017-03-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC145284",
-			"receivedDate": "2017-03-17",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -326,70 +206,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP149044",
-			"receivedDate": "2018-01-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC132181",
-			"receivedDate": "2014-07-17",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP128686",
-			"receivedDate": "2014-01-21",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC127882",
-			"receivedDate": "2013-11-28",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM125422",
-			"receivedDate": "2013-08-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA124941",
-			"receivedDate": "2013-07-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC129460",
-			"receivedDate": "2014-02-26",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC135638",
-			"receivedDate": "2015-03-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC134489",
-			"receivedDate": "2014-11-21",
+			"code": "ALC149624",
+			"receivedDate": "2018-03-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC127856",
-			"receivedDate": "2013-11-27",
+			"code": "ALC153344",
+			"receivedDate": "2018-11-26",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC154972",
+			"receivedDate": "2019-04-02",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA125241",
-			"receivedDate": "2013-07-29",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC155586",
+			"receivedDate": "2019-05-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156657",
+			"receivedDate": "2019-08-12",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC158615",
+			"receivedDate": "2020-03-06",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC162589",
@@ -398,10 +248,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM169404",
-			"receivedDate": "2022-12-16",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "ALC164936",
+			"receivedDate": "2021-10-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166886",
+			"receivedDate": "2022-05-05",
+			"response": "Licence Granted",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC168995",
@@ -416,14 +272,128 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC166886",
-			"receivedDate": "2022-05-05",
-			"response": "Licence Granted",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM125422",
+			"receivedDate": "2013-08-06",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC165685",
-			"receivedDate": "2022-01-19",
+			"code": "CDM141857",
+			"receivedDate": "2016-06-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM169404",
+			"receivedDate": "2022-12-16",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA124941",
+			"receivedDate": "2013-07-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA125241",
+			"receivedDate": "2013-07-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC127882",
+			"receivedDate": "2013-11-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC129460",
+			"receivedDate": "2014-02-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC132181",
+			"receivedDate": "2014-07-17",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC135638",
+			"receivedDate": "2015-03-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC138228",
+			"receivedDate": "2015-08-28",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC138822",
+			"receivedDate": "2015-10-26",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC138870",
+			"receivedDate": "2015-10-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC140424",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC142763",
+			"receivedDate": "2016-08-22",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC143667",
+			"receivedDate": "2016-10-31",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC145296",
+			"receivedDate": "2017-03-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147230",
+			"receivedDate": "2017-08-17",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC154448",
+			"receivedDate": "2019-02-25",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC156693",
+			"receivedDate": "2019-09-02",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC159021",
+			"receivedDate": "2020-04-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC162202",
+			"receivedDate": "2021-02-24",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
@@ -434,16 +404,46 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC158615",
-			"receivedDate": "2020-03-06",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC165685",
+			"receivedDate": "2022-01-19",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC164936",
-			"receivedDate": "2021-10-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA141691",
+			"receivedDate": "2016-06-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP128686",
+			"receivedDate": "2014-01-21",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP141010",
+			"receivedDate": "2016-04-20",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP142075",
+			"receivedDate": "2016-06-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP149044",
+			"receivedDate": "2018-01-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP162203",
+			"receivedDate": "2021-02-23",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

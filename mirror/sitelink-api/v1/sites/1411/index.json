@@ -8,6 +8,12 @@
 			"type": "Site Search"
 		},
 		{
+			"code": "22252",
+			"receivedDate": "2004-12-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "24046",
 			"receivedDate": "2004-06-29",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -23,12 +29,6 @@
 			"code": "24091",
 			"receivedDate": "2005-03-16",
 			"response": "Information/Advice only",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "22252",
-			"receivedDate": "2004-12-14",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
@@ -56,10 +56,10 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CPA116835",
-			"receivedDate": "2012-08-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC137946",
+			"receivedDate": "2015-07-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC140302",
@@ -74,28 +74,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC137946",
-			"receivedDate": "2015-07-30",
+			"code": "ALC162786",
+			"receivedDate": "2021-04-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162839",
+			"receivedDate": "2021-04-22",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS151664",
-			"receivedDate": "2018-07-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN154195",
-			"receivedDate": "2019-02-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP149225",
-			"receivedDate": "2018-01-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC165704",
+			"receivedDate": "2022-01-20",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CEA147552",
@@ -104,10 +98,34 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CGS151664",
+			"receivedDate": "2018-07-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CGS152523",
 			"receivedDate": "2018-09-27",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS167468",
+			"receivedDate": "2022-06-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165702",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA116835",
+			"receivedDate": "2012-08-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP129035",
@@ -122,34 +140,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS167468",
-			"receivedDate": "2022-06-27",
+			"code": "CPP149225",
+			"receivedDate": "2018-01-30",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC162786",
-			"receivedDate": "2021-04-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC165702",
-			"receivedDate": "2022-01-20",
+			"code": "GEN154195",
+			"receivedDate": "2019-02-04",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC165704",
-			"receivedDate": "2022-01-20",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC162839",
-			"receivedDate": "2021-04-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

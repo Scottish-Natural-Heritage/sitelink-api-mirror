@@ -2,16 +2,16 @@
 	"area": 91.74,
 	"casework": [
 		{
-			"code": "39679",
-			"receivedDate": "2007-03-21",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Non Trunk Roads"
-		},
-		{
 			"code": "37502",
 			"receivedDate": "2006-12-07",
 			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
 			"type": "Consultation from a regulatory authority (s.15)"
+		},
+		{
+			"code": "39679",
+			"receivedDate": "2007-03-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Non Trunk Roads"
 		},
 		{
 			"code": "50736",
@@ -26,48 +26,6 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA149649",
-			"receivedDate": "2018-03-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN120530",
-			"receivedDate": "2013-01-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA128524",
-			"receivedDate": "2014-01-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA136020",
-			"receivedDate": "2015-04-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA130225",
-			"receivedDate": "2014-04-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN119604",
-			"receivedDate": "2012-12-29",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA122091",
-			"receivedDate": "2013-03-20",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "ALC168050",
 			"receivedDate": "2022-08-16",
 			"response": "SSSI Consent Given",
@@ -80,10 +38,52 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CEA122091",
+			"receivedDate": "2013-03-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA136020",
+			"receivedDate": "2015-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149649",
+			"receivedDate": "2018-03-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA128524",
+			"receivedDate": "2014-01-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA130225",
+			"receivedDate": "2014-04-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA167745",
 			"receivedDate": "2022-07-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN119604",
+			"receivedDate": "2012-12-29",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN120530",
+			"receivedDate": "2013-01-25",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

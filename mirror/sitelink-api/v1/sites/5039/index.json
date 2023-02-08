@@ -12,18 +12,6 @@
 	"area": 56.6,
 	"casework": [
 		{
-			"code": "COR137752",
-			"receivedDate": "2015-07-31",
-			"response": "Compliment accepted",
-			"type": "Compliments"
-		},
-		{
-			"code": "CLC139304",
-			"receivedDate": "2015-11-26",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "CDM120401",
 			"receivedDate": "2013-01-21",
 			"response": "Advice only",
@@ -36,6 +24,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC139304",
+			"receivedDate": "2015-11-26",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "COR117926",
 			"receivedDate": "2012-10-02",
 			"response": "Resolved",
@@ -46,6 +40,12 @@
 			"receivedDate": "2012-11-20",
 			"response": "Resolved",
 			"type": "Complaints"
+		},
+		{
+			"code": "COR137752",
+			"receivedDate": "2015-07-31",
+			"response": "Compliment accepted",
+			"type": "Compliments"
 		}
 	],
 	"designation": {

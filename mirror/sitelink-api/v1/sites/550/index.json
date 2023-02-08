@@ -2,16 +2,16 @@
 	"area": 314.11,
 	"casework": [
 		{
-			"code": "30622",
-			"receivedDate": "2006-02-06",
-			"response": "B. Support",
-			"type": "Forest Design Plan"
-		},
-		{
 			"code": "29217",
 			"receivedDate": "2005-11-18",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "30622",
+			"receivedDate": "2006-02-06",
+			"response": "B. Support",
+			"type": "Forest Design Plan"
 		},
 		{
 			"code": "39968",
@@ -50,34 +50,16 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CDM111674",
-			"receivedDate": "2012-02-07",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP143398",
-			"receivedDate": "2016-10-19",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC145904",
 			"receivedDate": "2017-05-18",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA128178",
-			"receivedDate": "2013-12-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP132593",
-			"receivedDate": "2014-08-12",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "CDM111674",
+			"receivedDate": "2012-02-07",
+			"response": "Outright objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM166894",
@@ -86,10 +68,28 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CEA128178",
+			"receivedDate": "2013-12-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPA164914",
 			"receivedDate": "2021-10-28",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP132593",
+			"receivedDate": "2014-08-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP143398",
+			"receivedDate": "2016-10-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

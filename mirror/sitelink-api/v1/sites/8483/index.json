@@ -2,6 +2,24 @@
 	"area": 2324.37,
 	"casework": [
 		{
+			"code": "12470",
+			"receivedDate": "2003-07-07",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "14047",
+			"receivedDate": "2003-09-24",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "14328",
+			"receivedDate": "2003-10-17",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "14339",
 			"receivedDate": "2003-09-25",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -14,20 +32,8 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "14047",
-			"receivedDate": "2003-09-24",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "12470",
-			"receivedDate": "2003-07-07",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "17549",
-			"receivedDate": "2004-03-23",
+			"code": "15845",
+			"receivedDate": "2003-12-10",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
@@ -38,14 +44,14 @@
 			"type": "Groundwater Regulations"
 		},
 		{
-			"code": "14328",
-			"receivedDate": "2003-10-17",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"code": "17549",
+			"receivedDate": "2004-03-23",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
 		{
-			"code": "15845",
-			"receivedDate": "2003-12-10",
+			"code": "17821",
+			"receivedDate": "2004-04-22",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
@@ -53,12 +59,6 @@
 			"code": "18931",
 			"receivedDate": "2004-05-27",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "17821",
-			"receivedDate": "2004-04-22",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
 		{
@@ -110,16 +110,16 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "51073",
-			"receivedDate": "2008-09-18",
-			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
-			"type": "Controlled Activities Regulations"
-		},
-		{
 			"code": "48501",
 			"receivedDate": "2008-06-03",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Housing Developments"
+		},
+		{
+			"code": "51073",
+			"receivedDate": "2008-09-18",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Controlled Activities Regulations"
 		},
 		{
 			"code": "56766",
@@ -128,40 +128,46 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CLC161803",
-			"receivedDate": "2021-01-20",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM160516",
-			"receivedDate": "2020-09-15",
+			"code": "CDM124105",
+			"receivedDate": "2013-06-14",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM156847",
-			"receivedDate": "2019-09-11",
+			"code": "CDM125625",
+			"receivedDate": "2013-08-15",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC144225",
-			"receivedDate": "2016-12-22",
+			"code": "CDM126759",
+			"receivedDate": "2013-10-08",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC143659",
-			"receivedDate": "2016-11-14",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM128679",
+			"receivedDate": "2014-01-21",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC157895",
-			"receivedDate": "2020-01-09",
+			"code": "CDM130960",
+			"receivedDate": "2014-05-20",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131029",
+			"receivedDate": "2014-05-23",
+			"response": "No Comment",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM131034",
+			"receivedDate": "2014-05-23",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM150340",
@@ -176,52 +182,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM130960",
-			"receivedDate": "2014-05-20",
+			"code": "CDM156847",
+			"receivedDate": "2019-09-11",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM128679",
-			"receivedDate": "2014-01-21",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM125625",
-			"receivedDate": "2013-08-15",
+			"code": "CDM160516",
+			"receivedDate": "2020-09-15",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CDM131029",
-			"receivedDate": "2014-05-23",
-			"response": "No Comment",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CDM126759",
-			"receivedDate": "2013-10-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA131120",
-			"receivedDate": "2014-05-28",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM131034",
-			"receivedDate": "2014-05-23",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC135968",
-			"receivedDate": "2015-03-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CEA122707",
@@ -230,10 +200,40 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM124105",
-			"receivedDate": "2013-06-14",
+			"code": "CLC135968",
+			"receivedDate": "2015-03-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC143659",
+			"receivedDate": "2016-11-14",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC144225",
+			"receivedDate": "2016-12-22",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC157895",
+			"receivedDate": "2020-01-09",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC161803",
+			"receivedDate": "2021-01-20",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA131120",
+			"receivedDate": "2014-05-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

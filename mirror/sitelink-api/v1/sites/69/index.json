@@ -8,12 +8,6 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "COR137459",
-			"receivedDate": "2015-07-10",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "ALC134016",
 			"receivedDate": "2014-10-27",
 			"response": "Licence Granted",
@@ -26,18 +20,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC165344",
-			"receivedDate": "2021-12-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CGS164495",
-			"receivedDate": "2021-09-16",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CDM165021",
 			"receivedDate": "2021-11-09",
 			"response": "Conditioned objection",
@@ -48,6 +30,24 @@
 			"receivedDate": "2021-11-10",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CGS164495",
+			"receivedDate": "2021-09-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165344",
+			"receivedDate": "2021-12-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR137459",
+			"receivedDate": "2015-07-10",
+			"response": "Information only",
+			"type": "General Enquiries"
 		}
 	],
 	"designation": {

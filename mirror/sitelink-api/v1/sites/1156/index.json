@@ -12,6 +12,12 @@
 	"area": 8.06,
 	"casework": [
 		{
+			"code": "ALC117717",
+			"receivedDate": "2012-09-21",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM115900",
 			"receivedDate": "2012-07-17",
 			"response": "Advice only",
@@ -24,10 +30,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA154572",
-			"receivedDate": "2019-03-05",
+			"code": "CDM163250",
+			"receivedDate": "2021-05-27",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Post Application"
 		},
 		{
 			"code": "CEA152731",
@@ -36,16 +42,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN122566",
-			"receivedDate": "2013-02-28",
+			"code": "CEA154572",
+			"receivedDate": "2019-03-05",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC117717",
-			"receivedDate": "2012-09-21",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "EIA"
 		},
 		{
 			"code": "CPA164007",
@@ -54,10 +54,10 @@
 			"type": "SRDP"
 		},
 		{
-			"code": "CDM163250",
-			"receivedDate": "2021-05-27",
+			"code": "GEN122566",
+			"receivedDate": "2013-02-28",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

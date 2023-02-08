@@ -26,6 +26,12 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "51263",
+			"receivedDate": "2008-07-14",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
 			"code": "54165",
 			"receivedDate": "2009-02-03",
 			"response": "Information/Advice only",
@@ -38,32 +44,14 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "51263",
-			"receivedDate": "2008-07-14",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
-			"code": "CPP117340",
-			"receivedDate": "2012-09-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS137263",
-			"receivedDate": "2015-06-24",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM140125",
-			"receivedDate": "2016-01-15",
+			"code": "CDM139365",
+			"receivedDate": "2015-12-07",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM139365",
-			"receivedDate": "2015-12-07",
+			"code": "CDM140125",
+			"receivedDate": "2016-01-15",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -74,10 +62,10 @@
 			"type": "Post Application"
 		},
 		{
-			"code": "CLC144929",
-			"receivedDate": "2017-01-12",
+			"code": "CGS137263",
+			"receivedDate": "2015-06-24",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CLC135726",
@@ -86,10 +74,22 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC144929",
+			"receivedDate": "2017-01-12",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "CPA166609",
 			"receivedDate": "2022-04-08",
 			"response": "Advice only",
 			"type": "SRDP"
+		},
+		{
+			"code": "CPP117340",
+			"receivedDate": "2012-09-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

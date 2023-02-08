@@ -2,12 +2,6 @@
 	"area": 9639.4,
 	"casework": [
 		{
-			"code": "53363",
-			"receivedDate": "2008-11-26",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
 			"code": "51668",
 			"receivedDate": "2008-10-24",
 			"response": "Information/Advice only",
@@ -17,6 +11,12 @@
 			"code": "52387",
 			"receivedDate": "2008-12-16",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "53363",
+			"receivedDate": "2008-11-26",
+			"response": "Information/Advice only",
 			"type": "Other Developments"
 		},
 		{
@@ -38,130 +38,10 @@
 			"type": "Muirburn"
 		},
 		{
-			"code": "CPP162462",
-			"receivedDate": "2021-03-17",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA160039",
-			"receivedDate": "2020-07-30",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CLC159663",
-			"receivedDate": "2020-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM155439",
-			"receivedDate": "2019-05-13",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
 			"code": "ALC155383",
 			"receivedDate": "2019-05-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM155694",
-			"receivedDate": "2019-06-04",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CGS136909",
-			"receivedDate": "2015-05-15",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM151126",
-			"receivedDate": "2018-06-19",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CPA151839",
-			"receivedDate": "2018-08-08",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CDM151515",
-			"receivedDate": "2018-07-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA150693",
-			"receivedDate": "2018-05-21",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CPA148398",
-			"receivedDate": "2017-11-20",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA131430",
-			"receivedDate": "2014-06-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM125757",
-			"receivedDate": "2013-08-16",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPA127778",
-			"receivedDate": "2013-12-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM131554",
-			"receivedDate": "2014-06-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA129222",
-			"receivedDate": "2014-02-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN136315",
-			"receivedDate": "2015-04-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA168480",
-			"receivedDate": "2022-09-23",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CLC168492",
-			"receivedDate": "2022-09-26",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "PAC158712",
-			"receivedDate": "2020-03-02",
-			"response": "Advice only",
-			"type": "Feasibility Study Enquiry"
 		},
 		{
 			"code": "ALC158721",
@@ -170,16 +50,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC162916",
-			"receivedDate": "2021-04-29",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM125757",
+			"receivedDate": "2013-08-16",
+			"response": "Advice only",
+			"type": "Application related advice"
 		},
 		{
-			"code": "CPA158170",
-			"receivedDate": "2020-01-30",
+			"code": "CDM131554",
+			"receivedDate": "2014-06-13",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151126",
+			"receivedDate": "2018-06-19",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM151515",
+			"receivedDate": "2018-07-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155439",
+			"receivedDate": "2019-05-13",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM155694",
+			"receivedDate": "2019-06-04",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
 		},
 		{
 			"code": "CDM163287",
@@ -192,6 +96,102 @@
 			"receivedDate": "2021-12-07",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA129222",
+			"receivedDate": "2014-02-13",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA131430",
+			"receivedDate": "2014-06-13",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS136909",
+			"receivedDate": "2015-05-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC159663",
+			"receivedDate": "2020-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC162916",
+			"receivedDate": "2021-04-29",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC168492",
+			"receivedDate": "2022-09-26",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA127778",
+			"receivedDate": "2013-12-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA148398",
+			"receivedDate": "2017-11-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA150693",
+			"receivedDate": "2018-05-21",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA151839",
+			"receivedDate": "2018-08-08",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA158170",
+			"receivedDate": "2020-01-30",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA160039",
+			"receivedDate": "2020-07-30",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA168480",
+			"receivedDate": "2022-09-23",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPP162462",
+			"receivedDate": "2021-03-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN136315",
+			"receivedDate": "2015-04-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "PAC158712",
+			"receivedDate": "2020-03-02",
+			"response": "Advice only",
+			"type": "Feasibility Study Enquiry"
 		}
 	],
 	"designation": {

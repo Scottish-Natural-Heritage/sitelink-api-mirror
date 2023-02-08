@@ -14,28 +14,10 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "CGS116976",
-			"receivedDate": "2012-08-27",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "ALC116014",
 			"receivedDate": "2012-07-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA155007",
-			"receivedDate": "2019-04-02",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "GEN139847",
-			"receivedDate": "2016-01-25",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CDM152209",
@@ -50,10 +32,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA153150",
-			"receivedDate": "2018-11-07",
+			"code": "CGS116976",
+			"receivedDate": "2012-08-27",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC124619",
+			"receivedDate": "2013-07-05",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CPA136010",
@@ -62,10 +50,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC124619",
-			"receivedDate": "2013-07-05",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CPA153150",
+			"receivedDate": "2018-11-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155007",
+			"receivedDate": "2019-04-02",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "GEN139847",
+			"receivedDate": "2016-01-25",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

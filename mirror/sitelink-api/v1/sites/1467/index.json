@@ -12,27 +12,27 @@
 	"area": 122.22,
 	"casework": [
 		{
-			"code": "18628",
-			"receivedDate": "2004-06-21",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "17379",
 			"receivedDate": "2004-04-06",
 			"response": "Information/Advice only",
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "22993",
-			"receivedDate": "2005-02-01",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "18310",
 			"receivedDate": "2004-06-09",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "18628",
+			"receivedDate": "2004-06-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "22993",
+			"receivedDate": "2005-02-01",
+			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
 		},
 		{
@@ -48,14 +48,50 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "GEN140490",
-			"receivedDate": "2016-02-15",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
+			"code": "ALC120278",
+			"receivedDate": "2013-01-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC161721",
-			"receivedDate": "2020-11-30",
+			"code": "ALC122122",
+			"receivedDate": "2013-03-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC126462",
+			"receivedDate": "2013-09-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC127366",
+			"receivedDate": "2013-11-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC133742",
+			"receivedDate": "2014-10-17",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134204",
+			"receivedDate": "2014-11-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC134222",
+			"receivedDate": "2014-11-17",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC143704",
+			"receivedDate": "2016-11-15",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -66,22 +102,52 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC162379",
-			"receivedDate": "2021-03-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC161179",
 			"receivedDate": "2020-11-04",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC143704",
-			"receivedDate": "2016-11-15",
+			"code": "ALC161721",
+			"receivedDate": "2020-11-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162379",
+			"receivedDate": "2021-03-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC163768",
+			"receivedDate": "2021-06-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC164406",
+			"receivedDate": "2021-09-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC165621",
+			"receivedDate": "2022-01-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167124",
+			"receivedDate": "2022-05-20",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "Badger"
+		},
+		{
+			"code": "CDM166649",
+			"receivedDate": "2022-04-13",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC137393",
@@ -102,82 +168,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC127366",
-			"receivedDate": "2013-11-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC122122",
-			"receivedDate": "2013-03-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC126462",
-			"receivedDate": "2013-09-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC134222",
-			"receivedDate": "2014-11-17",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC133742",
-			"receivedDate": "2014-10-17",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC134204",
-			"receivedDate": "2014-11-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC120278",
-			"receivedDate": "2013-01-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC167124",
-			"receivedDate": "2022-05-20",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "Badger"
-		},
-		{
 			"code": "CPA166241",
 			"receivedDate": "2021-09-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM166649",
-			"receivedDate": "2022-04-13",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC165621",
-			"receivedDate": "2022-01-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC163768",
-			"receivedDate": "2021-06-13",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC164406",
-			"receivedDate": "2021-09-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN140490",
+			"receivedDate": "2016-02-15",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
 		}
 	],
 	"designation": {

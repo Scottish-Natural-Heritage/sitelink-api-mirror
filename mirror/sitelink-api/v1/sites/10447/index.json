@@ -2,10 +2,28 @@
 	"area": 213000,
 	"casework": [
 		{
-			"code": "GEN139859",
-			"receivedDate": "2016-01-25",
+			"code": "CEA166447",
+			"receivedDate": "2022-03-25",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SEA"
+		},
+		{
+			"code": "CEA168189",
+			"receivedDate": "2022-08-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC163140",
+			"receivedDate": "2021-05-13",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167791",
+			"receivedDate": "2022-07-22",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
 		},
 		{
 			"code": "CPA155018",
@@ -20,16 +38,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC167791",
-			"receivedDate": "2022-07-22",
+			"code": "CPA167929",
+			"receivedDate": "2022-08-03",
 			"response": "Advice only",
-			"type": "Licence to disturb European Protected Species"
-		},
-		{
-			"code": "CEA168189",
-			"receivedDate": "2022-08-26",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA168195",
@@ -38,22 +50,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC163140",
-			"receivedDate": "2021-05-13",
+			"code": "GEN139859",
+			"receivedDate": "2016-01-25",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPA167929",
-			"receivedDate": "2022-08-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA166447",
-			"receivedDate": "2022-03-25",
-			"response": "Advice only",
-			"type": "SEA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

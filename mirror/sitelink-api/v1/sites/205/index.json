@@ -2,16 +2,28 @@
 	"area": 2.48,
 	"casework": [
 		{
+			"code": "29400",
+			"receivedDate": "2005-11-29",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "29894",
 			"receivedDate": "2005-12-15",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "29400",
-			"receivedDate": "2005-11-29",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
+			"code": "ALC122921",
+			"receivedDate": "2013-04-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC168214",
+			"receivedDate": "2022-08-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM115900",
@@ -26,34 +38,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP126243",
-			"receivedDate": "2013-08-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CEA127017",
 			"receivedDate": "2013-10-18",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "ALC122921",
-			"receivedDate": "2013-04-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPP126243",
+			"receivedDate": "2013-08-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "GEN118067",
 			"receivedDate": "2012-10-03",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "ALC168214",
-			"receivedDate": "2022-08-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

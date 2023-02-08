@@ -14,18 +14,6 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "65967",
-			"receivedDate": "2010-11-01",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "66168",
-			"receivedDate": "2010-09-06",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "64205",
 			"receivedDate": "2010-04-08",
 			"response": "Information/Advice only",
@@ -36,6 +24,18 @@
 			"receivedDate": "2010-09-20",
 			"response": "Information/Advice only",
 			"type": "Long Term Forest Plan"
+		},
+		{
+			"code": "65967",
+			"receivedDate": "2010-11-01",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "66168",
+			"receivedDate": "2010-09-06",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "68214",
@@ -50,16 +50,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP162014",
-			"receivedDate": "2021-02-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM159741",
-			"receivedDate": "2020-07-01",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
+			"code": "ALC154789",
+			"receivedDate": "2019-03-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM143523",
@@ -68,16 +62,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP144171",
-			"receivedDate": "2016-12-22",
+			"code": "CDM159741",
+			"receivedDate": "2020-07-01",
 			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC154789",
-			"receivedDate": "2019-03-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Transport Infrastructure"
 		},
 		{
 			"code": "CLC152303",
@@ -92,14 +80,26 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "GEN128296",
-			"receivedDate": "2013-12-20",
+			"code": "CPP144171",
+			"receivedDate": "2016-12-22",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP162014",
+			"receivedDate": "2021-02-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "GEN126226",
 			"receivedDate": "2013-07-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN128296",
+			"receivedDate": "2013-12-20",
 			"response": "Advice only",
 			"type": "General Advice"
 		}

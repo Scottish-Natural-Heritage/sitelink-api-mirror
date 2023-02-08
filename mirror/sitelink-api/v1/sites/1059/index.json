@@ -26,16 +26,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "30353",
-			"receivedDate": "2005-12-19",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "29937",
 			"receivedDate": "2005-08-30",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "30353",
+			"receivedDate": "2005-12-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "33987",
@@ -62,6 +62,12 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "53818",
+			"receivedDate": "2009-02-27",
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
+		},
+		{
 			"code": "54489",
 			"receivedDate": "2009-04-16",
 			"response": "B. Support",
@@ -74,46 +80,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "53818",
-			"receivedDate": "2009-02-27",
-			"response": "Information/Advice only",
-			"type": "Rural Development Contract - Rural Priority"
-		},
-		{
 			"code": "69023",
 			"receivedDate": "2011-03-16",
 			"response": "Information/Advice only",
 			"type": "Long Term Forest Plan"
-		},
-		{
-			"code": "CPP139839",
-			"receivedDate": "2016-01-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS142858",
-			"receivedDate": "2016-09-09",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP139954",
-			"receivedDate": "2016-01-26",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM153432",
-			"receivedDate": "2018-11-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP130103",
-			"receivedDate": "2014-04-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC122858",
@@ -122,10 +92,40 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM153432",
+			"receivedDate": "2018-11-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS142858",
+			"receivedDate": "2016-09-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CLC116757",
 			"receivedDate": "2012-08-13",
 			"response": "No comment",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "CPP130103",
+			"receivedDate": "2014-04-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139839",
+			"receivedDate": "2016-01-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139954",
+			"receivedDate": "2016-01-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP166970",

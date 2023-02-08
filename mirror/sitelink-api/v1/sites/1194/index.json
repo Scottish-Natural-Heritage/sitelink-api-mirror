@@ -2,10 +2,10 @@
 	"area": 2508.4,
 	"casework": [
 		{
-			"code": "26313",
-			"receivedDate": "2005-07-11",
+			"code": "22428",
+			"receivedDate": "2004-12-23",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Tracks and Paths"
+			"type": "Other Developments"
 		},
 		{
 			"code": "23467",
@@ -20,18 +20,6 @@
 			"type": "Forest Design Plan"
 		},
 		{
-			"code": "22428",
-			"receivedDate": "2004-12-23",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
-		},
-		{
-			"code": "28014",
-			"receivedDate": "2005-09-23",
-			"response": "1. No Comment",
-			"type": "Tracks and Paths"
-		},
-		{
 			"code": "25054",
 			"receivedDate": "2004-10-04",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -42,6 +30,18 @@
 			"receivedDate": "2005-01-10",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "26313",
+			"receivedDate": "2005-07-11",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Tracks and Paths"
+		},
+		{
+			"code": "28014",
+			"receivedDate": "2005-09-23",
+			"response": "1. No Comment",
+			"type": "Tracks and Paths"
 		},
 		{
 			"code": "31678",
@@ -74,58 +74,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CLC116563",
-			"receivedDate": "2012-08-10",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
 			"code": "ALC114732",
 			"receivedDate": "2012-06-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA139979",
-			"receivedDate": "2016-02-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM154916",
-			"receivedDate": "2019-03-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR159548",
-			"receivedDate": "2020-06-12",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN155750",
-			"receivedDate": "2019-06-06",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA141014",
-			"receivedDate": "2016-04-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC140642",
-			"receivedDate": "2016-03-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM157303",
-			"receivedDate": "2019-10-30",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "ALC124960",
+			"receivedDate": "2013-07-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM150599",
@@ -140,16 +98,58 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM154916",
+			"receivedDate": "2019-03-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157303",
+			"receivedDate": "2019-10-30",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM164181",
+			"receivedDate": "2021-08-04",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CLC116563",
+			"receivedDate": "2012-08-10",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CLC140642",
+			"receivedDate": "2016-03-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC146719",
 			"receivedDate": "2017-07-11",
 			"response": "S.15 Advice with conditions",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC124960",
-			"receivedDate": "2013-07-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "COR159548",
+			"receivedDate": "2020-06-12",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA139979",
+			"receivedDate": "2016-02-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA141014",
+			"receivedDate": "2016-04-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP118359",
@@ -158,10 +158,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM164181",
-			"receivedDate": "2021-08-04",
+			"code": "GEN155750",
+			"receivedDate": "2019-06-06",
 			"response": "Advice only",
-			"type": "Application related advice"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

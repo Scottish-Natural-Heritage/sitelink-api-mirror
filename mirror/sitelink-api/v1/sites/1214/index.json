@@ -14,28 +14,28 @@
 			"type": "Other Pollution Acts"
 		},
 		{
-			"code": "49498",
-			"receivedDate": "2008-07-15",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "49210",
 			"receivedDate": "2008-07-15",
 			"response": "Information/Advice only",
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "53194",
-			"receivedDate": "2009-02-03",
-			"response": "Information/Advice only",
-			"type": "Species Licensing"
+			"code": "49498",
+			"receivedDate": "2008-07-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "52311",
 			"receivedDate": "2008-11-19",
 			"response": "NCA - Issued application for consent form",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "53194",
+			"receivedDate": "2009-02-03",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
 		},
 		{
 			"code": "61102",
@@ -50,16 +50,22 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "ALC167176",
+			"receivedDate": "2022-05-30",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS124125",
+			"receivedDate": "2013-06-18",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "COR141678",
 			"receivedDate": "2016-06-08",
 			"response": "Information only",
 			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP142379",
-			"receivedDate": "2016-07-14",
-			"response": "Advice only",
-			"type": "Oil spill contingency plan"
 		},
 		{
 			"code": "CPP127063",
@@ -74,16 +80,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS124125",
-			"receivedDate": "2013-06-18",
+			"code": "CPP142379",
+			"receivedDate": "2016-07-14",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC167176",
-			"receivedDate": "2022-05-30",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Oil spill contingency plan"
 		}
 	],
 	"designation": {

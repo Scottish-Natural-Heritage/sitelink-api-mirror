@@ -12,15 +12,15 @@
 	"area": 108.42,
 	"casework": [
 		{
-			"code": "52453",
-			"receivedDate": "2009-01-08",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Microrenewables"
-		},
-		{
 			"code": "51574",
 			"receivedDate": "2008-11-06",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Microrenewables"
+		},
+		{
+			"code": "52453",
+			"receivedDate": "2009-01-08",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Microrenewables"
 		},
 		{
@@ -28,6 +28,42 @@
 			"receivedDate": "2009-12-08",
 			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "ALC124589",
+			"receivedDate": "2013-06-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM136990",
+			"receivedDate": "2015-06-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA117700",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA122873",
+			"receivedDate": "2013-04-25",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA134871",
+			"receivedDate": "2015-01-19",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CLC136239",
+			"receivedDate": "2015-04-15",
+			"response": "Conditioned objection",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC143555",
@@ -42,34 +78,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM136990",
-			"receivedDate": "2015-06-08",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP128508",
-			"receivedDate": "2014-01-13",
+			"code": "CPA160363",
+			"receivedDate": "2020-08-06",
 			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC136239",
-			"receivedDate": "2015-04-15",
-			"response": "Conditioned objection",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CEA134871",
-			"receivedDate": "2015-01-19",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "CEA122873",
-			"receivedDate": "2013-04-25",
-			"response": "Advice only",
-			"type": "SEA"
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CPP117672",
@@ -78,28 +90,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "CEA117700",
-			"receivedDate": "2012-09-25",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CPP122996",
 			"receivedDate": "2013-04-26",
 			"response": "Advice only",
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "ALC124589",
-			"receivedDate": "2013-06-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA160363",
-			"receivedDate": "2020-08-06",
+			"code": "CPP128508",
+			"receivedDate": "2014-01-13",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

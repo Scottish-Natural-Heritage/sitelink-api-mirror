@@ -20,16 +20,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "27130",
-			"receivedDate": "2005-07-27",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "25998",
 			"receivedDate": "2005-05-20",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "27130",
+			"receivedDate": "2005-07-27",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "33446",
@@ -38,16 +38,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "39934",
-			"receivedDate": "2007-03-19",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Pollution Acts"
-		},
-		{
 			"code": "39919",
 			"receivedDate": "2007-03-19",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "39934",
+			"receivedDate": "2007-03-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "44912",
@@ -80,6 +80,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM128507",
+			"receivedDate": "2013-12-20",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
 			"code": "CLC111613",
 			"receivedDate": "2012-02-01",
 			"response": "S.12 SSSI consent required",
@@ -90,12 +96,6 @@
 			"receivedDate": "2018-09-27",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM128507",
-			"receivedDate": "2013-12-20",
-			"response": "Advice only",
-			"type": "S.37 Application"
 		}
 	],
 	"designation": {

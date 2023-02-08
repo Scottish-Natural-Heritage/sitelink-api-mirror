@@ -12,12 +12,6 @@
 	"area": 1171.92,
 	"casework": [
 		{
-			"code": "19941",
-			"receivedDate": "2003-11-10",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "18213",
 			"receivedDate": "2004-08-11",
 			"response": "B. Support",
@@ -30,22 +24,28 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
+			"code": "19941",
+			"receivedDate": "2003-11-10",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "24145",
 			"receivedDate": "2005-03-29",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Rural Stewardship Scheme"
 		},
 		{
-			"code": "29137",
-			"receivedDate": "2005-11-08",
-			"response": "Information/Advice only",
-			"type": "Species Licensing"
-		},
-		{
 			"code": "28107",
 			"receivedDate": "2005-09-20",
 			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "29137",
+			"receivedDate": "2005-11-08",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
 		},
 		{
 			"code": "33238",
@@ -66,34 +66,40 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "ALC115084",
+			"receivedDate": "2012-06-15",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC161610",
 			"receivedDate": "2020-12-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS161507",
-			"receivedDate": "2020-12-14",
-			"response": "Advice only",
-			"type": "Forestry for people"
+			"code": "ALC163641",
+			"receivedDate": "2021-06-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS161357",
-			"receivedDate": "2020-12-01",
-			"response": "Advice only",
-			"type": "Forestry for people"
+			"code": "ALC165973",
+			"receivedDate": "2022-02-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN142303",
-			"receivedDate": "2016-07-12",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "CDM121375",
+			"receivedDate": "2013-02-25",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA140707",
-			"receivedDate": "2016-03-28",
+			"code": "CDM127673",
+			"receivedDate": "2013-11-20",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM138070",
@@ -102,32 +108,8 @@
 			"type": "S.36 Application"
 		},
 		{
-			"code": "CPA137147",
-			"receivedDate": "2015-06-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM152464",
 			"receivedDate": "2018-09-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS128422",
-			"receivedDate": "2014-01-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA129142",
-			"receivedDate": "2014-02-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM127673",
-			"receivedDate": "2013-11-20",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -138,16 +120,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM121375",
-			"receivedDate": "2013-02-25",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR126995",
-			"receivedDate": "2013-10-01",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CEA133235",
+			"receivedDate": "2014-09-18",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA133874",
@@ -156,14 +132,56 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA133235",
-			"receivedDate": "2014-09-18",
+			"code": "CEA167874",
+			"receivedDate": "2022-07-29",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CPA133152",
-			"receivedDate": "2014-08-28",
+			"code": "CGS128422",
+			"receivedDate": "2014-01-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS161357",
+			"receivedDate": "2020-12-01",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CGS161507",
+			"receivedDate": "2020-12-14",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC158869",
+			"receivedDate": "2020-04-01",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "COR126995",
+			"receivedDate": "2013-10-01",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR165984",
+			"receivedDate": "2022-02-11",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA118322",
+			"receivedDate": "2012-10-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA120344",
+			"receivedDate": "2013-01-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -180,20 +198,32 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA120344",
-			"receivedDate": "2013-01-18",
+			"code": "CPA129142",
+			"receivedDate": "2014-02-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC115084",
-			"receivedDate": "2012-06-15",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA133152",
+			"receivedDate": "2014-08-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA118322",
-			"receivedDate": "2012-10-17",
+			"code": "CPA137147",
+			"receivedDate": "2015-06-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140707",
+			"receivedDate": "2016-03-28",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA158938",
+			"receivedDate": "2020-04-07",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -210,40 +240,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA167874",
-			"receivedDate": "2022-07-29",
+			"code": "GEN142303",
+			"receivedDate": "2016-07-12",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA158938",
-			"receivedDate": "2020-04-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC163641",
-			"receivedDate": "2021-06-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC165973",
-			"receivedDate": "2022-02-07",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR165984",
-			"receivedDate": "2022-02-11",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC158869",
-			"receivedDate": "2020-04-01",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

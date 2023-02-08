@@ -2,16 +2,16 @@
 	"area": 120.9,
 	"casework": [
 		{
-			"code": "26772",
-			"receivedDate": "2005-08-01",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "26099",
 			"receivedDate": "2005-06-28",
 			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "26772",
+			"receivedDate": "2005-08-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "38776",
@@ -38,40 +38,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CDM114882",
-			"receivedDate": "2012-06-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA161617",
-			"receivedDate": "2020-12-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA141461",
-			"receivedDate": "2016-05-18",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC157087",
-			"receivedDate": "2019-10-07",
+			"code": "ALC122445",
+			"receivedDate": "2013-04-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN137024",
-			"receivedDate": "2015-06-03",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "ALC140976",
@@ -80,20 +50,32 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN153166",
-			"receivedDate": "2018-11-06",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC157087",
+			"receivedDate": "2019-10-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC146536",
-			"receivedDate": "2017-06-30",
-			"response": "S.15 Advice only",
-			"type": "Other"
+			"code": "ALC165018",
+			"receivedDate": "2021-11-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM114882",
+			"receivedDate": "2012-06-13",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM127870",
 			"receivedDate": "2013-11-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -104,16 +86,34 @@
 			"type": "EIA"
 		},
 		{
-			"code": "COR132879",
-			"receivedDate": "2014-08-15",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "CEA141461",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
-			"code": "CLC130369",
-			"receivedDate": "2014-04-10",
+			"code": "CEA161617",
+			"receivedDate": "2020-12-23",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS164552",
+			"receivedDate": "2021-09-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC113158",
+			"receivedDate": "2012-04-03",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC124591",
@@ -122,14 +122,20 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "ALC122445",
-			"receivedDate": "2013-04-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC130369",
+			"receivedDate": "2014-04-10",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC113158",
-			"receivedDate": "2012-04-03",
+			"code": "CLC146536",
+			"receivedDate": "2017-06-30",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165848",
+			"receivedDate": "2022-02-02",
 			"response": "Advice only",
 			"type": "Other"
 		},
@@ -140,10 +146,10 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CLC165848",
-			"receivedDate": "2022-02-02",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "COR132879",
+			"receivedDate": "2014-08-15",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
 			"code": "CPA166553",
@@ -152,22 +158,16 @@
 			"type": "SRDP"
 		},
 		{
-			"code": "CGS164552",
-			"receivedDate": "2021-09-23",
+			"code": "GEN137024",
+			"receivedDate": "2015-06-03",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "General Advice"
 		},
 		{
-			"code": "ALC165018",
-			"receivedDate": "2021-11-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
+			"code": "GEN153166",
+			"receivedDate": "2018-11-06",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

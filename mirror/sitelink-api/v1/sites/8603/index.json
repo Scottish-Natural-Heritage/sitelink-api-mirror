@@ -8,15 +8,15 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "34650",
-			"receivedDate": "2006-06-30",
-			"response": "Information/Advice only",
-			"type": "Mineral Workings"
-		},
-		{
 			"code": "33616",
 			"receivedDate": "2006-06-30",
 			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Mineral Workings"
+		},
+		{
+			"code": "34650",
+			"receivedDate": "2006-06-30",
+			"response": "Information/Advice only",
 			"type": "Mineral Workings"
 		},
 		{
@@ -38,24 +38,6 @@
 			"type": "Local Plan"
 		},
 		{
-			"code": "CPP161902",
-			"receivedDate": "2021-01-28",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CDM158787",
-			"receivedDate": "2020-03-25",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR155227",
-			"receivedDate": "2019-04-24",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
 			"code": "CDM157112",
 			"receivedDate": "2019-10-10",
 			"response": "Holding objection",
@@ -68,22 +50,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC157555",
-			"receivedDate": "2019-11-25",
+			"code": "CDM158787",
+			"receivedDate": "2020-03-25",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC119730",
-			"receivedDate": "2012-12-13",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP117364",
-			"receivedDate": "2012-09-10",
+			"code": "CDM159328",
+			"receivedDate": "2020-05-26",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC119195",
@@ -92,16 +68,16 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC167119",
-			"receivedDate": "2022-05-23",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "CLC119730",
+			"receivedDate": "2012-12-13",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPP168024",
-			"receivedDate": "2022-08-05",
+			"code": "CLC157555",
+			"receivedDate": "2019-11-25",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Other"
 		},
 		{
 			"code": "CLC159726",
@@ -110,16 +86,28 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC167119",
+			"receivedDate": "2022-05-23",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR155227",
+			"receivedDate": "2019-04-24",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP117364",
+			"receivedDate": "2012-09-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPP158634",
 			"receivedDate": "2020-03-03",
 			"response": "Advice only",
 			"type": "Regional forest strategy"
-		},
-		{
-			"code": "CPP165427",
-			"receivedDate": "2021-12-10",
-			"response": "Advice only",
-			"type": "Local Development Plan"
 		},
 		{
 			"code": "CPP158837",
@@ -128,10 +116,22 @@
 			"type": "Regional forest strategy"
 		},
 		{
-			"code": "CDM159328",
-			"receivedDate": "2020-05-26",
+			"code": "CPP161902",
+			"receivedDate": "2021-01-28",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP165427",
+			"receivedDate": "2021-12-10",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP168024",
+			"receivedDate": "2022-08-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

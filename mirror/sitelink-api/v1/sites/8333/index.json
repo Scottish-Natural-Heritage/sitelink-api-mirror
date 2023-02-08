@@ -38,12 +38,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "72050",
-			"receivedDate": "2011-11-02",
-			"response": "Information/Advice only",
-			"type": "Marine"
-		},
-		{
 			"code": "69473",
 			"receivedDate": "2011-06-15",
 			"response": "Information/Advice only",
@@ -56,28 +50,34 @@
 			"type": "Marine"
 		},
 		{
-			"code": "GEN113062",
-			"receivedDate": "2012-04-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC142148",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN142186",
-			"receivedDate": "2016-07-18",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "72050",
+			"receivedDate": "2011-11-02",
+			"response": "Information/Advice only",
+			"type": "Marine"
 		},
 		{
 			"code": "ALC142287",
 			"receivedDate": "2016-07-20",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM158442",
+			"receivedDate": "2020-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC142148",
+			"receivedDate": "2016-07-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC150696",
@@ -92,28 +92,28 @@
 			"type": "Licence to disturb European Protected Species"
 		},
 		{
-			"code": "GEN145884",
-			"receivedDate": "2017-05-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CPA137735",
 			"receivedDate": "2015-07-26",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
+			"code": "GEN113062",
+			"receivedDate": "2012-04-02",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM158442",
-			"receivedDate": "2020-02-20",
+			"code": "GEN142186",
+			"receivedDate": "2016-07-18",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN145884",
+			"receivedDate": "2017-05-17",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN159840",

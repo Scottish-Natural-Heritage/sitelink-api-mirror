@@ -2,12 +2,6 @@
 	"area": 19.93,
 	"casework": [
 		{
-			"code": "11655",
-			"receivedDate": "2003-06-16",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Forest Design Plan"
-		},
-		{
 			"code": "11196",
 			"receivedDate": "2003-05-06",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -20,16 +14,22 @@
 			"type": "Other Forestry Plans, Strategies & Schemes"
 		},
 		{
+			"code": "11476",
+			"receivedDate": "2003-05-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "11597",
 			"receivedDate": "2003-06-11",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
 		{
-			"code": "11476",
-			"receivedDate": "2003-05-19",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
+			"code": "11655",
+			"receivedDate": "2003-06-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Forest Design Plan"
 		},
 		{
 			"code": "13041",
@@ -38,16 +38,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "31395",
-			"receivedDate": "2006-03-13",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "31301",
 			"receivedDate": "2006-03-08",
 			"response": "B. Support",
 			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "31395",
+			"receivedDate": "2006-03-13",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "32465",
@@ -80,28 +80,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC132273",
-			"receivedDate": "2014-07-24",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CEA128725",
 			"receivedDate": "2014-01-21",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CPP120653",
-			"receivedDate": "2013-01-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CEA166179",
 			"receivedDate": "2022-02-25",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CLC132273",
+			"receivedDate": "2014-07-24",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP120653",
+			"receivedDate": "2013-01-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

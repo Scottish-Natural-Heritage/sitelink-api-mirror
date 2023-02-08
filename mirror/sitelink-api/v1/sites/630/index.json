@@ -2,6 +2,24 @@
 	"area": 22.16,
 	"casework": [
 		{
+			"code": "21427",
+			"receivedDate": "2004-11-05",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "22553",
+			"receivedDate": "2005-01-10",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "23757",
+			"receivedDate": "2005-03-10",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
 			"code": "24611",
 			"receivedDate": "2005-04-18",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
@@ -12,24 +30,6 @@
 			"receivedDate": "2005-04-20",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Railways"
-		},
-		{
-			"code": "23757",
-			"receivedDate": "2005-03-10",
-			"response": "Information/Advice only",
-			"type": "Other plans and strategies"
-		},
-		{
-			"code": "22553",
-			"receivedDate": "2005-01-10",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "21427",
-			"receivedDate": "2004-11-05",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
 		},
 		{
 			"code": "25477",
@@ -62,13 +62,13 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "59395",
+			"code": "59390",
 			"receivedDate": "2010-01-19",
 			"response": "B. Support",
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "59390",
+			"code": "59395",
 			"receivedDate": "2010-01-19",
 			"response": "B. Support",
 			"type": "Rural Development Contract - Rural Priority"
@@ -86,15 +86,21 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC145866",
+			"receivedDate": "2017-05-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC147180",
 			"receivedDate": "2017-08-21",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC145866",
-			"receivedDate": "2017-05-17",
-			"response": "SSSI Consent Given",
+			"code": "ALC162612",
+			"receivedDate": "2021-03-15",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -108,12 +114,6 @@
 			"receivedDate": "2014-08-20",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC162612",
-			"receivedDate": "2021-03-15",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

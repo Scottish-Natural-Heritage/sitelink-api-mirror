@@ -26,15 +26,15 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "50033",
-			"receivedDate": "2008-08-10",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "49276",
 			"receivedDate": "2008-04-04",
 			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "50033",
+			"receivedDate": "2008-08-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
@@ -74,10 +74,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC142039",
-			"receivedDate": "2016-07-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC124283",
+			"receivedDate": "2013-06-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130674",
+			"receivedDate": "2014-04-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130839",
+			"receivedDate": "2014-05-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC145193",
@@ -92,40 +104,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC146345",
-			"receivedDate": "2017-06-20",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC130839",
-			"receivedDate": "2014-05-14",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN127072",
-			"receivedDate": "2013-10-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CLC132027",
 			"receivedDate": "2014-06-30",
 			"response": "S.15 Advice with conditions",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC130674",
-			"receivedDate": "2014-04-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC142039",
+			"receivedDate": "2016-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "ALC124283",
-			"receivedDate": "2013-06-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC146345",
+			"receivedDate": "2017-06-20",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "GEN127072",
+			"receivedDate": "2013-10-04",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

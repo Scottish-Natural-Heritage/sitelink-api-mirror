@@ -8,9 +8,9 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "19180",
-			"receivedDate": "2004-07-14",
-			"response": "NCA - Issued application for consent form",
+			"code": "15815",
+			"receivedDate": "2004-01-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
@@ -20,14 +20,8 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "15815",
-			"receivedDate": "2004-01-23",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "21691",
-			"receivedDate": "2004-10-28",
+			"code": "19180",
+			"receivedDate": "2004-07-14",
 			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
 		},
@@ -44,15 +38,21 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "23324",
-			"receivedDate": "2005-02-17",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "21582",
 			"receivedDate": "2004-11-09",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "21691",
+			"receivedDate": "2004-10-28",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "23324",
+			"receivedDate": "2005-02-17",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Notice of Intent"
 		},
 		{
@@ -62,15 +62,15 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "30259",
-			"receivedDate": "2006-01-16",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "29869",
 			"receivedDate": "2005-12-01",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "30259",
+			"receivedDate": "2006-01-16",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
@@ -86,16 +86,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "47930",
-			"receivedDate": "2008-04-08",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "46958",
 			"receivedDate": "2008-02-28",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "47930",
+			"receivedDate": "2008-04-08",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "52727",
@@ -110,16 +110,16 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "67189",
-			"receivedDate": "2011-02-14",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
 			"code": "64250",
 			"receivedDate": "2010-09-09",
 			"response": "Information/Advice only",
 			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "67189",
+			"receivedDate": "2011-02-14",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
 		},
 		{
 			"code": "68204",
@@ -140,22 +140,58 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC148014",
+			"receivedDate": "2017-10-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC161034",
 			"receivedDate": "2020-10-28",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA158087",
-			"receivedDate": "2020-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CDM160414",
 			"receivedDate": "2020-01-22",
 			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163303",
+			"receivedDate": "2021-05-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163495",
+			"receivedDate": "2021-06-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165236",
+			"receivedDate": "2021-11-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA130638",
+			"receivedDate": "2014-05-02",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA155883",
+			"receivedDate": "2019-05-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA158087",
+			"receivedDate": "2020-01-22",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA161381",
@@ -170,34 +206,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CLC143815",
-			"receivedDate": "2016-11-24",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA155883",
-			"receivedDate": "2019-05-28",
+			"code": "CEA163776",
+			"receivedDate": "2021-05-27",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CLC157558",
-			"receivedDate": "2019-11-26",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "ALC148014",
-			"receivedDate": "2017-10-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP145809",
-			"receivedDate": "2017-05-09",
-			"response": "Advice only",
-			"type": "Local Development Plan"
+			"code": "CLC143815",
+			"receivedDate": "2016-11-24",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC148871",
@@ -206,46 +224,28 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC157558",
+			"receivedDate": "2019-11-26",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "CPA146791",
 			"receivedDate": "2017-07-12",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP145809",
+			"receivedDate": "2017-05-09",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
 			"code": "GEN128791",
 			"receivedDate": "2013-12-12",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CEA130638",
-			"receivedDate": "2014-05-02",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "CDM165236",
-			"receivedDate": "2021-11-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM163495",
-			"receivedDate": "2021-06-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA163776",
-			"receivedDate": "2021-05-27",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM163303",
-			"receivedDate": "2021-05-27",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

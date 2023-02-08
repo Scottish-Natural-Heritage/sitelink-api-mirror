@@ -2,14 +2,14 @@
 	"area": 251.9,
 	"casework": [
 		{
-			"code": "38713",
-			"receivedDate": "2007-02-12",
+			"code": "37197",
+			"receivedDate": "2006-11-24",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "37197",
-			"receivedDate": "2006-11-24",
+			"code": "38713",
+			"receivedDate": "2007-02-12",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -20,58 +20,22 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "53824",
-			"receivedDate": "2009-03-27",
-			"response": "Information/Advice only",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "53574",
 			"receivedDate": "2009-03-11",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "53824",
+			"receivedDate": "2009-03-27",
+			"response": "Information/Advice only",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
 			"code": "57403",
 			"receivedDate": "2009-07-10",
 			"response": "Information/Advice only",
 			"type": "Rural Development Contract - Rural Priority"
-		},
-		{
-			"code": "CPA141666",
-			"receivedDate": "2016-06-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN140448",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN142370",
-			"receivedDate": "2016-07-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM153381",
-			"receivedDate": "2018-11-27",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPA151002",
-			"receivedDate": "2018-06-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS146642",
-			"receivedDate": "2017-07-06",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CDM146133",
@@ -86,16 +50,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN126448",
-			"receivedDate": "2013-09-18",
+			"code": "CDM153381",
+			"receivedDate": "2018-11-27",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC119868",
-			"receivedDate": "2012-12-19",
-			"response": "S.15 Advice with conditions",
-			"type": "Other"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM164073",
@@ -110,10 +68,52 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CGS146642",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CGS164986",
 			"receivedDate": "2021-11-04",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC119868",
+			"receivedDate": "2012-12-19",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "CPA141666",
+			"receivedDate": "2016-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA151002",
+			"receivedDate": "2018-06-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN126448",
+			"receivedDate": "2013-09-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN140448",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142370",
+			"receivedDate": "2016-07-19",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

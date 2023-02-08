@@ -2,16 +2,34 @@
 	"area": 4,
 	"casework": [
 		{
+			"code": "ALC146351",
+			"receivedDate": "2017-05-15",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM161338",
 			"receivedDate": "2020-12-01",
 			"response": "Advice only",
 			"type": "S.36 Application"
 		},
 		{
-			"code": "COR141036",
-			"receivedDate": "2016-04-13",
-			"response": "Resolved",
-			"type": "Complaints"
+			"code": "CDM168610",
+			"receivedDate": "2022-10-04",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CEA159801",
+			"receivedDate": "2020-07-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA166722",
+			"receivedDate": "2022-04-12",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "COR140301",
@@ -20,34 +38,16 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "SIR150982",
-			"receivedDate": "2018-06-11",
-			"response": "Partial Release",
-			"type": "Environmental Information Regulations request"
+			"code": "COR141036",
+			"receivedDate": "2016-04-13",
+			"response": "Resolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "COR152745",
 			"receivedDate": "2018-10-08",
 			"response": "Unresolved",
 			"type": "Complaints"
-		},
-		{
-			"code": "ALC146351",
-			"receivedDate": "2017-05-15",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN120402",
-			"receivedDate": "2013-01-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA166722",
-			"receivedDate": "2022-04-12",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "CPA169525",
@@ -62,16 +62,16 @@
 			"type": "Renewable energy strategy"
 		},
 		{
-			"code": "CDM168610",
-			"receivedDate": "2022-10-04",
+			"code": "GEN120402",
+			"receivedDate": "2013-01-04",
 			"response": "Advice only",
-			"type": "S.36 Application"
+			"type": "General Advice"
 		},
 		{
-			"code": "CEA159801",
-			"receivedDate": "2020-07-03",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "SIR150982",
+			"receivedDate": "2018-06-11",
+			"response": "Partial Release",
+			"type": "Environmental Information Regulations request"
 		}
 	],
 	"designation": {

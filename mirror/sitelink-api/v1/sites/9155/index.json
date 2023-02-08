@@ -2,12 +2,6 @@
 	"area": 4600,
 	"casework": [
 		{
-			"code": "35002",
-			"receivedDate": "2006-08-08",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
-		},
-		{
 			"code": "34805",
 			"receivedDate": "2006-08-02",
 			"response": "Information/Advice only",
@@ -16,6 +10,12 @@
 		{
 			"code": "34806",
 			"receivedDate": "2006-07-26",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "35002",
+			"receivedDate": "2006-08-08",
 			"response": "Information/Advice only",
 			"type": "Onshore Wind"
 		},
@@ -50,22 +50,16 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "CEA116339",
-			"receivedDate": "2012-08-03",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CDM161829",
 			"receivedDate": "2021-01-14",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP110780",
-			"receivedDate": "2011-12-19",
+			"code": "CEA116339",
+			"receivedDate": "2012-08-03",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "SEA"
 		},
 		{
 			"code": "CEA117686",
@@ -78,6 +72,12 @@
 			"receivedDate": "2012-10-15",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CPP110780",
+			"receivedDate": "2011-12-19",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

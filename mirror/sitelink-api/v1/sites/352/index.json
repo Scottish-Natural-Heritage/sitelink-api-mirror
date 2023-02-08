@@ -2,6 +2,12 @@
 	"area": 189.43,
 	"casework": [
 		{
+			"code": "13198",
+			"receivedDate": "2002-11-01",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "13211",
 			"receivedDate": "2003-05-15",
 			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
@@ -20,12 +26,6 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "13198",
-			"receivedDate": "2002-11-01",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "19457",
 			"receivedDate": "2004-07-29",
 			"response": "Information/Advice only",
@@ -38,9 +38,9 @@
 			"type": "Water"
 		},
 		{
-			"code": "22852",
-			"receivedDate": "2005-01-21",
-			"response": "NCA - Issued application for consent form",
+			"code": "21512",
+			"receivedDate": "2004-11-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
@@ -50,9 +50,9 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "21512",
-			"receivedDate": "2004-11-10",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"code": "22852",
+			"receivedDate": "2005-01-21",
+			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
 		},
 		{
@@ -92,10 +92,10 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "40044",
-			"receivedDate": "2007-04-03",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Consultation from a public body (s.12)"
+			"code": "38442",
+			"receivedDate": "2007-01-26",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "39103",
@@ -104,21 +104,21 @@
 			"type": "Tracks and Paths"
 		},
 		{
-			"code": "38442",
-			"receivedDate": "2007-01-26",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "43792",
-			"receivedDate": "2007-09-19",
-			"response": "Information/Advice only",
-			"type": "Application for consent from a public body (s.13)"
+			"code": "40044",
+			"receivedDate": "2007-04-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Consultation from a public body (s.12)"
 		},
 		{
 			"code": "43732",
 			"receivedDate": "2007-09-12",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "43792",
+			"receivedDate": "2007-09-19",
+			"response": "Information/Advice only",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
@@ -128,16 +128,16 @@
 			"type": "Consultation from a regulatory authority (s.15)"
 		},
 		{
-			"code": "57303",
-			"receivedDate": "2009-09-14",
-			"response": "Information/Advice only",
-			"type": "Water"
-		},
-		{
 			"code": "54807",
 			"receivedDate": "2009-05-13",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "57303",
+			"receivedDate": "2009-09-14",
+			"response": "Information/Advice only",
+			"type": "Water"
 		},
 		{
 			"code": "59654",
@@ -164,16 +164,76 @@
 			"type": "Other Pollution Acts"
 		},
 		{
+			"code": "69642",
+			"receivedDate": "2011-06-21",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Onshore Wind"
+		},
+		{
 			"code": "70734",
 			"receivedDate": "2011-08-08",
 			"response": "Information/Advice only",
 			"type": "Water"
 		},
 		{
-			"code": "69642",
-			"receivedDate": "2011-06-21",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Onshore Wind"
+			"code": "ALC122061",
+			"receivedDate": "2013-03-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC140038",
+			"receivedDate": "2016-01-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156709",
+			"receivedDate": "2019-09-02",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159853",
+			"receivedDate": "2020-07-13",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM127277",
+			"receivedDate": "2013-10-30",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131587",
+			"receivedDate": "2014-06-23",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132694",
+			"receivedDate": "2014-08-19",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133018",
+			"receivedDate": "2014-09-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS165080",
+			"receivedDate": "2021-11-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC111032",
+			"receivedDate": "2012-01-12",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC111107",
@@ -182,10 +242,46 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC111032",
-			"receivedDate": "2012-01-12",
+			"code": "CLC114680",
+			"receivedDate": "2012-06-06",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC128590",
+			"receivedDate": "2014-01-15",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC130388",
+			"receivedDate": "2014-04-15",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC137875",
+			"receivedDate": "2015-08-10",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC139831",
+			"receivedDate": "2016-01-22",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC141045",
+			"receivedDate": "2016-04-25",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC142968",
+			"receivedDate": "2016-09-15",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC144732",
@@ -198,36 +294,6 @@
 			"receivedDate": "2018-01-17",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC154457",
-			"receivedDate": "2019-02-25",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
-			"code": "CLC142968",
-			"receivedDate": "2016-09-15",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC140038",
-			"receivedDate": "2016-01-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC141045",
-			"receivedDate": "2016-04-25",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC139831",
-			"receivedDate": "2016-01-22",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC149204",
@@ -248,68 +314,14 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC156709",
-			"receivedDate": "2019-09-02",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN152941",
-			"receivedDate": "2018-10-26",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM131587",
-			"receivedDate": "2014-06-23",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN130200",
-			"receivedDate": "2014-04-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM127277",
-			"receivedDate": "2013-10-30",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM133018",
-			"receivedDate": "2014-09-04",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM132694",
-			"receivedDate": "2014-08-19",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "CLC154457",
+			"receivedDate": "2019-02-25",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
 		},
 		{
 			"code": "CPA127469",
 			"receivedDate": "2013-11-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC137875",
-			"receivedDate": "2015-08-10",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC128590",
-			"receivedDate": "2014-01-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA133716",
-			"receivedDate": "2014-10-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -320,16 +332,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN130233",
-			"receivedDate": "2014-04-09",
+			"code": "CPA133716",
+			"receivedDate": "2014-10-15",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC130388",
-			"receivedDate": "2014-04-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "GEN118708",
@@ -338,28 +344,22 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC122061",
-			"receivedDate": "2013-03-25",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC114680",
-			"receivedDate": "2012-06-06",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CGS165080",
-			"receivedDate": "2021-11-12",
+			"code": "GEN130200",
+			"receivedDate": "2014-04-04",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "General Advice"
 		},
 		{
-			"code": "ALC159853",
-			"receivedDate": "2020-07-13",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN130233",
+			"receivedDate": "2014-04-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN152941",
+			"receivedDate": "2018-10-26",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

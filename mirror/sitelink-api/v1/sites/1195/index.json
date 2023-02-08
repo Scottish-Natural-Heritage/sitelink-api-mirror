@@ -14,30 +14,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CPP160831",
-			"receivedDate": "2020-10-09",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM158475",
-			"receivedDate": "2020-02-21",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS154201",
-			"receivedDate": "2019-02-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN153640",
-			"receivedDate": "2018-12-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC147083",
 			"receivedDate": "2017-08-01",
 			"response": "Licence/Consent not required",
@@ -50,16 +26,40 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP158933",
-			"receivedDate": "2020-04-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "CDM158475",
+			"receivedDate": "2020-02-21",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM159029",
 			"receivedDate": "2020-04-21",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CGS154201",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP158933",
+			"receivedDate": "2020-04-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP160831",
+			"receivedDate": "2020-10-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN153640",
+			"receivedDate": "2018-12-17",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

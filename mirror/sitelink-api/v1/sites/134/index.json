@@ -14,18 +14,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CPA144545",
-			"receivedDate": "2017-01-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA144483",
-			"receivedDate": "2017-01-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM114253",
 			"receivedDate": "2012-05-18",
 			"response": "Advice only",
@@ -44,10 +32,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN169042",
-			"receivedDate": "2022-09-29",
+			"code": "CPA144483",
+			"receivedDate": "2017-01-24",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA144545",
+			"receivedDate": "2017-01-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA167121",
@@ -60,6 +54,12 @@
 			"receivedDate": "2021-11-23",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "GEN169042",
+			"receivedDate": "2022-09-29",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

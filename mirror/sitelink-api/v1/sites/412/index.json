@@ -2,14 +2,8 @@
 	"area": 15.5,
 	"casework": [
 		{
-			"code": "CEA155914",
-			"receivedDate": "2019-06-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM157116",
-			"receivedDate": "2019-10-15",
+			"code": "CDM122688",
+			"receivedDate": "2013-04-17",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -26,22 +20,28 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM157116",
+			"receivedDate": "2019-10-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA130802",
 			"receivedDate": "2014-05-13",
 			"response": "Advice only",
 			"type": "SEA"
 		},
 		{
-			"code": "CDM122688",
-			"receivedDate": "2013-04-17",
+			"code": "CEA155914",
+			"receivedDate": "2019-06-19",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
-			"code": "GEN122973",
-			"receivedDate": "2013-04-24",
+			"code": "CEA166507",
+			"receivedDate": "2022-03-30",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
 		},
 		{
 			"code": "CPP118520",
@@ -50,10 +50,10 @@
 			"type": "Local Development Plan"
 		},
 		{
-			"code": "CEA166507",
-			"receivedDate": "2022-03-30",
+			"code": "GEN122973",
+			"receivedDate": "2013-04-24",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

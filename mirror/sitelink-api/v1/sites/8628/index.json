@@ -20,6 +20,12 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
+			"code": "58875",
+			"receivedDate": "2009-12-03",
+			"response": "Information/Advice only",
+			"type": "Tracks and Paths"
+		},
+		{
 			"code": "58921",
 			"receivedDate": "2009-12-15",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -32,94 +38,16 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "58875",
-			"receivedDate": "2009-12-03",
-			"response": "Information/Advice only",
-			"type": "Tracks and Paths"
-		},
-		{
 			"code": "66188",
 			"receivedDate": "2010-10-14",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "GEN115731",
-			"receivedDate": "2012-07-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN144557",
-			"receivedDate": "2017-01-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC136771",
-			"receivedDate": "2015-05-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "GEN142423",
-			"receivedDate": "2016-08-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC152773",
-			"receivedDate": "2018-10-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "COR151831",
-			"receivedDate": "2018-08-08",
-			"response": "Information only",
-			"type": "Ministerial Correspondence"
-		},
-		{
-			"code": "CEA151314",
-			"receivedDate": "2018-06-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC157380",
-			"receivedDate": "2019-10-30",
+			"code": "ALC131371",
+			"receivedDate": "2014-05-27",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM151516",
-			"receivedDate": "2018-07-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM152254",
-			"receivedDate": "2018-09-06",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "ALC153705",
-			"receivedDate": "2018-12-21",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM153050",
-			"receivedDate": "2018-11-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR148916",
-			"receivedDate": "2018-01-11",
-			"response": "Information only",
-			"type": "General Enquiries"
 		},
 		{
 			"code": "ALC148406",
@@ -128,9 +56,27 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC131371",
-			"receivedDate": "2014-05-27",
+			"code": "ALC152773",
+			"receivedDate": "2018-10-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC153705",
+			"receivedDate": "2018-12-21",
 			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157380",
+			"receivedDate": "2019-10-30",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC168143",
+			"receivedDate": "2022-08-23",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -146,10 +92,46 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN117466",
-			"receivedDate": "2012-09-11",
+			"code": "CDM151516",
+			"receivedDate": "2018-07-13",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152254",
+			"receivedDate": "2018-09-06",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM153050",
+			"receivedDate": "2018-11-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA151314",
+			"receivedDate": "2018-06-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC136771",
+			"receivedDate": "2015-05-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "COR148916",
+			"receivedDate": "2018-01-11",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR151831",
+			"receivedDate": "2018-08-08",
+			"response": "Information only",
+			"type": "Ministerial Correspondence"
 		},
 		{
 			"code": "CPA120784",
@@ -158,10 +140,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC168143",
-			"receivedDate": "2022-08-23",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN115731",
+			"receivedDate": "2012-07-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN117466",
+			"receivedDate": "2012-09-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142423",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN144557",
+			"receivedDate": "2017-01-30",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

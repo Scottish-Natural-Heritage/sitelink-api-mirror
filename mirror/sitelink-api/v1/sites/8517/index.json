@@ -2,6 +2,12 @@
 	"area": 379.64,
 	"casework": [
 		{
+			"code": "20624",
+			"receivedDate": "2004-09-17",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Water"
+		},
+		{
 			"code": "21143",
 			"receivedDate": "2003-07-31",
 			"response": "Information/Advice only",
@@ -14,15 +20,27 @@
 			"type": "Site Search"
 		},
 		{
+			"code": "22371",
+			"receivedDate": "2004-12-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Environmentally Sensitive Area"
+		},
+		{
+			"code": "22457",
+			"receivedDate": "2004-12-13",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "22568",
+			"receivedDate": "2004-12-20",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "22906",
 			"receivedDate": "2004-12-21",
 			"response": "Information/Advice only",
-			"type": "Water"
-		},
-		{
-			"code": "20624",
-			"receivedDate": "2004-09-17",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Water"
 		},
 		{
@@ -38,34 +56,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "22457",
-			"receivedDate": "2004-12-13",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
-			"code": "22568",
-			"receivedDate": "2004-12-20",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "24857",
 			"receivedDate": "2005-04-20",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Agricultural Drainage Works"
-		},
-		{
-			"code": "22371",
-			"receivedDate": "2004-12-03",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Environmentally Sensitive Area"
-		},
-		{
-			"code": "27502",
-			"receivedDate": "2005-08-03",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "26475",
@@ -74,15 +68,45 @@
 			"type": "Rural Stewardship Scheme"
 		},
 		{
+			"code": "27502",
+			"receivedDate": "2005-08-03",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "29141",
+			"receivedDate": "2005-11-02",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "29243",
 			"receivedDate": "2005-11-18",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
 		{
-			"code": "29141",
-			"receivedDate": "2005-11-02",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "31480",
+			"receivedDate": "2006-02-17",
+			"response": "Information/Advice only",
+			"type": "Oil Contingency Plan"
+		},
+		{
+			"code": "32014",
+			"receivedDate": "2006-04-07",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "32876",
+			"receivedDate": "2006-05-24",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "34216",
+			"receivedDate": "2006-07-20",
+			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
@@ -98,30 +122,6 @@
 			"type": "Rural Stewardship Scheme"
 		},
 		{
-			"code": "32014",
-			"receivedDate": "2006-04-07",
-			"response": "Information/Advice only",
-			"type": "Species Licensing"
-		},
-		{
-			"code": "32876",
-			"receivedDate": "2006-05-24",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "31480",
-			"receivedDate": "2006-02-17",
-			"response": "Information/Advice only",
-			"type": "Oil Contingency Plan"
-		},
-		{
-			"code": "34216",
-			"receivedDate": "2006-07-20",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "34847",
 			"receivedDate": "2006-08-03",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
@@ -134,21 +134,57 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "45559",
-			"receivedDate": "2007-12-21",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "45107",
 			"receivedDate": "2007-11-22",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
 		},
 		{
+			"code": "45559",
+			"receivedDate": "2007-12-21",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "48847",
 			"receivedDate": "2008-06-09",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "51665",
+			"receivedDate": "2008-11-06",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "52044",
+			"receivedDate": "2008-11-03",
+			"response": "Information/Advice only",
+			"type": "Coastal Protection Act"
+		},
+		{
+			"code": "52144",
+			"receivedDate": "2008-11-27",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "52656",
+			"receivedDate": "2009-01-15",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "52968",
+			"receivedDate": "2009-02-03",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "53066",
+			"receivedDate": "2009-02-10",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
@@ -164,46 +200,10 @@
 			"type": "Agricultural Drainage Works"
 		},
 		{
-			"code": "53066",
-			"receivedDate": "2009-02-10",
-			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "52044",
-			"receivedDate": "2008-11-03",
+			"code": "59839",
+			"receivedDate": "2010-02-01",
 			"response": "Information/Advice only",
-			"type": "Coastal Protection Act"
-		},
-		{
-			"code": "52656",
-			"receivedDate": "2009-01-15",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Species Licensing"
-		},
-		{
-			"code": "51665",
-			"receivedDate": "2008-11-06",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "52144",
-			"receivedDate": "2008-11-27",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
-		},
-		{
-			"code": "52968",
-			"receivedDate": "2009-02-03",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "60808",
-			"receivedDate": "2010-04-06",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
+			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
 			"code": "60462",
@@ -212,16 +212,10 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "59839",
-			"receivedDate": "2010-02-01",
-			"response": "Information/Advice only",
-			"type": "Rural Development Contract - Rural Priority"
-		},
-		{
-			"code": "62750",
-			"receivedDate": "2010-07-12",
-			"response": "Information/Advice only",
-			"type": "Mineral Workings"
+			"code": "60808",
+			"receivedDate": "2010-04-06",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "62498",
@@ -236,10 +230,22 @@
 			"type": "Mineral Workings"
 		},
 		{
+			"code": "62750",
+			"receivedDate": "2010-07-12",
+			"response": "Information/Advice only",
+			"type": "Mineral Workings"
+		},
+		{
 			"code": "63209",
 			"receivedDate": "2010-07-27",
 			"response": "Information/Advice only",
 			"type": "Other plans and strategies"
+		},
+		{
+			"code": "65436",
+			"receivedDate": "2010-11-02",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "66960",
@@ -254,46 +260,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "65436",
-			"receivedDate": "2010-11-02",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "70327",
 			"receivedDate": "2011-07-21",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "CGS137911",
-			"receivedDate": "2015-07-31",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM162470",
-			"receivedDate": "2021-03-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM160225",
-			"receivedDate": "2020-08-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS154807",
-			"receivedDate": "2019-03-11",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM162344",
-			"receivedDate": "2021-03-08",
-			"response": "Advice only",
-			"type": "Planning Application"
 		},
 		{
 			"code": "CDM110320",
@@ -302,116 +272,8 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA149069",
-			"receivedDate": "2018-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM141890",
-			"receivedDate": "2016-06-27",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CPA143070",
-			"receivedDate": "2016-09-28",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS141514",
-			"receivedDate": "2016-05-31",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM139206",
-			"receivedDate": "2015-11-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS139748",
-			"receivedDate": "2016-01-15",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM141312",
-			"receivedDate": "2016-05-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS138043",
-			"receivedDate": "2015-08-26",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM138716",
-			"receivedDate": "2015-10-13",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CDM137927",
-			"receivedDate": "2015-08-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA139013",
-			"receivedDate": "2015-11-09",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM156113",
-			"receivedDate": "2019-07-04",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM149867",
-			"receivedDate": "2018-03-16",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "CGS152688",
-			"receivedDate": "2018-10-09",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CGS148411",
-			"receivedDate": "2017-11-22",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CGS147016",
-			"receivedDate": "2017-07-06",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CEA147026",
-			"receivedDate": "2017-08-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS147121",
-			"receivedDate": "2017-08-15",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM127149",
-			"receivedDate": "2013-10-25",
+			"code": "CDM117561",
+			"receivedDate": "2012-09-17",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
@@ -422,26 +284,74 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA135235",
-			"receivedDate": "2015-01-28",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CDM127149",
+			"receivedDate": "2013-10-25",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CGS137876",
-			"receivedDate": "2015-08-11",
+			"code": "CDM137927",
+			"receivedDate": "2015-08-13",
 			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CEA117563",
-			"receivedDate": "2012-09-17",
+			"code": "CDM138716",
+			"receivedDate": "2015-10-13",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "S.37 Application"
 		},
 		{
-			"code": "CDM117561",
-			"receivedDate": "2012-09-17",
+			"code": "CDM139206",
+			"receivedDate": "2015-11-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141312",
+			"receivedDate": "2016-05-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141890",
+			"receivedDate": "2016-06-27",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM149867",
+			"receivedDate": "2018-03-16",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM156113",
+			"receivedDate": "2019-07-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM160225",
+			"receivedDate": "2020-08-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162344",
+			"receivedDate": "2021-03-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162470",
+			"receivedDate": "2021-03-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163253",
+			"receivedDate": "2021-05-27",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
@@ -458,10 +368,100 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM163253",
-			"receivedDate": "2021-05-27",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CEA117563",
+			"receivedDate": "2012-09-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA139013",
+			"receivedDate": "2015-11-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147026",
+			"receivedDate": "2017-08-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149069",
+			"receivedDate": "2018-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS137876",
+			"receivedDate": "2015-08-11",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS137911",
+			"receivedDate": "2015-07-31",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS138043",
+			"receivedDate": "2015-08-26",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS139748",
+			"receivedDate": "2016-01-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS141514",
+			"receivedDate": "2016-05-31",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS147016",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS147121",
+			"receivedDate": "2017-08-15",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS148411",
+			"receivedDate": "2017-11-22",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS152688",
+			"receivedDate": "2018-10-09",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS154807",
+			"receivedDate": "2019-03-11",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CPA135235",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA143070",
+			"receivedDate": "2016-09-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA164622",

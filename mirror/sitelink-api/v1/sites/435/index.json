@@ -2,16 +2,16 @@
 	"area": 3.2,
 	"casework": [
 		{
-			"code": "23729",
-			"receivedDate": "2005-03-07",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "23457",
 			"receivedDate": "2005-02-15",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "23729",
+			"receivedDate": "2005-03-07",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "58711",
@@ -20,8 +20,20 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "ALC146235",
+			"receivedDate": "2017-03-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM149175",
 			"receivedDate": "2018-01-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165633",
+			"receivedDate": "2022-01-14",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -30,18 +42,6 @@
 			"receivedDate": "2018-08-28",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC146235",
-			"receivedDate": "2017-03-20",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM165633",
-			"receivedDate": "2022-01-14",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

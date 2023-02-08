@@ -20,16 +20,16 @@
 			"type": "Other Pollution Acts"
 		},
 		{
-			"code": "38049",
-			"receivedDate": "2006-12-04",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "36404",
 			"receivedDate": "2006-10-18",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "38049",
+			"receivedDate": "2006-12-04",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "41360",
@@ -42,6 +42,18 @@
 			"receivedDate": "2007-08-31",
 			"response": "Information/Advice only",
 			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "44740",
+			"receivedDate": "2007-08-07",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "44775",
+			"receivedDate": "2007-10-15",
+			"response": "B. Support",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "46012",
@@ -62,18 +74,6 @@
 			"type": "Waste Tips / Landfill"
 		},
 		{
-			"code": "44775",
-			"receivedDate": "2007-10-15",
-			"response": "B. Support",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "44740",
-			"receivedDate": "2007-08-07",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
-		},
-		{
 			"code": "50981",
 			"receivedDate": "2008-10-06",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -92,6 +92,30 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "ALC129429",
+			"receivedDate": "2014-02-21",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC137230",
+			"receivedDate": "2015-06-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147645",
+			"receivedDate": "2017-09-01",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147675",
+			"receivedDate": "2017-09-25",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC161214",
 			"receivedDate": "2020-11-17",
 			"response": "SSSI Consent Given",
@@ -104,16 +128,46 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC147645",
-			"receivedDate": "2017-09-01",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM166176",
+			"receivedDate": "2022-02-23",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "ALC137230",
-			"receivedDate": "2015-06-25",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CEA117700",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CEA122344",
+			"receivedDate": "2013-04-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA134871",
+			"receivedDate": "2015-01-19",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CLC153094",
+			"receivedDate": "2018-11-02",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP118211",
+			"receivedDate": "2012-09-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP129670",
+			"receivedDate": "2014-03-07",
+			"response": "Advice only",
+			"type": "Local Development Plan"
 		},
 		{
 			"code": "CPP153405",
@@ -126,60 +180,6 @@
 			"receivedDate": "2018-01-25",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CLC153094",
-			"receivedDate": "2018-11-02",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC147675",
-			"receivedDate": "2017-09-25",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA122344",
-			"receivedDate": "2013-04-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC129429",
-			"receivedDate": "2014-02-21",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP129670",
-			"receivedDate": "2014-03-07",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CEA134871",
-			"receivedDate": "2015-01-19",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "CPP118211",
-			"receivedDate": "2012-09-20",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA117700",
-			"receivedDate": "2012-09-25",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "CDM166176",
-			"receivedDate": "2022-02-23",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

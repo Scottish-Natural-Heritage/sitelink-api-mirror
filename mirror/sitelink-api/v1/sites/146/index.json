@@ -2,12 +2,6 @@
 	"area": 7.46,
 	"casework": [
 		{
-			"code": "8048",
-			"receivedDate": "2002-10-01",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "10444",
 			"receivedDate": "2003-03-19",
 			"response": "Information/Advice only",
@@ -38,20 +32,26 @@
 			"type": "Other Developments"
 		},
 		{
+			"code": "8048",
+			"receivedDate": "2002-10-01",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "ALC121124",
+			"receivedDate": "2013-01-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC157442",
 			"receivedDate": "2019-08-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC131389",
-			"receivedDate": "2014-06-11",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC121124",
-			"receivedDate": "2013-01-14",
+			"code": "ALC167655",
+			"receivedDate": "2022-03-10",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -68,10 +68,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC167655",
-			"receivedDate": "2022-03-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC131389",
+			"receivedDate": "2014-06-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

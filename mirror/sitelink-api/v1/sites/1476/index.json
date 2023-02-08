@@ -12,12 +12,6 @@
 	"area": 55.45,
 	"casework": [
 		{
-			"code": "70350",
-			"receivedDate": "2011-07-22",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
-		},
-		{
 			"code": "67714",
 			"receivedDate": "2011-03-23",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -30,22 +24,10 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "CDM116122",
-			"receivedDate": "2012-07-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC155679",
-			"receivedDate": "2019-06-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP145841",
-			"receivedDate": "2017-05-08",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "70350",
+			"receivedDate": "2011-07-22",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "ALC119643",
@@ -54,10 +36,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS117762",
-			"receivedDate": "2012-09-25",
+			"code": "ALC155679",
+			"receivedDate": "2019-06-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159221",
+			"receivedDate": "2020-05-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM116122",
+			"receivedDate": "2012-07-26",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CGS114331",
@@ -66,10 +60,16 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "ALC159221",
-			"receivedDate": "2020-05-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CGS117762",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP145841",
+			"receivedDate": "2017-05-08",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

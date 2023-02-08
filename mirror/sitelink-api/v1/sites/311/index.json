@@ -20,6 +20,12 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
+			"code": "53164",
+			"receivedDate": "2009-02-17",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
 			"code": "54313",
 			"receivedDate": "2009-04-22",
 			"response": "Information/Advice only",
@@ -32,20 +38,8 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "53164",
-			"receivedDate": "2009-02-17",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
 			"code": "63896",
 			"receivedDate": "2010-08-30",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
-			"code": "67043",
-			"receivedDate": "2011-02-11",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
@@ -56,20 +50,26 @@
 			"type": "Site Search"
 		},
 		{
+			"code": "67043",
+			"receivedDate": "2011-02-11",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
 			"code": "70249",
 			"receivedDate": "2011-07-11",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
+			"code": "ALC156298",
+			"receivedDate": "2019-07-24",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM155525",
-			"receivedDate": "2019-05-20",
+			"code": "CDM142341",
+			"receivedDate": "2016-07-29",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -80,34 +80,22 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC141628",
-			"receivedDate": "2016-06-08",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM142341",
-			"receivedDate": "2016-07-29",
+			"code": "CDM155525",
+			"receivedDate": "2019-05-20",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC154143",
-			"receivedDate": "2019-02-04",
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC141628",
+			"receivedDate": "2016-06-08",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC156298",
-			"receivedDate": "2019-07-24",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA153005",
-			"receivedDate": "2018-10-24",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CLC146643",
@@ -116,10 +104,16 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "GEN123301",
-			"receivedDate": "2013-05-14",
+			"code": "CLC154143",
+			"receivedDate": "2019-02-04",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA153005",
+			"receivedDate": "2018-10-24",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "GEN117730",
@@ -134,14 +128,20 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "GEN123862",
-			"receivedDate": "2013-06-06",
+			"code": "GEN123301",
+			"receivedDate": "2013-05-14",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
 			"code": "GEN123380",
 			"receivedDate": "2013-05-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN123862",
+			"receivedDate": "2013-06-06",
 			"response": "Advice only",
 			"type": "General Advice"
 		}

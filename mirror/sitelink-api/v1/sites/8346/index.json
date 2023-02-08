@@ -44,16 +44,16 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "48433",
-			"receivedDate": "2008-06-10",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
 			"code": "48102",
 			"receivedDate": "2008-04-24",
 			"response": "Information/Advice only",
 			"type": "Freedom of Information Act - Information Request"
+		},
+		{
+			"code": "48433",
+			"receivedDate": "2008-06-10",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
 		},
 		{
 			"code": "62686",
@@ -62,68 +62,14 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "CEA115861",
-			"receivedDate": "2012-07-16",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC119743",
+			"receivedDate": "2013-01-07",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA161311",
-			"receivedDate": "2020-11-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA159629",
-			"receivedDate": "2020-06-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN159565",
-			"receivedDate": "2020-06-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA162503",
-			"receivedDate": "2021-03-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC110308",
-			"receivedDate": "2011-11-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC155810",
-			"receivedDate": "2019-06-06",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS155986",
-			"receivedDate": "2019-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP157080",
-			"receivedDate": "2019-10-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC142028",
-			"receivedDate": "2016-07-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC151349",
-			"receivedDate": "2018-07-04",
+			"code": "ALC146430",
+			"receivedDate": "2017-06-22",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -134,20 +80,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS153163",
-			"receivedDate": "2018-11-13",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "ALC148465",
 			"receivedDate": "2017-11-13",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC146430",
-			"receivedDate": "2017-06-22",
+			"code": "ALC151349",
+			"receivedDate": "2018-07-04",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -158,10 +98,10 @@
 			"type": "S.37 Application"
 		},
 		{
-			"code": "ALC119743",
-			"receivedDate": "2013-01-07",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM162511",
+			"receivedDate": "2021-03-18",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM169285",
@@ -170,16 +110,76 @@
 			"type": "S.37 Application"
 		},
 		{
-			"code": "CDM162511",
-			"receivedDate": "2021-03-18",
+			"code": "CEA115861",
+			"receivedDate": "2012-07-16",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "CEA159629",
+			"receivedDate": "2020-06-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161311",
+			"receivedDate": "2020-11-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA162503",
+			"receivedDate": "2021-03-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS153163",
+			"receivedDate": "2018-11-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS155986",
+			"receivedDate": "2019-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC110308",
+			"receivedDate": "2011-11-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC142028",
+			"receivedDate": "2016-07-06",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC155810",
+			"receivedDate": "2019-06-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP157080",
+			"receivedDate": "2019-10-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP163762",
 			"receivedDate": "2021-07-07",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN159565",
+			"receivedDate": "2020-06-11",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

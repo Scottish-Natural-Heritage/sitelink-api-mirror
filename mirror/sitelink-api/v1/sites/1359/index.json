@@ -20,6 +20,18 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "ALC160762",
+			"receivedDate": "2020-10-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM133922",
+			"receivedDate": "2014-11-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM137514",
 			"receivedDate": "2015-07-14",
 			"response": "Holding objection",
@@ -32,22 +44,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC160762",
-			"receivedDate": "2020-10-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP148658",
-			"receivedDate": "2017-12-13",
+			"code": "CEA129710",
+			"receivedDate": "2014-03-11",
 			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM133922",
-			"receivedDate": "2014-11-03",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
 			"code": "CPP128219",
@@ -56,10 +56,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA129710",
-			"receivedDate": "2014-03-11",
+			"code": "CPP148658",
+			"receivedDate": "2017-12-13",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

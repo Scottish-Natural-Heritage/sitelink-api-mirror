@@ -2,22 +2,10 @@
 	"area": 297.3,
 	"casework": [
 		{
-			"code": "GEN160217",
-			"receivedDate": "2020-08-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN160720",
-			"receivedDate": "2020-10-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN160444",
-			"receivedDate": "2020-09-08",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC135640",
+			"receivedDate": "2015-03-03",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM162327",
@@ -26,10 +14,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN157531",
-			"receivedDate": "2019-10-10",
+			"code": "CDM164721",
+			"receivedDate": "2021-10-08",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166861",
+			"receivedDate": "2022-05-04",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC148000",
@@ -44,22 +38,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC135640",
-			"receivedDate": "2015-03-03",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM166861",
-			"receivedDate": "2022-05-04",
+			"code": "GEN157531",
+			"receivedDate": "2019-10-10",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM164721",
-			"receivedDate": "2021-10-08",
-			"response": "No Comment",
-			"type": "Planning Application"
+			"code": "GEN160217",
+			"receivedDate": "2020-08-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160444",
+			"receivedDate": "2020-09-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN160720",
+			"receivedDate": "2020-10-01",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

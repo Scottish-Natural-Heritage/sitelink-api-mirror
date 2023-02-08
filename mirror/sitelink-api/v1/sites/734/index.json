@@ -14,10 +14,34 @@
 			"type": "Site Search"
 		},
 		{
+			"code": "CEA128338",
+			"receivedDate": "2014-01-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA131942",
+			"receivedDate": "2014-07-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA166102",
+			"receivedDate": "2022-02-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS138931",
 			"receivedDate": "2015-11-04",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA129070",
+			"receivedDate": "2014-02-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA129073",
@@ -32,40 +56,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA131942",
-			"receivedDate": "2014-07-07",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA128338",
-			"receivedDate": "2014-01-06",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CPA129217",
 			"receivedDate": "2014-02-13",
 			"response": "Advice only",
 			"type": "Grants pre-application enquiry"
-		},
-		{
-			"code": "CPA129070",
-			"receivedDate": "2014-02-06",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN130374",
-			"receivedDate": "2014-04-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA165286",
-			"receivedDate": "2021-12-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA164113",
@@ -80,10 +74,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA166102",
-			"receivedDate": "2022-02-22",
+			"code": "CPA165286",
+			"receivedDate": "2021-12-01",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN130374",
+			"receivedDate": "2014-04-11",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {
