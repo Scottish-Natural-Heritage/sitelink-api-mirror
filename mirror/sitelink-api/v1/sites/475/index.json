@@ -8,14 +8,20 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
+			"code": "18646",
+			"receivedDate": "2004-03-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "19444",
 			"receivedDate": "2003-08-07",
 			"response": "Information/Advice only",
 			"type": "Other Developments"
 		},
 		{
-			"code": "18646",
-			"receivedDate": "2004-03-03",
+			"code": "22124",
+			"receivedDate": "2004-07-27",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
@@ -24,12 +30,6 @@
 			"receivedDate": "2005-03-24",
 			"response": "Information/Advice only",
 			"type": "Mineral Workings"
-		},
-		{
-			"code": "22124",
-			"receivedDate": "2004-07-27",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
 		},
 		{
 			"code": "43600",
@@ -68,32 +68,14 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CDM116251",
-			"receivedDate": "2012-07-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN112172",
-			"receivedDate": "2012-02-23",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC150213",
 			"receivedDate": "2018-04-12",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM155853",
-			"receivedDate": "2019-06-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146166",
-			"receivedDate": "2017-06-08",
+			"code": "CDM116251",
+			"receivedDate": "2012-07-31",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -116,16 +98,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC167112",
-			"receivedDate": "2022-05-24",
+			"code": "CDM146166",
+			"receivedDate": "2017-06-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155853",
+			"receivedDate": "2019-06-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CLC163760",
+			"receivedDate": "2021-07-12",
 			"response": "S.12 SSSI consent not required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPA168697",
-			"receivedDate": "2022-10-14",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CLC167112",
+			"receivedDate": "2022-05-24",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CPA158729",
@@ -134,10 +128,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC163760",
-			"receivedDate": "2021-07-12",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CPA168697",
+			"receivedDate": "2022-10-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN112172",
+			"receivedDate": "2012-02-23",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

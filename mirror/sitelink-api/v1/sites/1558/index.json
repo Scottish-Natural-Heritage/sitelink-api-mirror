@@ -20,6 +20,12 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "56550",
+			"receivedDate": "2009-05-27",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "57258",
 			"receivedDate": "2009-08-31",
 			"response": "Information/Advice only",
@@ -32,46 +38,10 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "56550",
-			"receivedDate": "2009-05-27",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "CLC137316",
-			"receivedDate": "2015-06-30",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM150615",
-			"receivedDate": "2018-05-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CDM128675",
 			"receivedDate": "2014-01-21",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC127329",
-			"receivedDate": "2013-10-28",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM131048",
-			"receivedDate": "2014-05-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA129047",
-			"receivedDate": "2014-02-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CDM128679",
@@ -86,16 +56,46 @@
 			"type": "S.36 Application"
 		},
 		{
-			"code": "CLC135968",
-			"receivedDate": "2015-03-30",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM131048",
+			"receivedDate": "2014-05-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM150615",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM166055",
 			"receivedDate": "2022-02-18",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CLC127329",
+			"receivedDate": "2013-10-28",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC135968",
+			"receivedDate": "2015-03-30",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC137316",
+			"receivedDate": "2015-06-30",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA129047",
+			"receivedDate": "2014-02-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA164797",

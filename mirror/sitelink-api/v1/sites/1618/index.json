@@ -20,8 +20,38 @@
 			"type": "Railways"
 		},
 		{
-			"code": "CDM139325",
-			"receivedDate": "2015-11-24",
+			"code": "ALC133200",
+			"receivedDate": "2014-09-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147347",
+			"receivedDate": "2017-09-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156602",
+			"receivedDate": "2019-08-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC160455",
+			"receivedDate": "2020-09-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM121378",
+			"receivedDate": "2013-02-25",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM123230",
+			"receivedDate": "2013-05-13",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -32,22 +62,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC160455",
-			"receivedDate": "2020-09-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC160964",
-			"receivedDate": "2020-10-22",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA144515",
-			"receivedDate": "2017-01-26",
+			"code": "CDM139325",
+			"receivedDate": "2015-11-24",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM144521",
@@ -56,28 +74,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC156059",
-			"receivedDate": "2019-06-24",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "CDM157135",
 			"receivedDate": "2019-10-09",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP155450",
-			"receivedDate": "2019-03-18",
+			"code": "CEA144515",
+			"receivedDate": "2017-01-26",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
-			"code": "ALC156602",
-			"receivedDate": "2019-08-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC156059",
+			"receivedDate": "2019-06-24",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC160964",
+			"receivedDate": "2020-10-22",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CPA155198",
@@ -86,38 +104,20 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC147347",
-			"receivedDate": "2017-09-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC133200",
-			"receivedDate": "2014-09-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM123230",
-			"receivedDate": "2013-05-13",
+			"code": "CPP155450",
+			"receivedDate": "2019-03-18",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM121378",
-			"receivedDate": "2013-02-25",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP168539",
-			"receivedDate": "2022-09-27",
-			"response": "Advice only",
-			"type": "Oil spill contingency plan"
+			"type": "Other"
 		},
 		{
 			"code": "CPP160134",
 			"receivedDate": "2020-08-06",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CPP168539",
+			"receivedDate": "2022-09-27",
 			"response": "Advice only",
 			"type": "Oil spill contingency plan"
 		}

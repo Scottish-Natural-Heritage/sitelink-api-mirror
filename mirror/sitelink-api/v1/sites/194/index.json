@@ -2,12 +2,6 @@
 	"area": 1875.64,
 	"casework": [
 		{
-			"code": "15746",
-			"receivedDate": "2004-01-21",
-			"response": "Information/Advice only",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "12786",
 			"receivedDate": "2003-08-01",
 			"response": "Information/Advice only",
@@ -17,6 +11,12 @@
 			"code": "14266",
 			"receivedDate": "2003-10-20",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "15746",
+			"receivedDate": "2004-01-21",
+			"response": "Information/Advice only",
 			"type": "Notice of Intent"
 		},
 		{
@@ -32,106 +32,22 @@
 			"type": "Forest Design Plan"
 		},
 		{
-			"code": "42877",
-			"receivedDate": "2007-08-08",
-			"response": "Information/Advice only",
-			"type": "Other Forestry Plans, Strategies & Schemes"
-		},
-		{
 			"code": "41460",
 			"receivedDate": "2007-05-21",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CPP162102",
-			"receivedDate": "2021-02-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS162446",
-			"receivedDate": "2021-03-16",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP160607",
-			"receivedDate": "2020-09-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "42877",
+			"receivedDate": "2007-08-08",
+			"response": "Information/Advice only",
+			"type": "Other Forestry Plans, Strategies & Schemes"
 		},
 		{
 			"code": "ALC111672",
 			"receivedDate": "2012-02-02",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP155896",
-			"receivedDate": "2019-06-17",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS151777",
-			"receivedDate": "2018-08-02",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP156595",
-			"receivedDate": "2019-08-19",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP157907",
-			"receivedDate": "2020-01-10",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP147240",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA152326",
-			"receivedDate": "2018-09-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP146449",
-			"receivedDate": "2017-06-26",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA132618",
-			"receivedDate": "2014-08-13",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC127282",
-			"receivedDate": "2013-09-13",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN132867",
-			"receivedDate": "2014-08-26",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS133510",
-			"receivedDate": "2014-09-12",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "ALC114804",
@@ -146,22 +62,100 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA167121",
-			"receivedDate": "2022-05-24",
+			"code": "CDM165532",
+			"receivedDate": "2022-01-06",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP165201",
-			"receivedDate": "2021-11-23",
+			"code": "CEA132618",
+			"receivedDate": "2014-08-13",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
+		},
+		{
+			"code": "CEA152326",
+			"receivedDate": "2018-09-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS133510",
+			"receivedDate": "2014-09-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS151777",
+			"receivedDate": "2018-08-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS162446",
+			"receivedDate": "2021-03-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CGS164536",
 			"receivedDate": "2021-09-22",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC127282",
+			"receivedDate": "2013-09-13",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA167121",
+			"receivedDate": "2022-05-24",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPP146449",
+			"receivedDate": "2017-06-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP147240",
+			"receivedDate": "2017-08-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP155896",
+			"receivedDate": "2019-06-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP156595",
+			"receivedDate": "2019-08-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP157907",
+			"receivedDate": "2020-01-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP160607",
+			"receivedDate": "2020-09-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP162102",
+			"receivedDate": "2021-02-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP163421",
@@ -176,10 +170,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM165532",
-			"receivedDate": "2022-01-06",
+			"code": "CPP165201",
+			"receivedDate": "2021-11-23",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
+		},
+		{
+			"code": "GEN132867",
+			"receivedDate": "2014-08-26",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -14,6 +14,12 @@
 			"type": "Consultation from a regulatory authority (s.15)"
 		},
 		{
+			"code": "64347",
+			"receivedDate": "2010-09-14",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
 			"code": "67857",
 			"receivedDate": "2011-03-23",
 			"response": "Information/Advice only",
@@ -26,20 +32,20 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "64347",
-			"receivedDate": "2010-09-14",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
+			"code": "CDM129316",
+			"receivedDate": "2014-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CEA137037",
-			"receivedDate": "2015-06-10",
+			"code": "CEA126887",
+			"receivedDate": "2013-10-14",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CEA160119",
-			"receivedDate": "2020-08-07",
+			"code": "CEA137037",
+			"receivedDate": "2015-06-10",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -50,22 +56,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA147247",
-			"receivedDate": "2017-08-24",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA126887",
-			"receivedDate": "2013-10-14",
+			"code": "CEA160119",
+			"receivedDate": "2020-08-07",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "GEN133890",
-			"receivedDate": "2014-10-27",
+			"code": "CEA166549",
+			"receivedDate": "2022-04-01",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "EIA"
 		},
 		{
 			"code": "CLC136422",
@@ -74,16 +74,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM129316",
-			"receivedDate": "2014-02-20",
+			"code": "CPA147247",
+			"receivedDate": "2017-08-24",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP167024",
-			"receivedDate": "2022-05-16",
+			"code": "CPA162724",
+			"receivedDate": "2021-04-01",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CPA169275",
@@ -98,16 +98,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPA162724",
-			"receivedDate": "2021-04-01",
+			"code": "CPP167024",
+			"receivedDate": "2022-05-16",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA166549",
-			"receivedDate": "2022-04-01",
+			"code": "GEN133890",
+			"receivedDate": "2014-10-27",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -14,6 +14,12 @@
 			"type": "Rural Stewardship Scheme"
 		},
 		{
+			"code": "35812",
+			"receivedDate": "2006-09-25",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
 			"code": "36874",
 			"receivedDate": "2006-11-13",
 			"response": "B. Support",
@@ -22,12 +28,6 @@
 		{
 			"code": "37498",
 			"receivedDate": "2006-12-05",
-			"response": "B. Support",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
-			"code": "35812",
-			"receivedDate": "2006-09-25",
 			"response": "B. Support",
 			"type": "Rural Stewardship Scheme"
 		},
@@ -50,10 +50,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA144124",
-			"receivedDate": "2016-12-20",
+			"code": "CDM119990",
+			"receivedDate": "2012-12-19",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM143207",
@@ -62,22 +62,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA140055",
-			"receivedDate": "2016-02-05",
+			"code": "CDM145056",
+			"receivedDate": "2017-03-08",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS157060",
-			"receivedDate": "2019-10-09",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM155832",
-			"receivedDate": "2019-06-12",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Post Application"
 		},
 		{
 			"code": "CDM153360",
@@ -86,58 +74,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP146641",
-			"receivedDate": "2017-07-06",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CGS146879",
-			"receivedDate": "2017-07-24",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM145056",
-			"receivedDate": "2017-03-08",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CLC144857",
-			"receivedDate": "2017-02-23",
-			"response": "Conditioned objection",
-			"type": "Other"
-		},
-		{
-			"code": "CDM119990",
-			"receivedDate": "2012-12-19",
+			"code": "CDM155832",
+			"receivedDate": "2019-06-12",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CPA135199",
-			"receivedDate": "2015-01-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC137457",
-			"receivedDate": "2015-06-17",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CPP135039",
-			"receivedDate": "2015-01-28",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CEA119770",
-			"receivedDate": "2012-12-14",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "CEA117448",
@@ -146,10 +86,70 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA119770",
+			"receivedDate": "2012-12-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA144124",
+			"receivedDate": "2016-12-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS146879",
+			"receivedDate": "2017-07-24",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS157060",
+			"receivedDate": "2019-10-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC137457",
+			"receivedDate": "2015-06-17",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144857",
+			"receivedDate": "2017-02-23",
+			"response": "Conditioned objection",
+			"type": "Other"
+		},
+		{
+			"code": "CPA135199",
+			"receivedDate": "2015-01-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140055",
+			"receivedDate": "2016-02-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA165338",
 			"receivedDate": "2021-12-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP135039",
+			"receivedDate": "2015-01-28",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "CPP146641",
+			"receivedDate": "2017-07-06",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
 		}
 	],
 	"designation": {

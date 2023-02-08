@@ -2,12 +2,6 @@
 	"area": 16.53,
 	"casework": [
 		{
-			"code": "27751",
-			"receivedDate": "2005-09-12",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "26440",
 			"receivedDate": "2005-07-15",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
@@ -17,6 +11,12 @@
 			"code": "26767",
 			"receivedDate": "2005-07-29",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "27751",
+			"receivedDate": "2005-09-12",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
@@ -32,16 +32,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "GEN143892",
-			"receivedDate": "2016-12-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA121756",
-			"receivedDate": "2013-03-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC167928",
+			"receivedDate": "2022-08-03",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM133515",
@@ -56,12 +50,6 @@
 			"type": "Post Application"
 		},
 		{
-			"code": "ALC167928",
-			"receivedDate": "2022-08-03",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CDM163441",
 			"receivedDate": "2021-06-10",
 			"response": "Advice only",
@@ -72,6 +60,18 @@
 			"receivedDate": "2022-02-02",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA121756",
+			"receivedDate": "2013-03-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN143892",
+			"receivedDate": "2016-12-01",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

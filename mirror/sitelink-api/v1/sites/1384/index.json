@@ -2,14 +2,20 @@
 	"area": 3.71,
 	"casework": [
 		{
+			"code": "ALC134372",
+			"receivedDate": "2014-12-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC139423",
 			"receivedDate": "2015-12-08",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC134372",
-			"receivedDate": "2014-12-03",
+			"code": "ALC165200",
+			"receivedDate": "2021-11-22",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -18,12 +24,6 @@
 			"receivedDate": "2014-12-18",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN132622",
-			"receivedDate": "2014-08-14",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CLC130016",
@@ -38,10 +38,10 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC165200",
-			"receivedDate": "2021-11-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN132622",
+			"receivedDate": "2014-08-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

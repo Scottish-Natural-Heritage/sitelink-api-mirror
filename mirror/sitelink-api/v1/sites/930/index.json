@@ -12,10 +12,34 @@
 	"area": 90.99,
 	"casework": [
 		{
-			"code": "GEN112844",
-			"receivedDate": "2012-03-07",
+			"code": "ALC129955",
+			"receivedDate": "2014-03-25",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM113613",
+			"receivedDate": "2012-03-22",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133532",
+			"receivedDate": "2014-09-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA124478",
+			"receivedDate": "2013-07-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA133063",
+			"receivedDate": "2014-09-10",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA140698",
@@ -30,10 +54,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CPA152472",
-			"receivedDate": "2018-09-24",
+			"code": "CLC132923",
+			"receivedDate": "2014-09-01",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CLC146511",
@@ -42,28 +66,10 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "ALC129955",
-			"receivedDate": "2014-03-25",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA133063",
-			"receivedDate": "2014-09-10",
+			"code": "CPA114797",
+			"receivedDate": "2012-05-24",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC132923",
-			"receivedDate": "2014-09-01",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM133532",
-			"receivedDate": "2014-09-10",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA121081",
@@ -72,34 +78,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM113613",
-			"receivedDate": "2012-03-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA124478",
-			"receivedDate": "2013-07-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA114797",
-			"receivedDate": "2012-05-24",
+			"code": "CPA152472",
+			"receivedDate": "2018-09-24",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN124569",
-			"receivedDate": "2013-07-03",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CPA166646",
 			"receivedDate": "2022-03-02",
 			"response": "Advice only",
 			"type": "SRDP"
+		},
+		{
+			"code": "GEN112844",
+			"receivedDate": "2012-03-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN124569",
+			"receivedDate": "2013-07-03",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

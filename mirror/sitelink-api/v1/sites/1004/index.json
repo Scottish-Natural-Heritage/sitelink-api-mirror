@@ -2,12 +2,6 @@
 	"area": 63.13,
 	"casework": [
 		{
-			"code": "5279",
-			"receivedDate": "2002-04-10",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "25972",
 			"receivedDate": "2005-04-22",
 			"response": "Information/Advice only",
@@ -20,16 +14,16 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "5279",
+			"receivedDate": "2002-04-10",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "54415",
 			"receivedDate": "2009-03-06",
 			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
 			"type": "Hydro - run of river"
-		},
-		{
-			"code": "67535",
-			"receivedDate": "2011-03-11",
-			"response": "Information/Advice only",
-			"type": "Other Utilities"
 		},
 		{
 			"code": "66101",
@@ -38,10 +32,16 @@
 			"type": "Forest Design Plan"
 		},
 		{
-			"code": "CLC142389",
-			"receivedDate": "2016-08-03",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "67535",
+			"receivedDate": "2011-03-11",
+			"response": "Information/Advice only",
+			"type": "Other Utilities"
+		},
+		{
+			"code": "ALC123731",
+			"receivedDate": "2013-05-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC151001",
@@ -50,16 +50,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS150244",
-			"receivedDate": "2018-04-16",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
 			"code": "ALC153766",
 			"receivedDate": "2019-01-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS150244",
+			"receivedDate": "2018-04-16",
+			"response": "Advice only",
+			"type": "Forestry for people"
 		},
 		{
 			"code": "CGS152621",
@@ -80,16 +80,16 @@
 			"type": "CAR Licence"
 		},
 		{
+			"code": "CLC142389",
+			"receivedDate": "2016-08-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CPP118630",
 			"receivedDate": "2012-10-31",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC123731",
-			"receivedDate": "2013-05-15",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

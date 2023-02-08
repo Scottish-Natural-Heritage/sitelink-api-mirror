@@ -2,28 +2,28 @@
 	"area": 197.97,
 	"casework": [
 		{
-			"code": "23222",
-			"receivedDate": "2005-02-11",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
 			"code": "20085",
 			"receivedDate": "2004-08-27",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "44090",
-			"receivedDate": "2007-10-08",
+			"code": "23222",
+			"receivedDate": "2005-02-11",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
+			"type": "Food and Environmental Protection Act (FEPA)"
 		},
 		{
 			"code": "42848",
 			"receivedDate": "2007-08-07",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "44090",
+			"receivedDate": "2007-10-08",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
 		},
 		{
 			"code": "47715",
@@ -44,34 +44,10 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "CLC142148",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN142186",
-			"receivedDate": "2016-07-18",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC142287",
 			"receivedDate": "2016-07-20",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN145884",
-			"receivedDate": "2017-05-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS147485",
-			"receivedDate": "2017-09-12",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CDM148989",
@@ -80,10 +56,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA137735",
-			"receivedDate": "2015-07-26",
+			"code": "CDM158442",
+			"receivedDate": "2020-02-20",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS147485",
+			"receivedDate": "2017-09-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CLC137457",
@@ -92,10 +74,28 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM158442",
-			"receivedDate": "2020-02-20",
+			"code": "CLC142148",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA137735",
+			"receivedDate": "2015-07-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN142186",
+			"receivedDate": "2016-07-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN145884",
+			"receivedDate": "2017-05-17",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN159840",

@@ -30,34 +30,10 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "CLC155958",
-			"receivedDate": "2019-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP158231",
-			"receivedDate": "2020-02-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS112595",
-			"receivedDate": "2012-03-13",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC148896",
-			"receivedDate": "2018-01-10",
-			"response": "Licence/Consent not required",
+			"code": "ALC115302",
+			"receivedDate": "2012-03-30",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC154836",
-			"receivedDate": "2019-03-08",
-			"response": "Advice only",
-			"type": "CAR Licence"
 		},
 		{
 			"code": "ALC137168",
@@ -66,82 +42,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC137497",
-			"receivedDate": "2015-07-07",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPP139605",
-			"receivedDate": "2016-01-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS154201",
-			"receivedDate": "2019-02-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN153640",
-			"receivedDate": "2018-12-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS157053",
-			"receivedDate": "2019-10-09",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP157716",
-			"receivedDate": "2019-12-12",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS148646",
-			"receivedDate": "2017-12-13",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS147010",
-			"receivedDate": "2017-08-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC132241",
-			"receivedDate": "2014-07-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC124865",
-			"receivedDate": "2013-07-15",
-			"response": "S.15 Advice with conditions",
-			"type": "Other"
-		},
-		{
-			"code": "CPA134166",
-			"receivedDate": "2014-11-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC115302",
-			"receivedDate": "2012-03-30",
-			"response": "SSSI Consent Given",
+			"code": "ALC148896",
+			"receivedDate": "2018-01-10",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA124027",
-			"receivedDate": "2013-06-12",
+			"code": "CGS112595",
+			"receivedDate": "2012-03-13",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CGS113637",
@@ -150,10 +60,100 @@
 			"type": "SRDP including LEADER"
 		},
 		{
+			"code": "CGS147010",
+			"receivedDate": "2017-08-03",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS148646",
+			"receivedDate": "2017-12-13",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS154201",
+			"receivedDate": "2019-02-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS157053",
+			"receivedDate": "2019-10-09",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC124865",
+			"receivedDate": "2013-07-15",
+			"response": "S.15 Advice with conditions",
+			"type": "Other"
+		},
+		{
+			"code": "CLC132241",
+			"receivedDate": "2014-07-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC137497",
+			"receivedDate": "2015-07-07",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC154836",
+			"receivedDate": "2019-03-08",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC155958",
+			"receivedDate": "2019-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA124027",
+			"receivedDate": "2013-06-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA134166",
+			"receivedDate": "2014-11-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA168395",
 			"receivedDate": "2022-09-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP139605",
+			"receivedDate": "2016-01-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP157716",
+			"receivedDate": "2019-12-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP158231",
+			"receivedDate": "2020-02-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN153640",
+			"receivedDate": "2018-12-17",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

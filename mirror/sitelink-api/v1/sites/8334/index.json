@@ -18,21 +18,15 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "31544",
-			"receivedDate": "2006-03-21",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Other Developments"
-		},
-		{
 			"code": "29231",
 			"receivedDate": "2005-12-09",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Other Developments"
 		},
 		{
-			"code": "35528",
-			"receivedDate": "2006-09-19",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"code": "31544",
+			"receivedDate": "2006-03-21",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
 			"type": "Other Developments"
 		},
 		{
@@ -40,6 +34,12 @@
 			"receivedDate": "2006-07-26",
 			"response": "Information/Advice only",
 			"type": "Freedom of Information Act - Information Request"
+		},
+		{
+			"code": "35528",
+			"receivedDate": "2006-09-19",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
 		},
 		{
 			"code": "40360",
@@ -66,9 +66,27 @@
 			"type": "Controlled Activities Regulations"
 		},
 		{
+			"code": "ALC144919",
+			"receivedDate": "2017-02-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM153347",
+			"receivedDate": "2018-11-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM156175",
 			"receivedDate": "2019-07-08",
 			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156737",
+			"receivedDate": "2019-09-04",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
@@ -78,28 +96,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN149588",
-			"receivedDate": "2018-02-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM156737",
-			"receivedDate": "2019-09-04",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM153347",
-			"receivedDate": "2018-11-26",
+			"code": "CDM163349",
+			"receivedDate": "2021-06-04",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "ALC144919",
-			"receivedDate": "2017-02-27",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC134903",
@@ -114,22 +114,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP165411",
-			"receivedDate": "2021-12-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CPP165356",
 			"receivedDate": "2021-12-07",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CDM163349",
-			"receivedDate": "2021-06-04",
+			"code": "CPP165411",
+			"receivedDate": "2021-12-14",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN149588",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

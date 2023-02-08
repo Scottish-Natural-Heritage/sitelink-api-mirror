@@ -12,15 +12,21 @@
 	"area": 38.79,
 	"casework": [
 		{
+			"code": "14789",
+			"receivedDate": "2003-11-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "17385",
 			"receivedDate": "2004-04-21",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
-			"code": "14789",
-			"receivedDate": "2003-11-19",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "33743",
+			"receivedDate": "2006-07-03",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
@@ -30,9 +36,9 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "33743",
-			"receivedDate": "2006-07-03",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"code": "39217",
+			"receivedDate": "2007-03-01",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
 			"type": "Housing Developments"
 		},
 		{
@@ -42,21 +48,15 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "39217",
-			"receivedDate": "2007-03-01",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"code": "43159",
+			"receivedDate": "2007-08-20",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
 			"code": "46103",
 			"receivedDate": "2008-01-31",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "43159",
-			"receivedDate": "2007-08-20",
-			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
@@ -96,40 +96,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CPP162145",
-			"receivedDate": "2021-02-16",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC161049",
-			"receivedDate": "2020-11-02",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN159323",
-			"receivedDate": "2020-05-15",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "COR160167",
-			"receivedDate": "2020-08-12",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CDM161563",
-			"receivedDate": "2020-12-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC139299",
-			"receivedDate": "2015-11-30",
-			"response": "Advice only",
-			"type": "Other"
+			"code": "ALC129826",
+			"receivedDate": "2014-03-12",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM142059",
@@ -138,16 +108,28 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM148300",
+			"receivedDate": "2017-11-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161563",
+			"receivedDate": "2020-12-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CLC137986",
 			"receivedDate": "2015-08-17",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CDM148300",
-			"receivedDate": "2017-11-13",
+			"code": "CLC139299",
+			"receivedDate": "2015-11-30",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
 		},
 		{
 			"code": "CLC146620",
@@ -156,16 +138,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN132528",
-			"receivedDate": "2014-08-07",
+			"code": "CLC161049",
+			"receivedDate": "2020-11-02",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC129826",
-			"receivedDate": "2014-03-12",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "Other"
 		},
 		{
 			"code": "CLC167612",
@@ -174,16 +150,40 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "GEN163519",
-			"receivedDate": "2021-06-21",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "COR160167",
+			"receivedDate": "2020-08-12",
+			"response": "Information only",
+			"type": "General Enquiries"
 		},
 		{
 			"code": "COR165222",
 			"receivedDate": "2021-11-24",
 			"response": "Information only",
 			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP162145",
+			"receivedDate": "2021-02-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN132528",
+			"receivedDate": "2014-08-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN159323",
+			"receivedDate": "2020-05-15",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "GEN163519",
+			"receivedDate": "2021-06-21",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

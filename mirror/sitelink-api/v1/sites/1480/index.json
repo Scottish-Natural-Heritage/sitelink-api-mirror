@@ -2,12 +2,6 @@
 	"area": 61.31,
 	"casework": [
 		{
-			"code": "13139",
-			"receivedDate": "2003-08-06",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
 			"code": "12324",
 			"receivedDate": "2003-07-04",
 			"response": "Information/Advice only",
@@ -16,6 +10,12 @@
 		{
 			"code": "12325",
 			"receivedDate": "2003-07-16",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "13139",
+			"receivedDate": "2003-08-06",
 			"response": "Information/Advice only",
 			"type": "Other Species"
 		},
@@ -32,16 +32,16 @@
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
-			"code": "CLC154869",
-			"receivedDate": "2019-03-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CLC150083",
 			"receivedDate": "2018-04-03",
 			"response": "No objection",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC154869",
+			"receivedDate": "2019-03-22",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {

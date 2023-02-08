@@ -20,10 +20,10 @@
 			"type": "Mineral Workings"
 		},
 		{
-			"code": "40634",
-			"receivedDate": "2007-03-19",
+			"code": "39184",
+			"receivedDate": "2007-02-07",
 			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "39185",
@@ -32,14 +32,8 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "39184",
-			"receivedDate": "2007-02-07",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "47028",
-			"receivedDate": "2008-02-12",
+			"code": "40634",
+			"receivedDate": "2007-03-19",
 			"response": "Information/Advice only",
 			"type": "Consultation from a public body (s.12)"
 		},
@@ -50,6 +44,12 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
+			"code": "47028",
+			"receivedDate": "2008-02-12",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
 			"code": "49955",
 			"receivedDate": "2008-07-28",
 			"response": "Information/Advice only",
@@ -58,6 +58,12 @@
 		{
 			"code": "55922",
 			"receivedDate": "2009-06-19",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "59951",
+			"receivedDate": "2009-10-16",
 			"response": "Information/Advice only",
 			"type": "Consultation from a public body (s.12)"
 		},
@@ -74,8 +80,20 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "59951",
-			"receivedDate": "2009-10-16",
+			"code": "65304",
+			"receivedDate": "2010-09-21",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "65358",
+			"receivedDate": "2010-10-21",
+			"response": "B. Support",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "67734",
+			"receivedDate": "2010-11-29",
 			"response": "Information/Advice only",
 			"type": "Consultation from a public body (s.12)"
 		},
@@ -86,22 +104,10 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "67734",
-			"receivedDate": "2010-11-29",
+			"code": "70316",
+			"receivedDate": "2011-06-23",
 			"response": "Information/Advice only",
 			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "65358",
-			"receivedDate": "2010-10-21",
-			"response": "B. Support",
-			"type": "Felling Licence"
-		},
-		{
-			"code": "65304",
-			"receivedDate": "2010-09-21",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "71583",
@@ -116,111 +122,9 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "70316",
-			"receivedDate": "2011-06-23",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "COR112134",
-			"receivedDate": "2012-02-23",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC141658",
-			"receivedDate": "2016-05-06",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC148893",
-			"receivedDate": "2018-01-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA155432",
-			"receivedDate": "2019-05-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC143196",
-			"receivedDate": "2016-07-20",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP151584",
-			"receivedDate": "2018-07-19",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP150859",
-			"receivedDate": "2018-04-23",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC146522",
-			"receivedDate": "2017-04-28",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP145452",
-			"receivedDate": "2017-04-10",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "GEN132001",
-			"receivedDate": "2014-07-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC128844",
-			"receivedDate": "2014-01-29",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "ALC124526",
 			"receivedDate": "2013-05-29",
 			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA129310",
-			"receivedDate": "2014-02-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN132758",
-			"receivedDate": "2014-07-25",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "CLC138778",
-			"receivedDate": "2015-09-14",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC135730",
-			"receivedDate": "2015-02-05",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC132765",
-			"receivedDate": "2014-08-12",
-			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -230,16 +134,112 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC132765",
+			"receivedDate": "2014-08-12",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CLC123598",
 			"receivedDate": "2013-05-23",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
+			"code": "CLC128844",
+			"receivedDate": "2014-01-29",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC135730",
+			"receivedDate": "2015-02-05",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC138778",
+			"receivedDate": "2015-09-14",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC141658",
+			"receivedDate": "2016-05-06",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC143196",
+			"receivedDate": "2016-07-20",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC146522",
+			"receivedDate": "2017-04-28",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC148893",
+			"receivedDate": "2018-01-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "COR112134",
+			"receivedDate": "2012-02-23",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "CPA119954",
 			"receivedDate": "2012-12-20",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA129310",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155432",
+			"receivedDate": "2019-05-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP145452",
+			"receivedDate": "2017-04-10",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP150859",
+			"receivedDate": "2018-04-23",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP151584",
+			"receivedDate": "2018-07-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN132001",
+			"receivedDate": "2014-07-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN132758",
+			"receivedDate": "2014-07-25",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
 		},
 		{
 			"code": "GEN165570",

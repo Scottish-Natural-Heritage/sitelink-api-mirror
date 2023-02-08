@@ -2,16 +2,22 @@
 	"area": 1471.42,
 	"casework": [
 		{
+			"code": "21329",
+			"receivedDate": "2004-07-30",
+			"response": "Information/Advice only",
+			"type": "Fish Farms - Aquaculture Seabed Lease"
+		},
+		{
 			"code": "21485",
 			"receivedDate": "2004-11-05",
 			"response": "Information/Advice only",
 			"type": "Freedom of Information Act - Information Request"
 		},
 		{
-			"code": "21329",
-			"receivedDate": "2004-07-30",
-			"response": "Information/Advice only",
-			"type": "Fish Farms - Aquaculture Seabed Lease"
+			"code": "22174",
+			"receivedDate": "2004-12-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Coastal Protection Act"
 		},
 		{
 			"code": "22862",
@@ -20,8 +26,8 @@
 			"type": "Fish Farms - Aquaculture Seabed Lease"
 		},
 		{
-			"code": "22174",
-			"receivedDate": "2004-12-01",
+			"code": "25160",
+			"receivedDate": "2005-05-10",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Coastal Protection Act"
 		},
@@ -32,10 +38,10 @@
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
-			"code": "25160",
-			"receivedDate": "2005-05-10",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Coastal Protection Act"
+			"code": "29228",
+			"receivedDate": "2005-11-23",
+			"response": "Information/Advice only",
+			"type": "Site Search"
 		},
 		{
 			"code": "30980",
@@ -54,12 +60,6 @@
 			"receivedDate": "2006-02-14",
 			"response": "Information/Advice only",
 			"type": "Fish Farms - Aquaculture Seabed Lease"
-		},
-		{
-			"code": "29228",
-			"receivedDate": "2005-11-23",
-			"response": "Information/Advice only",
-			"type": "Site Search"
 		},
 		{
 			"code": "31002",
@@ -92,22 +92,10 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "CPA158009",
-			"receivedDate": "2020-01-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM144688",
-			"receivedDate": "2017-02-06",
-			"response": "Advice only",
+			"code": "CDM134492",
+			"receivedDate": "2014-12-10",
+			"response": "Holding objection",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC154153",
-			"receivedDate": "2019-02-06",
-			"response": "Advice only",
-			"type": "CAR Licence"
 		},
 		{
 			"code": "CDM138385",
@@ -116,10 +104,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC139760",
-			"receivedDate": "2016-01-18",
-			"response": "No objection",
-			"type": "CAR Licence"
+			"code": "CDM144688",
+			"receivedDate": "2017-02-06",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM153936",
@@ -128,34 +116,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA157731",
-			"receivedDate": "2019-12-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC126250",
-			"receivedDate": "2013-09-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC126240",
-			"receivedDate": "2013-09-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CEA131193",
 			"receivedDate": "2014-05-19",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CLC126242",
-			"receivedDate": "2013-10-04",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "CEA133053",
@@ -170,22 +134,58 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA135674",
+			"receivedDate": "2015-03-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC126240",
+			"receivedDate": "2013-09-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC126242",
+			"receivedDate": "2013-10-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC126250",
+			"receivedDate": "2013-09-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC130176",
 			"receivedDate": "2014-03-20",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CDM134492",
-			"receivedDate": "2014-12-10",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "CLC139760",
+			"receivedDate": "2016-01-18",
+			"response": "No objection",
+			"type": "CAR Licence"
 		},
 		{
-			"code": "CEA135674",
-			"receivedDate": "2015-03-06",
+			"code": "CLC154153",
+			"receivedDate": "2019-02-06",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CPA157731",
+			"receivedDate": "2019-12-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA158009",
+			"receivedDate": "2020-01-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

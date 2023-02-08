@@ -30,16 +30,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "19275",
-			"receivedDate": "2004-07-22",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Environmental Protection Act"
-		},
-		{
 			"code": "18602",
 			"receivedDate": "2004-06-24",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "19275",
+			"receivedDate": "2004-07-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Environmental Protection Act"
 		},
 		{
 			"code": "23451",
@@ -102,22 +102,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC113116",
-			"receivedDate": "2012-04-25",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "ALC123749",
+			"receivedDate": "2013-05-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC130026",
+			"receivedDate": "2014-03-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC154236",
 			"receivedDate": "2019-02-08",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA143854",
-			"receivedDate": "2016-11-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "ALC154546",
@@ -138,10 +138,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "ALC123749",
-			"receivedDate": "2013-05-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC113116",
+			"receivedDate": "2012-04-25",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA118296",
+			"receivedDate": "2012-10-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA134167",
@@ -150,14 +156,8 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC130026",
-			"receivedDate": "2014-03-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA118296",
-			"receivedDate": "2012-10-19",
+			"code": "CPA143854",
+			"receivedDate": "2016-11-29",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		}

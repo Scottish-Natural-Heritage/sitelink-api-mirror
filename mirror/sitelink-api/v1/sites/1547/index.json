@@ -12,16 +12,16 @@
 	"area": 808.5,
 	"casework": [
 		{
-			"code": "23654",
-			"receivedDate": "2005-03-10",
-			"response": "Information/Advice only",
-			"type": "Other Pollution Acts"
-		},
-		{
 			"code": "21953",
 			"receivedDate": "2004-11-30",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "23654",
+			"receivedDate": "2005-03-10",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "27210",
@@ -30,16 +30,16 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "41188",
-			"receivedDate": "2007-05-24",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
 			"code": "40510",
 			"receivedDate": "2007-05-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "41188",
+			"receivedDate": "2007-05-24",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
 		},
 		{
 			"code": "42715",
@@ -60,22 +60,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA112992",
-			"receivedDate": "2012-03-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM154382",
 			"receivedDate": "2019-02-20",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CPA148675",
-			"receivedDate": "2017-12-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CEA127640",
@@ -84,16 +72,28 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPP167068",
-			"receivedDate": "2022-05-19",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CLC160132",
 			"receivedDate": "2020-08-10",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CPA112992",
+			"receivedDate": "2012-03-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA148675",
+			"receivedDate": "2017-12-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP167068",
+			"receivedDate": "2022-05-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

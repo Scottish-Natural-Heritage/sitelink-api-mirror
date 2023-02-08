@@ -2,22 +2,16 @@
 	"area": 156.31,
 	"casework": [
 		{
-			"code": "27883",
-			"receivedDate": "2005-07-19",
-			"response": "Information/Advice only",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "25876",
 			"receivedDate": "2005-06-22",
 			"response": "Information/Advice only",
 			"type": "Scottish Forestry Grant Scheme"
 		},
 		{
-			"code": "33132",
-			"receivedDate": "2006-01-16",
+			"code": "27883",
+			"receivedDate": "2005-07-19",
 			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "31043",
@@ -26,10 +20,10 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "61549",
-			"receivedDate": "2010-01-19",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "33132",
+			"receivedDate": "2006-01-16",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "58074",
@@ -50,6 +44,12 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "61549",
+			"receivedDate": "2010-01-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
 			"code": "65902",
 			"receivedDate": "2010-11-30",
 			"response": "Information/Advice only",
@@ -62,34 +62,16 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CDM141007",
-			"receivedDate": "2016-04-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC151791",
-			"receivedDate": "2018-07-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP147138",
-			"receivedDate": "2017-08-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC130091",
 			"receivedDate": "2014-03-20",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS114028",
-			"receivedDate": "2012-03-05",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC151791",
+			"receivedDate": "2018-07-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC167376",
@@ -102,6 +84,24 @@
 			"receivedDate": "2022-06-17",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM141007",
+			"receivedDate": "2016-04-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS114028",
+			"receivedDate": "2012-03-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPP147138",
+			"receivedDate": "2017-08-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

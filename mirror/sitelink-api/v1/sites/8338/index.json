@@ -26,14 +26,14 @@
 			"type": "Non Trunk Roads"
 		},
 		{
-			"code": "28263",
-			"receivedDate": "2005-10-05",
+			"code": "25996",
+			"receivedDate": "2005-06-27",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "25996",
-			"receivedDate": "2005-06-27",
+			"code": "28263",
+			"receivedDate": "2005-10-05",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
@@ -56,15 +56,21 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "39531",
+			"receivedDate": "2007-03-06",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
 			"code": "42575",
 			"receivedDate": "2007-07-26",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "39531",
-			"receivedDate": "2007-03-06",
-			"response": "Information/Advice only",
+			"code": "51729",
+			"receivedDate": "2008-11-04",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
 		},
 		{
@@ -74,10 +80,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "51729",
-			"receivedDate": "2008-11-04",
+			"code": "60239",
+			"receivedDate": "2010-03-04",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
+			"type": "Telecommunications"
 		},
 		{
 			"code": "60883",
@@ -86,21 +92,15 @@
 			"type": "Microrenewables"
 		},
 		{
-			"code": "60239",
-			"receivedDate": "2010-03-04",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Telecommunications"
+			"code": "65661",
+			"receivedDate": "2010-11-15",
+			"response": "Information/Advice only",
+			"type": "Fish Farms - Aquaculture Seabed Lease"
 		},
 		{
 			"code": "66570",
 			"receivedDate": "2011-01-14",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Fish Farms - Aquaculture Seabed Lease"
-		},
-		{
-			"code": "65661",
-			"receivedDate": "2010-11-15",
-			"response": "Information/Advice only",
 			"type": "Fish Farms - Aquaculture Seabed Lease"
 		},
 		{
@@ -110,28 +110,34 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC138134",
-			"receivedDate": "2015-09-02",
+			"code": "CDM114738",
+			"receivedDate": "2012-05-30",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA139731",
-			"receivedDate": "2016-01-14",
+			"code": "CDM117916",
+			"receivedDate": "2012-10-03",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC141362",
-			"receivedDate": "2016-05-19",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM123271",
+			"receivedDate": "2013-05-13",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CEA141472",
-			"receivedDate": "2016-05-26",
+			"code": "CDM124970",
+			"receivedDate": "2013-07-16",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125612",
+			"receivedDate": "2013-08-14",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM137294",
@@ -146,46 +152,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC127318",
-			"receivedDate": "2013-10-31",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM125612",
-			"receivedDate": "2013-08-14",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM123271",
-			"receivedDate": "2013-05-13",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM117916",
-			"receivedDate": "2012-10-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CEA123275",
 			"receivedDate": "2013-05-13",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CDM124970",
-			"receivedDate": "2013-07-16",
+			"code": "CEA141472",
+			"receivedDate": "2016-05-26",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM114738",
-			"receivedDate": "2012-05-30",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
 		},
 		{
 			"code": "CLC123692",
@@ -194,8 +170,32 @@
 			"type": "CAR Licence"
 		},
 		{
+			"code": "CLC127318",
+			"receivedDate": "2013-10-31",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC138134",
+			"receivedDate": "2015-09-02",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC141362",
+			"receivedDate": "2016-05-19",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "CPA114102",
 			"receivedDate": "2012-05-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA139731",
+			"receivedDate": "2016-01-14",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},

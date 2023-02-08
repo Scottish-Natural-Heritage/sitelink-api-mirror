@@ -68,12 +68,6 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "24419",
-			"receivedDate": "2005-03-29",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "22396",
 			"receivedDate": "2004-08-31",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -98,10 +92,10 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "27458",
-			"receivedDate": "2005-08-29",
+			"code": "24419",
+			"receivedDate": "2005-03-29",
 			"response": "Information/Advice only",
-			"type": "Water"
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "27001",
@@ -114,6 +108,12 @@
 			"receivedDate": "2005-06-17",
 			"response": "B. Support",
 			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "27458",
+			"receivedDate": "2005-08-29",
+			"response": "Information/Advice only",
+			"type": "Water"
 		},
 		{
 			"code": "28237",
@@ -158,12 +158,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "51053",
-			"receivedDate": "2008-07-10",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Rural Development Contract - Rural Priority"
-		},
-		{
 			"code": "50639",
 			"receivedDate": "2008-08-01",
 			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
@@ -174,6 +168,12 @@
 			"receivedDate": "2008-08-01",
 			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
 			"type": "Felling Licence"
+		},
+		{
+			"code": "51053",
+			"receivedDate": "2008-07-10",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
 			"code": "59205",
@@ -200,64 +200,10 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CEA137747",
-			"receivedDate": "2015-08-03",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
-			"code": "GEN142719",
-			"receivedDate": "2016-08-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM139037",
-			"receivedDate": "2015-11-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS142706",
-			"receivedDate": "2016-08-26",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP137789",
-			"receivedDate": "2015-08-03",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CLC157489",
-			"receivedDate": "2019-11-13",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC156150",
-			"receivedDate": "2019-07-08",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC131618",
-			"receivedDate": "2014-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA135912",
-			"receivedDate": "2015-03-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR129294",
-			"receivedDate": "2014-02-19",
-			"response": "Information only",
-			"type": "Complaints"
+			"code": "ALC121700",
+			"receivedDate": "2013-02-27",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC123670",
@@ -266,10 +212,52 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC121700",
-			"receivedDate": "2013-02-27",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM139037",
+			"receivedDate": "2015-11-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA135912",
+			"receivedDate": "2015-03-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA137747",
+			"receivedDate": "2015-08-03",
+			"response": "Advice only",
+			"type": "SEA"
+		},
+		{
+			"code": "CGS142706",
+			"receivedDate": "2016-08-26",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS165035",
+			"receivedDate": "2021-10-28",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC131618",
+			"receivedDate": "2014-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC156150",
+			"receivedDate": "2019-07-08",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC157489",
+			"receivedDate": "2019-11-13",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "COR118659",
@@ -278,16 +266,28 @@
 			"type": "Complaints"
 		},
 		{
+			"code": "COR129294",
+			"receivedDate": "2014-02-19",
+			"response": "Information only",
+			"type": "Complaints"
+		},
+		{
+			"code": "CPP137789",
+			"receivedDate": "2015-08-03",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
 			"code": "CPP167419",
 			"receivedDate": "2022-06-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CGS165035",
-			"receivedDate": "2021-10-28",
+			"code": "GEN142719",
+			"receivedDate": "2016-08-25",
 			"response": "Advice only",
-			"type": "Forestry for people"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

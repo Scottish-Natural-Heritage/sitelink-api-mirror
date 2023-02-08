@@ -2,16 +2,16 @@
 	"area": 87.49,
 	"casework": [
 		{
-			"code": "19539",
-			"receivedDate": "2004-07-29",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Non Trunk Roads"
-		},
-		{
 			"code": "15703",
 			"receivedDate": "2004-01-07",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "19539",
+			"receivedDate": "2004-07-29",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Non Trunk Roads"
 		},
 		{
 			"code": "22434",
@@ -26,6 +26,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM122204",
+			"receivedDate": "2013-03-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM142877",
 			"receivedDate": "2016-09-12",
 			"response": "Advice only",
@@ -38,6 +44,18 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CGS121991",
+			"receivedDate": "2013-03-20",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "COR135961",
+			"receivedDate": "2015-03-30",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "CPA153464",
 			"receivedDate": "2018-12-04",
 			"response": "Advice only",
@@ -48,24 +66,6 @@
 			"receivedDate": "2014-08-26",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "COR135961",
-			"receivedDate": "2015-03-30",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CGS121991",
-			"receivedDate": "2013-03-20",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM122204",
-			"receivedDate": "2013-03-29",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

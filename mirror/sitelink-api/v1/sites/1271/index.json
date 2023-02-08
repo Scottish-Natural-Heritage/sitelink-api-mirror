@@ -2,14 +2,20 @@
 	"area": 30.4,
 	"casework": [
 		{
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA117248",
 			"receivedDate": "2012-09-30",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
+			"code": "CEA157309",
+			"receivedDate": "2019-11-01",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -20,8 +26,8 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CEA157309",
-			"receivedDate": "2019-11-01",
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -36,12 +42,6 @@
 			"receivedDate": "2012-03-27",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

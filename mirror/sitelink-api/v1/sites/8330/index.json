@@ -2,18 +2,6 @@
 	"area": 916.69,
 	"casework": [
 		{
-			"code": "GEN155750",
-			"receivedDate": "2019-06-06",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC140642",
-			"receivedDate": "2016-03-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CDM151149",
 			"receivedDate": "2018-06-20",
 			"response": "Conditioned objection",
@@ -24,6 +12,18 @@
 			"receivedDate": "2021-08-04",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CLC140642",
+			"receivedDate": "2016-03-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN155750",
+			"receivedDate": "2019-06-06",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

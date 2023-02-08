@@ -26,34 +26,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CLC139994",
-			"receivedDate": "2016-02-03",
-			"response": "Insufficient information",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM161972",
-			"receivedDate": "2021-02-03",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM159016",
-			"receivedDate": "2020-03-25",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA157274",
-			"receivedDate": "2019-10-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA146381",
-			"receivedDate": "2017-06-12",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC136005",
+			"receivedDate": "2015-03-27",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM129132",
@@ -62,34 +38,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC129601",
-			"receivedDate": "2014-03-05",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC136005",
-			"receivedDate": "2015-03-27",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CDM130401",
 			"receivedDate": "2014-04-16",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CGS168789",
-			"receivedDate": "2022-10-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS168578",
-			"receivedDate": "2022-10-04",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CDM158796",
@@ -98,16 +50,64 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN164785",
-			"receivedDate": "2021-10-19",
+			"code": "CDM159016",
+			"receivedDate": "2020-03-25",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161972",
+			"receivedDate": "2021-02-03",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Post Application"
 		},
 		{
 			"code": "CDM166082",
 			"receivedDate": "2022-02-21",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CGS168578",
+			"receivedDate": "2022-10-04",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS168789",
+			"receivedDate": "2022-10-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC129601",
+			"receivedDate": "2014-03-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC139994",
+			"receivedDate": "2016-02-03",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA146381",
+			"receivedDate": "2017-06-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA157274",
+			"receivedDate": "2019-10-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN164785",
+			"receivedDate": "2021-10-19",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

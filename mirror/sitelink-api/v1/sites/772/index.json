@@ -2,6 +2,12 @@
 	"area": 152.48,
 	"casework": [
 		{
+			"code": "14936",
+			"receivedDate": "2003-11-26",
+			"response": "Information/Advice only",
+			"type": "Groundwater Regulations"
+		},
+		{
 			"code": "15364",
 			"receivedDate": "2003-12-19",
 			"response": "Information/Advice only",
@@ -14,22 +20,16 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "14936",
-			"receivedDate": "2003-11-26",
-			"response": "Information/Advice only",
-			"type": "Groundwater Regulations"
+			"code": "19939",
+			"receivedDate": "2004-08-20",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Coastal Protection Act"
 		},
 		{
 			"code": "20045",
 			"receivedDate": "2004-08-26",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "19939",
-			"receivedDate": "2004-08-20",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Coastal Protection Act"
 		},
 		{
 			"code": "25729",
@@ -56,10 +56,10 @@
 			"type": "Bracken Control (non EPA)"
 		},
 		{
-			"code": "34531",
-			"receivedDate": "2006-08-07",
+			"code": "32483",
+			"receivedDate": "2006-04-21",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Food and Environmental Protection Act (FEPA)"
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "34445",
@@ -68,10 +68,22 @@
 			"type": "Other Maritime"
 		},
 		{
-			"code": "32483",
-			"receivedDate": "2006-04-21",
+			"code": "34531",
+			"receivedDate": "2006-08-07",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Notice of Intent"
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "35004",
+			"receivedDate": "2006-08-28",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "35083",
+			"receivedDate": "2006-08-30",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Water"
 		},
 		{
 			"code": "35838",
@@ -90,18 +102,6 @@
 			"receivedDate": "2006-10-19",
 			"response": "Information/Advice only",
 			"type": "Trunk Roads"
-		},
-		{
-			"code": "35004",
-			"receivedDate": "2006-08-28",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "35083",
-			"receivedDate": "2006-08-30",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Water"
 		},
 		{
 			"code": "39534",
@@ -152,14 +152,20 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
+			"code": "60081",
+			"receivedDate": "2010-02-24",
+			"response": "Information/Advice only",
+			"type": "Hydro - run of river"
+		},
+		{
 			"code": "60574",
 			"receivedDate": "2010-03-19",
 			"response": "Information/Advice only",
 			"type": "Industrial Developments"
 		},
 		{
-			"code": "60081",
-			"receivedDate": "2010-02-24",
+			"code": "66065",
+			"receivedDate": "2010-12-09",
 			"response": "Information/Advice only",
 			"type": "Hydro - run of river"
 		},
@@ -170,50 +176,26 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "66065",
-			"receivedDate": "2010-12-09",
-			"response": "Information/Advice only",
-			"type": "Hydro - run of river"
+			"code": "ALC163566",
+			"receivedDate": "2021-06-24",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN116407",
-			"receivedDate": "2012-08-06",
+			"code": "CDM124197",
+			"receivedDate": "2013-06-19",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC111456",
-			"receivedDate": "2012-01-13",
-			"response": "No objection",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CEA111459",
-			"receivedDate": "2012-01-20",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN112521",
-			"receivedDate": "2012-03-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS153695",
-			"receivedDate": "2018-12-20",
-			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CPA149761",
-			"receivedDate": "2018-03-12",
-			"response": "Advice only",
-			"type": "SRDP"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM127929",
 			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "Harbour Infrastructure"
+		},
+		{
+			"code": "CDM130593",
+			"receivedDate": "2014-04-29",
 			"response": "Advice only",
 			"type": "Harbour Infrastructure"
 		},
@@ -224,10 +206,28 @@
 			"type": "Harbour Infrastructure"
 		},
 		{
-			"code": "CDM130593",
-			"receivedDate": "2014-04-29",
+			"code": "CEA111459",
+			"receivedDate": "2012-01-20",
 			"response": "Advice only",
-			"type": "Harbour Infrastructure"
+			"type": "EIA"
+		},
+		{
+			"code": "CGS153695",
+			"receivedDate": "2018-12-20",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
+			"code": "CLC111456",
+			"receivedDate": "2012-01-13",
+			"response": "No objection",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC124124",
+			"receivedDate": "2013-06-11",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
 			"code": "CLC134454",
@@ -242,28 +242,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC124124",
-			"receivedDate": "2013-06-11",
+			"code": "CPA149761",
+			"receivedDate": "2018-03-12",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM124197",
-			"receivedDate": "2013-06-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC163566",
-			"receivedDate": "2021-06-24",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"type": "SRDP"
 		},
 		{
 			"code": "CPA166502",
 			"receivedDate": "2022-03-30",
 			"response": "Advice only",
 			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "GEN112521",
+			"receivedDate": "2012-03-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN116407",
+			"receivedDate": "2012-08-06",
+			"response": "Advice only",
+			"type": "General Advice"
 		},
 		{
 			"code": "GEN166319",

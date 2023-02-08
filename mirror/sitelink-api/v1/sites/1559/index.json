@@ -2,12 +2,6 @@
 	"area": 11.07,
 	"casework": [
 		{
-			"code": "9641",
-			"receivedDate": "2003-02-18",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "28437",
 			"receivedDate": "2005-10-13",
 			"response": "Information/Advice only",
@@ -18,6 +12,12 @@
 			"receivedDate": "2008-03-11",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
+		},
+		{
+			"code": "9641",
+			"receivedDate": "2003-02-18",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "CLC125806",

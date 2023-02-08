@@ -12,28 +12,22 @@
 	"area": 59.32,
 	"casework": [
 		{
+			"code": "ALC114820",
+			"receivedDate": "2012-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162610",
+			"receivedDate": "2021-03-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA153618",
 			"receivedDate": "2018-12-13",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CPP150547",
-			"receivedDate": "2018-05-07",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC135084",
-			"receivedDate": "2015-01-31",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA133131",
-			"receivedDate": "2014-09-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CLC134324",
@@ -42,22 +36,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CPP122304",
-			"receivedDate": "2013-04-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA122004",
-			"receivedDate": "2013-03-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC114820",
-			"receivedDate": "2012-05-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC135084",
+			"receivedDate": "2015-01-31",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC166116",
@@ -66,10 +48,28 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM162610",
-			"receivedDate": "2021-03-29",
+			"code": "CPA122004",
+			"receivedDate": "2013-03-18",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133131",
+			"receivedDate": "2014-09-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP122304",
+			"receivedDate": "2013-04-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP150547",
+			"receivedDate": "2018-05-07",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

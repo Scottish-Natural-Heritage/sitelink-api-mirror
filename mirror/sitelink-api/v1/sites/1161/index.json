@@ -2,12 +2,6 @@
 	"area": 11.89,
 	"casework": [
 		{
-			"code": "9822",
-			"receivedDate": "2003-02-26",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "40530",
 			"receivedDate": "2007-05-02",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -20,10 +14,34 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "57472",
-			"receivedDate": "2009-09-17",
+			"code": "55624",
+			"receivedDate": "2009-06-23",
 			"response": "Information/Advice only",
-			"type": "Other Developments"
+			"type": "Housing Developments"
+		},
+		{
+			"code": "55625",
+			"receivedDate": "2009-06-29",
+			"response": "NCA - Issued application for consent form",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "55983",
+			"receivedDate": "2009-07-10",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "57207",
+			"receivedDate": "2009-09-09",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "57248",
+			"receivedDate": "2009-09-10",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "57469",
@@ -38,34 +56,10 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "57248",
-			"receivedDate": "2009-09-10",
+			"code": "57472",
+			"receivedDate": "2009-09-17",
 			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "57207",
-			"receivedDate": "2009-09-09",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "55983",
-			"receivedDate": "2009-07-10",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "55624",
-			"receivedDate": "2009-06-23",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "55625",
-			"receivedDate": "2009-06-29",
-			"response": "NCA - Issued application for consent form",
-			"type": "Application for consent from owner/occ (s.16)"
+			"type": "Other Developments"
 		},
 		{
 			"code": "59090",
@@ -86,22 +80,28 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "67035",
-			"receivedDate": "2011-02-10",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "66841",
 			"receivedDate": "2011-01-28",
 			"response": "Information/Advice only",
 			"type": "Other Developments"
 		},
 		{
+			"code": "67035",
+			"receivedDate": "2011-02-10",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "70680",
 			"receivedDate": "2011-07-28",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "9822",
+			"receivedDate": "2003-02-26",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "CDM113440",

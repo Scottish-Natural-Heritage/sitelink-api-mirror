@@ -2,10 +2,10 @@
 	"area": 205.61,
 	"casework": [
 		{
-			"code": "16495",
-			"receivedDate": "2004-03-01",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Housing Developments"
+			"code": "14136",
+			"receivedDate": "2003-10-16",
+			"response": "Information/Advice only",
+			"type": "Felling Licence"
 		},
 		{
 			"code": "14322",
@@ -14,10 +14,10 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "14136",
-			"receivedDate": "2003-10-16",
-			"response": "Information/Advice only",
-			"type": "Felling Licence"
+			"code": "16495",
+			"receivedDate": "2004-03-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "28652",
@@ -38,34 +38,16 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "43275",
-			"receivedDate": "2007-08-27",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
-		},
-		{
 			"code": "41309",
 			"receivedDate": "2007-06-07",
 			"response": "Information/Advice only",
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "47556",
-			"receivedDate": "2008-04-14",
+			"code": "43275",
+			"receivedDate": "2007-08-27",
 			"response": "Information/Advice only",
-			"type": "Water"
-		},
-		{
-			"code": "48481",
-			"receivedDate": "2008-06-12",
-			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "47701",
-			"receivedDate": "2008-04-28",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Other Developments"
+			"type": "Environmental Protection Act"
 		},
 		{
 			"code": "47281",
@@ -74,16 +56,28 @@
 			"type": "Other Developments"
 		},
 		{
+			"code": "47556",
+			"receivedDate": "2008-04-14",
+			"response": "Information/Advice only",
+			"type": "Water"
+		},
+		{
+			"code": "47701",
+			"receivedDate": "2008-04-28",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Other Developments"
+		},
+		{
+			"code": "48481",
+			"receivedDate": "2008-06-12",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "57233",
 			"receivedDate": "2009-09-10",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "72382",
-			"receivedDate": "2011-11-08",
-			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
-			"type": "Onshore Wind"
 		},
 		{
 			"code": "71616",
@@ -92,10 +86,34 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "SIR115034",
-			"receivedDate": "2012-06-19",
-			"response": "Full Release",
-			"type": "Freedom of Information request"
+			"code": "72382",
+			"receivedDate": "2011-11-08",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "ALC119935",
+			"receivedDate": "2012-12-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM113315",
+			"receivedDate": "2012-04-12",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM113463",
+			"receivedDate": "2012-04-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM114141",
+			"receivedDate": "2012-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM115581",
@@ -104,21 +122,15 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA158331",
-			"receivedDate": "2020-02-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA130646",
-			"receivedDate": "2014-05-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CDM119346",
 			"receivedDate": "2012-11-29",
 			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM120292",
+			"receivedDate": "2013-01-16",
+			"response": "Outright objection",
 			"type": "Planning Application"
 		},
 		{
@@ -126,6 +138,24 @@
 			"receivedDate": "2015-01-29",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA118476",
+			"receivedDate": "2012-10-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA125220",
+			"receivedDate": "2013-07-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA130646",
+			"receivedDate": "2014-05-02",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA130711",
@@ -140,16 +170,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM113315",
-			"receivedDate": "2012-04-12",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA125220",
-			"receivedDate": "2013-07-29",
+			"code": "CPA158331",
+			"receivedDate": "2020-02-11",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "GEN113328",
@@ -164,34 +188,10 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CEA118476",
-			"receivedDate": "2012-10-24",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC119935",
-			"receivedDate": "2012-12-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM114141",
-			"receivedDate": "2012-05-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM120292",
-			"receivedDate": "2013-01-16",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM113463",
-			"receivedDate": "2012-04-05",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "SIR115034",
+			"receivedDate": "2012-06-19",
+			"response": "Full Release",
+			"type": "Freedom of Information request"
 		}
 	],
 	"designation": {

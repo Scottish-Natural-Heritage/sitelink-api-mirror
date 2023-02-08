@@ -20,12 +20,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "51122",
-			"receivedDate": "2008-09-26",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Hydro - run of river"
-		},
-		{
 			"code": "47926",
 			"receivedDate": "2008-05-12",
 			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
@@ -38,10 +32,10 @@
 			"type": "Hydro - run of river"
 		},
 		{
-			"code": "54123",
-			"receivedDate": "2009-04-15",
-			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
-			"type": "Controlled Activities Regulations"
+			"code": "51122",
+			"receivedDate": "2008-09-26",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Hydro - run of river"
 		},
 		{
 			"code": "53460",
@@ -50,21 +44,27 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "54123",
+			"receivedDate": "2009-04-15",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
 			"code": "63961",
 			"receivedDate": "2010-08-30",
 			"response": "Information/Advice only",
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "67343",
-			"receivedDate": "2011-03-02",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Hydro - run of river"
-		},
-		{
 			"code": "67324",
 			"receivedDate": "2011-03-01",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "67343",
+			"receivedDate": "2011-03-02",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Hydro - run of river"
 		},
 		{
@@ -74,58 +74,10 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "CPP136675",
-			"receivedDate": "2015-05-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC162161",
-			"receivedDate": "2021-02-18",
+			"code": "ALC122494",
+			"receivedDate": "2013-04-09",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP144743",
-			"receivedDate": "2017-02-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS143618",
-			"receivedDate": "2016-11-11",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP144426",
-			"receivedDate": "2017-01-18",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS149208",
-			"receivedDate": "2018-02-01",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM149497",
-			"receivedDate": "2018-02-21",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC130978",
-			"receivedDate": "2014-05-20",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP128039",
-			"receivedDate": "2013-12-09",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC129023",
@@ -134,26 +86,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CGS133339",
-			"receivedDate": "2014-09-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "ALC130978",
+			"receivedDate": "2014-05-20",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC136225",
-			"receivedDate": "2015-04-20",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CEA133957",
-			"receivedDate": "2014-11-05",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC122494",
-			"receivedDate": "2013-04-09",
+			"code": "ALC162161",
+			"receivedDate": "2021-02-18",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -164,10 +104,70 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM149497",
+			"receivedDate": "2018-02-21",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA133957",
+			"receivedDate": "2014-11-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS133339",
+			"receivedDate": "2014-09-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS143618",
+			"receivedDate": "2016-11-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS149208",
+			"receivedDate": "2018-02-01",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC136225",
+			"receivedDate": "2015-04-20",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "CLC158724",
 			"receivedDate": "2020-03-17",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CPP128039",
+			"receivedDate": "2013-12-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP136675",
+			"receivedDate": "2015-05-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP144426",
+			"receivedDate": "2017-01-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP144743",
+			"receivedDate": "2017-02-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

@@ -38,21 +38,45 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "SIR136665",
-			"receivedDate": "2015-05-14",
-			"response": "Full Release",
-			"type": "Environmental Information Regulations request"
+			"code": "ALC162742",
+			"receivedDate": "2021-04-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN141810",
-			"receivedDate": "2016-06-21",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC163086",
+			"receivedDate": "2021-05-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC165294",
+			"receivedDate": "2021-12-01",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC166186",
+			"receivedDate": "2022-02-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM153468",
 			"receivedDate": "2018-12-04",
 			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM165101",
+			"receivedDate": "2021-11-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168867",
+			"receivedDate": "2022-11-01",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
@@ -68,40 +92,16 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CDM165101",
-			"receivedDate": "2021-11-15",
+			"code": "GEN141810",
+			"receivedDate": "2016-06-21",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		},
 		{
-			"code": "CDM168867",
-			"receivedDate": "2022-11-01",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC163086",
-			"receivedDate": "2021-05-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC166186",
-			"receivedDate": "2022-02-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC162742",
-			"receivedDate": "2021-04-14",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC165294",
-			"receivedDate": "2021-12-01",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "SIR136665",
+			"receivedDate": "2015-05-14",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
 		}
 	],
 	"designation": {

@@ -12,9 +12,15 @@
 	"area": 109,
 	"casework": [
 		{
-			"code": "20645",
-			"receivedDate": "2004-09-27",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"code": "18745",
+			"receivedDate": "2004-07-01",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "19415",
+			"receivedDate": "2004-07-28",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Gas"
 		},
 		{
@@ -24,16 +30,10 @@
 			"type": "Gas"
 		},
 		{
-			"code": "19415",
-			"receivedDate": "2004-07-28",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "20645",
+			"receivedDate": "2004-09-27",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Gas"
-		},
-		{
-			"code": "18745",
-			"receivedDate": "2004-07-01",
-			"response": "Information/Advice only",
-			"type": "Site Search"
 		},
 		{
 			"code": "38841",
@@ -42,16 +42,34 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "43107",
+			"receivedDate": "2007-06-04",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
 			"code": "43581",
 			"receivedDate": "2007-09-10",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "43107",
-			"receivedDate": "2007-06-04",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
+			"code": "CEA131545",
+			"receivedDate": "2014-06-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA135716",
+			"receivedDate": "2015-03-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS167301",
+			"receivedDate": "2022-06-08",
+			"response": "Advice only",
+			"type": "Forestry for people"
 		},
 		{
 			"code": "CLC143555",
@@ -66,28 +84,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "CEA131545",
-			"receivedDate": "2014-06-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP128508",
-			"receivedDate": "2014-01-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA135716",
-			"receivedDate": "2015-03-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CLC169352",
 			"receivedDate": "2022-12-06",
 			"response": "Insufficient information",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA160363",
+			"receivedDate": "2020-08-06",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CPA169348",
@@ -96,16 +102,10 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CGS167301",
-			"receivedDate": "2022-06-08",
+			"code": "CPP128508",
+			"receivedDate": "2014-01-13",
 			"response": "Advice only",
-			"type": "Forestry for people"
-		},
-		{
-			"code": "CPA160363",
-			"receivedDate": "2020-08-06",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

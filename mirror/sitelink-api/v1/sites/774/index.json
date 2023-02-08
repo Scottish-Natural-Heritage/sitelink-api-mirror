@@ -14,16 +14,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "17223",
-			"receivedDate": "2004-04-08",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "14651",
 			"receivedDate": "2003-11-12",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "17223",
+			"receivedDate": "2004-04-08",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "18002",
@@ -44,10 +44,10 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "54710",
-			"receivedDate": "2009-05-13",
-			"response": "Information/Advice only",
-			"type": "Site Search"
+			"code": "52741",
+			"receivedDate": "2009-01-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "53702",
@@ -56,28 +56,10 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "52741",
-			"receivedDate": "2009-01-23",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "CDM159614",
-			"receivedDate": "2020-06-19",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CLC126526",
-			"receivedDate": "2013-09-13",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CEA126457",
-			"receivedDate": "2013-09-12",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "54710",
+			"receivedDate": "2009-05-13",
+			"response": "Information/Advice only",
+			"type": "Site Search"
 		},
 		{
 			"code": "ALC126832",
@@ -90,6 +72,24 @@
 			"receivedDate": "2014-05-02",
 			"response": "Advice only",
 			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM159614",
+			"receivedDate": "2020-06-19",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CEA126457",
+			"receivedDate": "2013-09-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC126526",
+			"receivedDate": "2013-09-13",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		}
 	],
 	"designation": {

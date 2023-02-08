@@ -20,14 +20,14 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "GEN115441",
-			"receivedDate": "2012-04-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC161705",
 			"receivedDate": "2021-01-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167305",
+			"receivedDate": "2022-06-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -38,16 +38,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC167305",
-			"receivedDate": "2022-06-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "CPP165117",
 			"receivedDate": "2021-11-16",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN115441",
+			"receivedDate": "2012-04-25",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

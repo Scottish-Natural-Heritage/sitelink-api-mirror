@@ -50,52 +50,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "63048",
-			"receivedDate": "2010-07-16",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "61458",
 			"receivedDate": "2010-04-08",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CGS155939",
-			"receivedDate": "2019-06-21",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDP108075",
-			"receivedDate": "2011-11-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP142527",
-			"receivedDate": "2016-08-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS154703",
-			"receivedDate": "2019-03-13",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC151580",
-			"receivedDate": "2018-07-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP124167",
-			"receivedDate": "2013-05-29",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "63048",
+			"receivedDate": "2010-07-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "ALC121362",
@@ -104,14 +68,26 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPP122477",
-			"receivedDate": "2013-04-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC151580",
+			"receivedDate": "2018-07-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA163587",
-			"receivedDate": "2021-06-25",
+			"code": "CDM163883",
+			"receivedDate": "2021-07-09",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM164404",
+			"receivedDate": "2021-09-08",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDP108075",
+			"receivedDate": "2011-11-18",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -122,16 +98,40 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM164404",
-			"receivedDate": "2021-09-08",
+			"code": "CGS154703",
+			"receivedDate": "2019-03-13",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM163883",
-			"receivedDate": "2021-07-09",
+			"code": "CGS155939",
+			"receivedDate": "2019-06-21",
 			"response": "Advice only",
-			"type": "S.36 Application"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA163587",
+			"receivedDate": "2021-06-25",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP122477",
+			"receivedDate": "2013-04-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP124167",
+			"receivedDate": "2013-05-29",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP142527",
+			"receivedDate": "2016-08-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

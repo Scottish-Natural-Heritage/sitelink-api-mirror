@@ -26,12 +26,6 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CLC139115",
-			"receivedDate": "2015-11-16",
-			"response": "No comment",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
 			"code": "ALC154522",
 			"receivedDate": "2019-02-28",
 			"response": "Licence/Consent not required",
@@ -44,10 +38,22 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC159554",
-			"receivedDate": "2020-06-15",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"code": "ALC162641",
+			"receivedDate": "2021-04-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC167796",
+			"receivedDate": "2022-07-22",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM121775",
+			"receivedDate": "2013-03-12",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
 		},
 		{
 			"code": "CDM124656",
@@ -56,28 +62,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC126031",
-			"receivedDate": "2013-09-09",
+			"code": "CDM124781",
+			"receivedDate": "2013-07-11",
 			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM127777",
-			"receivedDate": "2013-11-25",
-			"response": "No Comment",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC128691",
-			"receivedDate": "2014-01-21",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CGS125430",
-			"receivedDate": "2013-08-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CDM126108",
@@ -86,16 +74,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC132080",
-			"receivedDate": "2014-07-14",
-			"response": "Advice only",
-			"type": "CAR Licence"
+			"code": "CDM127777",
+			"receivedDate": "2013-11-25",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
-			"code": "COR134020",
-			"receivedDate": "2014-11-05",
-			"response": "Resolved",
-			"type": "General Enquiries"
+			"code": "CDM128335",
+			"receivedDate": "2014-01-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166791",
+			"receivedDate": "2022-04-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA124796",
+			"receivedDate": "2013-07-11",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA135763",
@@ -110,28 +110,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM128335",
-			"receivedDate": "2014-01-06",
+			"code": "CGS125430",
+			"receivedDate": "2013-08-07",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM121775",
-			"receivedDate": "2013-03-12",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "GEN122895",
-			"receivedDate": "2013-04-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA124796",
-			"receivedDate": "2013-07-11",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CLC124965",
@@ -140,34 +122,52 @@
 			"type": "Other"
 		},
 		{
+			"code": "CLC126031",
+			"receivedDate": "2013-09-09",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC128691",
+			"receivedDate": "2014-01-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC132080",
+			"receivedDate": "2014-07-14",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC139115",
+			"receivedDate": "2015-11-16",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC159554",
+			"receivedDate": "2020-06-15",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "COR134020",
+			"receivedDate": "2014-11-05",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
 			"code": "CPA123534",
 			"receivedDate": "2013-05-22",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM124781",
-			"receivedDate": "2013-07-11",
+			"code": "GEN122895",
+			"receivedDate": "2013-04-19",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC167796",
-			"receivedDate": "2022-07-22",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC162641",
-			"receivedDate": "2021-04-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM166791",
-			"receivedDate": "2022-04-28",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

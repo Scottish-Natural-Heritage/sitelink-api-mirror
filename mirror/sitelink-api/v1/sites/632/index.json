@@ -14,6 +14,12 @@
 			"type": "Other Species"
 		},
 		{
+			"code": "58068",
+			"receivedDate": "2009-11-02",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Housing Developments"
+		},
+		{
 			"code": "58430",
 			"receivedDate": "2009-11-18",
 			"response": "Information/Advice only",
@@ -24,12 +30,6 @@
 			"receivedDate": "2010-02-03",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from a public body (s.13)"
-		},
-		{
-			"code": "58068",
-			"receivedDate": "2009-11-02",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Housing Developments"
 		},
 		{
 			"code": "60210",
@@ -50,22 +50,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "GEN142137",
-			"receivedDate": "2016-07-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "COR155582",
-			"receivedDate": "2019-05-23",
-			"response": "Resolved",
-			"type": "Complaints"
-		},
-		{
-			"code": "COR154436",
-			"receivedDate": "2019-02-11",
-			"response": "Information only",
-			"type": "General Enquiries"
+			"code": "ALC123821",
+			"receivedDate": "2013-06-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC131446",
@@ -74,22 +62,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM117473",
+			"receivedDate": "2012-09-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125177",
+			"receivedDate": "2013-07-24",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM127951",
 			"receivedDate": "2013-12-02",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC125806",
-			"receivedDate": "2013-08-20",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC123821",
-			"receivedDate": "2013-06-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM130500",
+			"receivedDate": "2014-04-23",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM133171",
@@ -104,28 +98,34 @@
 			"type": "Post Application"
 		},
 		{
-			"code": "CDM130500",
-			"receivedDate": "2014-04-23",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM125177",
-			"receivedDate": "2013-07-24",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM117473",
-			"receivedDate": "2012-09-14",
+			"code": "CLC125806",
+			"receivedDate": "2013-08-20",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
+		},
+		{
+			"code": "COR154436",
+			"receivedDate": "2019-02-11",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR155582",
+			"receivedDate": "2019-05-23",
+			"response": "Resolved",
+			"type": "Complaints"
 		},
 		{
 			"code": "CPA165886",
 			"receivedDate": "2022-02-02",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN142137",
+			"receivedDate": "2016-07-13",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

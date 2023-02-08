@@ -2,6 +2,12 @@
 	"area": 68.89,
 	"casework": [
 		{
+			"code": "22569",
+			"receivedDate": "2004-12-23",
+			"response": "NCA - Issued application for consent form",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "23157",
 			"receivedDate": "2005-02-02",
 			"response": "NCA - Issued application for consent form",
@@ -14,20 +20,14 @@
 			"type": "Water"
 		},
 		{
-			"code": "22569",
-			"receivedDate": "2004-12-23",
-			"response": "NCA - Issued application for consent form",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "44075",
-			"receivedDate": "2007-10-08",
+			"code": "43257",
+			"receivedDate": "2007-08-24",
 			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
 			"type": "Water"
 		},
 		{
-			"code": "43257",
-			"receivedDate": "2007-08-24",
+			"code": "44075",
+			"receivedDate": "2007-10-08",
 			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
 			"type": "Water"
 		},
@@ -68,28 +68,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CPA116598",
-			"receivedDate": "2012-08-07",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA155008",
-			"receivedDate": "2019-04-03",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
 			"code": "ALC113146",
 			"receivedDate": "2012-03-30",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA155058",
-			"receivedDate": "2019-04-09",
-			"response": "Advice only",
-			"type": "SRDP"
 		},
 		{
 			"code": "ALC130566",
@@ -98,8 +80,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA133955",
-			"receivedDate": "2014-11-05",
+			"code": "CPA114824",
+			"receivedDate": "2012-06-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA116598",
+			"receivedDate": "2012-08-07",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -110,22 +98,34 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA118339",
-			"receivedDate": "2012-10-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CPA117650",
 			"receivedDate": "2012-09-21",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA114824",
-			"receivedDate": "2012-06-06",
+			"code": "CPA118339",
+			"receivedDate": "2012-10-22",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133955",
+			"receivedDate": "2014-11-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155008",
+			"receivedDate": "2019-04-03",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA155058",
+			"receivedDate": "2019-04-09",
+			"response": "Advice only",
+			"type": "SRDP"
 		}
 	],
 	"designation": {

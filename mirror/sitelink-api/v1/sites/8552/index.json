@@ -30,12 +30,6 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "70269",
-			"receivedDate": "2011-07-18",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
-		},
-		{
 			"code": "68739",
 			"receivedDate": "2011-05-18",
 			"response": "Information/Advice only",
@@ -46,6 +40,24 @@
 			"receivedDate": "2011-05-17",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Other Species"
+		},
+		{
+			"code": "70269",
+			"receivedDate": "2011-07-18",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "CDM125335",
+			"receivedDate": "2013-08-01",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM153347",
+			"receivedDate": "2018-11-26",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM156175",
@@ -60,40 +72,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP159388",
-			"receivedDate": "2020-05-25",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "GEN149588",
-			"receivedDate": "2018-02-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM153347",
-			"receivedDate": "2018-11-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM125335",
-			"receivedDate": "2013-08-01",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CLC134903",
 			"receivedDate": "2015-01-15",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "GEN122457",
-			"receivedDate": "2013-04-05",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "COR163819",
+			"receivedDate": "2021-07-15",
+			"response": "Information only",
+			"type": "Complaints"
 		},
 		{
 			"code": "COR163996",
@@ -102,10 +90,10 @@
 			"type": "Complaints"
 		},
 		{
-			"code": "GEN165787",
-			"receivedDate": "2022-01-27",
+			"code": "CPP159388",
+			"receivedDate": "2020-05-25",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Local Development Plan"
 		},
 		{
 			"code": "CPP165411",
@@ -114,10 +102,22 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "COR163819",
-			"receivedDate": "2021-07-15",
-			"response": "Information only",
-			"type": "Complaints"
+			"code": "GEN122457",
+			"receivedDate": "2013-04-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN149588",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN165787",
+			"receivedDate": "2022-01-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

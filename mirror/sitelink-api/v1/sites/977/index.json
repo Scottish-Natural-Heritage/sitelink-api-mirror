@@ -2,6 +2,12 @@
 	"area": 1665.06,
 	"casework": [
 		{
+			"code": "12523",
+			"receivedDate": "2003-06-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "13889",
 			"receivedDate": "2003-09-30",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -14,22 +20,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "12523",
-			"receivedDate": "2003-06-23",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
+			"code": "20109",
+			"receivedDate": "2004-05-24",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Groundwater Regulations"
 		},
 		{
 			"code": "20618",
 			"receivedDate": "2004-09-17",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Other Developments"
-		},
-		{
-			"code": "22801",
-			"receivedDate": "2005-01-17",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
 		},
 		{
 			"code": "21143",
@@ -50,32 +50,8 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "20109",
-			"receivedDate": "2004-05-24",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Groundwater Regulations"
-		},
-		{
 			"code": "21217",
 			"receivedDate": "2004-07-29",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
-			"code": "24881",
-			"receivedDate": "2005-04-26",
-			"response": "Information/Advice only",
-			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "24423",
-			"receivedDate": "2005-03-15",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "22457",
-			"receivedDate": "2004-12-13",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
@@ -84,6 +60,12 @@
 			"receivedDate": "2004-07-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
+		},
+		{
+			"code": "21614",
+			"receivedDate": "2004-04-01",
+			"response": "Information/Advice only",
+			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "21782",
@@ -98,22 +80,34 @@
 			"type": "Groundwater Regulations"
 		},
 		{
-			"code": "21614",
-			"receivedDate": "2004-04-01",
-			"response": "Information/Advice only",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
-			"code": "28317",
-			"receivedDate": "2005-10-05",
+			"code": "22457",
+			"receivedDate": "2004-12-13",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
 		{
-			"code": "28327",
-			"receivedDate": "2005-05-16",
+			"code": "22801",
+			"receivedDate": "2005-01-17",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "24423",
+			"receivedDate": "2005-03-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "24881",
+			"receivedDate": "2005-04-26",
 			"response": "Information/Advice only",
-			"type": "Site Search"
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "25354",
+			"receivedDate": "2005-05-05",
+			"response": "B. Support",
+			"type": "Other Maritime"
 		},
 		{
 			"code": "26853",
@@ -128,10 +122,16 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "25354",
-			"receivedDate": "2005-05-05",
-			"response": "B. Support",
-			"type": "Other Maritime"
+			"code": "28317",
+			"receivedDate": "2005-10-05",
+			"response": "Information/Advice only",
+			"type": "Site Search"
+		},
+		{
+			"code": "28327",
+			"receivedDate": "2005-05-16",
+			"response": "Information/Advice only",
+			"type": "Site Search"
 		},
 		{
 			"code": "32014",
@@ -146,12 +146,6 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "35076",
-			"receivedDate": "2006-06-01",
-			"response": "B. Support",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
 			"code": "35023",
 			"receivedDate": "2006-06-01",
 			"response": "B. Support",
@@ -164,10 +158,10 @@
 			"type": "Rural Stewardship Scheme"
 		},
 		{
-			"code": "40243",
-			"receivedDate": "2007-04-17",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "35076",
+			"receivedDate": "2006-06-01",
+			"response": "B. Support",
+			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "38239",
@@ -176,28 +170,10 @@
 			"type": "Other invasive species"
 		},
 		{
-			"code": "43735",
-			"receivedDate": "2007-09-07",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "45558",
-			"receivedDate": "2007-12-17",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
-		},
-		{
-			"code": "43170",
-			"receivedDate": "2007-08-16",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
-		},
-		{
-			"code": "42269",
-			"receivedDate": "2007-07-16",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Agricultural Business Diversification Scheme"
+			"code": "40243",
+			"receivedDate": "2007-04-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "41494",
@@ -206,16 +182,40 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "47010",
-			"receivedDate": "2008-03-13",
+			"code": "42269",
+			"receivedDate": "2007-07-16",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Tracks and Paths"
+			"type": "Agricultural Business Diversification Scheme"
+		},
+		{
+			"code": "43170",
+			"receivedDate": "2007-08-16",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "43735",
+			"receivedDate": "2007-09-07",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "44790",
 			"receivedDate": "2007-10-31",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Telecommunications"
+		},
+		{
+			"code": "45558",
+			"receivedDate": "2007-12-17",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "47010",
+			"receivedDate": "2008-03-13",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tracks and Paths"
 		},
 		{
 			"code": "47674",
@@ -230,10 +230,10 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "53916",
-			"receivedDate": "2009-04-01",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "52349",
+			"receivedDate": "2008-05-20",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Other Developments"
 		},
 		{
 			"code": "52995",
@@ -242,14 +242,8 @@
 			"type": "Non Trunk Roads"
 		},
 		{
-			"code": "52349",
-			"receivedDate": "2008-05-20",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Other Developments"
-		},
-		{
-			"code": "58434",
-			"receivedDate": "2009-06-22",
+			"code": "53916",
+			"receivedDate": "2009-04-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -260,14 +254,20 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "59717",
-			"receivedDate": "2010-02-05",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
+			"code": "58434",
+			"receivedDate": "2009-06-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "59496",
 			"receivedDate": "2010-01-22",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "59583",
+			"receivedDate": "2010-01-28",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -278,16 +278,22 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "59717",
+			"receivedDate": "2010-02-05",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
 			"code": "63120",
 			"receivedDate": "2010-07-27",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "59583",
-			"receivedDate": "2010-01-28",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "65944",
+			"receivedDate": "2010-12-01",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
 		},
 		{
 			"code": "66844",
@@ -302,272 +308,32 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "65944",
-			"receivedDate": "2010-12-01",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "CDM116821",
-			"receivedDate": "2012-08-20",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA116827",
-			"receivedDate": "2012-08-20",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "ALC138883",
-			"receivedDate": "2015-11-02",
+			"code": "ALC120779",
+			"receivedDate": "2013-02-04",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC136709",
-			"receivedDate": "2015-05-19",
+			"code": "ALC122028",
+			"receivedDate": "2013-03-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN136668",
-			"receivedDate": "2015-05-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC137750",
-			"receivedDate": "2015-07-31",
-			"response": "SSSI Consent Refused",
+			"code": "ALC122210",
+			"receivedDate": "2013-03-29",
+			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC159586",
-			"receivedDate": "2020-06-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM160539",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC162197",
-			"receivedDate": "2021-02-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC159632",
-			"receivedDate": "2020-06-23",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM158575",
-			"receivedDate": "2020-03-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC140770",
-			"receivedDate": "2016-04-04",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC144788",
-			"receivedDate": "2017-02-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA149069",
-			"receivedDate": "2018-01-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA143070",
-			"receivedDate": "2016-09-28",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC156926",
-			"receivedDate": "2019-09-25",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC157149",
-			"receivedDate": "2019-10-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM140365",
-			"receivedDate": "2016-03-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS141148",
-			"receivedDate": "2016-05-04",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "GEN136606",
-			"receivedDate": "2015-05-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC143333",
-			"receivedDate": "2016-10-17",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM141462",
-			"receivedDate": "2016-05-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN136603",
-			"receivedDate": "2015-05-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM157328",
-			"receivedDate": "2019-11-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC156878",
-			"receivedDate": "2019-09-19",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC151417",
-			"receivedDate": "2018-07-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC151875",
-			"receivedDate": "2018-08-09",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN154753",
-			"receivedDate": "2019-03-05",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC157840",
-			"receivedDate": "2020-01-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC152824",
-			"receivedDate": "2018-09-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC157893",
-			"receivedDate": "2020-01-06",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS149371",
-			"receivedDate": "2018-02-13",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CGS150328",
-			"receivedDate": "2018-04-24",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CGS149483",
-			"receivedDate": "2018-02-16",
-			"response": "Advice only",
-			"type": "Crofting Counties Agricultural Grant Scheme"
-		},
-		{
-			"code": "CDM149535",
-			"receivedDate": "2018-02-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC145527",
-			"receivedDate": "2017-04-11",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC145273",
-			"receivedDate": "2017-03-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM152684",
-			"receivedDate": "2018-10-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM148078",
-			"receivedDate": "2017-10-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146958",
-			"receivedDate": "2017-07-28",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC146183",
-			"receivedDate": "2017-06-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA147026",
-			"receivedDate": "2017-08-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN130976",
-			"receivedDate": "2014-05-15",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "ALC126356",
 			"receivedDate": "2013-09-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC127278",
+			"receivedDate": "2013-10-31",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -584,26 +350,14 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM126257",
-			"receivedDate": "2013-09-12",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC127278",
-			"receivedDate": "2013-10-31",
+			"code": "ALC132612",
+			"receivedDate": "2014-08-13",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM125542",
-			"receivedDate": "2013-08-12",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC132612",
-			"receivedDate": "2014-08-13",
+			"code": "ALC133192",
+			"receivedDate": "2014-09-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -614,62 +368,98 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN129606",
-			"receivedDate": "2014-03-05",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC133192",
-			"receivedDate": "2014-09-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC136407",
 			"receivedDate": "2015-05-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM138537",
-			"receivedDate": "2015-10-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC122210",
-			"receivedDate": "2013-03-29",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM125083",
-			"receivedDate": "2013-07-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC122028",
-			"receivedDate": "2013-03-01",
+			"code": "ALC136709",
+			"receivedDate": "2015-05-19",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA117692",
-			"receivedDate": "2012-09-25",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC137750",
+			"receivedDate": "2015-07-31",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC120779",
-			"receivedDate": "2013-02-04",
+			"code": "ALC138883",
+			"receivedDate": "2015-11-02",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC169538",
-			"receivedDate": "2023-01-03",
+			"code": "ALC140770",
+			"receivedDate": "2016-04-04",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC144788",
+			"receivedDate": "2017-02-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC145273",
+			"receivedDate": "2017-03-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146183",
+			"receivedDate": "2017-06-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151417",
+			"receivedDate": "2018-07-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151875",
+			"receivedDate": "2018-08-09",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC152824",
+			"receivedDate": "2018-09-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156878",
+			"receivedDate": "2019-09-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC156926",
+			"receivedDate": "2019-09-25",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157149",
+			"receivedDate": "2019-10-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157840",
+			"receivedDate": "2020-01-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC157893",
+			"receivedDate": "2020-01-06",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -680,16 +470,226 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC159126",
+			"receivedDate": "2020-04-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159586",
+			"receivedDate": "2020-06-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC159632",
+			"receivedDate": "2020-06-23",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162197",
+			"receivedDate": "2021-02-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169538",
+			"receivedDate": "2023-01-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM116821",
+			"receivedDate": "2012-08-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125083",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM125542",
+			"receivedDate": "2013-08-12",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM126257",
+			"receivedDate": "2013-09-12",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM138537",
+			"receivedDate": "2015-10-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM140365",
+			"receivedDate": "2016-03-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141462",
+			"receivedDate": "2016-05-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146958",
+			"receivedDate": "2017-07-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM148078",
+			"receivedDate": "2017-10-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149535",
+			"receivedDate": "2018-02-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152684",
+			"receivedDate": "2018-10-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157328",
+			"receivedDate": "2019-11-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM158575",
+			"receivedDate": "2020-03-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM160539",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM166503",
 			"receivedDate": "2022-03-31",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC159126",
-			"receivedDate": "2020-04-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CEA116827",
+			"receivedDate": "2012-08-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA117692",
+			"receivedDate": "2012-09-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA147026",
+			"receivedDate": "2017-08-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149069",
+			"receivedDate": "2018-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS141148",
+			"receivedDate": "2016-05-04",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS149371",
+			"receivedDate": "2018-02-13",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS149483",
+			"receivedDate": "2018-02-16",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CGS150328",
+			"receivedDate": "2018-04-24",
+			"response": "Advice only",
+			"type": "Crofting Counties Agricultural Grant Scheme"
+		},
+		{
+			"code": "CLC143333",
+			"receivedDate": "2016-10-17",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC145527",
+			"receivedDate": "2017-04-11",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA143070",
+			"receivedDate": "2016-09-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN129606",
+			"receivedDate": "2014-03-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN130976",
+			"receivedDate": "2014-05-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN136603",
+			"receivedDate": "2015-05-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN136606",
+			"receivedDate": "2015-05-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN136668",
+			"receivedDate": "2015-05-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN154753",
+			"receivedDate": "2019-03-05",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -8,26 +8,26 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "24220",
-			"receivedDate": "2005-03-30",
-			"response": "Information/Advice only",
-			"type": "Site Search"
-		},
-		{
 			"code": "21572",
 			"receivedDate": "2004-11-15",
 			"response": "Information/Advice only",
 			"type": "Felling Licence"
 		},
 		{
-			"code": "28383",
-			"receivedDate": "2005-10-11",
+			"code": "24220",
+			"receivedDate": "2005-03-30",
 			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
+			"type": "Site Search"
 		},
 		{
 			"code": "28231",
 			"receivedDate": "2005-09-14",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "28383",
+			"receivedDate": "2005-10-11",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
@@ -38,22 +38,10 @@
 			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "GEN162255",
-			"receivedDate": "2021-02-23",
+			"code": "CLC132177",
+			"receivedDate": "2014-07-18",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC142226",
-			"receivedDate": "2016-07-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN140357",
-			"receivedDate": "2016-03-01",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC142105",
@@ -62,14 +50,32 @@
 			"type": "Other"
 		},
 		{
-			"code": "CLC132177",
-			"receivedDate": "2014-07-18",
+			"code": "CLC142226",
+			"receivedDate": "2016-07-21",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Other"
+		},
+		{
+			"code": "CLC162552",
+			"receivedDate": "2021-03-05",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA163126",
+			"receivedDate": "2021-05-17",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP123260",
 			"receivedDate": "2013-05-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP130282",
+			"receivedDate": "2014-04-11",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -80,28 +86,22 @@
 			"type": "Other"
 		},
 		{
-			"code": "CPP130282",
-			"receivedDate": "2014-04-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "GEN117779",
 			"receivedDate": "2012-06-12",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "CPA163126",
-			"receivedDate": "2021-05-17",
+			"code": "GEN140357",
+			"receivedDate": "2016-03-01",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "General Advice"
 		},
 		{
-			"code": "CLC162552",
-			"receivedDate": "2021-03-05",
+			"code": "GEN162255",
+			"receivedDate": "2021-02-23",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

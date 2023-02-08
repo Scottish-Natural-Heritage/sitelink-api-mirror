@@ -11,16 +11,10 @@
 	"area": 12754.59,
 	"casework": [
 		{
-			"code": "ALC162115",
-			"receivedDate": "2021-02-15",
+			"code": "ALC156196",
+			"receivedDate": "2019-07-12",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC160558",
-			"receivedDate": "2020-09-18",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "ALC157030",
@@ -29,22 +23,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN157771",
-			"receivedDate": "2019-12-18",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC157256",
 			"receivedDate": "2019-10-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP157400",
-			"receivedDate": "2019-11-12",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC157306",
@@ -53,10 +35,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "ALC156196",
-			"receivedDate": "2019-07-12",
+			"code": "ALC159061",
+			"receivedDate": "2020-04-24",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC160122",
+			"receivedDate": "2020-08-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC162115",
+			"receivedDate": "2021-02-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS158205",
+			"receivedDate": "2020-02-03",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC152956",
@@ -65,10 +65,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "SIR126421",
-			"receivedDate": "2013-08-23",
-			"response": "Full Release",
-			"type": "Environmental Information Regulations request"
+			"code": "CLC160558",
+			"receivedDate": "2020-09-18",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "COR132172",
@@ -83,34 +83,34 @@
 			"type": "General Enquiries"
 		},
 		{
-			"code": "GEN128247",
-			"receivedDate": "2013-12-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS158205",
-			"receivedDate": "2020-02-03",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CPA162861",
 			"receivedDate": "2021-04-23",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC159061",
-			"receivedDate": "2020-04-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPP157400",
+			"receivedDate": "2019-11-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC160122",
-			"receivedDate": "2020-08-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN128247",
+			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN157771",
+			"receivedDate": "2019-12-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "SIR126421",
+			"receivedDate": "2013-08-23",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
 		}
 	],
 	"designation": {

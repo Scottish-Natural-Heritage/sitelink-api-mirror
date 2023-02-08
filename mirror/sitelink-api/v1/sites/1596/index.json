@@ -2,16 +2,16 @@
 	"area": 62.6,
 	"casework": [
 		{
-			"code": "28751",
-			"receivedDate": "2005-10-28",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
-		},
-		{
 			"code": "28691",
 			"receivedDate": "2005-10-26",
 			"response": "Information/Advice only",
 			"type": "Site Search"
+		},
+		{
+			"code": "28751",
+			"receivedDate": "2005-10-28",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
 		},
 		{
 			"code": "53546",
@@ -26,10 +26,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CEA161897",
-			"receivedDate": "2021-01-22",
+			"code": "CDM160070",
+			"receivedDate": "2020-08-03",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA161617",
@@ -38,28 +38,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "COR153199",
-			"receivedDate": "2018-11-14",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN153318",
-			"receivedDate": "2018-10-17",
+			"code": "CEA161897",
+			"receivedDate": "2021-01-22",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "COR153346",
-			"receivedDate": "2018-11-21",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC146563",
-			"receivedDate": "2017-07-03",
-			"response": "Advice only",
-			"type": "Other"
+			"type": "EIA"
 		},
 		{
 			"code": "CLC135946",
@@ -68,10 +50,28 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CDM160070",
-			"receivedDate": "2020-08-03",
+			"code": "CLC146563",
+			"receivedDate": "2017-07-03",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
+		},
+		{
+			"code": "COR153199",
+			"receivedDate": "2018-11-14",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR153346",
+			"receivedDate": "2018-11-21",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "GEN153318",
+			"receivedDate": "2018-10-17",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -24,21 +24,15 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "CPP144898",
-			"receivedDate": "2017-02-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP126075",
-			"receivedDate": "2013-09-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC118242",
 			"receivedDate": "2012-10-17",
 			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC165472",
+			"receivedDate": "2021-11-30",
+			"response": "SSSI Consent Refused",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -48,16 +42,22 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP163233",
-			"receivedDate": "2021-05-24",
+			"code": "CPP126075",
+			"receivedDate": "2013-09-04",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC165472",
-			"receivedDate": "2021-11-30",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPP144898",
+			"receivedDate": "2017-02-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP163233",
+			"receivedDate": "2021-05-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

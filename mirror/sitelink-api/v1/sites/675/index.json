@@ -2,10 +2,10 @@
 	"area": 1.83,
 	"casework": [
 		{
-			"code": "CLC155112",
-			"receivedDate": "2019-04-12",
-			"response": "No comment",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "CDM130090",
+			"receivedDate": "2014-04-02",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC153688",
@@ -14,26 +14,20 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CDM130090",
-			"receivedDate": "2014-04-02",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CLC155112",
+			"receivedDate": "2019-04-12",
+			"response": "No comment",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA167004",
+			"receivedDate": "2022-05-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP113887",
 			"receivedDate": "2012-05-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN114123",
-			"receivedDate": "2012-05-15",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP125101",
-			"receivedDate": "2013-07-24",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -44,10 +38,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPA167004",
-			"receivedDate": "2022-05-16",
+			"code": "CPP125101",
+			"receivedDate": "2013-07-24",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN114123",
+			"receivedDate": "2012-05-15",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

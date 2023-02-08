@@ -18,14 +18,14 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "17082",
-			"receivedDate": "2004-02-17",
+			"code": "16271",
+			"receivedDate": "2004-02-18",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "16271",
-			"receivedDate": "2004-02-18",
+			"code": "17082",
+			"receivedDate": "2004-02-17",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
@@ -54,6 +54,36 @@
 			"type": "Agricultural Drainage Works"
 		},
 		{
+			"code": "ALC138074",
+			"receivedDate": "2015-08-27",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC140116",
+			"receivedDate": "2016-02-10",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC153646",
+			"receivedDate": "2018-12-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC154737",
+			"receivedDate": "2019-03-14",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC158398",
+			"receivedDate": "2020-02-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC161344",
 			"receivedDate": "2020-12-01",
 			"response": "SSSI Consent Given",
@@ -66,46 +96,16 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC154737",
-			"receivedDate": "2019-03-14",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC140116",
-			"receivedDate": "2016-02-10",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC138074",
-			"receivedDate": "2015-08-27",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC153646",
-			"receivedDate": "2018-12-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN145025",
-			"receivedDate": "2017-03-07",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CPP118621",
 			"receivedDate": "2012-10-12",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC158398",
-			"receivedDate": "2020-02-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN145025",
+			"receivedDate": "2017-03-07",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

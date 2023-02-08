@@ -2,6 +2,18 @@
 	"area": 65,
 	"casework": [
 		{
+			"code": "35162",
+			"receivedDate": "2006-09-01",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
+			"code": "35184",
+			"receivedDate": "2006-05-31",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Rural Stewardship Scheme"
+		},
+		{
 			"code": "4256",
 			"receivedDate": "2001-07-27",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -12,18 +24,6 @@
 			"receivedDate": "2001-02-01",
 			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
-		},
-		{
-			"code": "35184",
-			"receivedDate": "2006-05-31",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
-			"code": "35162",
-			"receivedDate": "2006-09-01",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "66388",
@@ -44,16 +44,10 @@
 			"type": "Aquaculture"
 		},
 		{
-			"code": "GEN153937",
-			"receivedDate": "2019-01-14",
+			"code": "CDM121462",
+			"receivedDate": "2013-02-18",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA139712",
-			"receivedDate": "2016-01-12",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Other Infrastructure"
 		},
 		{
 			"code": "CEA124548",
@@ -62,10 +56,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CDM121462",
-			"receivedDate": "2013-02-18",
+			"code": "CEA139712",
+			"receivedDate": "2016-01-12",
 			"response": "Advice only",
-			"type": "Other Infrastructure"
+			"type": "EIA"
+		},
+		{
+			"code": "GEN153937",
+			"receivedDate": "2019-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -8,16 +8,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "24502",
-			"receivedDate": "2005-03-14",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "22636",
 			"receivedDate": "2005-01-13",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "Other Developments"
+		},
+		{
+			"code": "24502",
+			"receivedDate": "2005-03-14",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "58069",
@@ -26,70 +26,22 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "ALC137201",
-			"receivedDate": "2015-06-23",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM147936",
-			"receivedDate": "2017-10-13",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
 			"code": "ALC129139",
 			"receivedDate": "2014-02-11",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC115303",
-			"receivedDate": "2012-06-26",
-			"response": "No objection",
-			"type": "Other"
-		},
-		{
-			"code": "CLC115289",
-			"receivedDate": "2012-06-26",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
-			"code": "CDM122810",
-			"receivedDate": "2013-04-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC169371",
-			"receivedDate": "2022-12-15",
+			"code": "ALC137201",
+			"receivedDate": "2015-06-23",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS168983",
-			"receivedDate": "2022-11-11",
-			"response": "Advice only",
-			"type": "Other"
 		},
 		{
 			"code": "ALC158920",
 			"receivedDate": "2020-04-06",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC165616",
-			"receivedDate": "2022-01-13",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA164989",
-			"receivedDate": "2021-11-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "ALC163531",
@@ -104,8 +56,56 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC165616",
+			"receivedDate": "2022-01-13",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC169371",
+			"receivedDate": "2022-12-15",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM122810",
+			"receivedDate": "2013-04-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM147936",
+			"receivedDate": "2017-10-13",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CGS168983",
+			"receivedDate": "2022-11-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC115289",
+			"receivedDate": "2012-06-26",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CLC115303",
+			"receivedDate": "2012-06-26",
+			"response": "No objection",
+			"type": "Other"
+		},
+		{
 			"code": "CPA163288",
 			"receivedDate": "2021-06-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164989",
+			"receivedDate": "2021-11-05",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		}

@@ -2,34 +2,16 @@
 	"area": 107.61,
 	"casework": [
 		{
-			"code": "CGS138300",
-			"receivedDate": "2015-09-15",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CGS138248",
-			"receivedDate": "2015-09-08",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
 			"code": "ALC146677",
 			"receivedDate": "2017-07-11",
 			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA125541",
-			"receivedDate": "2013-08-12",
+			"code": "CDM164548",
+			"receivedDate": "2021-09-23",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA132221",
-			"receivedDate": "2014-07-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM169072",
@@ -38,10 +20,28 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM164548",
-			"receivedDate": "2021-09-23",
+			"code": "CEA125541",
+			"receivedDate": "2013-08-12",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "EIA"
+		},
+		{
+			"code": "CGS138248",
+			"receivedDate": "2015-09-08",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS138300",
+			"receivedDate": "2015-09-15",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA132221",
+			"receivedDate": "2014-07-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

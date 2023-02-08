@@ -2,16 +2,16 @@
 	"area": 953.42,
 	"casework": [
 		{
-			"code": "10887",
-			"receivedDate": "2003-04-22",
-			"response": "1. No Comment",
-			"type": "Housing Developments"
-		},
-		{
 			"code": "10674",
 			"receivedDate": "2003-03-21",
 			"response": "NCA - Issued application for consent form",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "10887",
+			"receivedDate": "2003-04-22",
+			"response": "1. No Comment",
+			"type": "Housing Developments"
 		},
 		{
 			"code": "11581",
@@ -44,14 +44,14 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "23510",
-			"receivedDate": "2005-02-22",
+			"code": "22851",
+			"receivedDate": "2005-01-21",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Species Licensing"
 		},
 		{
-			"code": "22851",
-			"receivedDate": "2005-01-21",
+			"code": "23510",
+			"receivedDate": "2005-02-22",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Species Licensing"
 		},
@@ -62,46 +62,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "33639",
-			"receivedDate": "2006-06-30",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Other Pollution Acts"
-		},
-		{
 			"code": "32471",
 			"receivedDate": "2006-05-02",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
 		{
-			"code": "38935",
-			"receivedDate": "2006-12-07",
-			"response": "Information/Advice only",
-			"type": "Other plans and strategies"
-		},
-		{
-			"code": "38852",
-			"receivedDate": "2007-02-15",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "33639",
+			"receivedDate": "2006-06-30",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
 			"type": "Other Pollution Acts"
-		},
-		{
-			"code": "38993",
-			"receivedDate": "2007-02-21",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Pollution Acts"
-		},
-		{
-			"code": "39000",
-			"receivedDate": "2007-01-23",
-			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
-			"code": "36572",
-			"receivedDate": "2006-10-30",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
 		},
 		{
 			"code": "36448",
@@ -116,46 +86,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "41126",
-			"receivedDate": "2007-05-30",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "Site Search"
-		},
-		{
-			"code": "42455",
-			"receivedDate": "2007-07-18",
+			"code": "36572",
+			"receivedDate": "2006-10-30",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "39646",
-			"receivedDate": "2007-03-19",
-			"response": "Information/Advice only",
 			"type": "Housing Developments"
-		},
-		{
-			"code": "38591",
-			"receivedDate": "2006-01-17",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "40679",
-			"receivedDate": "2007-04-18",
-			"response": "Information/Advice only",
-			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "37337",
 			"receivedDate": "2006-11-30",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Other Developments"
-		},
-		{
-			"code": "38520",
-			"receivedDate": "2007-01-15",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "37366",
@@ -176,22 +116,70 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "43664",
-			"receivedDate": "2007-09-12",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"code": "38520",
+			"receivedDate": "2007-01-15",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "38591",
+			"receivedDate": "2006-01-17",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "38852",
+			"receivedDate": "2007-02-15",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "38935",
+			"receivedDate": "2006-12-07",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "38993",
+			"receivedDate": "2007-02-21",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "39000",
+			"receivedDate": "2007-01-23",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "39646",
+			"receivedDate": "2007-03-19",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "40679",
+			"receivedDate": "2007-04-18",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "41126",
+			"receivedDate": "2007-05-30",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Site Search"
+		},
+		{
+			"code": "42131",
+			"receivedDate": "2007-07-06",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
 		},
 		{
-			"code": "43108",
-			"receivedDate": "2007-07-27",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Railways"
-		},
-		{
-			"code": "46010",
-			"receivedDate": "2008-01-28",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "42455",
+			"receivedDate": "2007-07-18",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Food and Environmental Protection Act (FEPA)"
 		},
 		{
 			"code": "42845",
@@ -200,15 +188,21 @@
 			"type": "Coastal Protection Act"
 		},
 		{
+			"code": "43108",
+			"receivedDate": "2007-07-27",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Railways"
+		},
+		{
 			"code": "43288",
 			"receivedDate": "2007-08-24",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "42131",
-			"receivedDate": "2007-07-06",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "43664",
+			"receivedDate": "2007-09-12",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Other Developments"
 		},
 		{
@@ -218,34 +212,16 @@
 			"type": "Other Developments"
 		},
 		{
-			"code": "46481",
-			"receivedDate": "2008-01-23",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "49042",
-			"receivedDate": "2008-07-08",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "46752",
-			"receivedDate": "2008-01-21",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "46820",
-			"receivedDate": "2008-03-01",
-			"response": "B. Support",
-			"type": "Coastal Protection Act"
-		},
-		{
 			"code": "44914",
 			"receivedDate": "2007-11-15",
 			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "44924",
+			"receivedDate": "2007-11-05",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from a public body (s.13)"
 		},
 		{
 			"code": "45781",
@@ -254,16 +230,40 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "46010",
+			"receivedDate": "2008-01-28",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "46481",
+			"receivedDate": "2008-01-23",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "46752",
+			"receivedDate": "2008-01-21",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "46756",
 			"receivedDate": "2008-02-29",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Species Licensing"
 		},
 		{
-			"code": "44924",
-			"receivedDate": "2007-11-05",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
-			"type": "Application for consent from a public body (s.13)"
+			"code": "46820",
+			"receivedDate": "2008-03-01",
+			"response": "B. Support",
+			"type": "Coastal Protection Act"
+		},
+		{
+			"code": "49042",
+			"receivedDate": "2008-07-08",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "49731",
@@ -284,16 +284,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "53269",
-			"receivedDate": "2009-02-24",
-			"response": "Information/Advice only",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
-			"code": "53690",
-			"receivedDate": "2009-03-17",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "51893",
+			"receivedDate": "2008-11-28",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Food and Environmental Protection Act (FEPA)"
 		},
 		{
 			"code": "52072",
@@ -308,15 +302,9 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "51893",
-			"receivedDate": "2008-11-28",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "57648",
-			"receivedDate": "2009-10-04",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"code": "53269",
+			"receivedDate": "2009-02-24",
+			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
@@ -326,16 +314,16 @@
 			"type": "Species Licensing"
 		},
 		{
-			"code": "60492",
-			"receivedDate": "2010-03-18",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
+			"code": "53690",
+			"receivedDate": "2009-03-17",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "61291",
-			"receivedDate": "2010-05-02",
-			"response": "Information/Advice only",
-			"type": "Onshore Wind"
+			"code": "57648",
+			"receivedDate": "2009-10-04",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "58813",
@@ -348,6 +336,18 @@
 			"receivedDate": "2010-02-23",
 			"response": "Information/Advice only",
 			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
+			"code": "60492",
+			"receivedDate": "2010-03-18",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
+		},
+		{
+			"code": "61291",
+			"receivedDate": "2010-05-02",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
 		},
 		{
 			"code": "62757",
@@ -368,10 +368,22 @@
 			"type": "Marine"
 		},
 		{
+			"code": "65517",
+			"receivedDate": "2010-11-03",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "65810",
 			"receivedDate": "2010-11-23",
 			"response": "Information/Advice only",
 			"type": "Onshore Wind"
+		},
+		{
+			"code": "65876",
+			"receivedDate": "2010-10-05",
+			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "66229",
@@ -386,27 +398,15 @@
 			"type": "Marine Dredging"
 		},
 		{
-			"code": "68721",
-			"receivedDate": "2011-05-17",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Onshore Wind"
-		},
-		{
-			"code": "65876",
-			"receivedDate": "2010-10-05",
-			"response": "NCA - consented subject to conditions (s.13, s.16) or recommended consent with conditions be given (s.15)",
+			"code": "67588",
+			"receivedDate": "2010-12-06",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "65517",
-			"receivedDate": "2010-11-03",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "70047",
-			"receivedDate": "2011-07-07",
-			"response": "Information/Advice only",
+			"code": "68721",
+			"receivedDate": "2011-05-17",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
 			"type": "Onshore Wind"
 		},
 		{
@@ -422,10 +422,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "67588",
-			"receivedDate": "2010-12-06",
-			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "70047",
+			"receivedDate": "2011-07-07",
+			"response": "Information/Advice only",
+			"type": "Onshore Wind"
 		},
 		{
 			"code": "71308",
@@ -440,48 +440,6 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "ALC137268",
-			"receivedDate": "2015-06-23",
-			"response": "Licence/Consent not required",
-			"type": "Protected Species"
-		},
-		{
-			"code": "CLC162037",
-			"receivedDate": "2021-02-08",
-			"response": "No comment",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC160863",
-			"receivedDate": "2020-10-12",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC162189",
-			"receivedDate": "2021-02-22",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "ALC161374",
-			"receivedDate": "2020-12-01",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA161783",
-			"receivedDate": "2021-01-19",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM158285",
-			"receivedDate": "2020-02-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "ALC111670",
 			"receivedDate": "2012-02-03",
 			"response": "SSSI Consent Given",
@@ -494,46 +452,34 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA110888",
-			"receivedDate": "2011-12-22",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "ALC113372",
+			"receivedDate": "2012-04-16",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC144828",
-			"receivedDate": "2017-02-13",
-			"response": "S.15 Advice only",
-			"type": "Other"
+			"code": "ALC114850",
+			"receivedDate": "2012-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN141782",
-			"receivedDate": "2016-06-16",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC121137",
+			"receivedDate": "2013-02-14",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "Bird"
 		},
 		{
-			"code": "GEN153939",
-			"receivedDate": "2019-01-18",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC133563",
+			"receivedDate": "2014-10-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC154246",
-			"receivedDate": "2019-02-06",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM143846",
-			"receivedDate": "2016-11-28",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM139150",
-			"receivedDate": "2015-11-10",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC137268",
+			"receivedDate": "2015-06-23",
+			"response": "Licence/Consent not required",
+			"type": "Protected Species"
 		},
 		{
 			"code": "ALC140303",
@@ -542,64 +488,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA140638",
-			"receivedDate": "2016-03-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN142346",
-			"receivedDate": "2016-08-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA138229",
-			"receivedDate": "2015-09-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP141602",
-			"receivedDate": "2016-05-18",
-			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
-		},
-		{
-			"code": "CDM139427",
-			"receivedDate": "2015-12-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153954",
-			"receivedDate": "2019-01-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC151205",
-			"receivedDate": "2018-06-25",
-			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "SIR152673",
-			"receivedDate": "2018-11-05",
-			"response": "Partial Release",
-			"type": "Freedom of Information request"
-		},
-		{
-			"code": "CLC157889",
-			"receivedDate": "2020-01-09",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM156101",
-			"receivedDate": "2019-07-04",
-			"response": "Conditioned objection",
-			"type": "Application related advice"
+			"code": "ALC147314",
+			"receivedDate": "2017-08-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC156380",
@@ -608,56 +500,32 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC148422",
-			"receivedDate": "2017-11-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "ALC147314",
-			"receivedDate": "2017-08-29",
+			"code": "ALC161374",
+			"receivedDate": "2020-12-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN145081",
-			"receivedDate": "2017-03-01",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC166504",
+			"receivedDate": "2022-03-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA132073",
-			"receivedDate": "2014-07-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "ALC169161",
+			"receivedDate": "2022-11-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM132009",
-			"receivedDate": "2014-07-10",
-			"response": "Advice only",
+			"code": "CDM117794",
+			"receivedDate": "2012-09-26",
+			"response": "Holding objection",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP130578",
-			"receivedDate": "2014-04-28",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA125362",
-			"receivedDate": "2013-08-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC121651",
-			"receivedDate": "2013-02-22",
-			"response": "S.12 SSSI consent required",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CDM132428",
-			"receivedDate": "2014-07-31",
+			"code": "CDM124571",
+			"receivedDate": "2013-07-03",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -668,46 +536,22 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM132009",
+			"receivedDate": "2014-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132428",
+			"receivedDate": "2014-07-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM133052",
 			"receivedDate": "2014-09-02",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "GEN129949",
-			"receivedDate": "2014-03-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA132823",
-			"receivedDate": "2014-08-25",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC139796",
-			"receivedDate": "2016-01-15",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CPA127306",
-			"receivedDate": "2013-10-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM135397",
-			"receivedDate": "2015-02-20",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC133563",
-			"receivedDate": "2014-10-09",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM134482",
@@ -722,124 +566,40 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "GEN124843",
-			"receivedDate": "2013-07-12",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA119807",
-			"receivedDate": "2012-10-23",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC114850",
-			"receivedDate": "2012-05-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP113261",
-			"receivedDate": "2012-04-10",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM117794",
-			"receivedDate": "2012-09-26",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC121962",
-			"receivedDate": "2013-03-11",
-			"response": "S.12 SSSI consent required",
-			"type": "Other"
-		},
-		{
-			"code": "CLC121785",
-			"receivedDate": "2013-03-07",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPP118778",
-			"receivedDate": "2012-11-02",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CLC113968",
-			"receivedDate": "2012-05-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM124571",
-			"receivedDate": "2013-07-03",
+			"code": "CDM135397",
+			"receivedDate": "2015-02-20",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "ALC121137",
-			"receivedDate": "2013-02-14",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "Bird"
-		},
-		{
-			"code": "ALC113372",
-			"receivedDate": "2012-04-16",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC169161",
-			"receivedDate": "2022-11-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC169030",
-			"receivedDate": "2022-11-16",
+			"code": "CDM139150",
+			"receivedDate": "2015-11-10",
 			"response": "Advice only",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC168043",
-			"receivedDate": "2022-08-10",
+			"code": "CDM139427",
+			"receivedDate": "2015-12-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM143846",
+			"receivedDate": "2016-11-28",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM156101",
+			"receivedDate": "2019-07-04",
 			"response": "Conditioned objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "Application related advice"
 		},
 		{
-			"code": "CDM168944",
-			"receivedDate": "2022-11-08",
-			"response": "Conditioned objection",
+			"code": "CDM158285",
+			"receivedDate": "2020-02-05",
+			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC167304",
-			"receivedDate": "2022-06-10",
-			"response": "S.15 Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC166746",
-			"receivedDate": "2022-04-26",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC165700",
-			"receivedDate": "2022-01-20",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CLC163093",
-			"receivedDate": "2021-05-10",
-			"response": "No comment",
-			"type": "Other"
 		},
 		{
 			"code": "CDM165951",
@@ -848,28 +608,118 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC165471",
-			"receivedDate": "2021-12-17",
+			"code": "CDM168944",
+			"receivedDate": "2022-11-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA110888",
+			"receivedDate": "2011-12-22",
 			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+			"type": "EIA"
 		},
 		{
-			"code": "ALC166504",
-			"receivedDate": "2022-03-30",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CEA132823",
+			"receivedDate": "2014-08-25",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
-			"code": "CLC165142",
-			"receivedDate": "2021-11-18",
+			"code": "CLC113968",
+			"receivedDate": "2012-05-04",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CLC165799",
-			"receivedDate": "2022-01-28",
+			"code": "CLC121651",
+			"receivedDate": "2013-02-22",
+			"response": "S.12 SSSI consent required",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC121785",
+			"receivedDate": "2013-03-07",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC121962",
+			"receivedDate": "2013-03-11",
+			"response": "S.12 SSSI consent required",
+			"type": "Other"
+		},
+		{
+			"code": "CLC139796",
+			"receivedDate": "2016-01-15",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC144828",
+			"receivedDate": "2017-02-13",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC148422",
+			"receivedDate": "2017-11-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC151205",
+			"receivedDate": "2018-06-25",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC153954",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC154246",
+			"receivedDate": "2019-02-06",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC157889",
+			"receivedDate": "2020-01-09",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC160863",
+			"receivedDate": "2020-10-12",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC162037",
+			"receivedDate": "2021-02-08",
+			"response": "No comment",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC162189",
+			"receivedDate": "2021-02-22",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC163093",
+			"receivedDate": "2021-05-10",
+			"response": "No comment",
+			"type": "Other"
+		},
+		{
+			"code": "CLC163504",
+			"receivedDate": "2021-06-16",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
 			"code": "CLC164122",
@@ -884,16 +734,166 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC163504",
-			"receivedDate": "2021-06-16",
+			"code": "CLC165142",
+			"receivedDate": "2021-11-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165471",
+			"receivedDate": "2021-12-17",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165700",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC165799",
+			"receivedDate": "2022-01-28",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166746",
+			"receivedDate": "2022-04-26",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167304",
+			"receivedDate": "2022-06-10",
+			"response": "S.15 Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC168043",
+			"receivedDate": "2022-08-10",
+			"response": "Conditioned objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC169030",
+			"receivedDate": "2022-11-16",
 			"response": "Advice only",
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CPA119807",
+			"receivedDate": "2012-10-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA125362",
+			"receivedDate": "2013-08-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA127306",
+			"receivedDate": "2013-10-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA132073",
+			"receivedDate": "2014-07-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA138229",
+			"receivedDate": "2015-09-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140638",
+			"receivedDate": "2016-03-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA161783",
+			"receivedDate": "2021-01-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA165112",
 			"receivedDate": "2021-11-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP113261",
+			"receivedDate": "2012-04-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP118778",
+			"receivedDate": "2012-11-02",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP130578",
+			"receivedDate": "2014-04-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP141602",
+			"receivedDate": "2016-05-18",
+			"response": "Advice only",
+			"type": "Non-statutory planning guidance and advice"
+		},
+		{
+			"code": "GEN124843",
+			"receivedDate": "2013-07-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN129949",
+			"receivedDate": "2014-03-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN141782",
+			"receivedDate": "2016-06-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142346",
+			"receivedDate": "2016-08-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN145081",
+			"receivedDate": "2017-03-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN153939",
+			"receivedDate": "2019-01-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "SIR152673",
+			"receivedDate": "2018-11-05",
+			"response": "Partial Release",
+			"type": "Freedom of Information request"
 		}
 	],
 	"designation": {

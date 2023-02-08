@@ -36,28 +36,10 @@
 	"area": 15380.8,
 	"casework": [
 		{
-			"code": "CDM156686",
-			"receivedDate": "2019-08-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN151636",
-			"receivedDate": "2018-07-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC145691",
 			"receivedDate": "2017-04-25",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA163244",
-			"receivedDate": "2021-05-26",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "ALC162904",
@@ -66,10 +48,28 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM156686",
+			"receivedDate": "2019-08-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPA162520",
 			"receivedDate": "2021-03-22",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA163244",
+			"receivedDate": "2021-05-26",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "GEN151636",
+			"receivedDate": "2018-07-24",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

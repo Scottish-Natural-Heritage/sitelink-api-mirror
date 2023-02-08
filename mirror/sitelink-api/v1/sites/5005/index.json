@@ -26,16 +26,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "50083",
-			"receivedDate": "2008-05-15",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
 			"code": "49359",
 			"receivedDate": "2008-07-18",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
+		},
+		{
+			"code": "50083",
+			"receivedDate": "2008-05-15",
+			"response": "Information/Advice only",
+			"type": "Other Species"
 		},
 		{
 			"code": "51968",
@@ -50,60 +50,6 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "GEN116997",
-			"receivedDate": "2012-08-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP156094",
-			"receivedDate": "2019-07-01",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC156407",
-			"receivedDate": "2019-07-31",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA159117",
-			"receivedDate": "2020-04-29",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CPP113068",
-			"receivedDate": "2012-04-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM143164",
-			"receivedDate": "2016-10-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA142104",
-			"receivedDate": "2016-07-12",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC151661",
-			"receivedDate": "2018-07-25",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA149643",
-			"receivedDate": "2018-03-05",
-			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
-		},
-		{
 			"code": "ALC124688",
 			"receivedDate": "2013-06-07",
 			"response": "SSSI Consent Given",
@@ -114,12 +60,6 @@
 			"receivedDate": "2014-07-07",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP125341",
-			"receivedDate": "2013-08-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "ALC166956",
@@ -140,6 +80,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM143164",
+			"receivedDate": "2016-10-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM163454",
 			"receivedDate": "2021-06-15",
 			"response": "Advice only",
@@ -150,6 +96,60 @@
 			"receivedDate": "2022-01-11",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CEA142104",
+			"receivedDate": "2016-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC151661",
+			"receivedDate": "2018-07-25",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC156407",
+			"receivedDate": "2019-07-31",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CPA149643",
+			"receivedDate": "2018-03-05",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA159117",
+			"receivedDate": "2020-04-29",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPP113068",
+			"receivedDate": "2012-04-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP125341",
+			"receivedDate": "2013-08-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP156094",
+			"receivedDate": "2019-07-01",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "GEN116997",
+			"receivedDate": "2012-08-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

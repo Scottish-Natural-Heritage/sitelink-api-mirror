@@ -2,6 +2,12 @@
 	"area": 22.17,
 	"casework": [
 		{
+			"code": "13342",
+			"receivedDate": "2003-08-29",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
 			"code": "13713",
 			"receivedDate": "2003-09-17",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
@@ -12,12 +18,6 @@
 			"receivedDate": "2003-09-19",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "13342",
-			"receivedDate": "2003-08-29",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
 		},
 		{
 			"code": "23346",
@@ -44,22 +44,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "CDM142367",
-			"receivedDate": "2016-08-02",
+			"code": "CDM121446",
+			"receivedDate": "2013-02-27",
 			"response": "Advice only",
 			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153697",
-			"receivedDate": "2018-12-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "GEN146077",
-			"receivedDate": "2017-06-02",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CDM127963",
@@ -68,10 +56,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA122181",
-			"receivedDate": "2013-03-28",
+			"code": "CDM142367",
+			"receivedDate": "2016-08-02",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA116806",
@@ -80,16 +68,28 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA122181",
+			"receivedDate": "2013-03-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CLC153697",
+			"receivedDate": "2018-12-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR122311",
 			"receivedDate": "2013-03-24",
 			"response": "Resolved",
 			"type": "General Enquiries"
 		},
 		{
-			"code": "CDM121446",
-			"receivedDate": "2013-02-27",
+			"code": "GEN146077",
+			"receivedDate": "2017-06-02",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

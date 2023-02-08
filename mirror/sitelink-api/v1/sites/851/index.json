@@ -56,22 +56,40 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "CLC114681",
-			"receivedDate": "2012-06-07",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"code": "ALC114826",
+			"receivedDate": "2012-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC160600",
-			"receivedDate": "2020-09-21",
-			"response": "S.15 Advice only",
-			"type": "CAR Licence"
+			"code": "CDM166966",
+			"receivedDate": "2022-05-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167168",
+			"receivedDate": "2022-05-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CGS166216",
+			"receivedDate": "2022-03-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CLC110308",
 			"receivedDate": "2011-11-21",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC114681",
+			"receivedDate": "2012-06-07",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CLC142028",
@@ -86,46 +104,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "CPP126435",
-			"receivedDate": "2013-09-18",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP119474",
-			"receivedDate": "2012-12-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC114826",
-			"receivedDate": "2012-05-28",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM167168",
-			"receivedDate": "2022-05-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM166966",
-			"receivedDate": "2022-05-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP167100",
-			"receivedDate": "2022-05-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS166216",
-			"receivedDate": "2022-03-02",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "CLC160600",
+			"receivedDate": "2020-09-21",
+			"response": "S.15 Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "CPA165733",
@@ -134,8 +116,26 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP119474",
+			"receivedDate": "2012-12-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP126435",
+			"receivedDate": "2013-09-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPP165328",
 			"receivedDate": "2021-12-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP167100",
+			"receivedDate": "2022-05-24",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		}

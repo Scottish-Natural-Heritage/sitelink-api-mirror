@@ -12,12 +12,6 @@
 	"area": 161.68,
 	"casework": [
 		{
-			"code": "10965",
-			"receivedDate": "2003-04-24",
-			"response": "B. Support",
-			"type": "Woodland Grant Scheme"
-		},
-		{
 			"code": "10600",
 			"receivedDate": "2003-03-06",
 			"response": "B. Support",
@@ -30,16 +24,16 @@
 			"type": "Felling Licence"
 		},
 		{
+			"code": "10965",
+			"receivedDate": "2003-04-24",
+			"response": "B. Support",
+			"type": "Woodland Grant Scheme"
+		},
+		{
 			"code": "28814",
 			"receivedDate": "2005-10-25",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Water"
-		},
-		{
-			"code": "43494",
-			"receivedDate": "2007-09-03",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "42253",
@@ -52,6 +46,12 @@
 			"receivedDate": "2007-07-12",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Species"
+		},
+		{
+			"code": "43494",
+			"receivedDate": "2007-09-03",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "56536",
@@ -78,40 +78,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CEA144610",
-			"receivedDate": "2017-01-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "COR141780",
-			"receivedDate": "2016-06-17",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CLC153981",
-			"receivedDate": "2019-01-22",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CPP139828",
-			"receivedDate": "2016-01-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA150893",
-			"receivedDate": "2018-06-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM153681",
 			"receivedDate": "2018-12-19",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA144610",
+			"receivedDate": "2017-01-04",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC149324",
@@ -120,10 +96,34 @@
 			"type": "Other"
 		},
 		{
+			"code": "CLC153981",
+			"receivedDate": "2019-01-22",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "COR141780",
+			"receivedDate": "2016-06-17",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA150893",
+			"receivedDate": "2018-06-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA152520",
 			"receivedDate": "2018-09-04",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP139828",
+			"receivedDate": "2016-01-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

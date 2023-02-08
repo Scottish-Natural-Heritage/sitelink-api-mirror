@@ -2,10 +2,10 @@
 	"area": 32.11,
 	"casework": [
 		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC166065",
+			"receivedDate": "2022-02-18",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM161399",
@@ -14,14 +14,26 @@
 			"type": "Application related advice"
 		},
 		{
-			"code": "CPA140360",
-			"receivedDate": "2016-02-26",
+			"code": "CDM168091",
+			"receivedDate": "2022-08-18",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CEA130645",
+			"receivedDate": "2014-05-01",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA137663",
 			"receivedDate": "2015-07-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA164403",
+			"receivedDate": "2021-09-07",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -32,40 +44,28 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "CEA130645",
-			"receivedDate": "2014-05-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
 			"code": "CPA117394",
 			"receivedDate": "2012-09-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM168091",
-			"receivedDate": "2022-08-18",
+			"code": "CPA140360",
+			"receivedDate": "2016-02-26",
 			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "ALC166065",
-			"receivedDate": "2022-02-18",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA164403",
-			"receivedDate": "2021-09-07",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA166144",
 			"receivedDate": "2022-02-24",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

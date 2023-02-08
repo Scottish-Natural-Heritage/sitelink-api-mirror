@@ -14,12 +14,6 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "38830",
-			"receivedDate": "2007-02-15",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "Controlled Activities Regulations"
-		},
-		{
 			"code": "35894",
 			"receivedDate": "2006-09-25",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
@@ -30,6 +24,12 @@
 			"receivedDate": "2006-10-19",
 			"response": "B. Support",
 			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "38830",
+			"receivedDate": "2007-02-15",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Controlled Activities Regulations"
 		},
 		{
 			"code": "60553",
@@ -56,6 +56,18 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "ALC120088",
+			"receivedDate": "2012-12-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC145193",
+			"receivedDate": "2017-03-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC151979",
 			"receivedDate": "2018-08-17",
 			"response": "SSSI Consent Given",
@@ -74,28 +86,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC145193",
-			"receivedDate": "2017-03-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA145911",
-			"receivedDate": "2017-05-19",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CGS147504",
 			"receivedDate": "2017-09-11",
 			"response": "Advice only",
 			"type": "Other"
-		},
-		{
-			"code": "CPP144921",
-			"receivedDate": "2017-02-24",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "CLC125419",
@@ -104,16 +98,10 @@
 			"type": "Other"
 		},
 		{
-			"code": "GEN124756",
-			"receivedDate": "2013-07-10",
+			"code": "CLC159943",
+			"receivedDate": "2020-07-22",
 			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA124220",
-			"receivedDate": "2013-06-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CPA123132",
@@ -122,16 +110,28 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "ALC120088",
-			"receivedDate": "2012-12-18",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPA124220",
+			"receivedDate": "2013-06-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC159943",
-			"receivedDate": "2020-07-22",
+			"code": "CPA145911",
+			"receivedDate": "2017-05-19",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP144921",
+			"receivedDate": "2017-02-24",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN124756",
+			"receivedDate": "2013-07-10",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -20,16 +20,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "43072",
-			"receivedDate": "2007-08-16",
-			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
 			"code": "42975",
 			"receivedDate": "2007-08-13",
 			"response": "Information/Advice only",
 			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "43072",
+			"receivedDate": "2007-08-16",
+			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
+			"type": "Tourism / Leisure Developments"
 		},
 		{
 			"code": "44354",
@@ -56,34 +56,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CDM137318",
-			"receivedDate": "2015-07-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM154928",
-			"receivedDate": "2019-03-28",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "GEN111635",
-			"receivedDate": "2012-02-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC144839",
-			"receivedDate": "2017-02-22",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM142846",
-			"receivedDate": "2016-09-06",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "ALC131122",
+			"receivedDate": "2014-05-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC143244",
@@ -92,38 +68,8 @@
 			"type": "Protected Species"
 		},
 		{
-			"code": "CPP157273",
-			"receivedDate": "2019-10-29",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP150130",
-			"receivedDate": "2018-04-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "ALC145435",
 			"receivedDate": "2017-04-05",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM153571",
-			"receivedDate": "2018-12-10",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP148132",
-			"receivedDate": "2017-11-02",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC131122",
-			"receivedDate": "2014-05-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -134,28 +80,28 @@
 			"type": "S.36 Application"
 		},
 		{
-			"code": "CPP129523",
-			"receivedDate": "2014-03-03",
+			"code": "CDM137318",
+			"receivedDate": "2015-07-30",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN126283",
-			"receivedDate": "2013-09-13",
+			"code": "CDM142846",
+			"receivedDate": "2016-09-06",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP126653",
-			"receivedDate": "2013-10-03",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "CDM153571",
+			"receivedDate": "2018-12-10",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC128737",
-			"receivedDate": "2014-01-23",
+			"code": "CDM154928",
+			"receivedDate": "2019-03-28",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CEA132809",
@@ -170,10 +116,16 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CPP168862",
-			"receivedDate": "2022-11-01",
+			"code": "CLC128737",
+			"receivedDate": "2014-01-23",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC144839",
+			"receivedDate": "2017-02-22",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "CPA165895",
@@ -182,10 +134,58 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP126653",
+			"receivedDate": "2013-10-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP129523",
+			"receivedDate": "2014-03-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP148132",
+			"receivedDate": "2017-11-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP150130",
+			"receivedDate": "2018-04-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP157273",
+			"receivedDate": "2019-10-29",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPP159843",
 			"receivedDate": "2020-07-10",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP168862",
+			"receivedDate": "2022-11-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN111635",
+			"receivedDate": "2012-02-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN126283",
+			"receivedDate": "2013-09-13",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

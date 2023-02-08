@@ -36,16 +36,16 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "35307",
-			"receivedDate": "2006-09-07",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
 			"code": "33312",
 			"receivedDate": "2006-05-30",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Other Developments"
+		},
+		{
+			"code": "35307",
+			"receivedDate": "2006-09-07",
+			"response": "Information/Advice only",
+			"type": "Other Species"
 		},
 		{
 			"code": "44407",
@@ -72,6 +72,18 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
+			"code": "ALC125522",
+			"receivedDate": "2013-07-29",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC129803",
+			"receivedDate": "2014-03-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC142479",
 			"receivedDate": "2016-08-04",
 			"response": "SSSI Consent Given",
@@ -84,34 +96,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN155612",
-			"receivedDate": "2019-05-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "ALC147432",
 			"receivedDate": "2017-09-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC145913",
-			"receivedDate": "2017-05-22",
+			"code": "CLC121047",
+			"receivedDate": "2013-02-13",
 			"response": "Advice only",
 			"type": "Other"
-		},
-		{
-			"code": "GEN131488",
-			"receivedDate": "2014-06-05",
-			"response": "Advice only",
-			"type": "Wildlife Crime"
-		},
-		{
-			"code": "ALC125522",
-			"receivedDate": "2013-07-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CLC129674",
@@ -126,16 +120,22 @@
 			"type": "Other"
 		},
 		{
-			"code": "ALC129803",
-			"receivedDate": "2014-03-17",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC121047",
-			"receivedDate": "2013-02-13",
+			"code": "CLC145913",
+			"receivedDate": "2017-05-22",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "GEN131488",
+			"receivedDate": "2014-06-05",
+			"response": "Advice only",
+			"type": "Wildlife Crime"
+		},
+		{
+			"code": "GEN155612",
+			"receivedDate": "2019-05-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

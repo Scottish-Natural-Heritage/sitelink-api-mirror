@@ -2,6 +2,24 @@
 	"area": 49.31,
 	"casework": [
 		{
+			"code": "COR147909",
+			"receivedDate": "2017-10-06",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPP167427",
+			"receivedDate": "2022-06-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN130167",
+			"receivedDate": "2014-03-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "GEN136920",
 			"receivedDate": "2015-06-02",
 			"response": "Advice only",
@@ -12,24 +30,6 @@
 			"receivedDate": "2018-03-13",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "COR147909",
-			"receivedDate": "2017-10-06",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN130167",
-			"receivedDate": "2014-03-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP167427",
-			"receivedDate": "2022-06-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {

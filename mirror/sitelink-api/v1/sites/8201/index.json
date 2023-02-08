@@ -24,16 +24,22 @@
 			"type": "Notice of Intent"
 		},
 		{
+			"code": "30234",
+			"receivedDate": "2006-01-09",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
 			"code": "30702",
 			"receivedDate": "2006-02-07",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "30234",
-			"receivedDate": "2006-01-09",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
+			"code": "33669",
+			"receivedDate": "2006-04-04",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Developments"
 		},
 		{
 			"code": "34515",
@@ -42,10 +48,22 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "33669",
-			"receivedDate": "2006-04-04",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Other Developments"
+			"code": "35438",
+			"receivedDate": "2006-08-30",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "35667",
+			"receivedDate": "2006-08-01",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "35716",
+			"receivedDate": "2006-05-19",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
 		},
 		{
 			"code": "36702",
@@ -60,24 +78,6 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "35438",
-			"receivedDate": "2006-08-30",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "35716",
-			"receivedDate": "2006-05-19",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "35667",
-			"receivedDate": "2006-08-01",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "43126",
 			"receivedDate": "2007-03-08",
 			"response": "Information/Advice only",
@@ -90,10 +90,10 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "54410",
+			"code": "52254",
 			"receivedDate": "2008-10-16",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Electricity (exc. renewable energy cases)"
+			"response": "Information/Advice only",
+			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
 			"code": "54385",
@@ -108,16 +108,16 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "54410",
+			"receivedDate": "2008-10-16",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
 			"code": "54574",
 			"receivedDate": "2009-05-01",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
-		},
-		{
-			"code": "52254",
-			"receivedDate": "2008-10-16",
-			"response": "Information/Advice only",
-			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
 			"code": "57350",
@@ -150,8 +150,20 @@
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
+			"code": "ALC165449",
+			"receivedDate": "2021-11-02",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM116779",
 			"receivedDate": "2012-08-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156311",
+			"receivedDate": "2019-07-23",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -162,10 +174,10 @@
 			"type": "SEA"
 		},
 		{
-			"code": "CPP116343",
-			"receivedDate": "2012-08-02",
+			"code": "CGS132187",
+			"receivedDate": "2014-07-14",
 			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CPA162413",
@@ -174,22 +186,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM156311",
-			"receivedDate": "2019-07-23",
+			"code": "CPP116343",
+			"receivedDate": "2012-08-02",
 			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS132187",
-			"receivedDate": "2014-07-14",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP125312",
-			"receivedDate": "2013-07-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Non-statutory planning guidance and advice"
 		},
 		{
 			"code": "CPP121544",
@@ -198,16 +198,16 @@
 			"type": "Non-statutory planning guidance and advice"
 		},
 		{
+			"code": "CPP125312",
+			"receivedDate": "2013-07-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "GEN167211",
 			"receivedDate": "2022-05-31",
 			"response": "Advice only",
 			"type": "General Advice"
-		},
-		{
-			"code": "ALC165449",
-			"receivedDate": "2021-11-02",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
 		}
 	],
 	"designation": {

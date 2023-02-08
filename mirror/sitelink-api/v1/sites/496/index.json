@@ -28,22 +28,28 @@
 	"area": 29.79,
 	"casework": [
 		{
-			"code": "CEA146699",
-			"receivedDate": "2017-07-12",
-			"response": "Advice only",
-			"type": "SEA"
-		},
-		{
 			"code": "CEA131491",
 			"receivedDate": "2014-06-17",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "GEN128446",
-			"receivedDate": "2014-01-08",
+			"code": "CEA146699",
+			"receivedDate": "2017-07-12",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SEA"
+		},
+		{
+			"code": "CEA166549",
+			"receivedDate": "2022-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA168279",
+			"receivedDate": "2022-09-01",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CLC126688",
@@ -58,16 +64,10 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CEA168279",
-			"receivedDate": "2022-09-01",
+			"code": "GEN128446",
+			"receivedDate": "2014-01-08",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA166549",
-			"receivedDate": "2022-04-01",
-			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

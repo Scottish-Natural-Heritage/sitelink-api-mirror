@@ -2,6 +2,36 @@
 	"area": 332.08,
 	"casework": [
 		{
+			"code": "ALC133128",
+			"receivedDate": "2014-09-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM131507",
+			"receivedDate": "2014-06-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM134714",
+			"receivedDate": "2015-01-05",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146083",
+			"receivedDate": "2017-06-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149504",
+			"receivedDate": "2018-02-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM152865",
 			"receivedDate": "2018-10-15",
 			"response": "Advice only",
@@ -14,66 +44,6 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM149504",
-			"receivedDate": "2018-02-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM146083",
-			"receivedDate": "2017-06-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA129001",
-			"receivedDate": "2014-02-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM131507",
-			"receivedDate": "2014-06-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA126788",
-			"receivedDate": "2013-10-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM134714",
-			"receivedDate": "2015-01-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA136294",
-			"receivedDate": "2015-04-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA134119",
-			"receivedDate": "2014-11-14",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "ALC133128",
-			"receivedDate": "2014-09-08",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPA135038",
-			"receivedDate": "2015-01-08",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM167046",
 			"receivedDate": "2022-05-18",
 			"response": "Holding objection",
@@ -84,6 +54,36 @@
 			"receivedDate": "2022-08-16",
 			"response": "Conditioned objection",
 			"type": "S.37 Application"
+		},
+		{
+			"code": "CEA126788",
+			"receivedDate": "2013-10-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA136294",
+			"receivedDate": "2015-04-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CPA129001",
+			"receivedDate": "2014-02-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA134119",
+			"receivedDate": "2014-11-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA135038",
+			"receivedDate": "2015-01-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		}
 	],
 	"designation": {

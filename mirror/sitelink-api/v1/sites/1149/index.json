@@ -38,16 +38,22 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
-			"code": "CPP115866",
-			"receivedDate": "2012-07-17",
-			"response": "Advice only",
-			"type": "Forest design plan"
+			"code": "ALC119837",
+			"receivedDate": "2012-12-13",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC116569",
-			"receivedDate": "2012-08-13",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC164075",
+			"receivedDate": "2021-06-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM118354",
+			"receivedDate": "2012-10-02",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM137361",
@@ -56,10 +62,10 @@
 			"type": "Other Infrastructure"
 		},
 		{
-			"code": "GEN111771",
-			"receivedDate": "2012-02-10",
+			"code": "CGS167819",
+			"receivedDate": "2022-07-25",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Other"
 		},
 		{
 			"code": "CLC110308",
@@ -68,34 +74,10 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CLC142028",
-			"receivedDate": "2016-07-06",
-			"response": "Advice only",
+			"code": "CLC116569",
+			"receivedDate": "2012-08-13",
+			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CLC157668",
-			"receivedDate": "2019-12-06",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC154686",
-			"receivedDate": "2019-03-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC150386",
-			"receivedDate": "2018-04-26",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "GEN148413",
-			"receivedDate": "2017-11-23",
-			"response": "Advice only",
-			"type": "General Advice"
 		},
 		{
 			"code": "CLC126427",
@@ -110,46 +92,28 @@
 			"type": "CAR Licence"
 		},
 		{
-			"code": "GEN130691",
-			"receivedDate": "2014-05-06",
+			"code": "CLC142028",
+			"receivedDate": "2016-07-06",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CDM118354",
-			"receivedDate": "2012-10-02",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"code": "CLC150386",
+			"receivedDate": "2018-04-26",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
-			"code": "CPP120870",
-			"receivedDate": "2013-02-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "ALC119837",
-			"receivedDate": "2012-12-13",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP115665",
-			"receivedDate": "2012-07-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS167819",
-			"receivedDate": "2022-07-25",
+			"code": "CLC154686",
+			"receivedDate": "2019-03-07",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "ALC164075",
-			"receivedDate": "2021-06-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CLC157668",
+			"receivedDate": "2019-12-06",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC163498",
@@ -158,10 +122,46 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
+			"code": "CPP115665",
+			"receivedDate": "2012-07-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP115866",
+			"receivedDate": "2012-07-17",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP120870",
+			"receivedDate": "2013-02-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPP165380",
 			"receivedDate": "2021-12-09",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN111771",
+			"receivedDate": "2012-02-10",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN130691",
+			"receivedDate": "2014-05-06",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN148413",
+			"receivedDate": "2017-11-23",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,6 +2,30 @@
 	"area": 871.86,
 	"casework": [
 		{
+			"code": "13051",
+			"receivedDate": "2003-08-14",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "15301",
+			"receivedDate": "2003-07-11",
+			"response": "Information/Advice only",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "21271",
+			"receivedDate": "2004-08-10",
+			"response": "Information/Advice only",
+			"type": "Other Maritime"
+		},
+		{
+			"code": "24803",
+			"receivedDate": "2005-04-08",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
 			"code": "4214",
 			"receivedDate": "2001-03-02",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -38,42 +62,6 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "5636",
-			"receivedDate": "2001-07-27",
-			"response": "NCA - Issued application for consent form",
-			"type": "Non Statutory Plan Consultation"
-		},
-		{
-			"code": "6179",
-			"receivedDate": "2001-08-07",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "13051",
-			"receivedDate": "2003-08-14",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
-			"code": "15301",
-			"receivedDate": "2003-07-11",
-			"response": "Information/Advice only",
-			"type": "Notice of Intent"
-		},
-		{
-			"code": "21271",
-			"receivedDate": "2004-08-10",
-			"response": "Information/Advice only",
-			"type": "Other Maritime"
-		},
-		{
-			"code": "24803",
-			"receivedDate": "2005-04-08",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
 			"code": "44402",
 			"receivedDate": "2007-10-22",
 			"response": "Information/Advice only",
@@ -92,10 +80,10 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "60931",
-			"receivedDate": "2010-04-13",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Application for consent from owner/occ (s.16)"
+			"code": "5636",
+			"receivedDate": "2001-07-27",
+			"response": "NCA - Issued application for consent form",
+			"type": "Non Statutory Plan Consultation"
 		},
 		{
 			"code": "60352",
@@ -104,8 +92,8 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "61891",
-			"receivedDate": "2010-06-03",
+			"code": "60931",
+			"receivedDate": "2010-04-13",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -114,6 +102,18 @@
 			"receivedDate": "2010-05-05",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Consultation from a public body (s.12)"
+		},
+		{
+			"code": "6179",
+			"receivedDate": "2001-08-07",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
+			"code": "61891",
+			"receivedDate": "2010-06-03",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "62593",
@@ -128,54 +128,6 @@
 			"type": "Application for consent from a public body (s.13)"
 		},
 		{
-			"code": "ALC155706",
-			"receivedDate": "2019-06-03",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC155236",
-			"receivedDate": "2019-04-23",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM143520",
-			"receivedDate": "2016-10-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC151108",
-			"receivedDate": "2018-06-19",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CLC148381",
-			"receivedDate": "2017-11-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA144845",
-			"receivedDate": "2017-02-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM146685",
-			"receivedDate": "2017-07-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC132046",
-			"receivedDate": "2014-07-11",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
 			"code": "ALC126155",
 			"receivedDate": "2013-08-13",
 			"response": "SSSI Consent Given",
@@ -188,22 +140,16 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CDM136348",
-			"receivedDate": "2015-04-24",
-			"response": "Advice only",
-			"type": "Application related advice"
+			"code": "ALC132046",
+			"receivedDate": "2014-07-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CLC121985",
-			"receivedDate": "2013-03-19",
-			"response": "No comment",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "GEN123116",
-			"receivedDate": "2013-05-07",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "ALC155706",
+			"receivedDate": "2019-06-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM122808",
@@ -212,10 +158,64 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM136348",
+			"receivedDate": "2015-04-24",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM143520",
+			"receivedDate": "2016-10-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM146685",
+			"receivedDate": "2017-07-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CLC121047",
 			"receivedDate": "2013-02-13",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC121985",
+			"receivedDate": "2013-03-19",
+			"response": "No comment",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148381",
+			"receivedDate": "2017-11-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC151108",
+			"receivedDate": "2018-06-19",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC155236",
+			"receivedDate": "2019-04-23",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CPA144845",
+			"receivedDate": "2017-02-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN123116",
+			"receivedDate": "2013-05-07",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,34 +2,28 @@
 	"area": 471.85,
 	"casework": [
 		{
-			"code": "23166",
-			"receivedDate": "2005-02-07",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Groundwater Regulations"
-		},
-		{
 			"code": "17252",
 			"receivedDate": "2004-04-13",
 			"response": "Information/Advice only",
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "35126",
-			"receivedDate": "2006-08-31",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Forest Design Plan"
-		},
-		{
-			"code": "33639",
-			"receivedDate": "2006-06-30",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Other Pollution Acts"
+			"code": "23166",
+			"receivedDate": "2005-02-07",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Groundwater Regulations"
 		},
 		{
 			"code": "32045",
 			"receivedDate": "2006-04-12",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "32236",
+			"receivedDate": "2006-04-12",
+			"response": "1. No Comment",
+			"type": "Other invasive species"
 		},
 		{
 			"code": "33071",
@@ -44,10 +38,22 @@
 			"type": "Rural Stewardship Scheme"
 		},
 		{
-			"code": "32236",
-			"receivedDate": "2006-04-12",
-			"response": "1. No Comment",
-			"type": "Other invasive species"
+			"code": "33639",
+			"receivedDate": "2006-06-30",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Other Pollution Acts"
+		},
+		{
+			"code": "34948",
+			"receivedDate": "2006-08-24",
+			"response": "Information/Advice only",
+			"type": "Trunk Roads"
+		},
+		{
+			"code": "35126",
+			"receivedDate": "2006-08-31",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Forest Design Plan"
 		},
 		{
 			"code": "35986",
@@ -62,60 +68,6 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "34948",
-			"receivedDate": "2006-08-24",
-			"response": "Information/Advice only",
-			"type": "Trunk Roads"
-		},
-		{
-			"code": "39848",
-			"receivedDate": "2007-03-28",
-			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
-			"type": "Controlled Activities Regulations"
-		},
-		{
-			"code": "40586",
-			"receivedDate": "2007-04-25",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
-			"code": "41126",
-			"receivedDate": "2007-05-30",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "Site Search"
-		},
-		{
-			"code": "40376",
-			"receivedDate": "2007-04-24",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Environmental Protection Act"
-		},
-		{
-			"code": "40680",
-			"receivedDate": "2007-05-09",
-			"response": "Information/Advice only",
-			"type": "Other Pollution Acts"
-		},
-		{
-			"code": "39150",
-			"receivedDate": "2007-03-01",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Hydro - run of river"
-		},
-		{
-			"code": "39013",
-			"receivedDate": "2007-02-22",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Forestry Plans, Strategies & Schemes"
-		},
-		{
-			"code": "39567",
-			"receivedDate": "2007-03-15",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Scottish Forestry Grant Scheme"
-		},
-		{
 			"code": "37337",
 			"receivedDate": "2006-11-30",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
@@ -128,34 +80,46 @@
 			"type": "Forest Design Plan"
 		},
 		{
-			"code": "42683",
-			"receivedDate": "2007-07-30",
+			"code": "39013",
+			"receivedDate": "2007-02-22",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Forestry Plans, Strategies & Schemes"
+		},
+		{
+			"code": "39150",
+			"receivedDate": "2007-03-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "39567",
+			"receivedDate": "2007-03-15",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Scottish Forestry Grant Scheme"
+		},
+		{
+			"code": "39848",
+			"receivedDate": "2007-03-28",
+			"response": "A1 - Insufficient information; Objection (precautionary) - natural heritage interests of importance may be affected",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "40376",
+			"receivedDate": "2007-04-24",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "40586",
+			"receivedDate": "2007-04-25",
+			"response": "Information/Advice only",
 			"type": "Other Developments"
 		},
 		{
-			"code": "42846",
-			"receivedDate": "2007-08-07",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Felling Licence"
-		},
-		{
-			"code": "43260",
-			"receivedDate": "2007-08-25",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "42997",
-			"receivedDate": "2007-08-13",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Felling Licence"
-		},
-		{
-			"code": "42118",
-			"receivedDate": "2007-07-05",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Controlled Activities Regulations"
+			"code": "40680",
+			"receivedDate": "2007-05-09",
+			"response": "Information/Advice only",
+			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "40860",
@@ -164,45 +128,21 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "42441",
-			"receivedDate": "2007-07-20",
-			"response": "Information/Advice only",
-			"type": "Hydro - run of river"
-		},
-		{
 			"code": "40918",
 			"receivedDate": "2007-05-15",
 			"response": "Information/Advice only",
 			"type": "Site Search"
 		},
 		{
-			"code": "44242",
-			"receivedDate": "2007-10-03",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Pollution Acts"
-		},
-		{
-			"code": "43925",
-			"receivedDate": "2007-09-26",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Controlled Activities Regulations"
-		},
-		{
-			"code": "43330",
-			"receivedDate": "2007-08-28",
+			"code": "41083",
+			"receivedDate": "2007-05-25",
 			"response": "Information/Advice only",
 			"type": "Hydro - run of river"
 		},
 		{
-			"code": "43223",
-			"receivedDate": "2007-08-14",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
-			"code": "44216",
-			"receivedDate": "2007-10-31",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"code": "41096",
+			"receivedDate": "2007-05-29",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
 			"type": "Other Developments"
 		},
 		{
@@ -218,22 +158,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "41096",
-			"receivedDate": "2007-05-29",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Other Developments"
-		},
-		{
-			"code": "41083",
-			"receivedDate": "2007-05-25",
-			"response": "Information/Advice only",
-			"type": "Hydro - run of river"
-		},
-		{
-			"code": "42185",
-			"receivedDate": "2007-07-12",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
+			"code": "41126",
+			"receivedDate": "2007-05-30",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Site Search"
 		},
 		{
 			"code": "41164",
@@ -248,46 +176,82 @@
 			"type": "Hydro - run of river"
 		},
 		{
-			"code": "47271",
-			"receivedDate": "2008-04-03",
+			"code": "42118",
+			"receivedDate": "2007-07-05",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
+			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "46643",
-			"receivedDate": "2008-02-15",
+			"code": "42185",
+			"receivedDate": "2007-07-12",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "42441",
+			"receivedDate": "2007-07-20",
+			"response": "Information/Advice only",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "42683",
+			"receivedDate": "2007-07-30",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "42846",
+			"receivedDate": "2007-08-07",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "42997",
+			"receivedDate": "2007-08-13",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "43223",
+			"receivedDate": "2007-08-14",
 			"response": "Information/Advice only",
 			"type": "Other Developments"
 		},
 		{
-			"code": "47468",
-			"receivedDate": "2008-04-07",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "47273",
-			"receivedDate": "2008-04-03",
+			"code": "43260",
+			"receivedDate": "2007-08-25",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
+		},
+		{
+			"code": "43330",
+			"receivedDate": "2007-08-28",
+			"response": "Information/Advice only",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "43925",
+			"receivedDate": "2007-09-26",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "44216",
+			"receivedDate": "2007-10-31",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "44242",
+			"receivedDate": "2007-10-03",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Pollution Acts"
 		},
 		{
 			"code": "44723",
 			"receivedDate": "2007-11-08",
 			"response": "Information/Advice only",
 			"type": "Housing Developments"
-		},
-		{
-			"code": "44919",
-			"receivedDate": "2007-11-19",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
-		},
-		{
-			"code": "45087",
-			"receivedDate": "2007-11-26",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Felling Licence"
 		},
 		{
 			"code": "44910",
@@ -302,10 +266,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "46983",
-			"receivedDate": "2008-03-14",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
+			"code": "44919",
+			"receivedDate": "2007-11-19",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
 		},
 		{
 			"code": "44935",
@@ -314,10 +278,10 @@
 			"type": "Water"
 		},
 		{
-			"code": "45402",
-			"receivedDate": "2007-12-14",
+			"code": "45087",
+			"receivedDate": "2007-11-26",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Forest Design Plan"
+			"type": "Felling Licence"
 		},
 		{
 			"code": "45389",
@@ -326,34 +290,52 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "49810",
-			"receivedDate": "2008-08-08",
-			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
-			"type": "Mixed Use"
+			"code": "45402",
+			"receivedDate": "2007-12-14",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Forest Design Plan"
 		},
 		{
-			"code": "49838",
-			"receivedDate": "2008-06-27",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Controlled Activities Regulations"
+			"code": "46643",
+			"receivedDate": "2008-02-15",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
 		},
 		{
-			"code": "49322",
-			"receivedDate": "2008-06-27",
+			"code": "46983",
+			"receivedDate": "2008-03-14",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Controlled Activities Regulations"
+			"type": "Other Developments"
+		},
+		{
+			"code": "47271",
+			"receivedDate": "2008-04-03",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "47273",
+			"receivedDate": "2008-04-03",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "47468",
+			"receivedDate": "2008-04-07",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "48370",
+			"receivedDate": "2008-06-06",
+			"response": "Information/Advice only",
+			"type": "Trunk Roads"
 		},
 		{
 			"code": "48560",
 			"receivedDate": "2008-06-17",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "48889",
-			"receivedDate": "2008-05-30",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
 		},
 		{
 			"code": "48823",
@@ -380,22 +362,10 @@
 			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "48370",
-			"receivedDate": "2008-06-06",
+			"code": "48889",
+			"receivedDate": "2008-05-30",
 			"response": "Information/Advice only",
-			"type": "Trunk Roads"
-		},
-		{
-			"code": "49611",
-			"receivedDate": "2008-07-24",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
-			"code": "49208",
-			"receivedDate": "2008-07-14",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "River Engineering"
+			"type": "Housing Developments"
 		},
 		{
 			"code": "48916",
@@ -404,22 +374,76 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "53633",
-			"receivedDate": "2009-03-13",
+			"code": "49208",
+			"receivedDate": "2008-07-14",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
+			"type": "River Engineering"
 		},
 		{
-			"code": "53555",
-			"receivedDate": "2009-01-23",
+			"code": "49322",
+			"receivedDate": "2008-06-27",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "53438",
-			"receivedDate": "2009-03-04",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "49611",
+			"receivedDate": "2008-07-24",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "49810",
+			"receivedDate": "2008-08-08",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Mixed Use"
+		},
+		{
+			"code": "49838",
+			"receivedDate": "2008-06-27",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "51514",
+			"receivedDate": "2008-11-06",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "51713",
+			"receivedDate": "2008-09-30",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "51892",
+			"receivedDate": "2008-11-14",
+			"response": "Information/Advice only",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "52091",
+			"receivedDate": "2008-12-05",
+			"response": "Information/Advice only",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "52277",
+			"receivedDate": "2008-12-19",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Food and Environmental Protection Act (FEPA)"
+		},
+		{
+			"code": "52396",
+			"receivedDate": "2009-01-06",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "53227",
+			"receivedDate": "2009-02-02",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
 			"code": "53267",
@@ -428,15 +452,45 @@
 			"type": "Other Maritime"
 		},
 		{
+			"code": "53403",
+			"receivedDate": "2009-03-02",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
+			"type": "Other Developments"
+		},
+		{
+			"code": "53438",
+			"receivedDate": "2009-03-04",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "53555",
+			"receivedDate": "2009-01-23",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "53633",
+			"receivedDate": "2009-03-13",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "53689",
+			"receivedDate": "2009-03-17",
+			"response": "Information/Advice only",
+			"type": "Retail Developments"
+		},
+		{
 			"code": "54055",
 			"receivedDate": "2009-04-08",
 			"response": "Information/Advice only",
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
-			"code": "53227",
-			"receivedDate": "2009-02-02",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"code": "54103",
+			"receivedDate": "2009-04-14",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Rural Development Contract - Rural Priority"
 		},
 		{
@@ -452,82 +506,10 @@
 			"type": "Food and Environmental Protection Act (FEPA)"
 		},
 		{
-			"code": "54103",
-			"receivedDate": "2009-04-14",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Rural Development Contract - Rural Priority"
-		},
-		{
-			"code": "54828",
-			"receivedDate": "2009-05-19",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Controlled Activities Regulations"
-		},
-		{
-			"code": "54829",
-			"receivedDate": "2009-05-19",
+			"code": "54585",
+			"receivedDate": "2009-05-06",
 			"response": "Information/Advice only",
 			"type": "River Engineering"
-		},
-		{
-			"code": "53689",
-			"receivedDate": "2009-03-17",
-			"response": "Information/Advice only",
-			"type": "Retail Developments"
-		},
-		{
-			"code": "52396",
-			"receivedDate": "2009-01-06",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "52091",
-			"receivedDate": "2008-12-05",
-			"response": "Information/Advice only",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "52277",
-			"receivedDate": "2008-12-19",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Food and Environmental Protection Act (FEPA)"
-		},
-		{
-			"code": "51514",
-			"receivedDate": "2008-11-06",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "51892",
-			"receivedDate": "2008-11-14",
-			"response": "Information/Advice only",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
-			"code": "51713",
-			"receivedDate": "2008-09-30",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "57854",
-			"receivedDate": "2009-10-23",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "57405",
-			"receivedDate": "2009-09-17",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
-			"code": "56333",
-			"receivedDate": "2009-07-29",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
 		},
 		{
 			"code": "54752",
@@ -548,16 +530,16 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "55803",
-			"receivedDate": "2008-11-04",
-			"response": "Information/Advice only",
-			"type": "Other plans and strategies"
+			"code": "54828",
+			"receivedDate": "2009-05-19",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Controlled Activities Regulations"
 		},
 		{
-			"code": "56068",
-			"receivedDate": "2009-07-17",
+			"code": "54829",
+			"receivedDate": "2009-05-19",
 			"response": "Information/Advice only",
-			"type": "Other plans and strategies"
+			"type": "River Engineering"
 		},
 		{
 			"code": "55711",
@@ -566,22 +548,10 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "53403",
-			"receivedDate": "2009-03-02",
-			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
-			"type": "Other Developments"
-		},
-		{
-			"code": "56675",
-			"receivedDate": "2009-08-11",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "54585",
-			"receivedDate": "2009-05-06",
+			"code": "55803",
+			"receivedDate": "2008-11-04",
 			"response": "Information/Advice only",
-			"type": "River Engineering"
+			"type": "Other plans and strategies"
 		},
 		{
 			"code": "55862",
@@ -590,22 +560,40 @@
 			"type": "Mixed Use"
 		},
 		{
-			"code": "60554",
-			"receivedDate": "2010-02-26",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Coastal Protection Act"
+			"code": "56068",
+			"receivedDate": "2009-07-17",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
 		},
 		{
-			"code": "61789",
-			"receivedDate": "2010-05-25",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Environmental Protection Act"
+			"code": "56333",
+			"receivedDate": "2009-07-29",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
 		},
 		{
-			"code": "61942",
-			"receivedDate": "2010-06-06",
+			"code": "56675",
+			"receivedDate": "2009-08-11",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "57405",
+			"receivedDate": "2009-09-17",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "57854",
+			"receivedDate": "2009-10-23",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "59163",
+			"receivedDate": "2010-01-08",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
+			"type": "Felling Licence"
 		},
 		{
 			"code": "59960",
@@ -618,120 +606,6 @@
 			"receivedDate": "2010-02-17",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
-		},
-		{
-			"code": "59163",
-			"receivedDate": "2010-01-08",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Felling Licence"
-		},
-		{
-			"code": "62170",
-			"receivedDate": "2010-06-16",
-			"response": "Information/Advice only",
-			"type": "River Engineering"
-		},
-		{
-			"code": "62512",
-			"receivedDate": "2010-07-05",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
-			"code": "62513",
-			"receivedDate": "2010-07-05",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
-			"code": "65758",
-			"receivedDate": "2010-11-18",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
-		},
-		{
-			"code": "65759",
-			"receivedDate": "2010-11-18",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
-		},
-		{
-			"code": "64108",
-			"receivedDate": "2010-09-07",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "64343",
-			"receivedDate": "2010-09-14",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "64579",
-			"receivedDate": "2010-09-21",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Forest Design Plan"
-		},
-		{
-			"code": "64578",
-			"receivedDate": "2010-09-21",
-			"response": "Information/Advice only",
-			"type": "Off-shore Wind"
-		},
-		{
-			"code": "63912",
-			"receivedDate": "2010-08-30",
-			"response": "Information/Advice only",
-			"type": "Off-shore Wind"
-		},
-		{
-			"code": "61478",
-			"receivedDate": "2010-05-07",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
-		},
-		{
-			"code": "61794",
-			"receivedDate": "2010-06-01",
-			"response": "Information/Advice only",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "61799",
-			"receivedDate": "2010-06-01",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "61279",
-			"receivedDate": "2010-04-30",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Other Developments"
-		},
-		{
-			"code": "63892",
-			"receivedDate": "2010-08-27",
-			"response": "Information/Advice only",
-			"type": "Other plans and strategies"
-		},
-		{
-			"code": "62358",
-			"receivedDate": "2010-06-29",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Controlled Activities Regulations"
-		},
-		{
-			"code": "63707",
-			"receivedDate": "2010-08-02",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
-			"code": "61142",
-			"receivedDate": "2010-04-22",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
 		},
 		{
 			"code": "60363",
@@ -752,16 +626,88 @@
 			"type": "Other Developments"
 		},
 		{
+			"code": "60433",
+			"receivedDate": "2010-03-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Moorings"
+		},
+		{
+			"code": "60554",
+			"receivedDate": "2010-02-26",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Coastal Protection Act"
+		},
+		{
 			"code": "61099",
 			"receivedDate": "2010-04-15",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Housing Developments"
 		},
 		{
-			"code": "60433",
-			"receivedDate": "2010-03-01",
+			"code": "61142",
+			"receivedDate": "2010-04-22",
+			"response": "Information/Advice only",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "61279",
+			"receivedDate": "2010-04-30",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Moorings"
+			"type": "Other Developments"
+		},
+		{
+			"code": "61478",
+			"receivedDate": "2010-05-07",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "61789",
+			"receivedDate": "2010-05-25",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Environmental Protection Act"
+		},
+		{
+			"code": "61794",
+			"receivedDate": "2010-06-01",
+			"response": "Information/Advice only",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "61799",
+			"receivedDate": "2010-06-01",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "61942",
+			"receivedDate": "2010-06-06",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "62170",
+			"receivedDate": "2010-06-16",
+			"response": "Information/Advice only",
+			"type": "River Engineering"
+		},
+		{
+			"code": "62358",
+			"receivedDate": "2010-06-29",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "62512",
+			"receivedDate": "2010-07-05",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tourism / Leisure Developments"
+		},
+		{
+			"code": "62513",
+			"receivedDate": "2010-07-05",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Tourism / Leisure Developments"
 		},
 		{
 			"code": "63545",
@@ -770,7 +716,85 @@
 			"type": "Marine"
 		},
 		{
+			"code": "63707",
+			"receivedDate": "2010-08-02",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "63892",
+			"receivedDate": "2010-08-27",
+			"response": "Information/Advice only",
+			"type": "Other plans and strategies"
+		},
+		{
+			"code": "63912",
+			"receivedDate": "2010-08-30",
+			"response": "Information/Advice only",
+			"type": "Off-shore Wind"
+		},
+		{
+			"code": "64108",
+			"receivedDate": "2010-09-07",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "64343",
+			"receivedDate": "2010-09-14",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "64578",
+			"receivedDate": "2010-09-21",
+			"response": "Information/Advice only",
+			"type": "Off-shore Wind"
+		},
+		{
+			"code": "64579",
+			"receivedDate": "2010-09-21",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Forest Design Plan"
+		},
+		{
+			"code": "65127",
+			"receivedDate": "2010-10-08",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "65353",
+			"receivedDate": "2010-10-15",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "65543",
+			"receivedDate": "2010-10-08",
+			"response": "Information/Advice only",
+			"type": "Hydro - run of river"
+		},
+		{
+			"code": "65756",
+			"receivedDate": "2010-11-18",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
 			"code": "65757",
+			"receivedDate": "2010-11-18",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
+		},
+		{
+			"code": "65758",
+			"receivedDate": "2010-11-18",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Other Developments"
+		},
+		{
+			"code": "65759",
 			"receivedDate": "2010-11-18",
 			"response": "C1 - No objection - little or no natural heritage interests affected",
 			"type": "Other Developments"
@@ -782,10 +806,46 @@
 			"type": "Other Developments"
 		},
 		{
+			"code": "67661",
+			"receivedDate": "2011-03-18",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Felling Licence"
+		},
+		{
+			"code": "68134",
+			"receivedDate": "2011-04-12",
+			"response": "Information/Advice only",
+			"type": "Other invasive species"
+		},
+		{
+			"code": "68237",
+			"receivedDate": "2011-04-15",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Industrial Developments"
+		},
+		{
+			"code": "68321",
+			"receivedDate": "2011-04-19",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
 			"code": "68387",
 			"receivedDate": "2011-04-24",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "68583",
+			"receivedDate": "2011-05-10",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Controlled Activities Regulations"
+		},
+		{
+			"code": "68882",
+			"receivedDate": "2011-05-23",
+			"response": "Information/Advice only",
+			"type": "Industrial Developments"
 		},
 		{
 			"code": "69274",
@@ -794,33 +854,21 @@
 			"type": "Marine"
 		},
 		{
-			"code": "65543",
-			"receivedDate": "2010-10-08",
+			"code": "69668",
+			"receivedDate": "2011-06-23",
 			"response": "Information/Advice only",
-			"type": "Hydro - run of river"
+			"type": "Off-shore Wind"
 		},
 		{
-			"code": "65353",
-			"receivedDate": "2010-10-15",
+			"code": "69788",
+			"receivedDate": "2011-06-10",
 			"response": "Information/Advice only",
-			"type": "Other Developments"
+			"type": "Environmental Protection Act"
 		},
 		{
-			"code": "65756",
-			"receivedDate": "2010-11-18",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
-		},
-		{
-			"code": "65127",
-			"receivedDate": "2010-10-08",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Housing Developments"
-		},
-		{
-			"code": "70622",
-			"receivedDate": "2011-08-03",
-			"response": "Information/Advice only",
+			"code": "69837",
+			"receivedDate": "2011-06-27",
+			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "River Engineering"
 		},
 		{
@@ -830,9 +878,33 @@
 			"type": "Hydro - run of river"
 		},
 		{
-			"code": "69668",
-			"receivedDate": "2011-06-23",
+			"code": "69890",
+			"receivedDate": "2011-07-01",
 			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "69917",
+			"receivedDate": "2011-05-18",
+			"response": "Information/Advice only",
+			"type": "Other Developments"
+		},
+		{
+			"code": "70436",
+			"receivedDate": "2011-07-26",
+			"response": "Information/Advice only",
+			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "70622",
+			"receivedDate": "2011-08-03",
+			"response": "Information/Advice only",
+			"type": "River Engineering"
+		},
+		{
+			"code": "70703",
+			"receivedDate": "2011-08-04",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
 			"type": "Off-shore Wind"
 		},
 		{
@@ -848,76 +920,10 @@
 			"type": "Long Term Forest Plan"
 		},
 		{
-			"code": "70703",
-			"receivedDate": "2011-08-04",
+			"code": "71214",
+			"receivedDate": "2011-09-09",
 			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Off-shore Wind"
-		},
-		{
-			"code": "69917",
-			"receivedDate": "2011-05-18",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
-			"code": "69837",
-			"receivedDate": "2011-06-27",
-			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
-			"type": "River Engineering"
-		},
-		{
-			"code": "70436",
-			"receivedDate": "2011-07-26",
-			"response": "Information/Advice only",
-			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "68882",
-			"receivedDate": "2011-05-23",
-			"response": "Information/Advice only",
-			"type": "Industrial Developments"
-		},
-		{
-			"code": "68237",
-			"receivedDate": "2011-04-15",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Industrial Developments"
-		},
-		{
-			"code": "68134",
-			"receivedDate": "2011-04-12",
-			"response": "Information/Advice only",
-			"type": "Other invasive species"
-		},
-		{
-			"code": "68321",
-			"receivedDate": "2011-04-19",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
-			"code": "69890",
-			"receivedDate": "2011-07-01",
-			"response": "Information/Advice only",
-			"type": "Other Developments"
-		},
-		{
-			"code": "69788",
-			"receivedDate": "2011-06-10",
-			"response": "Information/Advice only",
-			"type": "Environmental Protection Act"
-		},
-		{
-			"code": "67661",
-			"receivedDate": "2011-03-18",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Felling Licence"
-		},
-		{
-			"code": "68583",
-			"receivedDate": "2011-05-10",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Controlled Activities Regulations"
+			"type": "Tourism / Leisure Developments"
 		},
 		{
 			"code": "71383",
@@ -926,94 +932,10 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "71214",
-			"receivedDate": "2011-09-09",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Tourism / Leisure Developments"
-		},
-		{
 			"code": "71448",
 			"receivedDate": "2011-09-23",
 			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
 			"type": "Housing Developments"
-		},
-		{
-			"code": "CDM116923",
-			"receivedDate": "2012-08-24",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP140474",
-			"receivedDate": "2016-03-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA140381",
-			"receivedDate": "2016-03-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA136686",
-			"receivedDate": "2015-05-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP161850",
-			"receivedDate": "2021-01-22",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM160433",
-			"receivedDate": "2020-09-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA162196",
-			"receivedDate": "2021-02-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA155843",
-			"receivedDate": "2019-06-14",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CPA160841",
-			"receivedDate": "2020-10-02",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA160945",
-			"receivedDate": "2020-10-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA161311",
-			"receivedDate": "2020-11-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM158086",
-			"receivedDate": "2020-01-22",
-			"response": "No Comment",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CGS158227",
-			"receivedDate": "2020-01-28",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "ALC159581",
@@ -1022,70 +944,10 @@
 			"type": "Protected Species"
 		},
 		{
-			"code": "CPP161248",
-			"receivedDate": "2020-11-18",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS161810",
-			"receivedDate": "2021-01-20",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPA160438",
-			"receivedDate": "2020-09-03",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
 			"code": "ALC161374",
 			"receivedDate": "2020-12-01",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CPP162080",
-			"receivedDate": "2021-02-08",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CGS161040",
-			"receivedDate": "2020-11-02",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM161030",
-			"receivedDate": "2020-10-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP161642",
-			"receivedDate": "2021-01-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA162503",
-			"receivedDate": "2021-03-17",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM111922",
-			"receivedDate": "2012-02-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC112584",
-			"receivedDate": "2012-03-12",
-			"response": "Advice only",
-			"type": "CAR Licence"
 		},
 		{
 			"code": "CDM110334",
@@ -1094,74 +956,128 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CEA110611",
-			"receivedDate": "2011-12-20",
+			"code": "CDM111922",
+			"receivedDate": "2012-02-15",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC144823",
-			"receivedDate": "2017-02-20",
+			"code": "CDM113776",
+			"receivedDate": "2012-04-27",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM116923",
+			"receivedDate": "2012-08-24",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM120876",
+			"receivedDate": "2013-02-05",
 			"response": "Advice only",
-			"type": "CAR Licence"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA141842",
-			"receivedDate": "2016-05-30",
+			"code": "CDM121007",
+			"receivedDate": "2013-02-08",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA144638",
-			"receivedDate": "2017-01-24",
+			"code": "CDM121036",
+			"receivedDate": "2013-02-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122274",
+			"receivedDate": "2013-04-01",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "COR140938",
-			"receivedDate": "2016-04-16",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "GEN153881",
-			"receivedDate": "2019-01-15",
+			"code": "CDM123046",
+			"receivedDate": "2013-04-23",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CEA153897",
-			"receivedDate": "2019-01-15",
+			"code": "CDM125462",
+			"receivedDate": "2013-08-07",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN155620",
-			"receivedDate": "2019-04-18",
+			"code": "CDM128814",
+			"receivedDate": "2013-12-11",
+			"response": "Outright objection",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM131941",
+			"receivedDate": "2014-07-07",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM154160",
-			"receivedDate": "2019-02-04",
+			"code": "CDM133084",
+			"receivedDate": "2014-09-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133362",
+			"receivedDate": "2014-09-25",
+			"response": "No Comment",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM134778",
+			"receivedDate": "2015-01-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM136257",
+			"receivedDate": "2015-04-21",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM137129",
+			"receivedDate": "2015-06-15",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM137270",
+			"receivedDate": "2015-06-26",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM138180",
+			"receivedDate": "2015-08-27",
 			"response": "Advice only",
 			"type": "Post Application"
 		},
 		{
-			"code": "CLC155911",
-			"receivedDate": "2019-06-19",
+			"code": "CDM142081",
+			"receivedDate": "2016-07-11",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Planning Application"
 		},
 		{
-			"code": "PAC155697",
-			"receivedDate": "2019-05-31",
+			"code": "CDM142446",
+			"receivedDate": "2016-08-08",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM155537",
-			"receivedDate": "2019-05-15",
+			"code": "CDM144287",
+			"receivedDate": "2017-01-11",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -1172,135 +1088,21 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM142081",
-			"receivedDate": "2016-07-11",
+			"code": "CDM147246",
+			"receivedDate": "2017-08-23",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CGS142532",
-			"receivedDate": "2016-08-16",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM138180",
-			"receivedDate": "2015-08-27",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM144287",
-			"receivedDate": "2017-01-11",
+			"code": "CDM147532",
+			"receivedDate": "2017-09-14",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC141146",
-			"receivedDate": "2016-05-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP141881",
-			"receivedDate": "2016-06-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP139953",
-			"receivedDate": "2016-02-02",
-			"response": "Advice only",
-			"type": "Strategic Development Plan"
-		},
-		{
-			"code": "CDM142446",
-			"receivedDate": "2016-08-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA142707",
-			"receivedDate": "2016-08-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM137129",
-			"receivedDate": "2015-06-15",
-			"response": "Advice only",
-			"type": "S.37 Application"
-		},
-		{
-			"code": "GEN142346",
-			"receivedDate": "2016-08-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN141477",
-			"receivedDate": "2016-05-26",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA140296",
-			"receivedDate": "2016-02-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS144335",
-			"receivedDate": "2017-01-12",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM137270",
-			"receivedDate": "2015-06-26",
+			"code": "CDM148053",
+			"receivedDate": "2017-10-25",
 			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "COR141463",
-			"receivedDate": "2016-05-13",
-			"response": "Information only",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "CPP142069",
-			"receivedDate": "2016-07-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA142748",
-			"receivedDate": "2016-08-31",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA138414",
-			"receivedDate": "2015-09-21",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA138932",
-			"receivedDate": "2015-11-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN141235",
-			"receivedDate": "2016-05-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM155465",
-			"receivedDate": "2019-05-15",
-			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
@@ -1316,50 +1118,74 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM153801",
-			"receivedDate": "2018-12-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC153954",
-			"receivedDate": "2019-01-21",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "CDM157299",
-			"receivedDate": "2019-10-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS149615",
-			"receivedDate": "2018-02-22",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC151446",
-			"receivedDate": "2018-07-10",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CDM151449",
 			"receivedDate": "2018-07-10",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM157710",
-			"receivedDate": "2019-12-12",
+			"code": "CDM152497",
+			"receivedDate": "2018-09-24",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM152890",
+			"receivedDate": "2018-10-03",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM153801",
+			"receivedDate": "2018-12-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154160",
+			"receivedDate": "2019-02-04",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CDM154266",
 			"receivedDate": "2019-02-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM154270",
+			"receivedDate": "2019-02-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155465",
+			"receivedDate": "2019-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM155537",
+			"receivedDate": "2019-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM156101",
+			"receivedDate": "2019-07-04",
+			"response": "Conditioned objection",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM156310",
+			"receivedDate": "2019-07-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157299",
+			"receivedDate": "2019-10-29",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -1376,658 +1202,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CLC152267",
-			"receivedDate": "2018-09-04",
-			"response": "Conditioned objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM154270",
-			"receivedDate": "2019-02-12",
+			"code": "CDM157710",
+			"receivedDate": "2019-12-12",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPP157726",
-			"receivedDate": "2019-12-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA149148",
-			"receivedDate": "2018-01-26",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN150051",
-			"receivedDate": "2018-04-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA156529",
-			"receivedDate": "2019-08-14",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC150280",
-			"receivedDate": "2018-04-19",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPA149253",
-			"receivedDate": "2018-02-06",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC155135",
-			"receivedDate": "2019-04-09",
-			"response": "No comment",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM156101",
-			"receivedDate": "2019-07-04",
-			"response": "Conditioned objection",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CGS156635",
-			"receivedDate": "2019-08-23",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM152890",
-			"receivedDate": "2018-10-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM156310",
-			"receivedDate": "2019-07-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC152950",
-			"receivedDate": "2018-10-29",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "GEN157926",
-			"receivedDate": "2020-01-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM152497",
-			"receivedDate": "2018-09-24",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP152503",
-			"receivedDate": "2018-08-29",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC146162",
-			"receivedDate": "2017-06-06",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "GEN145045",
-			"receivedDate": "2017-02-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM147532",
-			"receivedDate": "2017-09-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS146714",
-			"receivedDate": "2017-07-12",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPA146748",
-			"receivedDate": "2017-07-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS146496",
-			"receivedDate": "2017-06-29",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM147246",
-			"receivedDate": "2017-08-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA147301",
-			"receivedDate": "2017-08-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC148422",
-			"receivedDate": "2017-11-23",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM148053",
-			"receivedDate": "2017-10-25",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC148110",
-			"receivedDate": "2017-10-30",
-			"response": "Conditioned objection",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CPA152715",
-			"receivedDate": "2018-10-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC146310",
-			"receivedDate": "2017-06-16",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CPA147852",
-			"receivedDate": "2017-10-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS145035",
-			"receivedDate": "2017-03-04",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN147427",
-			"receivedDate": "2017-08-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA145042",
-			"receivedDate": "2017-03-06",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN124205",
-			"receivedDate": "2013-06-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP126992",
-			"receivedDate": "2013-10-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM131941",
-			"receivedDate": "2014-07-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP131313",
-			"receivedDate": "2014-06-05",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP128622",
-			"receivedDate": "2014-01-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC131379",
-			"receivedDate": "2014-06-11",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CGS126997",
-			"receivedDate": "2013-10-18",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CEA126543",
-			"receivedDate": "2013-09-16",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC131012",
-			"receivedDate": "2014-05-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA127992",
-			"receivedDate": "2013-12-04",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC126440",
-			"receivedDate": "2013-09-06",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM125462",
-			"receivedDate": "2013-08-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS125741",
-			"receivedDate": "2013-08-20",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CEA126484",
-			"receivedDate": "2013-09-23",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC121651",
-			"receivedDate": "2013-02-22",
-			"response": "S.12 SSSI consent required",
-			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
-		},
-		{
-			"code": "CLC123017",
-			"receivedDate": "2013-04-26",
-			"response": "No objection",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CPP125490",
-			"receivedDate": "2013-08-09",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CLC122655",
-			"receivedDate": "2013-04-16",
-			"response": "Conditioned objection",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "GEN126833",
-			"receivedDate": "2013-09-26",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM128814",
-			"receivedDate": "2013-12-11",
-			"response": "Outright objection",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "GEN128040",
-			"receivedDate": "2013-12-03",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CEA126306",
-			"receivedDate": "2013-09-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM134778",
-			"receivedDate": "2015-01-08",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA130543",
-			"receivedDate": "2014-04-22",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA130362",
-			"receivedDate": "2014-04-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CEA132823",
-			"receivedDate": "2014-08-25",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPA136061",
-			"receivedDate": "2015-04-01",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CLC133416",
-			"receivedDate": "2014-10-02",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM136257",
-			"receivedDate": "2015-04-21",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA128317",
-			"receivedDate": "2013-12-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN134000",
-			"receivedDate": "2014-11-07",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS127871",
-			"receivedDate": "2013-11-28",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPP130213",
-			"receivedDate": "2014-03-26",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM133362",
-			"receivedDate": "2014-09-25",
+			"code": "CDM158086",
+			"receivedDate": "2020-01-22",
 			"response": "No Comment",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM133084",
-			"receivedDate": "2014-09-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA134814",
-			"receivedDate": "2014-12-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC135574",
-			"receivedDate": "2015-03-03",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CEA129890",
-			"receivedDate": "2014-03-19",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CDM123046",
-			"receivedDate": "2013-04-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM122274",
-			"receivedDate": "2013-04-01",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA121458",
-			"receivedDate": "2013-02-25",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP122298",
-			"receivedDate": "2013-03-29",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA121941",
-			"receivedDate": "2013-03-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS120868",
-			"receivedDate": "2013-01-25",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CLC121785",
-			"receivedDate": "2013-03-07",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CPA125257",
-			"receivedDate": "2013-07-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP118778",
-			"receivedDate": "2012-11-02",
-			"response": "Advice only",
-			"type": "Local Development Plan"
-		},
-		{
-			"code": "CPA121935",
-			"receivedDate": "2013-03-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN122905",
-			"receivedDate": "2013-04-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP125284",
-			"receivedDate": "2013-07-25",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM120876",
-			"receivedDate": "2013-02-05",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC120878",
-			"receivedDate": "2013-02-07",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CEA117910",
-			"receivedDate": "2012-10-02",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CLC123982",
-			"receivedDate": "2013-06-11",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CDM113776",
-			"receivedDate": "2012-04-27",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP114083",
-			"receivedDate": "2012-05-03",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC113968",
-			"receivedDate": "2012-05-04",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC123924",
-			"receivedDate": "2013-06-07",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CPP119032",
-			"receivedDate": "2012-11-19",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM121007",
-			"receivedDate": "2013-02-08",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM121036",
-			"receivedDate": "2013-02-08",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC167818",
-			"receivedDate": "2022-07-18",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CGS163268",
-			"receivedDate": "2021-05-27",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CPA165338",
-			"receivedDate": "2021-12-03",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM168798",
-			"receivedDate": "2022-10-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP167069",
-			"receivedDate": "2022-05-19",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM169466",
-			"receivedDate": "2023-01-04",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA168276",
-			"receivedDate": "2022-09-02",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CDM168944",
-			"receivedDate": "2022-11-08",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP165088",
-			"receivedDate": "2021-11-11",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CEA163109",
-			"receivedDate": "2021-05-11",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN163991",
-			"receivedDate": "2021-06-25",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM167189",
-			"receivedDate": "2022-05-31",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CGS169258",
-			"receivedDate": "2022-12-07",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM169285",
-			"receivedDate": "2022-03-01",
-			"response": "Advice only",
-			"type": "S.37 Application"
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM158617",
@@ -2036,40 +1220,16 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM164413",
-			"receivedDate": "2021-09-06",
-			"response": "No Comment",
-			"type": "Application related advice"
+			"code": "CDM158959",
+			"receivedDate": "2020-04-09",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
-			"code": "CLC166746",
-			"receivedDate": "2022-04-26",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM165180",
-			"receivedDate": "2021-11-22",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM165181",
-			"receivedDate": "2021-11-22",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CPP163626",
-			"receivedDate": "2021-06-30",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN166923",
-			"receivedDate": "2022-05-09",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "CDM160178",
+			"receivedDate": "2020-08-13",
+			"response": "Holding objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM160283",
@@ -2078,62 +1238,8 @@
 			"type": "S.37 Application"
 		},
 		{
-			"code": "CDM165636",
-			"receivedDate": "2022-01-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC165700",
-			"receivedDate": "2022-01-20",
-			"response": "Advice only",
-			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
-		},
-		{
-			"code": "CDM165951",
-			"receivedDate": "2022-02-10",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN166540",
-			"receivedDate": "2022-04-04",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM158959",
-			"receivedDate": "2020-04-09",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN163520",
-			"receivedDate": "2021-06-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM163523",
-			"receivedDate": "2021-06-22",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA166526",
-			"receivedDate": "2022-04-01",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CGS166214",
-			"receivedDate": "2022-03-02",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM163664",
-			"receivedDate": "2021-06-30",
+			"code": "CDM160433",
+			"receivedDate": "2020-09-07",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -2144,40 +1250,28 @@
 			"type": "Application related advice"
 		},
 		{
-			"code": "CLC165142",
-			"receivedDate": "2021-11-18",
+			"code": "CDM161030",
+			"receivedDate": "2020-10-27",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPA162856",
-			"receivedDate": "2021-04-26",
+			"code": "CDM163523",
+			"receivedDate": "2021-06-22",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CPP163666",
-			"receivedDate": "2021-07-02",
+			"code": "CDM163664",
+			"receivedDate": "2021-06-30",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CGS162578",
-			"receivedDate": "2021-03-26",
+			"code": "CDM163937",
+			"receivedDate": "2021-07-20",
 			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN162998",
-			"receivedDate": "2021-05-05",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN159680",
-			"receivedDate": "2020-06-22",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM164059",
@@ -2198,16 +1292,10 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA164757",
-			"receivedDate": "2021-09-10",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS158660",
-			"receivedDate": "2020-03-10",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
+			"code": "CDM164413",
+			"receivedDate": "2021-09-06",
+			"response": "No Comment",
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM165162",
@@ -2216,28 +1304,940 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "PAC164879",
-			"receivedDate": "2021-10-26",
+			"code": "CDM165180",
+			"receivedDate": "2021-11-22",
 			"response": "Advice only",
-			"type": "Development Advice"
+			"type": "Application related advice"
 		},
 		{
-			"code": "CDM163937",
-			"receivedDate": "2021-07-20",
+			"code": "CDM165181",
+			"receivedDate": "2021-11-22",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM165636",
+			"receivedDate": "2022-01-17",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM160178",
-			"receivedDate": "2020-08-13",
-			"response": "Holding objection",
+			"code": "CDM165951",
+			"receivedDate": "2022-02-10",
+			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM167189",
+			"receivedDate": "2022-05-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168798",
+			"receivedDate": "2022-10-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM168944",
+			"receivedDate": "2022-11-08",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM169285",
+			"receivedDate": "2022-03-01",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
+			"code": "CDM169466",
+			"receivedDate": "2023-01-04",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA110611",
+			"receivedDate": "2011-12-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA117910",
+			"receivedDate": "2012-10-02",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA121458",
+			"receivedDate": "2013-02-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA126306",
+			"receivedDate": "2013-09-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA126484",
+			"receivedDate": "2013-09-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA126543",
+			"receivedDate": "2013-09-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA127992",
+			"receivedDate": "2013-12-04",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA129890",
+			"receivedDate": "2014-03-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA130362",
+			"receivedDate": "2014-04-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA130543",
+			"receivedDate": "2014-04-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA132823",
+			"receivedDate": "2014-08-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA134814",
+			"receivedDate": "2014-12-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA140296",
+			"receivedDate": "2016-02-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA140381",
+			"receivedDate": "2016-03-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA142748",
+			"receivedDate": "2016-08-31",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA145042",
+			"receivedDate": "2017-03-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA149148",
+			"receivedDate": "2018-01-26",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA153897",
+			"receivedDate": "2019-01-15",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA160945",
+			"receivedDate": "2020-10-19",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA161311",
+			"receivedDate": "2020-11-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA162503",
+			"receivedDate": "2021-03-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA163109",
+			"receivedDate": "2021-05-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA166526",
+			"receivedDate": "2022-04-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CGS120868",
+			"receivedDate": "2013-01-25",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS125741",
+			"receivedDate": "2013-08-20",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS126997",
+			"receivedDate": "2013-10-18",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS127871",
+			"receivedDate": "2013-11-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS142532",
+			"receivedDate": "2016-08-16",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS144335",
+			"receivedDate": "2017-01-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS145035",
+			"receivedDate": "2017-03-04",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS146496",
+			"receivedDate": "2017-06-29",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS146714",
+			"receivedDate": "2017-07-12",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS149615",
+			"receivedDate": "2018-02-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CGS156635",
+			"receivedDate": "2019-08-23",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS158227",
+			"receivedDate": "2020-01-28",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS158660",
+			"receivedDate": "2020-03-10",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS161040",
+			"receivedDate": "2020-11-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS161810",
+			"receivedDate": "2021-01-20",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS162578",
+			"receivedDate": "2021-03-26",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS163268",
+			"receivedDate": "2021-05-27",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS166214",
+			"receivedDate": "2022-03-02",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS169258",
+			"receivedDate": "2022-12-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC112584",
+			"receivedDate": "2012-03-12",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC113968",
+			"receivedDate": "2012-05-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC120878",
+			"receivedDate": "2013-02-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC121651",
+			"receivedDate": "2013-02-22",
+			"response": "S.12 SSSI consent required",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC121785",
+			"receivedDate": "2013-03-07",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC122655",
+			"receivedDate": "2013-04-16",
+			"response": "Conditioned objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC123017",
+			"receivedDate": "2013-04-26",
+			"response": "No objection",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC123924",
+			"receivedDate": "2013-06-07",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC123982",
+			"receivedDate": "2013-06-11",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC126440",
+			"receivedDate": "2013-09-06",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC131012",
+			"receivedDate": "2014-05-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC131379",
+			"receivedDate": "2014-06-11",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC133416",
+			"receivedDate": "2014-10-02",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC135574",
+			"receivedDate": "2015-03-03",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC141146",
+			"receivedDate": "2016-05-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC144823",
+			"receivedDate": "2017-02-20",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC146162",
+			"receivedDate": "2017-06-06",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC146310",
+			"receivedDate": "2017-06-16",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC148110",
+			"receivedDate": "2017-10-30",
+			"response": "Conditioned objection",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC148422",
+			"receivedDate": "2017-11-23",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC150280",
+			"receivedDate": "2018-04-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC151446",
+			"receivedDate": "2018-07-10",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC152267",
+			"receivedDate": "2018-09-04",
+			"response": "Conditioned objection",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC152950",
+			"receivedDate": "2018-10-29",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC153954",
+			"receivedDate": "2019-01-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC155135",
+			"receivedDate": "2019-04-09",
+			"response": "No comment",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC155911",
+			"receivedDate": "2019-06-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC165142",
+			"receivedDate": "2021-11-18",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "CLC165578",
 			"receivedDate": "2022-01-11",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC165700",
+			"receivedDate": "2022-01-20",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC166746",
+			"receivedDate": "2022-04-26",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC167818",
+			"receivedDate": "2022-07-18",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "COR140938",
+			"receivedDate": "2016-04-16",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "COR141463",
+			"receivedDate": "2016-05-13",
+			"response": "Information only",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA121935",
+			"receivedDate": "2013-03-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA121941",
+			"receivedDate": "2013-03-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA125257",
+			"receivedDate": "2013-07-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA128317",
+			"receivedDate": "2013-12-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA136061",
+			"receivedDate": "2015-04-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA136686",
+			"receivedDate": "2015-05-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA138414",
+			"receivedDate": "2015-09-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA138932",
+			"receivedDate": "2015-11-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA141842",
+			"receivedDate": "2016-05-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA142707",
+			"receivedDate": "2016-08-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA144638",
+			"receivedDate": "2017-01-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA146748",
+			"receivedDate": "2017-07-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA147301",
+			"receivedDate": "2017-08-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA147852",
+			"receivedDate": "2017-10-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA149253",
+			"receivedDate": "2018-02-06",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA152715",
+			"receivedDate": "2018-10-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA155843",
+			"receivedDate": "2019-06-14",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA156529",
+			"receivedDate": "2019-08-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA160438",
+			"receivedDate": "2020-09-03",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPA160841",
+			"receivedDate": "2020-10-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162196",
+			"receivedDate": "2021-02-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162856",
+			"receivedDate": "2021-04-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164757",
+			"receivedDate": "2021-09-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA165338",
+			"receivedDate": "2021-12-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA168276",
+			"receivedDate": "2022-09-02",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
+			"code": "CPP114083",
+			"receivedDate": "2012-05-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP118778",
+			"receivedDate": "2012-11-02",
+			"response": "Advice only",
+			"type": "Local Development Plan"
+		},
+		{
+			"code": "CPP119032",
+			"receivedDate": "2012-11-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP122298",
+			"receivedDate": "2013-03-29",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP125284",
+			"receivedDate": "2013-07-25",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP125490",
+			"receivedDate": "2013-08-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP126992",
+			"receivedDate": "2013-10-15",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP128622",
+			"receivedDate": "2014-01-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP130213",
+			"receivedDate": "2014-03-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP131313",
+			"receivedDate": "2014-06-05",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP139953",
+			"receivedDate": "2016-02-02",
+			"response": "Advice only",
+			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CPP140474",
+			"receivedDate": "2016-03-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP141881",
+			"receivedDate": "2016-06-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP142069",
+			"receivedDate": "2016-07-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP152503",
+			"receivedDate": "2018-08-29",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP157726",
+			"receivedDate": "2019-12-13",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP161248",
+			"receivedDate": "2020-11-18",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP161642",
+			"receivedDate": "2021-01-06",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP161850",
+			"receivedDate": "2021-01-22",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP162080",
+			"receivedDate": "2021-02-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP163626",
+			"receivedDate": "2021-06-30",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP163666",
+			"receivedDate": "2021-07-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP165088",
+			"receivedDate": "2021-11-11",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP167069",
+			"receivedDate": "2022-05-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN122905",
+			"receivedDate": "2013-04-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN124205",
+			"receivedDate": "2013-06-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN126833",
+			"receivedDate": "2013-09-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN128040",
+			"receivedDate": "2013-12-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN134000",
+			"receivedDate": "2014-11-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN141235",
+			"receivedDate": "2016-05-11",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN141477",
+			"receivedDate": "2016-05-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN142346",
+			"receivedDate": "2016-08-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN145045",
+			"receivedDate": "2017-02-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN147427",
+			"receivedDate": "2017-08-30",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN150051",
+			"receivedDate": "2018-04-03",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN153881",
+			"receivedDate": "2019-01-15",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN155620",
+			"receivedDate": "2019-04-18",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN157926",
+			"receivedDate": "2020-01-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN159680",
+			"receivedDate": "2020-06-22",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN162998",
+			"receivedDate": "2021-05-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN163520",
+			"receivedDate": "2021-06-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN163991",
+			"receivedDate": "2021-06-25",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN166540",
+			"receivedDate": "2022-04-04",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN166923",
+			"receivedDate": "2022-05-09",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "PAC155697",
+			"receivedDate": "2019-05-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "PAC164879",
+			"receivedDate": "2021-10-26",
+			"response": "Advice only",
+			"type": "Development Advice"
 		}
 	],
 	"designation": {

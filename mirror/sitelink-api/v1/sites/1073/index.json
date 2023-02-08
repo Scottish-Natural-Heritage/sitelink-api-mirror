@@ -8,6 +8,12 @@
 			"type": "Tourism / Leisure Developments"
 		},
 		{
+			"code": "25128",
+			"receivedDate": "2005-04-28",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "25999",
 			"receivedDate": "2005-04-28",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -20,10 +26,10 @@
 			"type": "Trunk Roads"
 		},
 		{
-			"code": "25128",
-			"receivedDate": "2005-04-28",
+			"code": "45524",
+			"receivedDate": "2007-11-14",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "46720",
@@ -32,16 +38,16 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "45524",
-			"receivedDate": "2007-11-14",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "50538",
 			"receivedDate": "2008-08-08",
 			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
 			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "ALC167519",
+			"receivedDate": "2022-06-21",
+			"response": "SSSI Consent Refused",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM137381",
@@ -56,34 +62,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN144115",
-			"receivedDate": "2016-12-14",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP143235",
-			"receivedDate": "2016-10-04",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CEA143876",
 			"receivedDate": "2016-12-02",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CPP138347",
-			"receivedDate": "2015-09-10",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP127595",
-			"receivedDate": "2013-11-15",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		},
 		{
 			"code": "CGS132098",
@@ -92,8 +74,8 @@
 			"type": "Other"
 		},
 		{
-			"code": "CPP132714",
-			"receivedDate": "2014-08-12",
+			"code": "CPP127595",
+			"receivedDate": "2013-11-15",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -104,10 +86,28 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "ALC167519",
-			"receivedDate": "2022-06-21",
-			"response": "SSSI Consent Refused",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CPP132714",
+			"receivedDate": "2014-08-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP138347",
+			"receivedDate": "2015-09-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP143235",
+			"receivedDate": "2016-10-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN144115",
+			"receivedDate": "2016-12-14",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

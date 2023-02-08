@@ -14,6 +14,12 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
+			"code": "19179",
+			"receivedDate": "2004-07-15",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Notice of Intent"
+		},
+		{
 			"code": "19219",
 			"receivedDate": "2004-07-22",
 			"response": "B. Support",
@@ -26,26 +32,20 @@
 			"type": "Local Plan"
 		},
 		{
-			"code": "19179",
-			"receivedDate": "2004-07-15",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Notice of Intent"
-		},
-		{
 			"code": "23468",
 			"receivedDate": "2005-02-24",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "30512",
-			"receivedDate": "2006-01-30",
+			"code": "29798",
+			"receivedDate": "2005-12-22",
 			"response": "Information/Advice only",
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "29798",
-			"receivedDate": "2005-12-22",
+			"code": "30512",
+			"receivedDate": "2006-01-30",
 			"response": "Information/Advice only",
 			"type": "Notice of Intent"
 		},
@@ -62,16 +62,16 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "GEN153976",
-			"receivedDate": "2019-01-22",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CLC163313",
 			"receivedDate": "2021-06-02",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "GEN153976",
+			"receivedDate": "2019-01-22",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

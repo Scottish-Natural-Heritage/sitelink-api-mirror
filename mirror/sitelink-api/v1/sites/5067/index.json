@@ -2,9 +2,21 @@
 	"area": 370.3,
 	"casework": [
 		{
-			"code": "ALC161863",
-			"receivedDate": "2021-01-22",
-			"response": "SSSI Consent Given (subject to conditions)",
+			"code": "ALC130678",
+			"receivedDate": "2014-05-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC147854",
+			"receivedDate": "2017-10-09",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC160417",
+			"receivedDate": "2020-09-04",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -14,44 +26,20 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "GEN159276",
-			"receivedDate": "2020-05-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC160417",
-			"receivedDate": "2020-09-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN161323",
-			"receivedDate": "2020-08-05",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC147854",
-			"receivedDate": "2017-10-09",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC130964",
-			"receivedDate": "2014-05-06",
-			"response": "S.15 Advice only",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "ALC130678",
-			"receivedDate": "2014-05-06",
-			"response": "SSSI Consent Given",
+			"code": "ALC161863",
+			"receivedDate": "2021-01-22",
+			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC162589",
 			"receivedDate": "2021-03-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC164936",
+			"receivedDate": "2021-10-29",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -62,22 +50,34 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CLC130964",
+			"receivedDate": "2014-05-06",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "CPA167748",
 			"receivedDate": "2022-07-13",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN164269",
+			"code": "GEN159276",
 			"receivedDate": "2020-05-19",
 			"response": "Advice only",
 			"type": "General Advice"
 		},
 		{
-			"code": "ALC164936",
-			"receivedDate": "2021-10-29",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "GEN161323",
+			"receivedDate": "2020-08-05",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN164269",
+			"receivedDate": "2020-05-19",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

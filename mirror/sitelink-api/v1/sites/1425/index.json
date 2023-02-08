@@ -8,16 +8,16 @@
 			"type": "Notice of Intent"
 		},
 		{
-			"code": "24004",
-			"receivedDate": "2005-03-17",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "21527",
 			"receivedDate": "2004-11-11",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "24004",
+			"receivedDate": "2005-03-17",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "49045",
@@ -32,28 +32,10 @@
 			"type": "Consultation from a public body (s.12)"
 		},
 		{
-			"code": "GEN140834",
-			"receivedDate": "2016-04-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN138289",
-			"receivedDate": "2015-09-08",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA151153",
-			"receivedDate": "2018-06-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA153075",
-			"receivedDate": "2018-11-06",
-			"response": "Advice only",
-			"type": "EIA"
+			"code": "CDM118154",
+			"receivedDate": "2012-10-11",
+			"response": "No Comment",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM153224",
@@ -62,22 +44,40 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CEA153075",
+			"receivedDate": "2018-11-06",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC129871",
 			"receivedDate": "2014-03-20",
 			"response": "S.15 Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CDM118154",
-			"receivedDate": "2012-10-11",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CLC164569",
 			"receivedDate": "2021-09-23",
 			"response": "Advice only",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "CPA151153",
+			"receivedDate": "2018-06-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN138289",
+			"receivedDate": "2015-09-08",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN140834",
+			"receivedDate": "2016-04-08",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -2,16 +2,16 @@
 	"area": 1.79,
 	"casework": [
 		{
-			"code": "20695",
-			"receivedDate": "2004-03-18",
-			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
-		},
-		{
 			"code": "18274",
 			"receivedDate": "2004-02-06",
 			"response": "Information/Advice only",
 			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "20695",
+			"receivedDate": "2004-03-18",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
 			"code": "25810",
@@ -50,15 +50,45 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "CLC158548",
-			"receivedDate": "2020-02-27",
-			"response": "No comment",
-			"type": "Other"
+			"code": "CDM117409",
+			"receivedDate": "2012-09-12",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM118903",
+			"receivedDate": "2012-11-13",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CLC112236",
 			"receivedDate": "2012-02-20",
 			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC119953",
+			"receivedDate": "2012-12-21",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC120186",
+			"receivedDate": "2013-01-11",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC121012",
+			"receivedDate": "2013-02-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC158548",
+			"receivedDate": "2020-02-27",
+			"response": "No comment",
 			"type": "Other"
 		},
 		{
@@ -72,36 +102,6 @@
 			"receivedDate": "2014-09-04",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM118903",
-			"receivedDate": "2012-11-13",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC120186",
-			"receivedDate": "2013-01-11",
-			"response": "S.12 SSSI consent not required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
-		},
-		{
-			"code": "CDM117409",
-			"receivedDate": "2012-09-12",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CLC121012",
-			"receivedDate": "2013-02-11",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC119953",
-			"receivedDate": "2012-12-21",
-			"response": "S.12 SSSI consent required",
-			"type": "SSSI Consultation (s.12 - from a public body)"
 		}
 	],
 	"designation": {

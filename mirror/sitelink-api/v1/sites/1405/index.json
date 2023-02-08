@@ -8,14 +8,20 @@
 			"type": "Coastal Protection Act"
 		},
 		{
+			"code": "37662",
+			"receivedDate": "2006-12-11",
+			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
+			"type": "Application for consent from owner/occ (s.16)"
+		},
+		{
 			"code": "37717",
 			"receivedDate": "2006-11-24",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "37662",
-			"receivedDate": "2006-12-11",
+			"code": "43714",
+			"receivedDate": "2007-09-17",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
@@ -24,12 +30,6 @@
 			"receivedDate": "2007-09-10",
 			"response": "Information/Advice only",
 			"type": "Electricity (exc. renewable energy cases)"
-		},
-		{
-			"code": "43714",
-			"receivedDate": "2007-09-17",
-			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
-			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "49384",
@@ -42,18 +42,6 @@
 			"receivedDate": "2010-03-30",
 			"response": "Information/Advice only",
 			"type": "Site Search"
-		},
-		{
-			"code": "68046",
-			"receivedDate": "2011-04-07",
-			"response": "Information/Advice only",
-			"type": "Species Licensing"
-		},
-		{
-			"code": "68438",
-			"receivedDate": "2011-05-03",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Radioactivity"
 		},
 		{
 			"code": "65595",
@@ -74,10 +62,16 @@
 			"type": "Electricity (exc. renewable energy cases)"
 		},
 		{
-			"code": "GEN159521",
-			"receivedDate": "2020-06-12",
-			"response": "Advice only",
-			"type": "General Advice"
+			"code": "68046",
+			"receivedDate": "2011-04-07",
+			"response": "Information/Advice only",
+			"type": "Species Licensing"
+		},
+		{
+			"code": "68438",
+			"receivedDate": "2011-05-03",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Radioactivity"
 		},
 		{
 			"code": "ALC111614",
@@ -86,16 +80,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA143854",
-			"receivedDate": "2016-11-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA140476",
-			"receivedDate": "2016-03-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CDM168847",
+			"receivedDate": "2022-11-01",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CPA134167",
@@ -110,22 +98,34 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM168847",
-			"receivedDate": "2022-11-01",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CPA140476",
+			"receivedDate": "2016-03-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "GEN164187",
-			"receivedDate": "2021-08-18",
+			"code": "CPA143854",
+			"receivedDate": "2016-11-29",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA166425",
 			"receivedDate": "2022-03-23",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN159521",
+			"receivedDate": "2020-06-12",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN164187",
+			"receivedDate": "2021-08-18",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

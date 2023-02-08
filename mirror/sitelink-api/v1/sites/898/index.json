@@ -2,34 +2,34 @@
 	"area": 9.71,
 	"casework": [
 		{
+			"code": "CDM123991",
+			"receivedDate": "2013-06-11",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM124872",
+			"receivedDate": "2013-07-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131293",
+			"receivedDate": "2014-06-05",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM136333",
+			"receivedDate": "2015-04-24",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM137834",
 			"receivedDate": "2015-08-06",
 			"response": "Advice only",
 			"type": "Post Application"
-		},
-		{
-			"code": "GEN160548",
-			"receivedDate": "2020-09-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM139573",
-			"receivedDate": "2016-01-05",
-			"response": "Advice only",
-			"type": "S.36 Application"
-		},
-		{
-			"code": "CPA140360",
-			"receivedDate": "2016-02-26",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CEA137720",
-			"receivedDate": "2015-07-23",
-			"response": "Advice only",
-			"type": "EIA"
 		},
 		{
 			"code": "CDM138847",
@@ -44,16 +44,28 @@
 			"type": "Post Application"
 		},
 		{
+			"code": "CDM139573",
+			"receivedDate": "2016-01-05",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CEA137720",
+			"receivedDate": "2015-07-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA138837",
 			"receivedDate": "2015-10-26",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CDM131293",
-			"receivedDate": "2014-06-05",
-			"response": "Holding objection",
-			"type": "Planning Application"
+			"code": "CEA163392",
+			"receivedDate": "2021-06-10",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CPA136263",
@@ -62,28 +74,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM136333",
-			"receivedDate": "2015-04-24",
-			"response": "Holding objection",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPA137432",
 			"receivedDate": "2015-07-09",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM123991",
-			"receivedDate": "2013-06-11",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM124872",
-			"receivedDate": "2013-07-12",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CPA140360",
+			"receivedDate": "2016-02-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "GEN124309",
@@ -92,10 +92,10 @@
 			"type": "General Advice"
 		},
 		{
-			"code": "CEA163392",
-			"receivedDate": "2021-06-10",
+			"code": "GEN160548",
+			"receivedDate": "2020-09-16",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

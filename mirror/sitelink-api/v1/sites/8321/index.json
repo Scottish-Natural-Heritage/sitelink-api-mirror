@@ -2,18 +2,6 @@
 	"area": 3317.65,
 	"casework": [
 		{
-			"code": "6182",
-			"receivedDate": "2001-08-30",
-			"response": "Information/Advice only",
-			"type": "Road: Non Trunk Consultation"
-		},
-		{
-			"code": "5944",
-			"receivedDate": "2002-04-30",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Planning Related Casework"
-		},
-		{
 			"code": "24931",
 			"receivedDate": "2005-02-18",
 			"response": "Information/Advice only",
@@ -24,6 +12,18 @@
 			"receivedDate": "2010-01-12",
 			"response": "A2 - Insufficient information; SNH reserves its position - importance of natural heritage interests unknown/unknown impacts",
 			"type": "Microrenewables"
+		},
+		{
+			"code": "5944",
+			"receivedDate": "2002-04-30",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Planning Related Casework"
+		},
+		{
+			"code": "6182",
+			"receivedDate": "2001-08-30",
+			"response": "Information/Advice only",
+			"type": "Road: Non Trunk Consultation"
 		},
 		{
 			"code": "62552",
@@ -38,16 +38,16 @@
 			"type": "Other plans and strategies"
 		},
 		{
-			"code": "CPA142199",
-			"receivedDate": "2016-07-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CDM145092",
 			"receivedDate": "2017-02-16",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CPA125055",
+			"receivedDate": "2013-07-23",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA128453",
@@ -62,8 +62,8 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPA125055",
-			"receivedDate": "2013-07-23",
+			"code": "CPA142199",
+			"receivedDate": "2016-07-15",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		}

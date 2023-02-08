@@ -2,6 +2,18 @@
 	"area": 317.75,
 	"casework": [
 		{
+			"code": "CDM129316",
+			"receivedDate": "2014-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA126887",
+			"receivedDate": "2013-10-14",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA137037",
 			"receivedDate": "2015-06-10",
 			"response": "Advice only",
@@ -14,22 +26,10 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CEA126887",
-			"receivedDate": "2013-10-14",
+			"code": "CPA162724",
+			"receivedDate": "2021-04-01",
 			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN133890",
-			"receivedDate": "2014-10-27",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM129316",
-			"receivedDate": "2014-02-20",
-			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Grants pre-application enquiry"
 		},
 		{
 			"code": "CPA169275",
@@ -38,10 +38,10 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CPA162724",
-			"receivedDate": "2021-04-01",
+			"code": "GEN133890",
+			"receivedDate": "2014-10-27",
 			"response": "Advice only",
-			"type": "Grants pre-application enquiry"
+			"type": "General Advice"
 		}
 	],
 	"designation": {

@@ -26,16 +26,16 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "24137",
-			"receivedDate": "2005-03-29",
-			"response": "Information/Advice only",
-			"type": "Mineral Workings"
-		},
-		{
 			"code": "21911",
 			"receivedDate": "2004-11-25",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "24137",
+			"receivedDate": "2005-03-29",
+			"response": "Information/Advice only",
+			"type": "Mineral Workings"
 		},
 		{
 			"code": "28867",
@@ -56,12 +56,6 @@
 			"type": "Biomass"
 		},
 		{
-			"code": "CPP136896",
-			"receivedDate": "2015-05-27",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "CDM156234",
 			"receivedDate": "2019-07-11",
 			"response": "Advice only",
@@ -72,6 +66,12 @@
 			"receivedDate": "2014-05-29",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CPP136896",
+			"receivedDate": "2015-05-27",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		}
 	],
 	"designation": {

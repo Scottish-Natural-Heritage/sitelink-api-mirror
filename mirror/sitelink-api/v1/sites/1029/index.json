@@ -8,12 +8,6 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "28355",
-			"receivedDate": "2005-10-10",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
-			"type": "Rural Stewardship Scheme"
-		},
-		{
 			"code": "25507",
 			"receivedDate": "2005-06-02",
 			"response": "Information/Advice only",
@@ -24,6 +18,12 @@
 			"receivedDate": "2005-06-20",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "28355",
+			"receivedDate": "2005-10-10",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Rural Stewardship Scheme"
 		},
 		{
 			"code": "42835",
@@ -62,16 +62,10 @@
 			"type": "Onshore Wind"
 		},
 		{
-			"code": "CGS138930",
-			"receivedDate": "2015-11-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "CDM139009",
-			"receivedDate": "2015-11-09",
-			"response": "Conditioned objection",
-			"type": "S.37 Application"
+			"code": "ALC127652",
+			"receivedDate": "2013-11-19",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "CDM111114",
@@ -86,40 +80,10 @@
 			"type": "S.37 Application"
 		},
 		{
-			"code": "CPA149768",
-			"receivedDate": "2018-03-13",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
-			"code": "CGS152676",
-			"receivedDate": "2018-10-05",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN150809",
-			"receivedDate": "2018-05-30",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CGS147751",
-			"receivedDate": "2017-10-03",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "GEN149090",
-			"receivedDate": "2018-01-23",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "ALC127652",
-			"receivedDate": "2013-11-19",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
+			"code": "CDM139009",
+			"receivedDate": "2015-11-09",
+			"response": "Conditioned objection",
+			"type": "S.37 Application"
 		},
 		{
 			"code": "CEA128194",
@@ -128,28 +92,10 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA124902",
-			"receivedDate": "2013-07-15",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
 			"code": "CEA129083",
 			"receivedDate": "2014-02-07",
 			"response": "Advice only",
 			"type": "EIA"
-		},
-		{
-			"code": "CPA118378",
-			"receivedDate": "2012-10-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CGS167959",
-			"receivedDate": "2022-08-04",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CEA166228",
@@ -158,10 +104,22 @@
 			"type": "EIA"
 		},
 		{
-			"code": "CPA164534",
-			"receivedDate": "2021-09-22",
+			"code": "CGS138930",
+			"receivedDate": "2015-11-03",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS147751",
+			"receivedDate": "2017-10-03",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS152676",
+			"receivedDate": "2018-10-05",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CGS167561",
@@ -176,10 +134,52 @@
 			"type": "SRDP including LEADER"
 		},
 		{
+			"code": "CGS167959",
+			"receivedDate": "2022-08-04",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CPA118378",
+			"receivedDate": "2012-10-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA124902",
+			"receivedDate": "2013-07-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA149768",
+			"receivedDate": "2018-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CPA158810",
 			"receivedDate": "2020-03-27",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA164534",
+			"receivedDate": "2021-09-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "GEN149090",
+			"receivedDate": "2018-01-23",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN150809",
+			"receivedDate": "2018-05-30",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

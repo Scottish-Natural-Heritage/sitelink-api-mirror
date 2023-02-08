@@ -20,12 +20,6 @@
 	"area": 61.49,
 	"casework": [
 		{
-			"code": "24040",
-			"receivedDate": "2004-12-26",
-			"response": "Information/Advice only",
-			"type": "Other Species"
-		},
-		{
 			"code": "24033",
 			"receivedDate": "2004-11-03",
 			"response": "Information/Advice only",
@@ -34,6 +28,12 @@
 		{
 			"code": "24037",
 			"receivedDate": "2004-11-25",
+			"response": "Information/Advice only",
+			"type": "Other Species"
+		},
+		{
+			"code": "24040",
+			"receivedDate": "2004-12-26",
 			"response": "Information/Advice only",
 			"type": "Other Species"
 		},
@@ -62,22 +62,52 @@
 			"type": "Other Species"
 		},
 		{
-			"code": "48433",
-			"receivedDate": "2008-06-10",
-			"response": "Information/Advice only",
-			"type": "Consultation from a public body (s.12)"
-		},
-		{
 			"code": "48102",
 			"receivedDate": "2008-04-24",
 			"response": "Information/Advice only",
 			"type": "Freedom of Information Act - Information Request"
 		},
 		{
+			"code": "48433",
+			"receivedDate": "2008-06-10",
+			"response": "Information/Advice only",
+			"type": "Consultation from a public body (s.12)"
+		},
+		{
 			"code": "62686",
 			"receivedDate": "2010-06-29",
 			"response": "Information/Advice only",
 			"type": "Electricity (exc. renewable energy cases)"
+		},
+		{
+			"code": "ALC119743",
+			"receivedDate": "2013-01-07",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146430",
+			"receivedDate": "2017-06-22",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC146876",
+			"receivedDate": "2017-07-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC151349",
+			"receivedDate": "2018-07-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM162511",
+			"receivedDate": "2021-03-18",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA116049",
@@ -92,20 +122,32 @@
 			"type": "EIA"
 		},
 		{
-			"code": "GEN159565",
-			"receivedDate": "2020-06-11",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
 			"code": "CEA162503",
 			"receivedDate": "2021-03-17",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
+			"code": "CGS153163",
+			"receivedDate": "2018-11-13",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS155986",
+			"receivedDate": "2019-06-24",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC110308",
 			"receivedDate": "2011-11-21",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC142028",
+			"receivedDate": "2016-07-06",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
@@ -116,64 +158,22 @@
 			"type": "Other"
 		},
 		{
-			"code": "CGS155986",
-			"receivedDate": "2019-06-24",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CPP157080",
 			"receivedDate": "2019-10-04",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC142028",
-			"receivedDate": "2016-07-06",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
-			"code": "ALC151349",
-			"receivedDate": "2018-07-04",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC146876",
-			"receivedDate": "2017-07-12",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CGS153163",
-			"receivedDate": "2018-11-13",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC146430",
-			"receivedDate": "2017-06-22",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "ALC119743",
-			"receivedDate": "2013-01-07",
-			"response": "SSSI Consent Given (subject to conditions)",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CDM162511",
-			"receivedDate": "2021-03-18",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPP163762",
 			"receivedDate": "2021-07-07",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN159565",
+			"receivedDate": "2020-06-11",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {

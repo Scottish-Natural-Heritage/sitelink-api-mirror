@@ -8,12 +8,6 @@
 			"type": "Telecommunications"
 		},
 		{
-			"code": "17103",
-			"receivedDate": "2004-04-02",
-			"response": "C1 - No objection - little or no natural heritage interests affected",
-			"type": "Other Developments"
-		},
-		{
 			"code": "16063",
 			"receivedDate": "2004-01-09",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
@@ -24,6 +18,12 @@
 			"receivedDate": "2004-01-06",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "17103",
+			"receivedDate": "2004-04-02",
+			"response": "C1 - No objection - little or no natural heritage interests affected",
+			"type": "Other Developments"
 		},
 		{
 			"code": "20454",
@@ -62,16 +62,16 @@
 			"type": "Site Search"
 		},
 		{
-			"code": "38829",
-			"receivedDate": "2007-02-15",
-			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
-			"type": "Felling Licence"
-		},
-		{
 			"code": "35559",
 			"receivedDate": "2006-09-07",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Notice of Intent"
+		},
+		{
+			"code": "38829",
+			"receivedDate": "2007-02-15",
+			"response": "C2 - No objection - necessary for conservation management purposes or no likely significant effect on Natura interests",
+			"type": "Felling Licence"
 		},
 		{
 			"code": "44049",
@@ -92,22 +92,16 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "57521",
-			"receivedDate": "2009-07-10",
-			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
-			"type": "Application for consent from owner/occ (s.16)"
-		},
-		{
 			"code": "53847",
 			"receivedDate": "2009-03-26",
 			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
 			"type": "Housing Developments"
 		},
 		{
-			"code": "61895",
-			"receivedDate": "2010-05-26",
-			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
-			"type": "Housing Developments"
+			"code": "57521",
+			"receivedDate": "2009-07-10",
+			"response": "C3 - No objection but offer comments if appropriate - natural heritage interests of lesser importance with insubstantial development impacts",
+			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
 			"code": "61384",
@@ -116,9 +110,9 @@
 			"type": "Felling Licence"
 		},
 		{
-			"code": "66407",
-			"receivedDate": "2010-12-10",
-			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"code": "61895",
+			"receivedDate": "2010-05-26",
+			"response": "D2 - Outright objection - natural heritage interests important and damaging impacts even with conditions/ modifications",
 			"type": "Housing Developments"
 		},
 		{
@@ -134,10 +128,172 @@
 			"type": "Housing Developments"
 		},
 		{
-			"code": "CLC139235",
-			"receivedDate": "2015-11-24",
+			"code": "66407",
+			"receivedDate": "2010-12-10",
+			"response": "D1 - Conditioned objection subject to conditions/modifications -  natural heritage interests important with possible/likely adverse impacts which could be reduced to an acceptable level",
+			"type": "Housing Developments"
+		},
+		{
+			"code": "ALC159061",
+			"receivedDate": "2020-04-24",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC160049",
+			"receivedDate": "2020-08-03",
+			"response": "Licence Granted",
+			"type": "Animal"
+		},
+		{
+			"code": "CDM122523",
+			"receivedDate": "2013-04-11",
 			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122821",
+			"receivedDate": "2013-04-17",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM122946",
+			"receivedDate": "2013-04-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM123422",
+			"receivedDate": "2013-04-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM123804",
+			"receivedDate": "2013-06-03",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM126039",
+			"receivedDate": "2013-08-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM127618",
+			"receivedDate": "2013-11-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM128142",
+			"receivedDate": "2013-12-12",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM129761",
+			"receivedDate": "2014-03-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131233",
+			"receivedDate": "2014-05-05",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM131236",
+			"receivedDate": "2014-05-20",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM131658",
+			"receivedDate": "2014-06-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131659",
+			"receivedDate": "2014-06-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131661",
+			"receivedDate": "2014-06-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131662",
+			"receivedDate": "2014-06-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM131665",
+			"receivedDate": "2014-06-23",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132195",
+			"receivedDate": "2014-06-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132459",
+			"receivedDate": "2014-07-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM132886",
+			"receivedDate": "2014-08-21",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133366",
+			"receivedDate": "2014-09-25",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM133663",
+			"receivedDate": "2014-10-06",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM134029",
+			"receivedDate": "2014-10-29",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM134038",
+			"receivedDate": "2014-11-04",
+			"response": "Advice only",
+			"type": "Transport Infrastructure"
+		},
+		{
+			"code": "CDM135092",
+			"receivedDate": "2015-01-29",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM135557",
+			"receivedDate": "2015-03-02",
+			"response": "Advice only",
+			"type": "Application related advice"
 		},
 		{
 			"code": "CDM137976",
@@ -146,26 +302,80 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA140218",
-			"receivedDate": "2016-02-18",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM154609",
-			"receivedDate": "2019-02-28",
+			"code": "CDM138587",
+			"receivedDate": "2015-10-07",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM162469",
-			"receivedDate": "2021-03-19",
+			"code": "CDM140583",
+			"receivedDate": "2016-03-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM141089",
+			"receivedDate": "2016-04-28",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144374",
+			"receivedDate": "2017-01-17",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM144862",
+			"receivedDate": "2017-02-23",
+			"response": "Conditioned objection",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM145591",
+			"receivedDate": "2017-04-21",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM146042",
+			"receivedDate": "2017-06-01",
 			"response": "Advice only",
 			"type": "Post Application"
 		},
 		{
-			"code": "CDM162486",
-			"receivedDate": "2021-03-19",
+			"code": "CDM149293",
+			"receivedDate": "2018-02-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149574",
+			"receivedDate": "2018-02-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM149780",
+			"receivedDate": "2018-03-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM150622",
+			"receivedDate": "2018-05-15",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM151036",
+			"receivedDate": "2018-05-17",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM154609",
+			"receivedDate": "2019-02-28",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -176,28 +386,34 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CDM160949",
-			"receivedDate": "2020-10-22",
+			"code": "CDM155382",
+			"receivedDate": "2019-05-03",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "Planning Application"
 		},
 		{
-			"code": "CDM159360",
-			"receivedDate": "2020-05-28",
-			"response": "Advice only",
-			"type": "Application related advice"
+			"code": "CDM155553",
+			"receivedDate": "2019-05-20",
+			"response": "Outright objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN161371",
-			"receivedDate": "2020-12-02",
+			"code": "CDM156260",
+			"receivedDate": "2019-07-19",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN161519",
-			"receivedDate": "2020-12-14",
+			"code": "CDM156351",
+			"receivedDate": "2019-07-25",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM157900",
+			"receivedDate": "2020-01-10",
+			"response": "Outright objection",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM158321",
@@ -212,22 +428,76 @@
 			"type": "Planning Application"
 		},
 		{
-			"code": "CPA142443",
-			"receivedDate": "2016-08-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"code": "CDM158888",
+			"receivedDate": "2020-04-03",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
 		},
 		{
-			"code": "GEN144750",
-			"receivedDate": "2017-02-13",
+			"code": "CDM159360",
+			"receivedDate": "2020-05-28",
 			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Application related advice"
 		},
 		{
-			"code": "CPA140961",
-			"receivedDate": "2016-03-15",
+			"code": "CDM160949",
+			"receivedDate": "2020-10-22",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM162469",
+			"receivedDate": "2021-03-19",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM162486",
+			"receivedDate": "2021-03-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM162745",
+			"receivedDate": "2021-04-14",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM163533",
+			"receivedDate": "2021-06-22",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM163590",
+			"receivedDate": "2021-06-25",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM164630",
+			"receivedDate": "2021-09-30",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM166493",
+			"receivedDate": "2022-03-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA150779",
+			"receivedDate": "2018-05-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA154026",
+			"receivedDate": "2019-01-10",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CGS156366",
@@ -236,68 +506,116 @@
 			"type": "SRDP including LEADER"
 		},
 		{
-			"code": "CDM155553",
-			"receivedDate": "2019-05-20",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM155382",
-			"receivedDate": "2019-05-03",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN155762",
-			"receivedDate": "2019-06-07",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA139016",
-			"receivedDate": "2015-11-06",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN143868",
-			"receivedDate": "2016-12-01",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP141995",
-			"receivedDate": "2016-05-21",
+			"code": "CLC115242",
+			"receivedDate": "2012-06-14",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CDM140583",
-			"receivedDate": "2016-03-17",
+			"code": "CLC115243",
+			"receivedDate": "2012-06-14",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Other"
 		},
 		{
-			"code": "CPA140888",
-			"receivedDate": "2016-04-03",
+			"code": "CLC139235",
+			"receivedDate": "2015-11-24",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC140423",
+			"receivedDate": "2016-03-03",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC147886",
+			"receivedDate": "2017-10-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC152294",
+			"receivedDate": "2018-09-07",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPA114195",
+			"receivedDate": "2012-05-16",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP138147",
-			"receivedDate": "2015-09-03",
+			"code": "CPA119820",
+			"receivedDate": "2012-11-23",
 			"response": "Advice only",
-			"type": "Forest design plan"
+			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CDM141089",
-			"receivedDate": "2016-04-28",
+			"code": "CPA121332",
+			"receivedDate": "2013-02-13",
 			"response": "Advice only",
-			"type": "Planning Application"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA121513",
+			"receivedDate": "2013-02-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA121712",
+			"receivedDate": "2013-03-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA129310",
+			"receivedDate": "2014-02-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA130876",
+			"receivedDate": "2014-05-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA131188",
+			"receivedDate": "2014-05-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA131319",
+			"receivedDate": "2014-05-30",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA131761",
+			"receivedDate": "2014-06-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA133270",
+			"receivedDate": "2014-09-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA136773",
 			"receivedDate": "2015-05-21",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA139016",
+			"receivedDate": "2015-11-06",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -314,10 +632,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC140423",
-			"receivedDate": "2016-03-03",
+			"code": "CPA140218",
+			"receivedDate": "2016-02-18",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140888",
+			"receivedDate": "2016-04-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA140961",
+			"receivedDate": "2016-03-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA141504",
@@ -326,124 +656,16 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP140435",
-			"receivedDate": "2016-03-08",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
 			"code": "CPA141826",
 			"receivedDate": "2016-06-13",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CPP144342",
-			"receivedDate": "2017-01-12",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM144374",
-			"receivedDate": "2017-01-17",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM156351",
-			"receivedDate": "2019-07-25",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM149574",
-			"receivedDate": "2018-02-27",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA154026",
-			"receivedDate": "2019-01-10",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "GEN151029",
-			"receivedDate": "2018-06-13",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA149675",
-			"receivedDate": "2018-03-02",
+			"code": "CPA142443",
+			"receivedDate": "2016-08-22",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM149780",
-			"receivedDate": "2018-03-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM150622",
-			"receivedDate": "2018-05-15",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM156260",
-			"receivedDate": "2019-07-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM151036",
-			"receivedDate": "2018-05-17",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM157900",
-			"receivedDate": "2020-01-10",
-			"response": "Outright objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN146634",
-			"receivedDate": "2017-06-28",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "GEN147172",
-			"receivedDate": "2017-08-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM145591",
-			"receivedDate": "2017-04-21",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM149293",
-			"receivedDate": "2018-02-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CEA150779",
-			"receivedDate": "2018-05-28",
-			"response": "Advice only",
-			"type": "EIA"
-		},
-		{
-			"code": "CPP151637",
-			"receivedDate": "2018-07-13",
-			"response": "Advice only",
-			"type": "Local Development Plan"
 		},
 		{
 			"code": "CPA146328",
@@ -452,34 +674,88 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
-			"code": "CLC152294",
-			"receivedDate": "2018-09-07",
+			"code": "CPA149675",
+			"receivedDate": "2018-03-02",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA162582",
+			"receivedDate": "2021-03-22",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA167363",
+			"receivedDate": "2022-06-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP118063",
+			"receivedDate": "2012-09-28",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP118182",
+			"receivedDate": "2012-10-09",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP127661",
+			"receivedDate": "2013-11-01",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CDM146042",
-			"receivedDate": "2017-06-01",
+			"code": "CPP128506",
+			"receivedDate": "2014-01-13",
 			"response": "Advice only",
-			"type": "Post Application"
+			"type": "Forest design plan"
 		},
 		{
-			"code": "CLC147886",
-			"receivedDate": "2017-10-11",
+			"code": "CPP131237",
+			"receivedDate": "2014-05-27",
 			"response": "Advice only",
 			"type": "Other"
 		},
 		{
-			"code": "CPP146475",
-			"receivedDate": "2017-06-28",
+			"code": "CPP131238",
+			"receivedDate": "2014-05-21",
 			"response": "Advice only",
-			"type": "Non-statutory planning guidance and advice"
+			"type": "Other"
 		},
 		{
-			"code": "CDM144862",
-			"receivedDate": "2017-02-23",
-			"response": "Conditioned objection",
-			"type": "Post Application"
+			"code": "CPP138147",
+			"receivedDate": "2015-09-03",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP138803",
+			"receivedDate": "2015-10-26",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP140435",
+			"receivedDate": "2016-03-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP141995",
+			"receivedDate": "2016-05-21",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CPP144342",
+			"receivedDate": "2017-01-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "CPP145311",
@@ -494,400 +770,16 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP127661",
-			"receivedDate": "2013-11-01",
+			"code": "CPP146475",
+			"receivedDate": "2017-06-28",
 			"response": "Advice only",
-			"type": "Other"
+			"type": "Non-statutory planning guidance and advice"
 		},
 		{
-			"code": "CPA131761",
-			"receivedDate": "2014-06-10",
+			"code": "CPP151637",
+			"receivedDate": "2018-07-13",
 			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM131659",
-			"receivedDate": "2014-06-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM131661",
-			"receivedDate": "2014-06-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM131665",
-			"receivedDate": "2014-06-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA131188",
-			"receivedDate": "2014-05-29",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA131319",
-			"receivedDate": "2014-05-30",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN126439",
-			"receivedDate": "2013-09-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA130876",
-			"receivedDate": "2014-05-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM132195",
-			"receivedDate": "2014-06-26",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM131658",
-			"receivedDate": "2014-06-17",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM131662",
-			"receivedDate": "2014-06-23",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP131238",
-			"receivedDate": "2014-05-21",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM131233",
-			"receivedDate": "2014-05-05",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM122946",
-			"receivedDate": "2013-04-29",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM132459",
-			"receivedDate": "2014-07-24",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN132573",
-			"receivedDate": "2014-07-17",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM131236",
-			"receivedDate": "2014-05-20",
-			"response": "Advice only",
-			"type": "Post Application"
-		},
-		{
-			"code": "CDM123422",
-			"receivedDate": "2013-04-25",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP131237",
-			"receivedDate": "2014-05-27",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CPP128506",
-			"receivedDate": "2014-01-13",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CPA129310",
-			"receivedDate": "2014-02-04",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM126039",
-			"receivedDate": "2013-08-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA133270",
-			"receivedDate": "2014-09-12",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM134029",
-			"receivedDate": "2014-10-29",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM133366",
-			"receivedDate": "2014-09-25",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM134038",
-			"receivedDate": "2014-11-04",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CDM127618",
-			"receivedDate": "2013-11-19",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN133498",
-			"receivedDate": "2014-09-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM135557",
-			"receivedDate": "2015-03-02",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM132886",
-			"receivedDate": "2014-08-21",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM138587",
-			"receivedDate": "2015-10-07",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP138803",
-			"receivedDate": "2015-10-26",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM128142",
-			"receivedDate": "2013-12-12",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM133663",
-			"receivedDate": "2014-10-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM135092",
-			"receivedDate": "2015-01-29",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM129761",
-			"receivedDate": "2014-03-06",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CDM123804",
-			"receivedDate": "2013-06-03",
-			"response": "Advice only",
-			"type": "Transport Infrastructure"
-		},
-		{
-			"code": "CPA121712",
-			"receivedDate": "2013-03-05",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA121513",
-			"receivedDate": "2013-02-11",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPP118182",
-			"receivedDate": "2012-10-09",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "SIR122706",
-			"receivedDate": "2013-04-18",
-			"response": "Full Release",
-			"type": "Environmental Information Regulations request"
-		},
-		{
-			"code": "CDM122523",
-			"receivedDate": "2013-04-11",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPP118063",
-			"receivedDate": "2012-09-28",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "GEN123939",
-			"receivedDate": "2013-05-31",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA121332",
-			"receivedDate": "2013-02-13",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA119820",
-			"receivedDate": "2012-11-23",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CPA114195",
-			"receivedDate": "2012-05-16",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN123483",
-			"receivedDate": "2013-05-02",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CLC115243",
-			"receivedDate": "2012-06-14",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CLC115242",
-			"receivedDate": "2012-06-14",
-			"response": "Advice only",
-			"type": "Other"
-		},
-		{
-			"code": "CDM122821",
-			"receivedDate": "2013-04-17",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
-		},
-		{
-			"code": "GEN167470",
-			"receivedDate": "2022-06-24",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPA167363",
-			"receivedDate": "2022-06-09",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "GEN163232",
-			"receivedDate": "2021-05-19",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CPP168705",
-			"receivedDate": "2022-10-14",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM163590",
-			"receivedDate": "2021-06-25",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM166493",
-			"receivedDate": "2022-03-30",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC159061",
-			"receivedDate": "2020-04-24",
-			"response": "SSSI Consent Given",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "GEN158226",
-			"receivedDate": "2019-12-16",
-			"response": "Advice only",
-			"type": "General Advice"
-		},
-		{
-			"code": "CDM163533",
-			"receivedDate": "2021-06-22",
-			"response": "Advice only",
-			"type": "Application related advice"
-		},
-		{
-			"code": "CDM164630",
-			"receivedDate": "2021-09-30",
-			"response": "No Comment",
-			"type": "Planning Application"
-		},
-		{
-			"code": "CPA162582",
-			"receivedDate": "2021-03-22",
-			"response": "Advice only",
-			"type": "Development pre-application enquiry"
-		},
-		{
-			"code": "CDM162745",
-			"receivedDate": "2021-04-14",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
-			"code": "ALC160049",
-			"receivedDate": "2020-08-03",
-			"response": "Licence Granted",
-			"type": "Animal"
-		},
-		{
-			"code": "GEN164833",
-			"receivedDate": "2021-10-21",
-			"response": "Advice only",
-			"type": "General Advice"
+			"type": "Local Development Plan"
 		},
 		{
 			"code": "CPP164241",
@@ -896,10 +788,118 @@
 			"type": "Other"
 		},
 		{
-			"code": "CDM158888",
-			"receivedDate": "2020-04-03",
-			"response": "Conditioned objection",
-			"type": "Planning Application"
+			"code": "CPP168705",
+			"receivedDate": "2022-10-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "GEN123483",
+			"receivedDate": "2013-05-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN123939",
+			"receivedDate": "2013-05-31",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN126439",
+			"receivedDate": "2013-09-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN132573",
+			"receivedDate": "2014-07-17",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN133498",
+			"receivedDate": "2014-09-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN143868",
+			"receivedDate": "2016-12-01",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN144750",
+			"receivedDate": "2017-02-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN146634",
+			"receivedDate": "2017-06-28",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN147172",
+			"receivedDate": "2017-08-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN151029",
+			"receivedDate": "2018-06-13",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN155762",
+			"receivedDate": "2019-06-07",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN158226",
+			"receivedDate": "2019-12-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN161371",
+			"receivedDate": "2020-12-02",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN161519",
+			"receivedDate": "2020-12-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN163232",
+			"receivedDate": "2021-05-19",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN164833",
+			"receivedDate": "2021-10-21",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN167470",
+			"receivedDate": "2022-06-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "SIR122706",
+			"receivedDate": "2013-04-18",
+			"response": "Full Release",
+			"type": "Environmental Information Regulations request"
 		}
 	],
 	"designation": {

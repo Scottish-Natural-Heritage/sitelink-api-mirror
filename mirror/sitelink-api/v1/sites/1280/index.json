@@ -20,22 +20,28 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "CDM128094",
+			"receivedDate": "2013-12-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM158525",
 			"receivedDate": "2020-02-24",
 			"response": "Advice only",
 			"type": "S.37 Application"
 		},
 		{
-			"code": "CLC112356",
-			"receivedDate": "2012-03-02",
-			"response": "S.15 Advice with conditions",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
-		},
-		{
 			"code": "CEA157343",
 			"receivedDate": "2019-11-07",
 			"response": "Advice only",
 			"type": "EIA"
+		},
+		{
+			"code": "CLC112356",
+			"receivedDate": "2012-03-02",
+			"response": "S.15 Advice with conditions",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC157323",
@@ -48,12 +54,6 @@
 			"receivedDate": "2017-11-29",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "CDM128094",
-			"receivedDate": "2013-12-10",
-			"response": "Advice only",
-			"type": "Planning Application"
 		}
 	],
 	"designation": {

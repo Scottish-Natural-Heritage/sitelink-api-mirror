@@ -2,26 +2,26 @@
 	"area": 1089.9,
 	"casework": [
 		{
-			"code": "58214",
-			"receivedDate": "2009-10-28",
-			"response": "Information/Advice only",
-			"type": "River Engineering"
-		},
-		{
 			"code": "58035",
 			"receivedDate": "2009-10-28",
 			"response": "NCA - consented (s.13, s.16) or recommended consent is given (s.15)",
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "58836",
-			"receivedDate": "2009-07-09",
+			"code": "58214",
+			"receivedDate": "2009-10-28",
 			"response": "Information/Advice only",
-			"type": "Owner/Occupier Advice (not relating to application for consent)"
+			"type": "River Engineering"
 		},
 		{
 			"code": "58622",
 			"receivedDate": "2009-10-28",
+			"response": "Information/Advice only",
+			"type": "Owner/Occupier Advice (not relating to application for consent)"
+		},
+		{
+			"code": "58836",
+			"receivedDate": "2009-07-09",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
@@ -32,22 +32,10 @@
 			"type": "Application for consent from owner/occ (s.16)"
 		},
 		{
-			"code": "CGS140678",
-			"receivedDate": "2016-03-16",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
-		},
-		{
-			"code": "ALC151223",
-			"receivedDate": "2018-06-28",
+			"code": "ALC129665",
+			"receivedDate": "2014-03-04",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC151893",
-			"receivedDate": "2018-08-14",
-			"response": "No objection",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "ALC145357",
@@ -56,28 +44,10 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "COR130858",
-			"receivedDate": "2014-05-14",
-			"response": "Resolved",
-			"type": "General Enquiries"
-		},
-		{
-			"code": "ALC129665",
-			"receivedDate": "2014-03-04",
+			"code": "ALC151223",
+			"receivedDate": "2018-06-28",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CLC163728",
-			"receivedDate": "2021-07-06",
-			"response": "Advice only",
-			"type": "CAR Licence"
-		},
-		{
-			"code": "CGS163999",
-			"receivedDate": "2021-06-11",
-			"response": "Advice only",
-			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "ALC164000",
@@ -86,16 +56,46 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
-			"code": "CPA164006",
-			"receivedDate": "2021-06-19",
-			"response": "Advice only",
-			"type": "SRDP"
-		},
-		{
 			"code": "CDM164181",
 			"receivedDate": "2021-08-04",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CGS140678",
+			"receivedDate": "2016-03-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS163999",
+			"receivedDate": "2021-06-11",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CLC151893",
+			"receivedDate": "2018-08-14",
+			"response": "No objection",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
+			"code": "CLC163728",
+			"receivedDate": "2021-07-06",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "COR130858",
+			"receivedDate": "2014-05-14",
+			"response": "Resolved",
+			"type": "General Enquiries"
+		},
+		{
+			"code": "CPA164006",
+			"receivedDate": "2021-06-19",
+			"response": "Advice only",
+			"type": "SRDP"
 		},
 		{
 			"code": "CPA164229",

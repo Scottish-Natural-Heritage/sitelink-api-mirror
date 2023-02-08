@@ -2,28 +2,28 @@
 	"area": 53,
 	"casework": [
 		{
-			"code": "37719",
-			"receivedDate": "2006-12-18",
-			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Coastal Protection Act"
-		},
-		{
 			"code": "36730",
 			"receivedDate": "2006-11-06",
 			"response": "Information/Advice only",
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
-			"code": "41663",
-			"receivedDate": "2007-06-22",
+			"code": "37719",
+			"receivedDate": "2006-12-18",
 			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
-			"type": "Food and Environmental Protection Act (FEPA)"
+			"type": "Coastal Protection Act"
 		},
 		{
 			"code": "39049",
 			"receivedDate": "2007-02-26",
 			"response": "C5 - No objection with option to recommend conditions/modifications - natural heritage interests of importance, but with insubstantial development impacts",
 			"type": "Other Developments"
+		},
+		{
+			"code": "41663",
+			"receivedDate": "2007-06-22",
+			"response": "C4 - No objection but recommend conditions/modifications - natural heritage interests of lesser importance with substantial development impacts",
+			"type": "Food and Environmental Protection Act (FEPA)"
 		},
 		{
 			"code": "43251",
@@ -38,16 +38,28 @@
 			"type": "Mixed Use"
 		},
 		{
-			"code": "CLC159397",
-			"receivedDate": "2020-05-27",
-			"response": "Advice only",
-			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+			"code": "ALC131392",
+			"receivedDate": "2014-06-05",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
 			"code": "ALC143497",
 			"receivedDate": "2016-11-01",
 			"response": "SSSI Consent Given (subject to conditions)",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM165307",
+			"receivedDate": "2021-12-02",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CEA131929",
+			"receivedDate": "2014-07-08",
+			"response": "Advice only",
+			"type": "EIA"
 		},
 		{
 			"code": "CEA137164",
@@ -62,22 +74,16 @@
 			"type": "EIA"
 		},
 		{
-			"code": "ALC131392",
-			"receivedDate": "2014-06-05",
-			"response": "Licence/Consent not required",
-			"type": "SSSI Consent (s.13 or s.16)"
-		},
-		{
-			"code": "CEA131929",
-			"receivedDate": "2014-07-08",
+			"code": "CEA164704",
+			"receivedDate": "2021-09-30",
 			"response": "Advice only",
 			"type": "EIA"
 		},
 		{
-			"code": "CPP168539",
-			"receivedDate": "2022-09-27",
+			"code": "CLC159397",
+			"receivedDate": "2020-05-27",
 			"response": "Advice only",
-			"type": "Oil spill contingency plan"
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CLC167215",
@@ -86,22 +92,16 @@
 			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
-			"code": "CDM165307",
-			"receivedDate": "2021-12-02",
-			"response": "Advice only",
-			"type": "Planning Application"
-		},
-		{
 			"code": "CPP160134",
 			"receivedDate": "2020-08-06",
 			"response": "Advice only",
 			"type": "Oil spill contingency plan"
 		},
 		{
-			"code": "CEA164704",
-			"receivedDate": "2021-09-30",
+			"code": "CPP168539",
+			"receivedDate": "2022-09-27",
 			"response": "Advice only",
-			"type": "EIA"
+			"type": "Oil spill contingency plan"
 		}
 	],
 	"designation": {
