@@ -133,6 +133,10 @@ const saveSite = async (site) => {
     await writeFile(filePath, stringified, { encoding: 'utf8' });
 }
 
+const compareAgreements = (a, b) => {
+    return a.code - b.code;
+}
+
 //#endregion
 
 //#region Main Script
@@ -201,9 +205,17 @@ while (siteQueue.length != 0) {
 
         // Fix the object so the URL references are relative to our potential
         // new mirror location.
-        const { url, id, ...restOfSite } = site;
+        const { url, id, agreements, ...restOfSite } = site;
         const newUrl = `/${baseUrl}/${id}`;
-        const fixedSite = { url: newUrl, id, ...restOfSite };
+
+        const sortedAs = agreements?.sort(compareAgreements);
+
+        const fixedSite = {
+            url: newUrl,
+            id,
+            agreements: sortedAs,
+            ...restOfSite
+        };
 
         // Save the updated JSON to disk.
         await saveSite(fixedSite);
