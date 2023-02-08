@@ -133,6 +133,17 @@ const saveSite = async (site) => {
     await writeFile(filePath, stringified, { encoding: 'utf8' });
 }
 
+const orderedCopy = (unorderedObject) => {
+    return Object.keys(unorderedObject).sort().reduce(
+        (obj, key) => {
+            obj[key] = unorderedObject[key];
+            return obj;
+        },
+        {}
+    );
+
+}
+
 const compareAgreements = (a, b) => {
     return a.code - b.code;
 }
@@ -149,9 +160,75 @@ const compareDocuments = (a, b) => {
     return a.url.localeCompare(b.url);
 }
 
+const compareFeatures = (a, b) => {
+    if (a.category.localeCompare(b.category) !== 0) {
+        return a.category.localeCompare(b.category);
+    }
+
+    return a.name.localeCompare(b.name);
+}
+
 const compareSecondaryLocalAuthorities = (a, b) => {
     return a.localeCompare(b);
 }
+
+/**
+ * Sort  an array of features and all of the sub-arrays within each
+ * feature.
+ *
+ * `features` is an array that looks like...
+ *
+ * ```
+ * [
+ *   {
+ *     pressures: [
+ *       {
+ *         keywords: [
+ *           // ...
+ *         ]
+ *       } // ,...
+ *     ]
+ *   } // ,...
+ * ]
+ * ```
+ *
+ * ...so we need to sort all the keywords, in all the pressures, in all the
+ * features to stabilise this array.
+ */
+const deepSortFeatures = (features) => {
+
+    // Take each of the features in turn
+    const fs = features?.map(f => {
+
+        // Extract the pressures from the feature
+        const { pressures, ...restOfFeature } = f;
+
+        // Take each of the pressures in turn
+        const ps = pressures?.map(p => {
+
+            // Extract the keywords
+            const { keywords, ...restOfPressure } = p;
+
+            // Sort the keywords
+            const sortedKs = keywords?.sort((a, b) => a.localeCompare(b));
+
+            // Reconstruct an ordered pressure
+            return orderedCopy({ keywords: sortedKs, ...restOfPressure });
+        })
+
+        // Sort the pressures
+        const sortedPs = ps?.sort((a, b) => a.name.localeCompare(b.name));
+
+        // Reconstruct an ordered feature
+        return orderedCopy({ pressures: sortedPs, ...restOfFeature });
+    });
+
+    // Sort the features
+    const sortedFs = fs?.sort(compareFeatures);
+
+    // Return the deeply sorted features
+    return sortedFs;
+};
 
 //#endregion
 
@@ -221,12 +298,13 @@ while (siteQueue.length != 0) {
 
         // Fix the object so the URL references are relative to our potential
         // new mirror location.
-        const { url, id, agreements, casework, documents, secondaryLocalAuthorities, ...restOfSite } = site;
+        const { url, id, agreements, casework, documents, features, secondaryLocalAuthorities, ...restOfSite } = site;
         const newUrl = `/${baseUrl}/${id}`;
 
         const sortedAs = agreements?.sort(compareAgreements);
         const sortedCs = casework?.sort(compareCaseworks);
         const sortedDs = documents?.sort(compareDocuments);
+        const sortedFs = features ? deepSortFeatures(features) : undefined;
         const sortedSLAs = secondaryLocalAuthorities?.sort(compareSecondaryLocalAuthorities);
 
         const unorderedSite = {
@@ -235,16 +313,11 @@ while (siteQueue.length != 0) {
             agreements: sortedAs,
             casework: sortedCs,
             documents: sortedDs,
+            features: sortedFs,
             secondaryLocalAuthorities: sortedSLAs,
             ...restOfSite
         };
-        const fixedSite = Object.keys(unorderedSite).sort().reduce(
-            (obj, key) => {
-                obj[key] = unorderedSite[key];
-                return obj;
-            },
-            {}
-        );
+        const fixedSite = orderedCopy(unorderedSite);
 
         // Save the updated JSON to disk.
         await saveSite(fixedSite);
