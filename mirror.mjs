@@ -210,12 +210,19 @@ while (siteQueue.length != 0) {
 
         const sortedAs = agreements?.sort(compareAgreements);
 
-        const fixedSite = {
+        const unorderedSite = {
             url: newUrl,
             id,
             agreements: sortedAs,
             ...restOfSite
         };
+        const fixedSite = Object.keys(unorderedSite).sort().reduce(
+            (obj, key) => {
+                obj[key] = unorderedSite[key];
+                return obj;
+            },
+            {}
+        );
 
         // Save the updated JSON to disk.
         await saveSite(fixedSite);
