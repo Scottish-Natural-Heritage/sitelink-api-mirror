@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - 'main'
+  workflow_run:
+    workflows: [Mirror latest Sitelink-API data]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
