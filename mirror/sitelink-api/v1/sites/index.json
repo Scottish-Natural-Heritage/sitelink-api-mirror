@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2179,
+	"total": 2180,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -2121,6 +2121,19 @@
 			"localAuthority": "Highland",
 			"name": "Baosbheinn",
 			"snhArea": "National Operations Central Highland"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10496",
+			"id": 10496,
+			"designation": {
+				"code": "SSSI",
+				"status": "Current",
+				"type": "Site of Special Scientific Interest"
+			},
+			"dffcSite": false,
+			"localAuthority": "East Dunbartonshire",
+			"name": "Bargeny Hill",
+			"snhArea": "National Operations West Central"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/150",
