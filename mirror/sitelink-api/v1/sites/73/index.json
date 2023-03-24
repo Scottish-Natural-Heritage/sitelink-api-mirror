@@ -160,12 +160,15 @@
 		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2004-06-29",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
 					"name": "Over grazing"
+				},
+				{
+					"name": "Plant pests and diseases"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001231"
