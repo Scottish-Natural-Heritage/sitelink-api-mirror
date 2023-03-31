@@ -134,10 +134,13 @@
 		{
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2007-06-27",
 			"name": "Lowland calcareous grassland",
 			"pressures": [
+				{
+					"name": "Invasive species"
+				},
 				{
 					"name": "Over grazing"
 				}
