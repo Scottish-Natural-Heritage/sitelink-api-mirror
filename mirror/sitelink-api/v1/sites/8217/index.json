@@ -1883,6 +1883,42 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC169781",
+			"receivedDate": "2023-02-06",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC170614",
+			"receivedDate": "2023-04-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC170840",
+			"receivedDate": "2023-04-11",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC170843",
+			"receivedDate": "2023-04-28",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC170967",
+			"receivedDate": "2023-05-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC171072",
+			"receivedDate": "2023-05-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111512",
 			"receivedDate": "2012-01-31",
 			"response": "Advice only",
@@ -2285,6 +2321,24 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM169697",
+			"receivedDate": "2023-01-26",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM170290",
+			"receivedDate": "2023-03-10",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM170778",
+			"receivedDate": "2023-04-24",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA127573",
 			"receivedDate": "2013-11-13",
 			"response": "Advice only",
@@ -2475,6 +2529,12 @@
 			"receivedDate": "2021-10-12",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CGS169943",
+			"receivedDate": "2023-02-16",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
 		},
 		{
 			"code": "CLC115270",
@@ -2769,6 +2829,18 @@
 			"receivedDate": "2023-02-07",
 			"response": "Advice only",
 			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC170755",
+			"receivedDate": "2023-04-19",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC170768",
+			"receivedDate": "2023-04-26",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "COR132172",
@@ -3350,6 +3422,21 @@
 	},
 	"dffcSite": true,
 	"documents": [
+		{
+			"type": "Conservation Advice Package",
+			"size": 885,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8217/documents/66"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 281,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8217/documents/66"
+		},
+		{
+			"type": "Conservation Advice Package",
+			"size": 2039,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8217/documents/66"
+		},
 		{
 			"type": "Conservation Objectives",
 			"size": 43,

@@ -542,6 +542,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC169813",
+			"receivedDate": "2023-02-01",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM112958",
 			"receivedDate": "2012-01-04",
 			"response": "Outright objection",
@@ -770,10 +776,22 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM169944",
+			"receivedDate": "2023-02-03",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDM170152",
 			"receivedDate": "2023-03-07",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CDM170497",
+			"receivedDate": "2023-03-28",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CEA115903",
@@ -1244,6 +1262,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA170810",
+			"receivedDate": "2023-04-26",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP110219",
 			"receivedDate": "2011-11-07",
 			"response": "Advice only",
@@ -1388,6 +1412,12 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP170354",
+			"receivedDate": "2023-03-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "GEN117142",
 			"receivedDate": "2012-08-29",
 			"response": "Advice only",
@@ -1438,6 +1468,12 @@
 		{
 			"code": "GEN161527",
 			"receivedDate": "2020-12-16",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN170420",
+			"receivedDate": "2023-03-10",
 			"response": "Advice only",
 			"type": "General Advice"
 		},

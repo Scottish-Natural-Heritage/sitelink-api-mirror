@@ -1382,6 +1382,18 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC170554",
+			"receivedDate": "2023-03-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC171043",
+			"receivedDate": "2023-04-27",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111477",
 			"receivedDate": "2012-01-23",
 			"response": "Advice only",
@@ -1750,7 +1762,7 @@
 		{
 			"code": "CDM169638",
 			"receivedDate": "2023-01-20",
-			"response": "Holding objection",
+			"response": "Advice only",
 			"type": "Application related advice"
 		},
 		{
@@ -1769,6 +1781,30 @@
 			"code": "CDM169777",
 			"receivedDate": "2023-02-03",
 			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM170454",
+			"receivedDate": "2023-03-24",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM170490",
+			"receivedDate": "2023-03-24",
+			"response": "Conditioned objection",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM171150",
+			"receivedDate": "2023-03-01",
+			"response": "Outright objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171150",
+			"receivedDate": "2023-03-01",
+			"response": "Outright objection",
 			"type": "Planning Application"
 		},
 		{
@@ -1912,6 +1948,12 @@
 		{
 			"code": "CEA167822",
 			"receivedDate": "2022-07-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA170092",
+			"receivedDate": "2023-03-01",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -2274,6 +2316,24 @@
 			"receivedDate": "2022-12-14",
 			"response": "Conditioned objection",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC170659",
+			"receivedDate": "2023-04-13",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC170918",
+			"receivedDate": "2023-05-05",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
+			"code": "CLC170991",
+			"receivedDate": "2023-05-11",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "COR145404",

@@ -164,6 +164,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC169614",
+			"receivedDate": "2023-01-18",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM110459",
 			"receivedDate": "2011-12-13",
 			"response": "Advice only",
@@ -512,6 +518,12 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM168711",
+			"receivedDate": "2022-10-17",
+			"response": "Conditioned objection",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDM168816",
 			"receivedDate": "2022-10-27",
 			"response": "Advice only",
@@ -522,6 +534,18 @@
 			"receivedDate": "2022-11-18",
 			"response": "Advice only",
 			"type": "Application related advice"
+		},
+		{
+			"code": "CDM169242",
+			"receivedDate": "2022-12-06",
+			"response": "Holding objection",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM169401",
+			"receivedDate": "2022-12-15",
+			"response": "Advice only",
+			"type": "S.36 Application"
 		},
 		{
 			"code": "CEA113814",
@@ -644,6 +668,18 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA169992",
+			"receivedDate": "2023-02-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA170015",
+			"receivedDate": "2023-02-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS116742",
 			"receivedDate": "2012-08-06",
 			"response": "Advice only",
@@ -750,6 +786,12 @@
 			"receivedDate": "2023-01-05",
 			"response": "S.12 SSSI consent required",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC170441",
+			"receivedDate": "2023-03-23",
+			"response": "S.15 Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
 		},
 		{
 			"code": "CPA110245",
@@ -994,6 +1036,18 @@
 		{
 			"code": "CPA168608",
 			"receivedDate": "2022-10-05",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA170360",
+			"receivedDate": "2023-03-17",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA170876",
+			"receivedDate": "2023-05-03",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},

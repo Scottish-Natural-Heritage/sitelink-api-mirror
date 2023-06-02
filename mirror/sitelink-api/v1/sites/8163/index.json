@@ -3252,8 +3252,20 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC168663",
+			"receivedDate": "2022-10-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC168982",
 			"receivedDate": "2022-11-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC170223",
+			"receivedDate": "2023-03-03",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -4150,6 +4162,12 @@
 			"receivedDate": "2022-10-04",
 			"response": "Advice only",
 			"type": "Post Application"
+		},
+		{
+			"code": "CDM169443",
+			"receivedDate": "2022-12-22",
+			"response": "Outright objection",
+			"type": "S.36 Application"
 		},
 		{
 			"code": "CDM169568",
@@ -6050,6 +6068,18 @@
 		{
 			"code": "CPA169197",
 			"receivedDate": "2022-11-28",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA169198",
+			"receivedDate": "2022-12-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA170610",
+			"receivedDate": "2023-03-31",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
