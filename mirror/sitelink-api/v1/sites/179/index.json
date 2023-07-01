@@ -289,10 +289,13 @@
 		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Unfavourable",
+			"conditionSummary": "Recovering",
 			"lastVisitDate": "2008-11-13",
 			"name": "Blanket bog",
 			"pressures": [
+				{
+					"name": "Over grazing"
+				},
 				{
 					"name": "Trampling"
 				}
