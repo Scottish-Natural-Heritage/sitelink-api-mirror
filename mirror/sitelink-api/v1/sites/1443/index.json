@@ -58,8 +58,20 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171579",
+			"receivedDate": "2023-06-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM168262",
 			"receivedDate": "2022-09-01",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171958",
+			"receivedDate": "2023-07-31",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
@@ -222,7 +234,7 @@
 		},
 		{
 			"type": "Site Management Statement",
-			"size": 556,
+			"size": 511,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1443/documents/3"
 		},
 		{
@@ -232,7 +244,7 @@
 		},
 		{
 			"type": "SSSI Map",
-			"size": 949,
+			"size": 2552,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1443/documents/33"
 		}
 	],

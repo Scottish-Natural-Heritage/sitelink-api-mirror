@@ -232,7 +232,7 @@
 			"type": "SSSI Agreement (S.15)"
 		}
 	],
-	"area": 143561.47,
+	"area": 145960.53,
 	"casework": [
 		{
 			"code": "10525",
@@ -2191,6 +2191,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171579",
+			"receivedDate": "2023-06-29",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM110719",
 			"receivedDate": "2011-12-22",
 			"response": "Conditioned objection",
@@ -3535,10 +3541,28 @@
 			"type": "Post Application"
 		},
 		{
+			"code": "CDM169094",
+			"receivedDate": "2022-11-21",
+			"response": "Conditioned objection",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM169175",
+			"receivedDate": "2022-11-25",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CDM169433",
 			"receivedDate": "2022-12-20",
 			"response": "Advice only",
 			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM169576",
+			"receivedDate": "2023-01-16",
+			"response": "Advice only",
+			"type": "Planning Application"
 		},
 		{
 			"code": "CDM169591",
@@ -3583,10 +3607,22 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM170550",
+			"receivedDate": "2023-03-31",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM170649",
 			"receivedDate": "2023-04-12",
 			"response": "Outright objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM170670",
+			"receivedDate": "2023-04-13",
+			"response": "Outright objection",
+			"type": "S.36 Application"
 		},
 		{
 			"code": "CDM170730",
@@ -3633,6 +3669,24 @@
 		{
 			"code": "CDM171355",
 			"receivedDate": "2023-06-12",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171459",
+			"receivedDate": "2023-06-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171628",
+			"receivedDate": "2023-07-04",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171958",
+			"receivedDate": "2023-07-31",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
@@ -4069,6 +4123,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA169253",
+			"receivedDate": "2022-12-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA169701",
 			"receivedDate": "2023-01-26",
 			"response": "Advice only",
@@ -4077,6 +4137,12 @@
 		{
 			"code": "CEA171084",
 			"receivedDate": "2023-05-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171672",
+			"receivedDate": "2023-07-07",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -5887,6 +5953,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA170486",
+			"receivedDate": "2023-03-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA170556",
 			"receivedDate": "2023-03-31",
 			"response": "Advice only",
@@ -5905,6 +5977,18 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA171079",
+			"receivedDate": "2023-05-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA171097",
+			"receivedDate": "2023-05-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA171371",
 			"receivedDate": "2023-06-12",
 			"response": "Advice only",
@@ -5919,6 +6003,18 @@
 		{
 			"code": "CPA171440",
 			"receivedDate": "2023-06-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA171623",
+			"receivedDate": "2023-05-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA171730",
+			"receivedDate": "2023-07-12",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -6609,7 +6705,7 @@
 	],
 	"designation": {
 		"code": "SAC",
-		"date": "2005-03-17",
+		"date": "2023-08-22",
 		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/international-designations/natura-sites/special-areas-conservation-sacs",
 		"status": "Current",
 		"type": "Special Area of Conservation"
@@ -6636,12 +6732,12 @@
 		},
 		{
 			"type": "SAC Map",
-			"size": 3455,
+			"size": 19680,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/46"
 		},
 		{
 			"type": "SAC Qualifying Interest List",
-			"size": 21,
+			"size": 96,
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/22"
 		},
 		{
