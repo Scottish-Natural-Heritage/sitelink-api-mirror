@@ -332,6 +332,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA172233",
+			"receivedDate": "2023-08-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS134882",
 			"receivedDate": "2015-01-19",
 			"response": "Advice only",
@@ -376,6 +382,12 @@
 		{
 			"code": "CGS172131",
 			"receivedDate": "2023-07-07",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS173080",
+			"receivedDate": "2023-08-23",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -620,10 +632,22 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172071",
+			"receivedDate": "2023-08-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA172111",
 			"receivedDate": "2023-02-23",
 			"response": "Advice only",
 			"type": "SRDP"
+		},
+		{
+			"code": "CPA173092",
+			"receivedDate": "2023-10-11",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPP120614",
@@ -762,11 +786,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9020292.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9020292"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9020292.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

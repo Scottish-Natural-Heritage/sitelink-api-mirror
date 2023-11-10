@@ -1208,6 +1208,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172407",
+			"receivedDate": "2023-09-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM120964",
 			"receivedDate": "2013-02-06",
 			"response": "Advice only",
@@ -1844,6 +1850,12 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM171390",
+			"receivedDate": "2023-06-13",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM171687",
 			"receivedDate": "2023-07-10",
 			"response": "Advice only",
@@ -1860,6 +1872,18 @@
 			"receivedDate": "2023-07-27",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172022",
+			"receivedDate": "2023-08-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172431",
+			"receivedDate": "2023-09-09",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CEA127573",
@@ -3096,11 +3120,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9002241.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9002241"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9002241.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

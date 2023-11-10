@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 33.07,
+			"area": 33,
 			"code": 3980,
 			"expiryDate": "2025-07-31",
 			"property": "Land at Tentsmuir NNR - Tayport Heaths and Morton Lochs",
@@ -9,7 +9,7 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 488.11,
+			"area": 488,
 			"code": 8212,
 			"expiryDate": "2025-09-13",
 			"property": "Tentsmuir Foreshore",
@@ -856,6 +856,18 @@
 		{
 			"code": "ALC169693",
 			"receivedDate": "2023-01-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172710",
+			"receivedDate": "2023-10-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172730",
+			"receivedDate": "2023-10-05",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -2210,6 +2222,18 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172090",
+			"receivedDate": "2023-08-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172525",
+			"receivedDate": "2023-09-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP120310",
 			"receivedDate": "2013-01-14",
 			"response": "Advice only",
@@ -2400,11 +2424,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9004121.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9004121"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9004121.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

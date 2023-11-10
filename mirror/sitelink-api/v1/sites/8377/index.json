@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 5155.76,
+			"area": 5156,
 			"code": 1251,
 			"expiryDate": "2024-08-31",
 			"property": "Crown Estate Scotland - Caerlaverock NNR",
@@ -17,15 +17,15 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 37.67,
+			"area": 38,
 			"code": 8591,
 			"expiryDate": "2023-12-31",
 			"property": "Midtown Farm",
-			"term": 4,
+			"term": 5,
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 4.11,
+			"area": 4,
 			"code": 8692,
 			"expiryDate": "2029-08-31",
 			"property": "Moss-side - Caerlaverock NNR",
@@ -33,7 +33,7 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 2530.05,
+			"area": 2530,
 			"code": 841270,
 			"expiryDate": "2029-08-31",
 			"property": "Mansfield Estates - Caerlaverock NNR",
@@ -860,6 +860,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171754",
+			"receivedDate": "2023-07-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM129824",
 			"receivedDate": "2014-03-11",
 			"response": "Advice only",
@@ -1319,11 +1325,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0013025.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0013025.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0013025"
+			"url": "https://sac.jncc.gov.uk/site/UK0013025"
 		},
 		{
 			"type": "MPA Network Advice",

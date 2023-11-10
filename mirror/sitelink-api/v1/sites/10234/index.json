@@ -9,7 +9,7 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 2747.47,
+			"area": 2747,
 			"code": 651,
 			"property": "Forest Lodge Estate",
 			"term": 0,
@@ -333,6 +333,12 @@
 		{
 			"code": "ALC171072",
 			"receivedDate": "2023-05-17",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172407",
+			"receivedDate": "2023-09-08",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
@@ -807,6 +813,30 @@
 		{
 			"code": "CDM171687",
 			"receivedDate": "2023-07-10",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172022",
+			"receivedDate": "2023-08-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172288",
+			"receivedDate": "2023-08-30",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172300",
+			"receivedDate": "2023-08-31",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172536",
+			"receivedDate": "2023-09-19",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -1537,8 +1567,26 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
-			"code": "CPA172060",
-			"receivedDate": "2023-08-11",
+			"code": "CPA171985",
+			"receivedDate": "2023-08-03",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172249",
+			"receivedDate": "2023-08-28",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA172335",
+			"receivedDate": "2023-09-01",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172344",
+			"receivedDate": "2023-08-31",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -1961,11 +2009,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9020308.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9020308"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9020308.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

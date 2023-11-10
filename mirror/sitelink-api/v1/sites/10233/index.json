@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 90.3,
+			"area": 90,
 			"code": 602,
 			"expiryDate": "2040-05-31",
 			"property": "Glencannich Estate",
@@ -734,6 +734,42 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172103",
+			"receivedDate": "2023-08-16",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172509",
+			"receivedDate": "2023-09-15",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172591",
+			"receivedDate": "2023-09-22",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM172769",
+			"receivedDate": "2023-10-10",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172811",
+			"receivedDate": "2023-10-12",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM172834",
+			"receivedDate": "2023-10-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA111655",
 			"receivedDate": "2012-01-20",
 			"response": "Advice only",
@@ -910,6 +946,18 @@
 		{
 			"code": "CEA171673",
 			"receivedDate": "2023-07-07",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172442",
+			"receivedDate": "2023-09-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172447",
+			"receivedDate": "2023-09-12",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -1610,6 +1658,18 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172333",
+			"receivedDate": "2023-08-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172460",
+			"receivedDate": "2023-09-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP115567",
 			"receivedDate": "2012-05-30",
 			"response": "Advice only",
@@ -1776,6 +1836,12 @@
 			"receivedDate": "2023-06-30",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CPP172703",
+			"receivedDate": "2023-10-04",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "GEN111953",
@@ -1968,11 +2034,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9020303.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9020303"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9020303.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

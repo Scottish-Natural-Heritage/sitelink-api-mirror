@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 8.11,
+			"area": 8,
 			"code": 6297,
 			"expiryDate": "2023-09-15",
 			"property": "Ballinreach Coastal Gorges",
@@ -60,6 +60,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC170230",
+			"receivedDate": "2023-03-09",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "GEN156791",
 			"receivedDate": "2019-09-10",
 			"response": "Advice only",
@@ -82,8 +88,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1299"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

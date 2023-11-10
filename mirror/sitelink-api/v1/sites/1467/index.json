@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 7.2,
+			"area": 7,
 			"code": 7070,
 			"expiryDate": "2025-12-31",
 			"property": "Kinkell",
@@ -156,6 +156,12 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
+			"code": "CLC173096",
+			"receivedDate": "2023-11-08",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR147772",
 			"receivedDate": "2017-10-02",
 			"response": "Resolved",
@@ -190,8 +196,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1570"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

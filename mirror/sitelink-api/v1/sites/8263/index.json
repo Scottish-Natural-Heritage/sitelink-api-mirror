@@ -428,6 +428,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA172671",
+			"receivedDate": "2023-09-29",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS152018",
 			"receivedDate": "2018-08-20",
 			"response": "Advice only",
@@ -518,6 +524,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA171078",
+			"receivedDate": "2023-05-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA171126",
 			"receivedDate": "2023-05-22",
 			"response": "Advice only",
@@ -570,11 +582,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030154.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030154.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030154"
+			"url": "https://sac.jncc.gov.uk/site/UK0030154"
 		},
 		{
 			"type": "MPA Network Advice",

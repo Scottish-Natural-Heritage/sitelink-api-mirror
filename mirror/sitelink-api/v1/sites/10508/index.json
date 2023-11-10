@@ -776,6 +776,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM171125",
+			"receivedDate": "2023-05-22",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDM171217",
 			"receivedDate": "2023-05-30",
 			"response": "Advice only",
@@ -1258,6 +1264,12 @@
 		{
 			"code": "CEA171976",
 			"receivedDate": "2023-08-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172116",
+			"receivedDate": "2023-08-16",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -2990,6 +3002,48 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
+			"code": "CLC172151",
+			"receivedDate": "2023-08-18",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC172234",
+			"receivedDate": "2023-08-25",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
+			"code": "CLC172253",
+			"receivedDate": "2023-08-28",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC172296",
+			"receivedDate": "2023-08-31",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC172303",
+			"receivedDate": "2023-08-30",
+			"response": "Advice only",
+			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC172585",
+			"receivedDate": "2023-09-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC172587",
+			"receivedDate": "2023-09-22",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR148375",
 			"receivedDate": "2017-11-15",
 			"response": "Information only",
@@ -3404,6 +3458,30 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172319",
+			"receivedDate": "2023-08-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172504",
+			"receivedDate": "2023-09-15",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172892",
+			"receivedDate": "2023-10-16",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172933",
+			"receivedDate": "2023-07-31",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP140850",
 			"receivedDate": "2016-04-11",
 			"response": "Advice only",
@@ -3527,7 +3605,7 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030393.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030393.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

@@ -2,6 +2,12 @@
 	"area": 15.01,
 	"casework": [
 		{
+			"code": "ALC172885",
+			"receivedDate": "2023-10-19",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM145489",
 			"receivedDate": "2017-03-01",
 			"response": "Advice only",
@@ -36,11 +42,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030356.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030356.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030356"
+			"url": "https://sac.jncc.gov.uk/site/UK0030356"
 		},
 		{
 			"type": "SAC Map",

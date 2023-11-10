@@ -66,6 +66,12 @@
 			"receivedDate": "2020-01-10",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CEA172673",
+			"receivedDate": "2023-09-26",
+			"response": "Advice only",
+			"type": "EIA"
 		}
 	],
 	"designation": {
@@ -78,8 +84,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=834"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

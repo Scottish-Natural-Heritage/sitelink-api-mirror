@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 0.07,
+			"area": 0,
 			"code": 1246,
 			"expiryDate": "2024-03-01",
 			"property": "Burleigh Sands Car Park",
@@ -9,7 +9,7 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 1596.9,
+			"area": 1597,
 			"code": 2809,
 			"expiryDate": "2027-11-20",
 			"property": "Loch Leven",
@@ -3098,6 +3098,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172505",
+			"receivedDate": "2023-09-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM110514",
 			"receivedDate": "2011-12-15",
 			"response": "No Comment",
@@ -3440,6 +3446,24 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172321",
+			"receivedDate": "2023-09-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172327",
+			"receivedDate": "2023-09-01",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172971",
+			"receivedDate": "2023-10-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA128903",
 			"receivedDate": "2014-01-31",
 			"response": "Advice only",
@@ -3724,6 +3748,12 @@
 		{
 			"code": "CLC171228",
 			"receivedDate": "2023-05-31",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC172888",
+			"receivedDate": "2023-10-19",
 			"response": "Advice only",
 			"type": "Other"
 		},

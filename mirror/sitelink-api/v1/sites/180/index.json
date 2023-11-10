@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 3228.1,
+			"area": 3228,
 			"code": 420,
 			"expiryDate": "2986-10-20",
 			"property": "Glenlochay",
@@ -192,6 +192,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172544",
+			"receivedDate": "2023-09-14",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CGS132187",
 			"receivedDate": "2014-07-14",
 			"response": "Advice only",
@@ -226,8 +232,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2447"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

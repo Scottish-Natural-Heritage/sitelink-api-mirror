@@ -134,6 +134,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171398",
+			"receivedDate": "2023-06-14",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM144031",
 			"receivedDate": "2016-12-13",
 			"response": "Conditioned objection",
@@ -278,6 +284,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA172590",
+			"receivedDate": "2023-09-01",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC136290",
 			"receivedDate": "2015-04-20",
 			"response": "S.15 Advice with conditions",
@@ -372,8 +384,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=360"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "MPA Network Advice",

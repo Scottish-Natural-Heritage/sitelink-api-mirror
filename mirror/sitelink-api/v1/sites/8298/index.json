@@ -9,7 +9,7 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 1638.4,
+			"area": 1638,
 			"code": 551,
 			"expiryDate": "2040-09-13",
 			"property": "Ben Lomond",
@@ -17,7 +17,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 7.4,
+			"area": 7,
 			"code": 6596,
 			"expiryDate": "2037-09-28",
 			"property": "Torrinch",
@@ -25,7 +25,7 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 63.1,
+			"area": 63,
 			"code": 8106,
 			"expiryDate": "2049-11-30",
 			"property": "Inchtavannach Island",
@@ -465,6 +465,12 @@
 			"code": "ALC170838",
 			"receivedDate": "2023-04-04",
 			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172399",
+			"receivedDate": "2023-09-07",
+			"response": "Licence/Consent not required",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -964,11 +970,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0013573.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0013573.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0013573"
+			"url": "https://sac.jncc.gov.uk/site/UK0013573"
 		},
 		{
 			"type": "SAC Map",

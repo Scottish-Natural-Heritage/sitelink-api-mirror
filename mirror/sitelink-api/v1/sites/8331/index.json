@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 11.55,
+			"area": 12,
 			"code": 379,
 			"expiryDate": "2027-04-23",
 			"property": "Achnasaul, Morvern",
@@ -326,6 +326,12 @@
 		{
 			"code": "CDM170939",
 			"receivedDate": "2023-05-09",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171727",
+			"receivedDate": "2023-07-12",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -712,11 +718,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030217.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030217.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030217"
+			"url": "https://sac.jncc.gov.uk/site/UK0030217"
 		},
 		{
 			"type": "Nature Conservation Order Revocation",

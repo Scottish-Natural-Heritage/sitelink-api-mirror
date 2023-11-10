@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 321.3,
+			"area": 321,
 			"code": 383,
 			"expiryDate": "2111-01-31",
 			"property": "Braeroy Estate",
@@ -1614,6 +1614,18 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172100",
+			"receivedDate": "2023-08-15",
+			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172401",
+			"receivedDate": "2023-09-07",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111149",
 			"receivedDate": "2012-01-19",
 			"response": "Advice only",
@@ -2448,6 +2460,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172520",
+			"receivedDate": "2023-09-18",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA117606",
 			"receivedDate": "2012-09-17",
 			"response": "Advice only",
@@ -2856,6 +2874,36 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC172494",
+			"receivedDate": "2023-09-14",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC172535",
+			"receivedDate": "2023-09-19",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC172595",
+			"receivedDate": "2023-09-20",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC172648",
+			"receivedDate": "2023-09-26",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC172955",
+			"receivedDate": "2023-10-24",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "COR110823",
 			"receivedDate": "2012-01-05",
 			"response": "Information only",
@@ -3062,6 +3110,18 @@
 		{
 			"code": "CPA169123",
 			"receivedDate": "2022-11-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172541",
+			"receivedDate": "2023-09-19",
+			"response": "Advice only",
+			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA172677",
+			"receivedDate": "2023-09-29",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -3330,6 +3390,18 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP172334",
+			"receivedDate": "2023-09-01",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP172903",
+			"receivedDate": "2023-10-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "GEN115438",
 			"receivedDate": "2012-06-27",
 			"response": "Advice only",
@@ -3388,12 +3460,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2946"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=350"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

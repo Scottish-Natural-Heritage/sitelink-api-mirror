@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 14.43,
+			"area": 14,
 			"code": 325,
 			"expiryDate": "2038-08-31",
 			"property": "Strathfleet (Morvich)",
@@ -144,6 +144,12 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC170230",
+			"receivedDate": "2023-03-09",
+			"response": "Advice only",
+			"type": "SSSI Consultation (s.15 - from a regulatory authority)"
+		},
+		{
 			"code": "CPA118296",
 			"receivedDate": "2012-10-19",
 			"response": "Advice only",
@@ -172,8 +178,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1158"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

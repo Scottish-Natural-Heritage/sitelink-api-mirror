@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 6.39,
+			"area": 6,
 			"code": 31,
 			"expiryDate": "2078-02-12",
 			"property": "Achnahannait Estate",
@@ -9,7 +9,7 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 52.6,
+			"area": 53,
 			"code": 841075,
 			"expiryDate": "2077-08-15",
 			"property": "Ichrachan",
@@ -278,6 +278,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171988",
+			"receivedDate": "2023-08-04",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM122882",
 			"receivedDate": "2013-04-25",
 			"response": "Advice only",
@@ -392,6 +398,18 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM171244",
+			"receivedDate": "2023-06-01",
+			"response": "Holding objection",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM172267",
+			"receivedDate": "2023-08-29",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA124796",
 			"receivedDate": "2013-07-11",
 			"response": "Advice only",
@@ -460,6 +478,12 @@
 		{
 			"code": "CEA171764",
 			"receivedDate": "2023-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171908",
+			"receivedDate": "2023-07-27",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -626,6 +650,12 @@
 			"type": "SRDP"
 		},
 		{
+			"code": "CPA172154",
+			"receivedDate": "2023-08-18",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP123526",
 			"receivedDate": "2013-05-22",
 			"response": "Advice only",
@@ -750,11 +780,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0012750.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0012750.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0012750"
+			"url": "https://sac.jncc.gov.uk/site/UK0012750"
 		},
 		{
 			"type": "SAC Map",

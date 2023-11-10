@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 34.6,
+			"area": 35,
 			"code": 163,
 			"expiryDate": "2078-03-31",
 			"property": "Knock",
@@ -426,6 +426,12 @@
 			"receivedDate": "2023-08-11",
 			"response": "Holding objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172560",
+			"receivedDate": "2023-09-20",
+			"response": "Advice only",
+			"type": "Other Infrastructure"
 		},
 		{
 			"code": "CDP107478",
@@ -930,11 +936,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9003311.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9003311"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9003311.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

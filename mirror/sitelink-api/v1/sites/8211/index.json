@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 6.6,
+			"area": 7,
 			"code": 299,
 			"expiryDate": "2035-07-24",
 			"property": "Lynwood - Whitlaw Wood",
@@ -246,6 +246,12 @@
 			"type": "Planning Related Casework"
 		},
 		{
+			"code": "ALC172812",
+			"receivedDate": "2023-10-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM154831",
 			"receivedDate": "2019-03-20",
 			"response": "Advice only",
@@ -312,6 +318,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CGS172533",
+			"receivedDate": "2023-09-15",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
 			"code": "CLC114907",
 			"receivedDate": "2012-06-14",
 			"response": "Advice only",
@@ -342,6 +354,12 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC172464",
+			"receivedDate": "2023-09-11",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CPP120653",
 			"receivedDate": "2013-01-30",
 			"response": "Advice only",
@@ -358,6 +376,12 @@
 			"receivedDate": "2016-06-30",
 			"response": "Advice only",
 			"type": "Strategic Development Plan"
+		},
+		{
+			"code": "CPP172452",
+			"receivedDate": "2023-09-12",
+			"response": "Advice only",
+			"type": "Forest design plan"
 		},
 		{
 			"code": "GEN160548",
@@ -382,11 +406,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030094.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030094.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030094"
+			"url": "https://sac.jncc.gov.uk/site/UK0030094"
 		},
 		{
 			"type": "SAC Map",

@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 90.3,
+			"area": 90,
 			"code": 602,
 			"expiryDate": "2040-05-31",
 			"property": "Glencannich Estate",
@@ -632,6 +632,18 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA172442",
+			"receivedDate": "2023-09-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172447",
+			"receivedDate": "2023-09-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS116146",
 			"receivedDate": "2012-07-18",
 			"response": "Advice only",
@@ -1152,11 +1164,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0014739.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0014739.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0014739"
+			"url": "https://sac.jncc.gov.uk/site/UK0014739"
 		},
 		{
 			"type": "SAC Map",

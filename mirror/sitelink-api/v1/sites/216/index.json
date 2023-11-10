@@ -2,6 +2,18 @@
 	"area": 1.42,
 	"casework": [
 		{
+			"code": "ALC171995",
+			"receivedDate": "2023-08-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CGS172589",
+			"receivedDate": "2023-09-22",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
 			"code": "CPP140244",
 			"receivedDate": "2016-02-16",
 			"response": "Advice only",
@@ -36,8 +48,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=361"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

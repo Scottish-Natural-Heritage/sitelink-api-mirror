@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 5155.76,
+			"area": 5156,
 			"code": 1251,
 			"expiryDate": "2024-08-31",
 			"property": "Crown Estate Scotland - Caerlaverock NNR",
@@ -17,15 +17,15 @@
 			"type": "Nature Reserve Agreement (S.16)"
 		},
 		{
-			"area": 37.67,
+			"area": 38,
 			"code": 8591,
 			"expiryDate": "2023-12-31",
 			"property": "Midtown Farm",
-			"term": 4,
+			"term": 5,
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 4.11,
+			"area": 4,
 			"code": 8692,
 			"expiryDate": "2029-08-31",
 			"property": "Moss-side - Caerlaverock NNR",
@@ -41,7 +41,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 1.28,
+			"area": 1,
 			"code": 840839,
 			"expiryDate": "2026-02-14",
 			"property": "Hoddom and Kinmount Estates",
@@ -49,7 +49,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 1.95,
+			"area": 2,
 			"code": 840840,
 			"expiryDate": "2026-02-28",
 			"property": "West Moss-side",
@@ -57,7 +57,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 2530.05,
+			"area": 2530,
 			"code": 841270,
 			"expiryDate": "2029-08-31",
 			"property": "Mansfield Estates - Caerlaverock NNR",
@@ -944,6 +944,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171754",
+			"receivedDate": "2023-07-03",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM125381",
 			"receivedDate": "2013-08-01",
 			"response": "Advice only",
@@ -1439,24 +1445,8 @@
 			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1583/documents/47"
 		},
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1575"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2990"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=384"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=385"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=407"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "MPA Network Advice",

@@ -440,9 +440,21 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171889",
+			"receivedDate": "2023-07-26",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC172214",
 			"receivedDate": "2023-07-20",
 			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172217",
+			"receivedDate": "2023-08-17",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -640,6 +652,12 @@
 		{
 			"code": "CDM172106",
 			"receivedDate": "2023-08-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172915",
+			"receivedDate": "2023-10-17",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -1026,11 +1044,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030215.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030215.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030215"
+			"url": "https://sac.jncc.gov.uk/site/UK0030215"
 		},
 		{
 			"type": "SAC Map",

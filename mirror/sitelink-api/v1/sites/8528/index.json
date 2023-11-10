@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 18.96,
+			"area": 19,
 			"code": 9066,
 			"expiryDate": "2026-05-31",
 			"property": "No 2 Blackpark",
@@ -480,6 +480,18 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA172172",
+			"receivedDate": "2023-08-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172230",
+			"receivedDate": "2023-08-23",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS169390",
 			"receivedDate": "2022-12-16",
 			"response": "Advice only",
@@ -688,11 +700,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9003111.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9003111"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9003111.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

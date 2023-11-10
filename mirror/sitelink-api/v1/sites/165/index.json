@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 871.9,
+			"area": 872,
 			"code": 13,
 			"expiryDate": "2038-03-31",
 			"property": "Strathvaich",
@@ -9,7 +9,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 138.2,
+			"area": 138,
 			"code": 482,
 			"expiryDate": "2037-11-01",
 			"property": "Loch Droma",
@@ -101,6 +101,12 @@
 			"code": "ALC165831",
 			"receivedDate": "2022-01-28",
 			"response": "Licence/Consent not required",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172453",
+			"receivedDate": "2023-08-31",
+			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
@@ -284,6 +290,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172460",
+			"receivedDate": "2023-09-13",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP152744",
 			"receivedDate": "2018-10-11",
 			"response": "Advice only",
@@ -342,8 +354,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=717"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

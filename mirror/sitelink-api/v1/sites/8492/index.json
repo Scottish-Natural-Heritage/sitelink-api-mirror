@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 51.46,
+			"area": 51,
 			"code": 860,
 			"expiryDate": "2033-11-17",
 			"property": "Langwell Estate",
@@ -1254,6 +1254,18 @@
 			"type": "Post Application"
 		},
 		{
+			"code": "CDM171941",
+			"receivedDate": "2023-07-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172264",
+			"receivedDate": "2023-08-28",
+			"response": "Conditioned objection",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDP100127",
 			"receivedDate": "2011-06-29",
 			"response": "Advice only",
@@ -2326,11 +2338,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9001182.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9001182"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9001182.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

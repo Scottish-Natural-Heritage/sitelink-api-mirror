@@ -9,7 +9,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 77.1,
+			"area": 77,
 			"code": 206,
 			"expiryDate": "2027-09-11",
 			"property": "Loch a' Bhogaidh",
@@ -17,7 +17,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 99.7,
+			"area": 100,
 			"code": 276,
 			"expiryDate": "2028-02-22",
 			"property": "Kelsay Farm",
@@ -25,7 +25,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 182.2,
+			"area": 182,
 			"code": 288,
 			"expiryDate": "2027-09-20",
 			"property": "Kilchiaran",
@@ -41,7 +41,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 142.6,
+			"area": 143,
 			"code": 584,
 			"expiryDate": "2027-08-07",
 			"property": "Foreland Estate",
@@ -49,15 +49,15 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 364.7,
+			"area": 365,
 			"code": 629,
 			"expiryDate": "2987-07-31",
 			"property": "Smaull",
-			"term": 999,
+			"term": 1000,
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 65.5,
+			"area": 66,
 			"code": 9090,
 			"expiryDate": "2026-03-31",
 			"property": "Ballinaby No.2",
@@ -65,7 +65,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 85.82,
+			"area": 86,
 			"code": 840550,
 			"expiryDate": "2025-11-30",
 			"property": "Kilchoman Distillery",
@@ -1198,6 +1198,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172318",
+			"receivedDate": "2023-09-01",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA165011",
 			"receivedDate": "2021-11-08",
 			"response": "Advice only",
@@ -1206,6 +1212,12 @@
 		{
 			"code": "CGS115366",
 			"receivedDate": "2012-06-29",
+			"response": "Advice only",
+			"type": "SRDP including LEADER"
+		},
+		{
+			"code": "CGS171514",
+			"receivedDate": "2023-06-22",
 			"response": "Advice only",
 			"type": "SRDP including LEADER"
 		},
@@ -1316,6 +1328,12 @@
 			"receivedDate": "2022-03-21",
 			"response": "Advice only",
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
+		},
+		{
+			"code": "CLC168327",
+			"receivedDate": "2022-09-08",
+			"response": "Insufficient information",
+			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
 			"code": "COR126070",
@@ -1520,12 +1538,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=223"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2679"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

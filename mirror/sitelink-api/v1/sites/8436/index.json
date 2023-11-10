@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 0.07,
+			"area": 0,
 			"code": 1246,
 			"expiryDate": "2024-03-01",
 			"property": "Burleigh Sands Car Park",
@@ -9,7 +9,7 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 1596.9,
+			"area": 1597,
 			"code": 2809,
 			"expiryDate": "2027-11-20",
 			"property": "Loch Leven",
@@ -2864,6 +2864,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172505",
+			"receivedDate": "2023-09-12",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM110514",
 			"receivedDate": "2011-12-15",
 			"response": "No Comment",
@@ -3208,6 +3214,12 @@
 		{
 			"code": "CLC167556",
 			"receivedDate": "2022-07-04",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC172888",
+			"receivedDate": "2023-10-19",
 			"response": "Advice only",
 			"type": "Other"
 		},

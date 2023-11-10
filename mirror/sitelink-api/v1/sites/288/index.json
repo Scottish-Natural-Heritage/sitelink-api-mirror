@@ -536,6 +536,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172407",
+			"receivedDate": "2023-09-08",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111512",
 			"receivedDate": "2012-01-31",
 			"response": "Advice only",
@@ -678,6 +684,12 @@
 			"receivedDate": "2023-07-10",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172431",
+			"receivedDate": "2023-09-09",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CEA128193",
@@ -1146,20 +1158,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2214"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2216"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2284"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=708"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

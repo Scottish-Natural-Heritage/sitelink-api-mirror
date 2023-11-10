@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 1.23,
+			"area": 1,
 			"code": 8453,
 			"expiryDate": "2024-07-31",
 			"property": "Firth of Forth - Lochhouses",
@@ -3288,6 +3288,24 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172770",
+			"receivedDate": "2023-10-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172841",
+			"receivedDate": "2023-10-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172962",
+			"receivedDate": "2023-10-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111391",
 			"receivedDate": "2012-01-23",
 			"response": "Advice only",
@@ -4206,6 +4224,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172674",
+			"receivedDate": "2023-09-27",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA111004",
 			"receivedDate": "2012-01-16",
 			"response": "Advice only",
@@ -4562,6 +4586,12 @@
 		{
 			"code": "CEA164235",
 			"receivedDate": "2021-08-24",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172450",
+			"receivedDate": "2023-08-30",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -5580,6 +5610,24 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
+			"code": "CLC172077",
+			"receivedDate": "2023-08-11",
+			"response": "Advice only",
+			"type": "Installation of marine renewable energy devices"
+		},
+		{
+			"code": "CLC172611",
+			"receivedDate": "2023-09-26",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC172934",
+			"receivedDate": "2023-10-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR132954",
 			"receivedDate": "2014-09-30",
 			"response": "Resolved",
@@ -6586,96 +6634,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1107"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1154"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1370"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1375"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1382"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1391"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1553"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1560"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1569"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1571"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=182"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2301"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2392"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2424"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2759"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2760"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2805"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2834"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2916"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=365"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=856"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=857"
-		},
-		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=909"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "MPA Network Advice",

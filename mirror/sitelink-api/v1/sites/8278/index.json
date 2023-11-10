@@ -1,11 +1,11 @@
 {
 	"agreements": [
 		{
-			"area": 0.13,
+			"area": 0,
 			"code": 486,
 			"expiryDate": "2088-03-31",
 			"property": "Parts of the Isle of May",
-			"term": 131,
+			"term": 132,
 			"type": "Nature Reserve Agreement (S.16)"
 		}
 	],
@@ -174,6 +174,12 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM172764",
+			"receivedDate": "2023-10-04",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA115156",
 			"receivedDate": "2012-06-22",
 			"response": "Advice only",
@@ -230,6 +236,12 @@
 		{
 			"code": "CEA158057",
 			"receivedDate": "2020-01-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171787",
+			"receivedDate": "2023-07-17",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -598,11 +610,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0030172.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0030172.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0030172"
+			"url": "https://sac.jncc.gov.uk/site/UK0030172"
 		},
 		{
 			"type": "MPA Network Advice",

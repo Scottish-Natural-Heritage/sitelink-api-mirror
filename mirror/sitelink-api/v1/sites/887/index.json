@@ -68,6 +68,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC171658",
+			"receivedDate": "2023-07-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM135110",
 			"receivedDate": "2015-02-03",
 			"response": "No Comment",
@@ -114,6 +120,12 @@
 			"receivedDate": "2022-07-05",
 			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172430",
+			"receivedDate": "2023-09-11",
+			"response": "Advice only",
+			"type": "Application related advice"
 		},
 		{
 			"code": "CGS140678",
@@ -210,8 +222,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=2427"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

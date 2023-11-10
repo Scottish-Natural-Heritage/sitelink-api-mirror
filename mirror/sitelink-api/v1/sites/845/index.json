@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 31.1,
+			"area": 31,
 			"code": 586,
 			"expiryDate": "2088-01-31",
 			"property": "Easter Glackton",
@@ -480,6 +480,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172294",
+			"receivedDate": "2023-08-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM120397",
 			"receivedDate": "2013-01-17",
 			"response": "No Comment",
@@ -608,6 +614,12 @@
 		{
 			"code": "CDM158627",
 			"receivedDate": "2020-03-06",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM161499",
+			"receivedDate": "2020-12-14",
 			"response": "No Comment",
 			"type": "Planning Application"
 		},
@@ -856,8 +868,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=418"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "Operations Requiring Consent",

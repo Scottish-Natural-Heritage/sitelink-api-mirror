@@ -3884,6 +3884,18 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172841",
+			"receivedDate": "2023-10-05",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "ALC172962",
+			"receivedDate": "2023-10-20",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM110107",
 			"receivedDate": "2011-11-28",
 			"response": "Holding objection",
@@ -5890,13 +5902,37 @@
 		{
 			"code": "CDM171404",
 			"receivedDate": "2023-06-05",
-			"response": "Holding objection",
+			"response": "Advice only",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM171649",
+			"receivedDate": "2023-07-03",
+			"response": "Conditioned objection",
+			"type": "S.36 Application"
 		},
 		{
 			"code": "CDM171713",
 			"receivedDate": "2023-06-05",
 			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172674",
+			"receivedDate": "2023-09-27",
+			"response": "No Comment",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172693",
+			"receivedDate": "2023-09-11",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172764",
+			"receivedDate": "2023-10-04",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
@@ -6748,6 +6784,24 @@
 		{
 			"code": "CEA170856",
 			"receivedDate": "2023-04-28",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171787",
+			"receivedDate": "2023-07-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172015",
+			"receivedDate": "2023-08-08",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172450",
+			"receivedDate": "2023-08-30",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -8096,6 +8150,24 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
+			"code": "CLC172077",
+			"receivedDate": "2023-08-11",
+			"response": "Advice only",
+			"type": "Installation of marine renewable energy devices"
+		},
+		{
+			"code": "CLC172611",
+			"receivedDate": "2023-09-26",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC172934",
+			"receivedDate": "2023-10-05",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR117160",
 			"receivedDate": "2012-09-03",
 			"response": "Information only",
@@ -9056,6 +9128,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA171998",
+			"receivedDate": "2023-07-27",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP112802",
 			"receivedDate": "2012-02-29",
 			"response": "Advice only",
@@ -9714,11 +9792,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9004411.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9004411"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9004411.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

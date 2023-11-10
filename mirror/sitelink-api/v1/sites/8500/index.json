@@ -1,11 +1,11 @@
 {
 	"agreements": [
 		{
-			"area": 0.13,
+			"area": 0,
 			"code": 486,
 			"expiryDate": "2088-03-31",
 			"property": "Parts of the Isle of May",
-			"term": 131,
+			"term": 132,
 			"type": "Nature Reserve Agreement (S.16)"
 		}
 	],
@@ -668,6 +668,18 @@
 		{
 			"code": "CEA166141",
 			"receivedDate": "2022-02-11",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171787",
+			"receivedDate": "2023-07-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172450",
+			"receivedDate": "2023-08-30",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -1564,11 +1576,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9004171.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9004171"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9004171.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

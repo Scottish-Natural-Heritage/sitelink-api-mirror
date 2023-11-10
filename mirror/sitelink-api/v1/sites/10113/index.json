@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 290.7,
+			"area": 291,
 			"code": 605,
 			"expiryDate": "2035-02-28",
 			"property": "Garabal Hill",
@@ -1350,6 +1350,24 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172240",
+			"receivedDate": "2023-08-25",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172254",
+			"receivedDate": "2023-08-28",
+			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM172627",
+			"receivedDate": "2023-09-26",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA116339",
 			"receivedDate": "2012-08-03",
 			"response": "Advice only",
@@ -1736,6 +1754,12 @@
 		{
 			"code": "CEA170712",
 			"receivedDate": "2023-04-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172662",
+			"receivedDate": "2023-09-29",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -2352,6 +2376,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA172273",
+			"receivedDate": "2023-08-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP114424",
 			"receivedDate": "2012-05-28",
 			"response": "Advice only",
@@ -2652,6 +2682,12 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP171400",
+			"receivedDate": "2023-06-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "CPP171759",
 			"receivedDate": "2023-07-13",
 			"response": "Advice only",
@@ -2660,6 +2696,18 @@
 		{
 			"code": "CPP171760",
 			"receivedDate": "2023-07-14",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP172425",
+			"receivedDate": "2023-09-08",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP172816",
+			"receivedDate": "2023-10-13",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -2794,6 +2842,12 @@
 			"receivedDate": "2023-05-15",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "GEN172725",
+			"receivedDate": "2023-10-05",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -2812,11 +2866,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9020307.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9020307"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9020307.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

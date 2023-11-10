@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 104.4,
+			"area": 104,
 			"code": 941,
 			"property": "Ailsa Craig",
 			"term": 0,
@@ -163,6 +163,12 @@
 		{
 			"code": "CDM171556",
 			"receivedDate": "2023-06-27",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM171961",
+			"receivedDate": "2023-08-01",
 			"response": "Advice only",
 			"type": "S.36 Application"
 		},
@@ -350,11 +356,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9003091.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9003091"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9003091.pdf"
 		},
 		{
 			"type": "MPA Network Advice",

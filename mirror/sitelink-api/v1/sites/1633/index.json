@@ -212,6 +212,24 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM172596",
+			"receivedDate": "2023-09-20",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM172704",
+			"receivedDate": "2023-10-02",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
+			"code": "CDM172707",
+			"receivedDate": "2023-10-04",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CEA127796",
 			"receivedDate": "2013-11-26",
 			"response": "Advice only",
@@ -256,6 +274,12 @@
 		{
 			"code": "CEA171746",
 			"receivedDate": "2023-07-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA172126",
+			"receivedDate": "2023-08-16",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -546,8 +570,8 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "JNCC GCR Site Details",
-			"url": "http://www.jncc.gov.uk/default.aspx?page=4174&gcr=1442"
+			"type": "JNCC GCR Review",
+			"url": "https://jncc.gov.uk/our-work/geological-conservation/#the-geological-conservation-review"
 		},
 		{
 			"type": "MPA Network Advice",

@@ -1,7 +1,7 @@
 {
 	"agreements": [
 		{
-			"area": 375.4,
+			"area": 375,
 			"code": 108,
 			"expiryDate": "2040-02-11",
 			"property": "Coulin Estate",
@@ -9,7 +9,7 @@
 			"type": "SSSI Agreement (S.15)"
 		},
 		{
-			"area": 310.4,
+			"area": 310,
 			"code": 351,
 			"expiryDate": "2025-07-09",
 			"property": "Ben Damph Estate",
@@ -25,7 +25,7 @@
 			"type": "Land Lease"
 		},
 		{
-			"area": 41.27,
+			"area": 41,
 			"code": 9087,
 			"expiryDate": "2029-03-31",
 			"property": "Eilean Ruaridh Mor Island",
@@ -354,6 +354,12 @@
 			"type": "Other"
 		},
 		{
+			"code": "CGS172808",
+			"receivedDate": "2023-10-13",
+			"response": "Advice only",
+			"type": "Forestry for people"
+		},
+		{
 			"code": "CLC112306",
 			"receivedDate": "2012-02-29",
 			"response": "S.15 Advice only",
@@ -462,6 +468,12 @@
 			"type": "Grants pre-application enquiry"
 		},
 		{
+			"code": "CPA172716",
+			"receivedDate": "2023-10-04",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP112341",
 			"receivedDate": "2012-02-21",
 			"response": "Advice only",
@@ -516,6 +528,18 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP172093",
+			"receivedDate": "2023-08-10",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP172830",
+			"receivedDate": "2023-10-16",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "GEN113304",
 			"receivedDate": "2012-04-11",
 			"response": "Advice only",
@@ -556,11 +580,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0013597.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0013597.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0013597"
+			"url": "https://sac.jncc.gov.uk/site/UK0013597"
 		},
 		{
 			"type": "SAC Map",

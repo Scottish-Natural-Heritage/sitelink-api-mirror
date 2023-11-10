@@ -476,6 +476,12 @@
 			"type": "Post Application"
 		},
 		{
+			"code": "CDM172566",
+			"receivedDate": "2023-09-19",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA115156",
 			"receivedDate": "2012-06-22",
 			"response": "Advice only",
@@ -526,6 +532,12 @@
 		{
 			"code": "CEA148679",
 			"receivedDate": "2017-12-15",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA171787",
+			"receivedDate": "2023-07-17",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -940,11 +952,11 @@
 		},
 		{
 			"type": "JNCC SAC Data Form",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/n2kforms/UK0017072.pdf"
+			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0017072.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
-			"url": "http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0017072"
+			"url": "https://sac.jncc.gov.uk/site/UK0017072"
 		},
 		{
 			"type": "Marine SAC Management",

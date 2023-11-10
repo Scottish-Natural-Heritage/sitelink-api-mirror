@@ -20,6 +20,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC172453",
+			"receivedDate": "2023-08-31",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM127052",
 			"receivedDate": "2013-10-21",
 			"response": "Advice only",
@@ -64,6 +70,12 @@
 		{
 			"code": "CPA136362",
 			"receivedDate": "2015-04-29",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA172460",
+			"receivedDate": "2023-09-13",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -120,11 +132,7 @@
 		},
 		{
 			"type": "JNCC SPA Data Form",
-			"url": "http://jncc.defra.gov.uk/pdf/SPA/UK9001631.pdf"
-		},
-		{
-			"type": "JNCC SPA Site Details",
-			"url": "http://jncc.defra.gov.uk/default.aspx?page=1838&EUcode=UK9001631"
+			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9001631.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",
