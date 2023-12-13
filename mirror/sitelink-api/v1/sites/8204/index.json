@@ -1385,6 +1385,11 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2017-07-25",
 			"name": "Mountain willow scrub",
+			"pressures": [
+				{
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106685"
 		},
 		{
@@ -1411,6 +1416,9 @@
 			"name": "Species-rich grassland with mat-grass in upland areas",
 			"pressures": [
 				{
+					"name": "Grazing - other"
+				},
+				{
 					"name": "Over grazing"
 				},
 				{
@@ -1433,10 +1441,13 @@
 		{
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2013-05-19",
 			"name": "Wet heathland with cross-leaved heath",
 			"pressures": [
+				{
+					"name": "Natural event"
+				},
 				{
 					"name": "Over grazing"
 				}
