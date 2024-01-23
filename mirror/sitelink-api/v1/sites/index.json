@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2177,
+	"total": 2179,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -5685,6 +5685,19 @@
 			"snhArea": "National Operations West Central"
 		},
 		{
+			"url": "/sitelink-api/v1/sites/10548",
+			"id": 10548,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Glasgow City",
+			"name": "Cleddans Burn",
+			"snhArea": "National Operations West Central"
+		},
+		{
 			"url": "/sitelink-api/v1/sites/364",
 			"id": 364,
 			"designation": {
@@ -10025,6 +10038,19 @@
 			"localAuthority": "Fife",
 			"name": "Ferry Hills",
 			"snhArea": "National Operations South"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10597",
+			"id": 10597,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Glasgow City",
+			"name": "Festival Park",
+			"snhArea": "National Operations West Central"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/8498",
