@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2181,
+	"total": 2182,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -3096,6 +3096,19 @@
 			"localAuthority": "Aberdeenshire",
 			"name": "Bin Quarry",
 			"snhArea": "National Operations North"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10577",
+			"id": 10577,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Glasgow City",
+			"name": "Bingham's Pond",
+			"snhArea": "National Operations West Central"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/206",
