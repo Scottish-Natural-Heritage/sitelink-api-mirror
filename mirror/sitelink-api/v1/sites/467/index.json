@@ -2425,7 +2425,7 @@
 		{
 			"category": "Coast",
 			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2001-08-11",
 			"name": "Saltmarsh",
 			"pressures": [
@@ -2433,7 +2433,16 @@
 					"name": "Agricultural operations"
 				},
 				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Climate Change"
+				},
+				{
 					"name": "Development"
+				},
+				{
+					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001542"
