@@ -5543,6 +5543,12 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM173555",
+			"receivedDate": "2023-12-14",
+			"response": "Advice only",
+			"type": "S.37 Application"
+		},
+		{
 			"code": "CDM173579",
 			"receivedDate": "2023-12-15",
 			"response": "Advice only",
@@ -5559,6 +5565,18 @@
 			"receivedDate": "2024-01-19",
 			"response": "Conditioned objection",
 			"type": "Planning Application"
+		},
+		{
+			"code": "CDM174035",
+			"receivedDate": "2024-01-31",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM174170",
+			"receivedDate": "2024-01-30",
+			"response": "Advice only",
+			"type": "Post Application"
 		},
 		{
 			"code": "CDP100123",
@@ -6589,6 +6607,18 @@
 		{
 			"code": "CEA173659",
 			"receivedDate": "2024-01-03",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA173897",
+			"receivedDate": "2024-01-22",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA174087",
+			"receivedDate": "2024-02-05",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -9287,6 +9317,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA173534",
+			"receivedDate": "2023-12-07",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA173669",
 			"receivedDate": "2024-01-04",
 			"response": "Advice only",
@@ -10264,11 +10300,6 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2004-06-30",
 			"name": "Wood sandpiper (Tringa glareola), breeding",
-			"pressures": [
-				{
-					"name": "Burning"
-				}
-			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003759"
 		}
 	],
