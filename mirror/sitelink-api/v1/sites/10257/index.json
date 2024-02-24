@@ -15,7 +15,7 @@
 		"status": "Current",
 		"type": "Special Area of Conservation"
 	},
-	"dffcSite": false,
+	"dffcSite": true,
 	"documents": [
 		{
 			"type": "JNCC SAC Data Form",
@@ -35,6 +35,14 @@
 		}
 	],
 	"euCode": "UK0030389",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Offshore Reefs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		}
+	],
 	"id": 10257,
 	"localAuthority": "UK Offshore waters (Scotland)",
 	"name": "East Rockall Bank",
