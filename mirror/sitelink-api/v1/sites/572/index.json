@@ -704,18 +704,13 @@
 			"name": "Sand dunes",
 			"pressures": [
 				{
-					"keywords": [
-						"Gorse",
-						"Senecio jacobaea",
-						"Thistles"
-					],
 					"name": "Invasive species"
 				},
 				{
 					"name": "Invasive species"
 				},
 				{
-					"name": "Invasive species"
+					"name": "Under grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105694"
@@ -726,6 +721,11 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2013-07-22",
 			"name": "Coastal Geomorphology of Scotland",
+			"pressures": [
+				{
+					"name": "Development"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105695"
 		}
 	],
