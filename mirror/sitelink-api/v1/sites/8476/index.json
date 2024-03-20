@@ -10222,9 +10222,12 @@
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-06-30",
+			"lastVisitDate": "2023-06-28",
 			"name": "Dunlin (Calidris alpina schinzii), breeding",
 			"pressures": [
+				{
+					"name": "Burning"
+				},
 				{
 					"name": "Forestry operations"
 				},
@@ -10232,7 +10235,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107009"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007393"
 		},
 		{
 			"category": "Birds",
@@ -10252,19 +10255,25 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-06-30",
+			"lastVisitDate": "2023-06-28",
 			"name": "Golden plover (Pluvialis apricaria), breeding",
 			"pressures": [
 				{
+					"name": "Burning"
+				},
+				{
 					"name": "Forestry operations"
+				},
+				{
+					"name": "Recreation/disturbance"
 				},
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111373"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007395"
 		},
 		{
 			"category": "Birds",
