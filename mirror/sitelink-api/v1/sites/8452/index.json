@@ -681,7 +681,9 @@
 		},
 		{
 			"category": "Woodland",
-			"conditionSummary": "Not Assessed",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2023-09-11",
 			"name": "Wet woodland",
 			"pressures": [
 				{
@@ -691,7 +693,7 @@
 					"name": "Plant pests and diseases"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5006750"
 		}
 	],
 	"id": 8452,
