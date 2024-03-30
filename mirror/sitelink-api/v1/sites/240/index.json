@@ -145,15 +145,16 @@
 		{
 			"category": "Wetlands",
 			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2008-09-19",
 			"name": "Open water transition fen",
 			"pressures": [
 				{
+					"keywords": [
+						"Common reed",
+						"Phalaris arundinacea – Reed canary grass"
+					],
 					"name": "Invasive species"
-				},
-				{
-					"name": "Natural event"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102525"
