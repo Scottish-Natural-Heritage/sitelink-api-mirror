@@ -4280,6 +4280,12 @@
 			"type": "General Advice"
 		},
 		{
+			"code": "GEN175939",
+			"receivedDate": "2024-03-14",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "SIR135333",
 			"receivedDate": "2015-02-16",
 			"response": "Full Release",
@@ -4395,8 +4401,8 @@
 	"localAuthority": "Highland",
 	"name": "River Spey",
 	"secondaryLocalAuthorities": [
-		"Marine Scotland (inshore)",
-		"Moray"
+		"Moray",
+		"Scottish Government (Marine Directorate)"
 	],
 	"snhArea": "National Operations Central Highland",
 	"url": "/sitelink-api/v1/sites/1699"

@@ -93,7 +93,7 @@
 		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable Declining",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2009-10-08",
 			"name": "Upland oak woodland",
 			"pressures": [
@@ -102,6 +102,9 @@
 						"Cattle",
 						"Sheep"
 					],
+					"name": "Over grazing"
+				},
+				{
 					"name": "Over grazing"
 				},
 				{
