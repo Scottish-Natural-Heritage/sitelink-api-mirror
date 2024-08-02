@@ -92,6 +92,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM176517",
+			"receivedDate": "2024-07-31",
+			"response": "No Comment",
+			"type": "Post Application"
+		},
+		{
 			"code": "CEA137538",
 			"receivedDate": "2015-07-13",
 			"response": "Advice only",
@@ -455,9 +461,11 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionSummary": "Not Assessed",
+			"conditionLatest": "Favourable Maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2008-02-11",
 			"name": "Eider (Somateria mollissima), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113018"
 		},
 		{
 			"category": "Birds",
