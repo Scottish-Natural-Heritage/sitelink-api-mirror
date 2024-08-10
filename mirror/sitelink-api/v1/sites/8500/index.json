@@ -318,6 +318,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC176540",
+			"receivedDate": "2024-07-30",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM111305",
 			"receivedDate": "2012-01-25",
 			"response": "Advice only",
@@ -1694,11 +1700,11 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Cormorant (Phalacrocorax carbo), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107119"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113691"
 		},
 		{
 			"category": "Birds",
@@ -1712,7 +1718,7 @@
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Guillemot (Uria aalge), breeding",
 			"pressures": [
 				{
@@ -1722,26 +1728,26 @@
 					"name": "Game/ fisheries management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107122"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113693"
 		},
 		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Herring gull (Larus argentatus), breeding",
 			"pressures": [
 				{
 					"name": "Proactive on-site management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107123"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113694"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Kittiwake (Rissa tridactyla), breeding",
 			"pressures": [
 				{
@@ -1751,20 +1757,20 @@
 					"name": "Game/ fisheries management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107124"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113702"
 		},
 		{
 			"category": "Birds",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Lesser black-backed gull (Larus fuscus), breeding",
 			"pressures": [
 				{
 					"name": "Proactive on-site management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107125"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113696"
 		},
 		{
 			"category": "Birds",
@@ -1844,16 +1850,16 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable No change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-06-30",
+			"lastVisitDate": "2021-06-01",
 			"name": "Shag (Phalacrocorax aristotelis), breeding",
 			"pressures": [
 				{
 					"name": "Climate Change"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107130"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113701"
 		}
 	],
 	"id": 8500,
