@@ -192,10 +192,13 @@
 		{
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable No change",
-			"conditionSummary": "Recovering",
+			"conditionSummary": "Unfavourable",
 			"lastVisitDate": "2001-07-17",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
+				{
+					"name": "Development"
+				},
 				{
 					"name": "Extraction"
 				},
