@@ -64,11 +64,18 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-04-14",
+			"conditionLatest": "Unfavourable Declining",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2023-04-20",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
 				{
 					"keywords": [
 						"Chalara fraxinea"
@@ -76,7 +83,7 @@
 					"name": "Plant pests and diseases"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102664"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113306"
 		}
 	],
 	"id": 1559,

@@ -153,9 +153,9 @@
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable Declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2009-03-30",
+			"lastVisitDate": "2023-04-05",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -167,20 +167,26 @@
 				},
 				{
 					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
 						"Chalara fraxinea"
 					],
 					"name": "Plant pests and diseases"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102575"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007040"
 		},
 		{
 			"category": "Woodland",
 			"conditionLatest": "Favourable Maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-04-04",
+			"lastVisitDate": "2023-12-05",
 			"name": "Wood pasture and parkland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102576"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113450"
 		}
 	],
 	"id": 760,
