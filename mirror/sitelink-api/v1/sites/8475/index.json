@@ -1286,6 +1286,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC177356",
+			"receivedDate": "2024-10-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM120964",
 			"receivedDate": "2013-02-06",
 			"response": "Advice only",
@@ -3330,27 +3336,12 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "Conservation Objectives",
-			"size": 53,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8475/documents/29"
-		},
-		{
 			"type": "JNCC SPA Data Form",
 			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9002241.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",
 			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8475"
-		},
-		{
-			"type": "SPA Citation",
-			"size": 26,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8475/documents/16"
-		},
-		{
-			"type": "SPA Map",
-			"size": 5179,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8475/documents/45"
 		}
 	],
 	"euCode": "UK9002241",
