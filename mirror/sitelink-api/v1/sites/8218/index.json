@@ -4585,6 +4585,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA177203",
+			"receivedDate": "2024-09-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS110109",
 			"receivedDate": "2011-12-01",
 			"response": "Advice only",
@@ -7433,12 +7439,32 @@
 	"dffcSite": true,
 	"documents": [
 		{
+			"type": "Conservation Advice Package",
+			"size": 435,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/66"
+		},
+		{
 			"type": "JNCC SAC Data Form",
 			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0013602.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
 			"url": "https://sac.jncc.gov.uk/site/UK0013602"
+		},
+		{
+			"type": "Nature Conservation Order Revocation",
+			"size": 78,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/43"
+		},
+		{
+			"type": "SAC Map",
+			"size": 19680,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/46"
+		},
+		{
+			"type": "SAC Qualifying Interest List",
+			"size": 97,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8218/documents/22"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

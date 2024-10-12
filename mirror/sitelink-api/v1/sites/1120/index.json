@@ -15,6 +15,14 @@
 			"property": "Low Ballevain",
 			"term": 2,
 			"type": "SSSI Agreement (S.15)"
+		},
+		{
+			"area": 7,
+			"code": 844740,
+			"expiryDate": "2029-09-30",
+			"property": "Machrihanish Golf Club",
+			"term": 5,
+			"type": "SSSI Agreement (S.15)"
 		}
 	],
 	"area": 293.35,
@@ -360,8 +368,28 @@
 	"dffcSite": true,
 	"documents": [
 		{
+			"type": "Operations Requiring Consent",
+			"size": 28,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1120/documents/28"
+		},
+		{
 			"type": "Scotland's Environment - Feature Condition",
 			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=1120"
+		},
+		{
+			"type": "Site Management Statement",
+			"size": 61,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1120/documents/3"
+		},
+		{
+			"type": "SSSI Citation",
+			"size": 23,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1120/documents/1"
+		},
+		{
+			"type": "SSSI Map",
+			"size": 2099,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/1120/documents/33"
 		}
 	],
 	"euCode": "135573",

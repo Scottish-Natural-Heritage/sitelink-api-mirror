@@ -6973,6 +6973,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA177203",
+			"receivedDate": "2024-09-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS110109",
 			"receivedDate": "2011-12-01",
 			"response": "Advice only",
@@ -10655,12 +10661,32 @@
 	"dffcSite": true,
 	"documents": [
 		{
+			"type": "Conservation Objectives",
+			"size": 57,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8476/documents/29"
+		},
+		{
 			"type": "JNCC SPA Data Form",
 			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9001151.pdf"
 		},
 		{
+			"type": "Nature Conservation Order Revocation",
+			"size": 78,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8476/documents/43"
+		},
+		{
 			"type": "Scotland's Environment - Feature Condition",
 			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8476"
+		},
+		{
+			"type": "SPA Citation",
+			"size": 72,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8476/documents/16"
+		},
+		{
+			"type": "SPA Map",
+			"size": 19677,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8476/documents/45"
 		}
 	],
 	"euCode": "UK9001151",

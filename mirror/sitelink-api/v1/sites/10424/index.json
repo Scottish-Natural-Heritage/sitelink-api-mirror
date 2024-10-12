@@ -290,6 +290,12 @@
 			"type": "Licence to disturb European Protected Species"
 		},
 		{
+			"code": "CLC177209",
+			"receivedDate": "2024-09-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "COR132604",
 			"receivedDate": "2014-08-12",
 			"response": "Information only",
@@ -414,12 +420,47 @@
 	"dffcSite": false,
 	"documents": [
 		{
+			"type": "Assessment Against the MPA Selection Guidelines",
+			"size": 858,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/51"
+		},
+		{
+			"type": "Conservation and Management Advice",
+			"size": 810,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/59"
+		},
+		{
+			"type": "Fishing Order",
+			"size": 109,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/47"
+		},
+		{
+			"type": "Fishing Order Map",
+			"size": 434,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/61"
+		},
+		{
+			"type": "MPA Boundary Map",
+			"size": 15092,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/49"
+		},
+		{
+			"type": "MPA Data Confidence Assessment",
+			"size": 1808,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/50"
+		},
+		{
 			"type": "MPA Designation Order",
 			"url": "http://www.scotland.gov.uk/Resource/0045/00456502.pdf"
 		},
 		{
 			"type": "MPA Network Advice",
 			"url": "https://www.nature.scot/snh-commissioned-report-547-snh-and-jncc-mpa-network-advice"
+		},
+		{
+			"type": "MPA Site Summary (english)",
+			"size": 2352,
+			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/10424/documents/48"
 		},
 		{
 			"type": "NatureScot Web Site",
