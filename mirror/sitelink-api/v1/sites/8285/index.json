@@ -144,6 +144,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CGS177526",
+			"receivedDate": "2024-10-15",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CLC146470",
 			"receivedDate": "2017-06-27",
 			"response": "Advice only",
@@ -214,27 +220,12 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "Conservation Advice Package",
-			"size": 882,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8285/documents/66"
-		},
-		{
 			"type": "JNCC SAC Data Form",
 			"url": "https://jncc.gov.uk/jncc-assets/SAC-N2K/UK0019813.pdf"
 		},
 		{
 			"type": "JNCC SAC Site Details",
 			"url": "https://sac.jncc.gov.uk/site/UK0019813"
-		},
-		{
-			"type": "SAC Map",
-			"size": 2847,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8285/documents/46"
-		},
-		{
-			"type": "SAC Qualifying Interest List",
-			"size": 43,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8285/documents/22"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",

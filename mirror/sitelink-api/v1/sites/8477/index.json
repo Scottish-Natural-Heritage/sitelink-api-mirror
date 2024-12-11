@@ -2882,6 +2882,12 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM177914",
+			"receivedDate": "2024-11-13",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDP100123",
 			"receivedDate": "2011-06-29",
 			"response": "Advice only",
@@ -5258,6 +5264,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA178240",
+			"receivedDate": "2024-12-09",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP112037",
 			"receivedDate": "2012-02-20",
 			"response": "Advice only",
@@ -5496,27 +5508,12 @@
 	"dffcSite": true,
 	"documents": [
 		{
-			"type": "Conservation Objectives",
-			"size": 33,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8477/documents/29"
-		},
-		{
 			"type": "JNCC SPA Data Form",
 			"url": "https://jncc.gov.uk/jncc-assets/SPA-N2K/UK9001171.pdf"
 		},
 		{
 			"type": "Scotland's Environment - Feature Condition",
 			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8477"
-		},
-		{
-			"type": "SPA Citation",
-			"size": 76,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8477/documents/16"
-		},
-		{
-			"type": "SPA Map",
-			"size": 2675,
-			"url": "https://apps.snh.gov.uk/sitelink-api/v1/sites/8477/documents/45"
 		}
 	],
 	"euCode": "UK9001171",
