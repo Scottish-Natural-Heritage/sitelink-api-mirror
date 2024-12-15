@@ -519,7 +519,7 @@
 		"status": "Current",
 		"type": "Special Area of Conservation"
 	},
-	"dffcSite": false,
+	"dffcSite": true,
 	"documents": [
 		{
 			"type": "JNCC SAC Data Form",
@@ -535,6 +535,26 @@
 		}
 	],
 	"euCode": "UK0012705",
+	"features": [
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Harbour seal (Phoca vitulina)",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Reefs",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Marine (including marine mammals)",
+			"conditionSummary": "Not Assessed",
+			"name": "Subtidal sandbanks",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		}
+	],
 	"id": 8602,
 	"localAuthority": "Scottish Government (Marine Directorate)",
 	"name": "Sound of Barra",
