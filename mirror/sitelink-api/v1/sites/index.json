@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2186,
+	"total": 2187,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -23129,6 +23129,19 @@
 			"localAuthority": "Scottish Borders",
 			"name": "River Tweed",
 			"snhArea": "National Operations South"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10607",
+			"id": 10607,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Dundee City",
+			"name": "Riverside Nature Park",
+			"snhArea": "National Operations Central Highland"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/8647",
