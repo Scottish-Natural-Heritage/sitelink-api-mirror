@@ -1952,6 +1952,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP178318",
+			"receivedDate": "2024-12-12",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN116062",
 			"receivedDate": "2012-07-02",
 			"response": "Advice only",
@@ -2092,66 +2098,71 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-01-18",
+			"lastVisitDate": "2013-02-25",
 			"name": "Corncrake (Crex crex), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107336"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-06-02",
+			"lastVisitDate": "2014-11-19",
 			"name": "Dunlin (Calidris alpina schinzii), breeding",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111216"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-06-19",
+			"lastVisitDate": "2019-01-09",
 			"name": "Little tern (Sternula albifrons), breeding",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107337"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-06-02",
+			"lastVisitDate": "2018-12-07",
 			"name": "Oystercatcher (Haematopus ostralegus), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107338"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-06-03",
+			"lastVisitDate": "2018-12-07",
 			"name": "Redshank (Tringa totanus), breeding",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107339"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-06-02",
+			"lastVisitDate": "2014-11-20",
 			"name": "Ringed plover (Charadrius hiaticula), breeding",
 			"pressures": [
+				{
+					"name": "Agricultural operations"
+				},
 				{
 					"keywords": [
 						"Hedgehogs"
@@ -2159,23 +2170,25 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107340"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-12-02",
+			"lastVisitDate": "2016-03-23",
 			"name": "Ringed plover (Charadrius hiaticula), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107341"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-12-02",
+			"lastVisitDate": "2018-12-07",
 			"name": "Sanderling (Calidris alba), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107342"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8578,

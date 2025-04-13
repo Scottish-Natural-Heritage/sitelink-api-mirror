@@ -594,6 +594,12 @@
 			"receivedDate": "2015-02-16",
 			"response": "Advice only",
 			"type": "General Advice"
+		},
+		{
+			"code": "GEN179664",
+			"receivedDate": "2025-03-27",
+			"response": "Advice only",
+			"type": "General Advice"
 		}
 	],
 	"designation": {
@@ -618,17 +624,18 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-03-09",
+			"lastVisitDate": "2009-10-07",
 			"name": "Dalradian",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103258"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-05-26",
+			"lastVisitDate": "2022-03-25",
 			"name": "Upland birch woodland",
 			"pressures": [
 				{
@@ -644,7 +651,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112527"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 927,

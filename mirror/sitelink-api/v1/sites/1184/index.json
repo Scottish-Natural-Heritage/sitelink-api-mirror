@@ -656,6 +656,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA179581",
+			"receivedDate": "2025-03-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC113968",
 			"receivedDate": "2012-05-04",
 			"response": "Advice only",
@@ -920,6 +926,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179422",
+			"receivedDate": "2025-03-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP113261",
 			"receivedDate": "2012-04-10",
 			"response": "Advice only",
@@ -1018,129 +1030,131 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-03-31",
+			"lastVisitDate": "2016-02-03",
 			"name": "Eider (Somateria mollissima), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106133"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-01-29",
 			"name": "Eider (Somateria mollissima), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111862"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2019-03-19",
 			"name": "Greylag goose (Anser anser), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110664"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-01-29",
 			"name": "Knot (Calidris canutus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111865"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-02-05",
 			"name": "Mute swan (Cygnus olor), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106134"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2017-12-15",
 			"name": "Oystercatcher (Haematopus ostralegus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111864"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2024-08-15",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111863"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-02-05",
 			"name": "Redshank (Tringa totanus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111866"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2017-12-18",
 			"name": "Wigeon (Anas penelope), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111861"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-10-10",
+			"lastVisitDate": "2017-09-25",
 			"name": "Saltmarsh",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106132"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-07-29",
+			"lastVisitDate": "2024-11-30",
 			"name": "Quaternary of Scotland",
 			"pressures": [
 				{
@@ -1153,23 +1167,25 @@
 					"name": "Natural event"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005726"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-01",
+			"lastVisitDate": "2010-08-18",
 			"name": "Mudflats",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102991"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2003-09-18",
+			"lastVisitDate": "2005-03-31",
 			"name": "Transition saltmarsh",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000970"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1184,

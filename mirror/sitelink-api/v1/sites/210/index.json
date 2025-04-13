@@ -374,24 +374,29 @@
 	"features": [
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-09-01",
+			"lastVisitDate": "2013-06-05",
 			"name": "Base-rich loch",
 			"pressures": [
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102513"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-08-06",
+			"lastVisitDate": "2021-03-19",
 			"name": "Open water transition fen",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105463"
+			"pressures": [
+				{
+					"name": "Water quality"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 210,

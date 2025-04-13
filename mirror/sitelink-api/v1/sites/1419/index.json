@@ -212,6 +212,12 @@
 			"type": "General Enquiries"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN167539",
 			"receivedDate": "2022-07-01",
 			"response": "Advice only",
@@ -236,9 +242,9 @@
 	"features": [
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2022-07-26",
+			"lastVisitDate": "2023-08-16",
 			"name": "Machair",
 			"pressures": [
 				{
@@ -251,20 +257,20 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5006859"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2022-06-29",
+			"lastVisitDate": "2023-08-16",
 			"name": "Sand dunes",
 			"pressures": [
 				{
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5006860"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1419,

@@ -8,6 +8,12 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "ALC177751",
+			"receivedDate": "2024-11-01",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CDM169851",
 			"receivedDate": "2023-01-25",
 			"response": "Advice only",
@@ -78,6 +84,12 @@
 			"receivedDate": "2023-10-18",
 			"response": "Advice only",
 			"type": "Other"
+		},
+		{
+			"code": "CLC177995",
+			"receivedDate": "2024-11-19",
+			"response": "Advice only",
+			"type": "Other"
 		}
 	],
 	"designation": {
@@ -102,30 +114,31 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-09-21",
+			"lastVisitDate": "2024-08-13",
 			"name": "Carboniferous - Permian Igneous",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112506"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-06-21",
+			"lastVisitDate": "2024-08-13",
 			"name": "Lowland acid grassland",
 			"pressures": [
 				{
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005902"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-06-21",
+			"lastVisitDate": "2024-08-13",
 			"name": "Lowland calcareous grassland",
 			"pressures": [
 				{
@@ -142,15 +155,16 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005927"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-03-21",
+			"lastVisitDate": "2018-03-19",
 			"name": "Lichen assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107615"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1560,

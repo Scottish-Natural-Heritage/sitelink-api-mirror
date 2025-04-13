@@ -156,9 +156,9 @@
 	"features": [
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-07-17",
+			"lastVisitDate": "2013-12-13",
 			"name": "Machair",
 			"pressures": [
 				{
@@ -171,21 +171,22 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105545"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-07-30",
+			"lastVisitDate": "2014-03-13",
 			"name": "Saltmarsh",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105547"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-07-17",
+			"lastVisitDate": "2013-12-11",
 			"name": "Sand dunes",
 			"pressures": [
 				{
@@ -198,15 +199,16 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105546"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-09-23",
+			"lastVisitDate": "2010-11-11",
 			"name": "Coastal Geomorphology of Scotland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102187"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 354,

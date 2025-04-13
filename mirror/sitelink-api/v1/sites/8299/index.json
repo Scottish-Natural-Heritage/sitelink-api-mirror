@@ -624,6 +624,12 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN113304",
 			"receivedDate": "2012-04-11",
 			"response": "Advice only",
@@ -674,17 +680,18 @@
 	"features": [
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-07-15",
+			"lastVisitDate": "2012-03-21",
 			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103276"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-07-30",
+			"lastVisitDate": "2015-05-21",
 			"name": "Otter (Lutra lutra)",
 			"pressures": [
 				{
@@ -694,13 +701,13 @@
 					"name": "Other"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111159"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-29",
+			"lastVisitDate": "2016-06-17",
 			"name": "Acidic scree",
 			"pressures": [
 				{
@@ -710,13 +717,13 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106809"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-11-22",
+			"lastVisitDate": "2009-12-11",
 			"name": "Alpine and subalpine heaths",
 			"pressures": [
 				{
@@ -726,13 +733,13 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103272"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-09-13",
+			"lastVisitDate": "2016-06-17",
 			"name": "Blanket bog",
 			"pressures": [
 				{
@@ -742,13 +749,13 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106810"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-30",
+			"lastVisitDate": "2016-06-17",
 			"name": "Depressions on peat substrates",
 			"pressures": [
 				{
@@ -758,13 +765,13 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=109888"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-06-16",
+			"lastVisitDate": "2019-09-09",
 			"name": "Dry heaths",
 			"pressures": [
 				{
@@ -780,26 +787,26 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106805"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-11-22",
+			"lastVisitDate": "2010-02-01",
 			"name": "Montane acid grasslands",
 			"pressures": [
 				{
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103279"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-08-30",
+			"lastVisitDate": "2016-06-17",
 			"name": "Plants in crevices on acid rocks",
 			"pressures": [
 				{
@@ -815,13 +822,13 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106808"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-30",
+			"lastVisitDate": "2016-06-17",
 			"name": "Plants in crevices on base-rich rocks",
 			"pressures": [
 				{
@@ -831,60 +838,61 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106806"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-26",
+			"lastVisitDate": "2016-06-17",
 			"name": "Tall herb communities",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106807"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-06-16",
+			"lastVisitDate": "2019-09-09",
 			"name": "Wet heathland with cross-leaved heath",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112039"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-07-03",
+			"lastVisitDate": "2005-03-31",
 			"name": "Alder woodland on floodplains",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002845"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-08-20",
+			"lastVisitDate": "2009-02-02",
 			"name": "Bog woodland",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103274"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2010-09-27",
+			"lastVisitDate": "2011-06-24",
 			"name": "Caledonian forest",
 			"pressures": [
 				{
@@ -897,13 +905,13 @@
 					"name": "Proactive on-site management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103275"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2022-06-01",
+			"lastVisitDate": "2024-11-30",
 			"name": "Western acidic oak woodland",
 			"pressures": [
 				{
@@ -913,7 +921,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005342"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8299,

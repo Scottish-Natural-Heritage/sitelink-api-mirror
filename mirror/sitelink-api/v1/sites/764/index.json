@@ -126,30 +126,24 @@
 	"features": [
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-08-29",
+			"lastVisitDate": "2010-03-09",
 			"name": "Lowland neutral grassland",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100531"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-02-07",
+			"lastVisitDate": "2010-06-15",
 			"name": "Lichen assemblage",
 			"pressures": [
-				{
-					"keywords": [
-						"Birch"
-					],
-					"name": "Invasive species"
-				},
 				{
 					"keywords": [
 						"Beech",
@@ -157,15 +151,21 @@
 						"Sitka Spruce"
 					],
 					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Birch"
+					],
+					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100530"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-08-06",
+			"lastVisitDate": "2017-08-24",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
@@ -181,7 +181,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105838"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 764,

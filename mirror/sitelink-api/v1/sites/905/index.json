@@ -26,6 +26,12 @@
 			"type": "Site Search"
 		},
 		{
+			"code": "ALC179202",
+			"receivedDate": "2025-02-21",
+			"response": "SSSI Consent Given (subject to conditions)",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "CLC114616",
 			"receivedDate": "2012-05-16",
 			"response": "Advice only",
@@ -62,11 +68,12 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-02",
+			"lastVisitDate": "2021-03-24",
 			"name": "Tall herb ledge",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107513"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 905,

@@ -114,12 +114,6 @@
 			"receivedDate": "2024-02-20",
 			"response": "Advice only",
 			"type": "Forest design plan"
-		},
-		{
-			"code": "CPP179535",
-			"receivedDate": "2025-03-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
 		}
 	],
 	"designation": {
@@ -144,9 +138,9 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-08-15",
+			"lastVisitDate": "2017-11-06",
 			"name": "Fluvial Geomorphology of Scotland",
 			"pressures": [
 				{
@@ -156,21 +150,22 @@
 					"name": "Extraction"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107688"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-06-03",
+			"lastVisitDate": "2016-02-03",
 			"name": "Flies",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107423"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-08-21",
+			"lastVisitDate": "2019-03-25",
 			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
 			"pressures": [
 				{
@@ -178,15 +173,18 @@
 				},
 				{
 					"name": "Water management"
+				},
+				{
+					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105991"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-19",
+			"lastVisitDate": "2017-10-30",
 			"name": "Open water transition fen",
 			"pressures": [
 				{
@@ -196,7 +194,7 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105990"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1004,

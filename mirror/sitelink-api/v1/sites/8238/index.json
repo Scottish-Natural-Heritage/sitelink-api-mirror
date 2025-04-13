@@ -188,6 +188,12 @@
 			"type": "Oil spill contingency plan"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN122153",
 			"receivedDate": "2013-03-22",
 			"response": "Advice only",
@@ -232,9 +238,9 @@
 	"features": [
 		{
 			"category": "Coast",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-07-11",
+			"lastVisitDate": "2016-01-28",
 			"name": "Atlantic salt meadows",
 			"pressures": [
 				{
@@ -246,33 +252,33 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111066"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-06-05",
+			"lastVisitDate": "2011-07-06",
 			"name": "Coastal shingle vegetation outside the reach of waves",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101499"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2010-06-05",
+			"lastVisitDate": "2012-11-15",
 			"name": "Shifting dunes",
 			"pressures": [
 				{
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101500"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8238,

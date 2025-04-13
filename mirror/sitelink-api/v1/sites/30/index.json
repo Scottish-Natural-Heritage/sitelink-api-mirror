@@ -158,13 +158,16 @@
 	"features": [
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2012-08-22",
+			"lastVisitDate": "2025-04-01",
 			"name": "Lowland calcareous grassland",
 			"pressures": [
 				{
 					"name": "Invasive species"
+				},
+				{
+					"name": "No proactive management"
 				},
 				{
 					"keywords": [
@@ -176,7 +179,7 @@
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107537"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 30,

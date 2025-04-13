@@ -1292,6 +1292,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA175651",
+			"receivedDate": "2024-05-24",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPA178540",
 			"receivedDate": "2025-01-09",
 			"response": "Advice only",
@@ -1412,6 +1418,12 @@
 			"type": "Forest design plan"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN132470",
 			"receivedDate": "2014-08-14",
 			"response": "Advice only",
@@ -1504,22 +1516,22 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-02-05",
 			"name": "Bar-tailed godwit (Limosa lapponica), non-breeding",
 			"pressures": [
 				{
 					"name": "Military activities"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107249"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-11-30",
+			"lastVisitDate": "2010-12-14",
 			"name": "Dunlin (Calidris alpina alpina), non-breeding",
 			"pressures": [
 				{
@@ -1532,60 +1544,68 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101634"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-03-20",
 			"name": "Greylag goose (Anser anser), non-breeding",
 			"pressures": [
 				{
 					"name": "Military activities"
+				},
+				{
+					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107252"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2001-04-30",
+			"lastVisitDate": "2005-03-31",
 			"name": "Osprey (Pandion haliaetus), breeding",
 			"pressures": [
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003028"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-11-30",
+			"lastVisitDate": "2011-05-18",
 			"name": "Oystercatcher (Haematopus ostralegus), non-breeding",
 			"pressures": [
 				{
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101640"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2019-03-19",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107255"
+			"pressures": [
+				{
+					"name": "Military activities"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-11-30",
+			"lastVisitDate": "2011-05-18",
 			"name": "Red-breasted merganser (Mergus serrator), non-breeding",
 			"pressures": [
 				{
@@ -1595,13 +1615,13 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101643"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-02-05",
 			"name": "Redshank (Tringa totanus), non-breeding",
 			"pressures": [
 				{
@@ -1611,26 +1631,29 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107257"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2019-03-20",
 			"name": "Waterfowl assemblage, non-breeding",
 			"pressures": [
+				{
+					"name": "Military activities"
+				},
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107247"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-11-30",
+			"lastVisitDate": "2011-05-18",
 			"name": "Wigeon (Anas penelope), non-breeding",
 			"pressures": [
 				{
@@ -1640,7 +1663,7 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101652"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8550,

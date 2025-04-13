@@ -56,6 +56,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179180",
+			"receivedDate": "2025-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CGS125430",
 			"receivedDate": "2013-08-07",
 			"response": "Advice only",
@@ -120,17 +126,18 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-02-15",
+			"lastVisitDate": "2013-02-25",
 			"name": "Caledonian Igneous",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105479"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2019-03-06",
+			"lastVisitDate": "2019-03-28",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
@@ -140,7 +147,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112139"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 243,

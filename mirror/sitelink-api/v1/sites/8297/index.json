@@ -396,6 +396,12 @@
 			"receivedDate": "2019-02-11",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
 		}
 	],
 	"designation": {
@@ -428,24 +434,25 @@
 	"features": [
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-01",
+			"lastVisitDate": "2011-01-24",
 			"name": "Reefs",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102037"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-01",
+			"lastVisitDate": "2011-01-27",
 			"name": "Shallow inlets and bays",
 			"pressures": [
 				{
 					"name": "Game/ fisheries management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102038"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8297,

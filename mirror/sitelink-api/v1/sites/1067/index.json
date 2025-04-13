@@ -2,6 +2,12 @@
 	"area": 13.75,
 	"casework": [
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CGS158265",
 			"receivedDate": "2020-02-06",
 			"response": "Advice only",
@@ -32,9 +38,9 @@
 	"features": [
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-09-08",
+			"lastVisitDate": "2005-03-31",
 			"name": "Eutrophic loch",
 			"pressures": [
 				{
@@ -50,13 +56,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001791"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-09-30",
+			"lastVisitDate": "2014-01-14",
 			"name": "Open water transition fen",
 			"pressures": [
 				{
@@ -87,7 +93,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106043"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1067,

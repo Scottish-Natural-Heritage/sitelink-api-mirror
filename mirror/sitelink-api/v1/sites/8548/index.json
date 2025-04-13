@@ -836,6 +836,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA177159",
+			"receivedDate": "2024-09-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA177252",
 			"receivedDate": "2024-09-24",
 			"response": "Advice only",
@@ -844,6 +850,12 @@
 		{
 			"code": "CEA178993",
 			"receivedDate": "2025-02-10",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179581",
+			"receivedDate": "2025-03-20",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -1190,6 +1202,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179422",
+			"receivedDate": "2025-03-10",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP130578",
 			"receivedDate": "2014-04-28",
 			"response": "Advice only",
@@ -1288,76 +1306,77 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-03-31",
+			"lastVisitDate": "2009-11-19",
 			"name": "Eider (Somateria mollissima), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102985"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2024-08-15",
 			"name": "Greylag goose (Anser anser), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111860"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2017-12-18",
 			"name": "Knot (Calidris canutus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107241"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-03-31",
+			"lastVisitDate": "2009-11-19",
 			"name": "Oystercatcher (Haematopus ostralegus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102995"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2019-03-19",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107243"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2017-12-18",
 			"name": "Redshank (Tringa totanus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107244"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -1367,29 +1386,29 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2019-03-19",
 			"name": "Waterfowl assemblage, non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107238"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-03-31",
+			"lastVisitDate": "2009-11-19",
 			"name": "Wigeon (Anas penelope), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103007"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8548,

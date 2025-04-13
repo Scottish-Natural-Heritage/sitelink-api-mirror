@@ -182,18 +182,11 @@
 	"features": [
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-05-27",
+			"lastVisitDate": "2005-03-31",
 			"name": "Lichen assemblage",
 			"pressures": [
-				{
-					"keywords": [
-						"Beech",
-						"Rhododendron"
-					],
-					"name": "Invasive species"
-				},
 				{
 					"keywords": [
 						"Beech",
@@ -203,16 +196,23 @@
 					"name": "Invasive species"
 				},
 				{
+					"keywords": [
+						"Beech",
+						"Rhododendron"
+					],
+					"name": "Invasive species"
+				},
+				{
 					"name": "No proactive management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002002"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-06-17",
+			"lastVisitDate": "2014-03-14",
 			"name": "Wet woodland",
 			"pressures": [
 				{
@@ -228,7 +228,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110895"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 714,

@@ -74,6 +74,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CGS165035",
 			"receivedDate": "2021-10-28",
 			"response": "Advice only",
@@ -98,9 +104,9 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2020-09-09",
+			"lastVisitDate": "2021-03-22",
 			"name": "Raised bog",
 			"pressures": [
 				{
@@ -111,7 +117,7 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112451"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1428,

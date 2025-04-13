@@ -434,6 +434,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN115852",
 			"receivedDate": "2012-07-16",
 			"response": "Advice only",
@@ -488,11 +494,12 @@
 	"features": [
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-08-08",
+			"lastVisitDate": "2024-03-27",
 			"name": "Harbour seal (Phoca vitulina)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113263"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8193,

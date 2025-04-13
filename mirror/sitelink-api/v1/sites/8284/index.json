@@ -146,6 +146,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CEA118137",
 			"receivedDate": "2012-10-03",
 			"response": "Advice only",
@@ -303,9 +309,9 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2020-09-22",
+			"lastVisitDate": "2024-08-02",
 			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
 			"pressures": [
 				{
@@ -323,9 +329,15 @@
 						"Deer"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112444"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8284,

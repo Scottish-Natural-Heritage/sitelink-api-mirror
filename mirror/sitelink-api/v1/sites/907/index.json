@@ -20,6 +20,12 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "CDM179784",
+			"receivedDate": "2025-03-21",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CPA158938",
 			"receivedDate": "2020-04-07",
 			"response": "Advice only",
@@ -62,9 +68,9 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-07-08",
+			"lastVisitDate": "2014-12-17",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -80,7 +86,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105942"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 907,

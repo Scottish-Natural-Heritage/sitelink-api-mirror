@@ -576,16 +576,22 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-07-04",
+			"lastVisitDate": "2017-03-21",
 			"name": "Dotterel (Charadrius morinellus), breeding",
 			"pressures": [
+				{
+					"name": "Climate Change"
+				},
 				{
 					"keywords": [
 						"Deer"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
 				},
 				{
 					"keywords": [
@@ -594,13 +600,13 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102823"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-08-31",
+			"lastVisitDate": "2005-03-31",
 			"name": "Merlin (Falco columbarius), breeding",
 			"pressures": [
 				{
@@ -610,7 +616,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004436"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8491,

@@ -146,6 +146,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CEA118137",
 			"receivedDate": "2012-10-03",
 			"response": "Advice only",
@@ -283,9 +289,9 @@
 	"features": [
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-05",
+			"lastVisitDate": "2019-03-20",
 			"name": "Beetle assemblage",
 			"pressures": [
 				{
@@ -297,13 +303,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107422"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-05",
+			"lastVisitDate": "2019-03-25",
 			"name": "Cranefly (Lipsothrix ecucullata)",
 			"pressures": [
 				{
@@ -317,13 +323,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107656"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2020-09-22",
+			"lastVisitDate": "2024-03-25",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -341,9 +347,15 @@
 						"Deer"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112443"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 866,

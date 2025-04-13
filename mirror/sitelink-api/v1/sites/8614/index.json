@@ -758,6 +758,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179795",
+			"receivedDate": "2025-04-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA113080",
 			"receivedDate": "2012-03-30",
 			"response": "Advice only",
@@ -1302,9 +1308,9 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-07-15",
+			"lastVisitDate": "2010-06-16",
 			"name": "Hen harrier (Circus cyaneus), breeding",
 			"pressures": [
 				{
@@ -1317,7 +1323,7 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102498"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8614,

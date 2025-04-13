@@ -356,6 +356,12 @@
 			"type": "SRDP"
 		},
 		{
+			"code": "CPA179465",
+			"receivedDate": "2025-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CPP119145",
 			"receivedDate": "2012-11-22",
 			"response": "Advice only",
@@ -440,22 +446,22 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-05-13",
+			"lastVisitDate": "2015-05-26",
 			"name": "Breeding bird assemblage",
 			"pressures": [
 				{
 					"name": "Natural event"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111340"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-07",
+			"lastVisitDate": "2024-01-29",
 			"name": "Greenshank (Tringa nebularia), breeding",
 			"pressures": [
 				{
@@ -465,13 +471,13 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5006974"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-05-30",
+			"lastVisitDate": "2018-10-30",
 			"name": "Blanket bog",
 			"pressures": [
 				{
@@ -487,7 +493,7 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112059"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 369,

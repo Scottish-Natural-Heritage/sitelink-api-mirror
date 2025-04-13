@@ -1022,6 +1022,12 @@
 			"type": "Licence to remove/deposit sediment/objects to/from seabed (inc. dredging)"
 		},
 		{
+			"code": "CLC179528",
+			"receivedDate": "2025-03-12",
+			"response": "Advice only",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
 			"code": "CPA131775",
 			"receivedDate": "2014-07-02",
 			"response": "Advice only",
@@ -1268,24 +1274,25 @@
 	"features": [
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2012-06-05",
+			"lastVisitDate": "2015-04-01",
 			"name": "Otter (Lutra lutra)",
 			"pressures": [
 				{
 					"name": "Other"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106958"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2019-08-15",
+			"lastVisitDate": "2024-03-26",
 			"name": "Harbour seal (Phoca vitulina)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113260"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8409,

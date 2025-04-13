@@ -458,6 +458,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179723",
+			"receivedDate": "2025-04-01",
+			"response": "No Comment",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CEA145580",
 			"receivedDate": "2017-04-20",
 			"response": "Advice only",
@@ -1022,11 +1028,12 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-02-10",
+			"lastVisitDate": "2022-08-29",
 			"name": "Great northern diver (Gavia immer), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112958"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -1036,11 +1043,12 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-02-10",
+			"lastVisitDate": "2022-08-29",
 			"name": "Slavonian grebe (Podiceps auritus), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112960"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 10482,

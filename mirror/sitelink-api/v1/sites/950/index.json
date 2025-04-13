@@ -56,9 +56,9 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-07-23",
+			"lastVisitDate": "2022-03-22",
 			"name": "Alkaline fen",
 			"pressures": [
 				{
@@ -69,19 +69,35 @@
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112644"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Not Assessed",
+			"lastVisitDate": "2025-03-06",
 			"name": "Calaminarian grassland and serpentine heath",
+			"pressures": [
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Under grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-07-23",
+			"lastVisitDate": "2022-03-22",
 			"name": "Basin fen",
 			"pressures": [
 				{
@@ -91,7 +107,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005063"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 950,

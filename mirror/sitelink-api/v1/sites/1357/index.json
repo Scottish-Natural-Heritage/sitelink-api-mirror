@@ -104,6 +104,12 @@
 			"type": "General Enquiries"
 		},
 		{
+			"code": "CPA179816",
+			"receivedDate": "2025-04-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "GEN119544",
 			"receivedDate": "2012-12-04",
 			"response": "Advice only",
@@ -156,9 +162,9 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-01-17",
+			"lastVisitDate": "2018-03-22",
 			"name": "Fluvial Geomorphology of Scotland",
 			"pressures": [
 				{
@@ -171,7 +177,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111251"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1357,

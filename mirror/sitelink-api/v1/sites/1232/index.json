@@ -86,6 +86,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA177159",
+			"receivedDate": "2024-09-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC114140",
 			"receivedDate": "2012-05-16",
 			"response": "Advice only",
@@ -156,29 +162,29 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-09-29",
+			"lastVisitDate": "2015-02-18",
 			"name": "Fluvial Geomorphology of Scotland",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106178"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-10-05",
+			"lastVisitDate": "2009-04-30",
 			"name": "Quaternary of Scotland",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103010"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1232,

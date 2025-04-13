@@ -48,9 +48,9 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-09-01",
+			"lastVisitDate": "2025-03-27",
 			"name": "Raised bog",
 			"pressures": [
 				{
@@ -58,12 +58,9 @@
 						"Birch"
 					],
 					"name": "Invasive species"
-				},
-				{
-					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105561"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 375,

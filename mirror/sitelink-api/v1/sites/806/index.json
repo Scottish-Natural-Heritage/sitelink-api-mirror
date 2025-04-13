@@ -32,9 +32,9 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-07-26",
+			"lastVisitDate": "2012-11-30",
 			"name": "Wet woodland",
 			"pressures": [
 				{
@@ -44,13 +44,10 @@
 					"name": "Invasive species"
 				},
 				{
-					"keywords": [
-						"Cattle"
-					],
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105866"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 806,

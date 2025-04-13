@@ -30,6 +30,12 @@
 			"type": "Onshore Wind"
 		},
 		{
+			"code": "CDM179784",
+			"receivedDate": "2025-03-21",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CGS128422",
 			"receivedDate": "2014-01-08",
 			"response": "Advice only",
@@ -74,11 +80,12 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-10-06",
+			"lastVisitDate": "2011-03-22",
 			"name": "Active raised bog",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101113"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8241,

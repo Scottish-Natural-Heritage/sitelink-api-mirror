@@ -44,6 +44,12 @@
 			"type": "Owner/Occupier Advice (not relating to application for consent)"
 		},
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CGS165035",
 			"receivedDate": "2021-10-28",
 			"response": "Advice only",
@@ -74,9 +80,9 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2020-07-28",
+			"lastVisitDate": "2024-03-25",
 			"name": "Raised bog",
 			"pressures": [
 				{
@@ -87,7 +93,7 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112442"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 848,

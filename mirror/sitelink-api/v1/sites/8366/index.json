@@ -7779,6 +7779,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179669",
+			"receivedDate": "2025-03-27",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDP108075",
 			"receivedDate": "2011-11-18",
 			"response": "Advice only",
@@ -8507,6 +8513,12 @@
 		{
 			"code": "CEA176599",
 			"receivedDate": "2024-08-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA177159",
+			"receivedDate": "2024-09-18",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -10249,6 +10261,12 @@
 			"receivedDate": "2025-02-26",
 			"response": "Advice only",
 			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
+			"code": "CLC179295",
+			"receivedDate": "2025-02-28",
+			"response": "Advice only",
+			"type": "CAR Licence"
 		},
 		{
 			"code": "COR110673",
@@ -12513,6 +12531,18 @@
 			"type": "General Advice"
 		},
 		{
+			"code": "GEN179619",
+			"receivedDate": "2025-03-24",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
+			"code": "GEN179638",
+			"receivedDate": "2025-03-26",
+			"response": "Advice only",
+			"type": "General Advice"
+		},
+		{
 			"code": "PAC167349",
 			"receivedDate": "2022-06-14",
 			"response": "Advice only",
@@ -12569,11 +12599,14 @@
 	"features": [
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-09-19",
+			"lastVisitDate": "2015-03-23",
 			"name": "Atlantic salmon (Salmo salar)",
 			"pressures": [
+				{
+					"name": "Climate Change"
+				},
 				{
 					"name": "Extraction"
 				},
@@ -12593,13 +12626,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103025"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-11-30",
+			"lastVisitDate": "2010-02-04",
 			"name": "Brook lamprey (Lampetra planeri)",
 			"pressures": [
 				{
@@ -12612,13 +12645,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103026"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-11-30",
+			"lastVisitDate": "2010-02-04",
 			"name": "River lamprey (Lampetra fluviatilis)",
 			"pressures": [
 				{
@@ -12631,13 +12664,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103029"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-11-30",
+			"lastVisitDate": "2010-02-04",
 			"name": "Sea lamprey (Petromyzon marinus)",
 			"pressures": [
 				{
@@ -12650,26 +12683,26 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103030"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-12",
+			"lastVisitDate": "2012-05-18",
 			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
 			"pressures": [
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103027"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-09-03",
+			"lastVisitDate": "2015-12-17",
 			"name": "Otter (Lutra lutra)",
 			"pressures": [
 				{
@@ -12685,7 +12718,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106881"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8366,

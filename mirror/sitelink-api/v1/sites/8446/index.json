@@ -326,6 +326,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA179581",
+			"receivedDate": "2025-03-20",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC121651",
 			"receivedDate": "2013-02-22",
 			"response": "S.12 SSSI consent required",
@@ -376,6 +382,12 @@
 		{
 			"code": "CPA177194",
 			"receivedDate": "2024-09-20",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
+			"code": "CPA179422",
+			"receivedDate": "2025-03-10",
 			"response": "Advice only",
 			"type": "Development pre-application enquiry"
 		},
@@ -434,11 +446,12 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2024-08-15",
 			"name": "Greylag goose (Anser anser), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111858"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -454,29 +467,29 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2024-08-15",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111856"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2018-02-05",
 			"name": "Redshank (Tringa totanus), non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111857"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -486,16 +499,16 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-03-01",
+			"lastVisitDate": "2024-08-15",
 			"name": "Waterfowl assemblage, non-breeding",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111855"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
@@ -511,11 +524,12 @@
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-01",
+			"lastVisitDate": "2010-08-18",
 			"name": "Intertidal mudflats and sandflats",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102992"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",

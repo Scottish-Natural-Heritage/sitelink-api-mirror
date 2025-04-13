@@ -4046,6 +4046,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA177159",
+			"receivedDate": "2024-09-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA177252",
 			"receivedDate": "2024-09-24",
 			"response": "Advice only",
@@ -7264,13 +7270,19 @@
 	"features": [
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-07-21",
+			"lastVisitDate": "2015-03-23",
 			"name": "Atlantic salmon (Salmo salar)",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
+				},
+				{
+					"name": "Climate Change"
+				},
+				{
+					"name": "Development"
 				},
 				{
 					"name": "Invasive species"
@@ -7288,13 +7300,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101698"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-07-24",
+			"lastVisitDate": "2024-03-14",
 			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
 			"pressures": [
 				{
@@ -7322,15 +7334,16 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106868"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-10-06",
+			"lastVisitDate": "2015-03-23",
 			"name": "Otter (Lutra lutra)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111337"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8357,

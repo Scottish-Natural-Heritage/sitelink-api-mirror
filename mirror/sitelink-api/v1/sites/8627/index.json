@@ -20,6 +20,12 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM179180",
+			"receivedDate": "2025-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA131610",
 			"receivedDate": "2014-06-25",
 			"response": "Advice only",
@@ -104,9 +110,9 @@
 	"features": [
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-10-16",
+			"lastVisitDate": "2010-08-20",
 			"name": "Bryophyte assemblage",
 			"pressures": [
 				{
@@ -119,28 +125,23 @@
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100030"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2004-07-14",
+			"lastVisitDate": "2005-03-31",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
-					"keywords": [
-						"Beech",
-						"Sitka Spruce",
-						"Sycamore"
-					],
 					"name": "Invasive species"
 				},
 				{
 					"name": "No proactive management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5002701"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8627,

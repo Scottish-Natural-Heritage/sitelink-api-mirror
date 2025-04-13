@@ -104,9 +104,9 @@
 	"features": [
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-16",
+			"lastVisitDate": "2016-12-15",
 			"name": "Lowland acid grassland",
 			"pressures": [
 				{
@@ -117,13 +117,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111711"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-04-04",
+			"lastVisitDate": "2019-03-17",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -134,19 +134,13 @@
 					"name": "Invasive species"
 				},
 				{
-					"keywords": [
-						"Deer"
-					],
 					"name": "Over grazing"
 				},
 				{
-					"keywords": [
-						"Cattle"
-					],
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111710"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 111,

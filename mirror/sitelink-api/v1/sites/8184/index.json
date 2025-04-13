@@ -380,6 +380,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN112900",
 			"receivedDate": "2012-03-20",
 			"response": "Advice only",
@@ -424,9 +430,9 @@
 	"features": [
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-06-20",
+			"lastVisitDate": "2016-09-19",
 			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
 			"pressures": [
 				{
@@ -445,7 +451,7 @@
 					"name": "Wildlife crime"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106629"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8184,

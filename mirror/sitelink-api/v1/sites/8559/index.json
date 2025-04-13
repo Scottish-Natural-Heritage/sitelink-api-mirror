@@ -32,6 +32,12 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM179580",
+			"receivedDate": "2025-03-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CPA144381",
 			"receivedDate": "2017-01-17",
 			"response": "Advice only",
@@ -78,11 +84,12 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-12-29",
+			"lastVisitDate": "2016-03-15",
 			"name": "Greenland barnacle goose (Branta leucopsis), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107276"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8559,

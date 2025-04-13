@@ -2180,6 +2180,12 @@
 			"type": "S.37 Application"
 		},
 		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CEA110614",
 			"receivedDate": "2011-12-02",
 			"response": "Advice only",
@@ -3548,12 +3554,6 @@
 			"type": "Forest design plan"
 		},
 		{
-			"code": "CPP179535",
-			"receivedDate": "2025-03-06",
-			"response": "Advice only",
-			"type": "Forest design plan"
-		},
-		{
 			"code": "GEN123841",
 			"receivedDate": "2013-05-30",
 			"response": "Advice only",
@@ -3754,11 +3754,14 @@
 	"features": [
 		{
 			"category": "Fish",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-08-19",
+			"lastVisitDate": "2015-02-10",
 			"name": "Atlantic salmon (Salmo salar)",
 			"pressures": [
+				{
+					"name": "Climate Change"
+				},
 				{
 					"name": "Forestry operations"
 				},
@@ -3769,13 +3772,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100364"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-11-09",
+			"lastVisitDate": "2015-02-10",
 			"name": "Brook lamprey (Lampetra planeri)",
 			"pressures": [
 				{
@@ -3800,13 +3803,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105263"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-11-09",
+			"lastVisitDate": "2015-02-10",
 			"name": "River lamprey (Lampetra fluviatilis)",
 			"pressures": [
 				{
@@ -3831,13 +3834,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105265"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Fish",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-11-09",
+			"lastVisitDate": "2015-02-10",
 			"name": "Sea lamprey (Petromyzon marinus)",
 			"pressures": [
 				{
@@ -3862,7 +3865,7 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105264"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8367,

@@ -8,6 +8,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CLC179582",
+			"receivedDate": "2025-03-20",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
 			"code": "CPA127895",
 			"receivedDate": "2013-11-28",
 			"response": "Advice only",
@@ -48,9 +54,9 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-09-07",
+			"lastVisitDate": "2011-09-22",
 			"name": "Dalradian",
 			"pressures": [
 				{
@@ -60,13 +66,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105012"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2008-08-31",
+			"lastVisitDate": "2009-12-17",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
@@ -84,7 +90,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100241"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 863,

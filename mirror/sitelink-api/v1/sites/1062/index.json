@@ -12,6 +12,12 @@
 			"receivedDate": "2019-07-21",
 			"response": "SSSI Consent Given",
 			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
+			"code": "CDM179669",
+			"receivedDate": "2025-03-27",
+			"response": "Advice only",
+			"type": "Planning Application"
 		}
 	],
 	"designation": {
@@ -32,11 +38,12 @@
 	"features": [
 		{
 			"category": "Vascular plants",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-05-27",
+			"lastVisitDate": "2010-05-06",
 			"name": "Brown bog-rush (Schoenus ferrugineus)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103851"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1062,

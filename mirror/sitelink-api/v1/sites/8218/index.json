@@ -4225,6 +4225,18 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CDM179580",
+			"receivedDate": "2025-03-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM179699",
+			"receivedDate": "2025-03-31",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDP103311",
 			"receivedDate": "2011-08-03",
 			"response": "Advice only",
@@ -4767,6 +4779,12 @@
 		{
 			"code": "CEA178516",
 			"receivedDate": "2025-01-08",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179299",
+			"receivedDate": "2025-02-27",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -6913,6 +6931,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179465",
+			"receivedDate": "2025-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CPP112458",
 			"receivedDate": "2012-03-06",
 			"response": "Advice only",
@@ -7755,22 +7779,22 @@
 	"features": [
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-08-04",
+			"lastVisitDate": "2005-03-31",
 			"name": "Acid peat-stained lakes and ponds",
 			"pressures": [
 				{
 					"name": "Forestry operations"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5000460"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Freshwater habitats",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-08-16",
+			"lastVisitDate": "2016-09-15",
 			"name": "Clear-water lakes or lochs with aquatic vegetation and poor to moderate nutrient levels",
 			"pressures": [
 				{
@@ -7780,13 +7804,13 @@
 					"name": "Water quality"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106721"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-09-09",
+			"lastVisitDate": "2015-06-30",
 			"name": "Otter (Lutra lutra)",
 			"pressures": [
 				{
@@ -7796,13 +7820,13 @@
 					"name": "Natural event"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111347"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-06-08",
+			"lastVisitDate": "2019-03-19",
 			"name": "Blanket bog",
 			"pressures": [
 				{
@@ -7812,23 +7836,19 @@
 					"name": "Game/ fisheries management"
 				},
 				{
-					"keywords": [
-						"Conifers",
-						"Exotic conifers"
-					],
 					"name": "Invasive species"
 				},
 				{
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106719"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-06-08",
+			"lastVisitDate": "2019-03-25",
 			"name": "Depressions on peat substrates",
 			"pressures": [
 				{
@@ -7841,21 +7861,22 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106720"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-06-08",
+			"lastVisitDate": "2019-03-25",
 			"name": "Very wet mires often identified by an unstable 'quaking' surface",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106718"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-06-08",
+			"lastVisitDate": "2019-03-25",
 			"name": "Wet heathland with cross-leaved heath",
 			"pressures": [
 				{
@@ -7868,15 +7889,20 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106717"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Vascular plants",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-08-24",
+			"lastVisitDate": "2011-01-17",
 			"name": "Marsh saxifrage (Saxifraga hirculus)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103932"
+			"pressures": [
+				{
+					"name": "Trampling"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8218,

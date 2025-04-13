@@ -272,6 +272,12 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
+			"code": "CLC179796",
+			"receivedDate": "2025-02-19",
+			"response": "Advice only",
+			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
+		},
+		{
 			"code": "COR153519",
 			"receivedDate": "2018-12-07",
 			"response": "Information only",
@@ -318,9 +324,9 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-11-15",
+			"lastVisitDate": "2011-08-24",
 			"name": "Dalradian",
 			"pressures": [
 				{
@@ -330,7 +336,7 @@
 					"name": "Flood defence/coastal defence works"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101749"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1631,

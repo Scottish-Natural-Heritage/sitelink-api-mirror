@@ -6067,6 +6067,30 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CDM179509",
+			"receivedDate": "2025-03-17",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM179580",
+			"receivedDate": "2025-03-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM179630",
+			"receivedDate": "2025-03-24",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
+			"code": "CDM179699",
+			"receivedDate": "2025-03-31",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDP100123",
 			"receivedDate": "2011-06-29",
 			"response": "Advice only",
@@ -7197,6 +7221,12 @@
 		{
 			"code": "CEA178657",
 			"receivedDate": "2025-01-16",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179299",
+			"receivedDate": "2025-02-27",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -10171,6 +10201,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179465",
+			"receivedDate": "2025-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CPP117318",
 			"receivedDate": "2012-09-10",
 			"response": "Advice only",
@@ -11057,30 +11093,38 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2018-06-07",
+			"lastVisitDate": "2018-11-09",
 			"name": "Black-throated diver (Gavia arctica), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107007"
+			"pressures": [
+				{
+					"name": "Climate Change"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-06-03",
+			"lastVisitDate": "2017-03-15",
 			"name": "Common scoter (Melanitta nigra), breeding",
 			"pressures": [
 				{
 					"name": "To be identified"
+				},
+				{
+					"name": "To be identified"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107008"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-28",
+			"lastVisitDate": "2024-03-19",
 			"name": "Dunlin (Calidris alpina schinzii), breeding",
 			"pressures": [
 				{
@@ -11093,13 +11137,13 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007393"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-31",
+			"lastVisitDate": "2017-02-09",
 			"name": "Golden eagle (Aquila chrysaetos), breeding",
 			"pressures": [
 				{
@@ -11109,13 +11153,13 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107010"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-28",
+			"lastVisitDate": "2024-03-19",
 			"name": "Golden plover (Pluvialis apricaria), breeding",
 			"pressures": [
 				{
@@ -11131,26 +11175,26 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007395"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-28",
+			"lastVisitDate": "2024-02-15",
 			"name": "Greenshank (Tringa nebularia), breeding",
 			"pressures": [
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007396"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-21",
+			"lastVisitDate": "2016-12-15",
 			"name": "Hen harrier (Circus cyaneus), breeding",
 			"pressures": [
 				{
@@ -11160,13 +11204,13 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107012"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2004-07-31",
+			"lastVisitDate": "2005-03-31",
 			"name": "Merlin (Falco columbarius), breeding",
 			"pressures": [
 				{
@@ -11176,13 +11220,13 @@
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003754"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-07-31",
+			"lastVisitDate": "2010-12-13",
 			"name": "Red-throated diver (Gavia stellata), breeding",
 			"pressures": [
 				{
@@ -11195,12 +11239,20 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101847"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
 			"conditionSummary": "Not Assessed",
 			"name": "Short-eared owl (Asio flammeus), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionLatest": "Favourable maintained",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2018-11-20",
+			"name": "Wigeon (Anas penelope), breeding",
 			"pressures": [
 				{
 					"name": "Burning"
@@ -11210,24 +11262,12 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2018-06-08",
-			"name": "Wigeon (Anas penelope), breeding",
-			"pressures": [
-				{
-					"name": "Burning"
-				}
-			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107015"
-		},
-		{
-			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-28",
+			"lastVisitDate": "2024-02-15",
 			"name": "Wood sandpiper (Tringa glareola), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113309"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8476,

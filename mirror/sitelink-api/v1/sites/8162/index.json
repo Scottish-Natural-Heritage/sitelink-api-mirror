@@ -542,6 +542,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179504",
+			"receivedDate": "2025-03-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP136632",
 			"receivedDate": "2015-05-14",
 			"response": "Advice only",
@@ -650,11 +656,12 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-07-27",
+			"lastVisitDate": "2009-05-28",
 			"name": "Hen harrier (Circus cyaneus), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100524"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8162,

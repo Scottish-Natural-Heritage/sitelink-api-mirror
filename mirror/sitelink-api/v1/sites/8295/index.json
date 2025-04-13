@@ -476,6 +476,12 @@
 			"type": "Post Application"
 		},
 		{
+			"code": "CDM178208",
+			"receivedDate": "2024-12-06",
+			"response": "Advice only",
+			"type": "S.36 Application"
+		},
+		{
 			"code": "CDM178607",
 			"receivedDate": "2025-01-14",
 			"response": "Advice only",
@@ -484,6 +490,12 @@
 		{
 			"code": "CDM178683",
 			"receivedDate": "2025-01-17",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM179180",
+			"receivedDate": "2025-02-20",
 			"response": "Advice only",
 			"type": "Planning Application"
 		},
@@ -928,35 +940,35 @@
 	"features": [
 		{
 			"category": "Mammals (except marine)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-07-19",
+			"lastVisitDate": "2016-08-17",
 			"name": "Otter (Lutra lutra)",
 			"pressures": [
 				{
 					"name": "Forestry operations"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106802"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2001-10-26",
+			"lastVisitDate": "2005-03-31",
 			"name": "Alder woodland on floodplains",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004892"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2019-03-05",
+			"lastVisitDate": "2020-03-23",
 			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
 			"pressures": [
 				{
@@ -967,6 +979,9 @@
 					"name": "Invasive species"
 				},
 				{
+					"keywords": [
+						"Deer"
+					],
 					"name": "Over grazing"
 				},
 				{
@@ -976,20 +991,20 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106801"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2001-10-26",
+			"lastVisitDate": "2005-03-31",
 			"name": "Western acidic oak woodland",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004891"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8295,

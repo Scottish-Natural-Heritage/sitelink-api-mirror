@@ -62,30 +62,24 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2006-04-18",
+			"lastVisitDate": "2011-03-16",
 			"name": "Native pinewood",
 			"pressures": [
 				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103406"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Recovered",
+			"conditionLatest": "Favourable recovered",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-07-22",
+			"lastVisitDate": "2010-02-22",
 			"name": "Upland oak woodland",
 			"pressures": [
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
 				{
 					"keywords": [
 						"Rhododendron"
@@ -93,10 +87,16 @@
 					"name": "Invasive species"
 				},
 				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103870"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1516,

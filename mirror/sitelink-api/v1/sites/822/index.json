@@ -26,6 +26,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179587",
+			"receivedDate": "2025-03-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "GEN123190",
 			"receivedDate": "2013-05-10",
 			"response": "Advice only",
@@ -50,24 +56,25 @@
 	"features": [
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2013-07-27",
+			"lastVisitDate": "2014-02-27",
 			"name": "Beetle assemblage",
 			"pressures": [
 				{
 					"name": "Proactive on-site management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105884"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-09-04",
+			"lastVisitDate": "2009-03-31",
 			"name": "Upland oak woodland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101276"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 822,

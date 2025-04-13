@@ -300,17 +300,11 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2019-08-09",
+			"lastVisitDate": "2023-03-27",
 			"name": "Upland oak woodland",
 			"pressures": [
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
 				{
 					"keywords": [
 						"Beech",
@@ -323,13 +317,15 @@
 				},
 				{
 					"keywords": [
-						"Deer",
-						"Goats"
+						"Bracken"
 					],
+					"name": "Invasive species"
+				},
+				{
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112223"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1387,

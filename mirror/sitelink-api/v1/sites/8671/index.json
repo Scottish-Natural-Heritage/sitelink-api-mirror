@@ -20,6 +20,12 @@
 			"type": "Transport Infrastructure"
 		},
 		{
+			"code": "CEA178229",
+			"receivedDate": "2024-12-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CPA125257",
 			"receivedDate": "2013-07-30",
 			"response": "Advice only",
@@ -64,16 +70,16 @@
 	"features": [
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-19",
+			"lastVisitDate": "2019-01-30",
 			"name": "Narrow-mouthed whorl snail (Vertigo angustior)",
 			"pressures": [
 				{
 					"name": "Natural event"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107606"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8671,

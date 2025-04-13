@@ -1591,6 +1591,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "ALC178943",
+			"receivedDate": "2025-02-06",
+			"response": "SSSI Consent Given",
+			"type": "SSSI Consent (s.13 or s.16)"
+		},
+		{
 			"code": "ALC178988",
 			"receivedDate": "2025-02-07",
 			"response": "SSSI Consent Given",
@@ -2485,6 +2491,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179580",
+			"receivedDate": "2025-03-20",
+			"response": "Conditioned objection",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CDP100123",
 			"receivedDate": "2011-06-29",
 			"response": "Advice only",
@@ -2913,6 +2925,12 @@
 		{
 			"code": "CEA176213",
 			"receivedDate": "2024-07-05",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179299",
+			"receivedDate": "2025-02-27",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -3967,6 +3985,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179465",
+			"receivedDate": "2025-03-13",
+			"response": "Advice only",
+			"type": "SRDP"
+		},
+		{
 			"code": "CPP112458",
 			"receivedDate": "2012-03-06",
 			"response": "Advice only",
@@ -4263,17 +4287,18 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-07-12",
+			"lastVisitDate": "2012-01-19",
 			"name": "Breeding bird assemblage",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=104985"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2023-06-28",
+			"lastVisitDate": "2024-03-20",
 			"name": "Dunlin (Calidris alpina schinzii), breeding",
 			"pressures": [
 				{
@@ -4286,26 +4311,26 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007380"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2018-06-08",
+			"lastVisitDate": "2018-11-09",
 			"name": "Greylag goose (Anser anser), breeding",
 			"pressures": [
 				{
 					"name": "Burning"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106959"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-06-08",
+			"lastVisitDate": "2019-03-19",
 			"name": "Blanket bog",
 			"pressures": [
 				{
@@ -4318,7 +4343,7 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=110111"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8412,

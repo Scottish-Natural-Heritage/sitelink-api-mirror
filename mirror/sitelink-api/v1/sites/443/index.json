@@ -54,14 +54,11 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-02-17",
+			"lastVisitDate": "2017-04-19",
 			"name": "Mineralogy of Scotland",
 			"pressures": [
-				{
-					"name": "Natural event"
-				},
 				{
 					"keywords": [
 						"Birch",
@@ -69,9 +66,12 @@
 						"Willow"
 					],
 					"name": "Natural event"
+				},
+				{
+					"name": "Natural event"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105605"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 443,

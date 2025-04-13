@@ -572,6 +572,12 @@
 			"type": "S.36 Application"
 		},
 		{
+			"code": "CDM179414",
+			"receivedDate": "2025-02-19",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CEA120539",
 			"receivedDate": "2013-01-25",
 			"response": "Advice only",
@@ -748,6 +754,12 @@
 		{
 			"code": "CEA175902",
 			"receivedDate": "2024-06-12",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179327",
+			"receivedDate": "2025-03-04",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -1516,9 +1528,9 @@
 	"features": [
 		{
 			"category": "Fish",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-07-05",
+			"lastVisitDate": "2015-03-31",
 			"name": "Atlantic salmon (Salmo salar)",
 			"pressures": [
 				{
@@ -1534,13 +1546,13 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100990"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-05-16",
+			"lastVisitDate": "2019-03-25",
 			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
 			"pressures": [
 				{
@@ -1553,10 +1565,13 @@
 					"name": "Water management"
 				},
 				{
+					"name": "Water management"
+				},
+				{
 					"name": "Wildlife crime"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106870"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8361,

@@ -578,6 +578,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179816",
+			"receivedDate": "2025-04-08",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP120055",
 			"receivedDate": "2013-01-07",
 			"response": "Advice only",
@@ -634,6 +640,12 @@
 		{
 			"code": "CPP178437",
 			"receivedDate": "2024-12-19",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP179368",
+			"receivedDate": "2025-03-05",
 			"response": "Advice only",
 			"type": "Forest design plan"
 		},
@@ -714,19 +726,21 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-31",
+			"lastVisitDate": "2017-02-21",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107393"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-08-31",
+			"lastVisitDate": "2017-02-21",
 			"name": "Waterfowl assemblage, non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107392"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8591,

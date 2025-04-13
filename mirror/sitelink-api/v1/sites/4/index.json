@@ -56,6 +56,12 @@
 			"type": "SSSI Consent (s.13 or s.16)"
 		},
 		{
+			"code": "CDM179784",
+			"receivedDate": "2025-03-21",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CGS168673",
 			"receivedDate": "2022-10-12",
 			"response": "Advice only",
@@ -122,9 +128,9 @@
 	"features": [
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2004-10-22",
+			"lastVisitDate": "2005-03-31",
 			"name": "Lichen assemblage",
 			"pressures": [
 				{
@@ -140,13 +146,13 @@
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5004440"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2003-06-30",
+			"lastVisitDate": "2007-02-09",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
@@ -162,7 +168,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5001528"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 4,

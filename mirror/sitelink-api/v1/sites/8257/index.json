@@ -1544,6 +1544,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA178243",
+			"receivedDate": "2024-12-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA178904",
 			"receivedDate": "2025-02-03",
 			"response": "Advice only",
@@ -2468,6 +2474,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179492",
+			"receivedDate": "2025-03-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP114115",
 			"receivedDate": "2012-05-14",
 			"response": "Advice only",
@@ -2792,9 +2804,9 @@
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2019-08-22",
+			"lastVisitDate": "2024-03-26",
 			"name": "Harbour seal (Phoca vitulina)",
 			"pressures": [
 				{
@@ -2807,28 +2819,29 @@
 					"name": "To be identified"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=113264"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2002-12-31",
+			"lastVisitDate": "2005-03-31",
 			"name": "Intertidal mudflats and sandflats",
 			"pressures": [
 				{
 					"name": "Game/ fisheries management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003879"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2002-07-04",
+			"lastVisitDate": "2005-03-31",
 			"name": "Subtidal sandbanks",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5003876"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8257,

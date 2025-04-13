@@ -716,6 +716,12 @@
 			"type": "Application related advice"
 		},
 		{
+			"code": "CDM179414",
+			"receivedDate": "2025-02-19",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CEA113814",
 			"receivedDate": "2012-05-01",
 			"response": "Advice only",
@@ -904,6 +910,12 @@
 		{
 			"code": "CEA177963",
 			"receivedDate": "2024-11-18",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
+			"code": "CEA179327",
+			"receivedDate": "2025-03-04",
 			"response": "Advice only",
 			"type": "EIA"
 		},
@@ -1578,17 +1590,18 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2010-06-30",
+			"lastVisitDate": "2011-01-28",
 			"name": "Black-throated diver (Gavia arctica), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=103943"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2018-08-15",
+			"lastVisitDate": "2018-09-10",
 			"name": "Common scoter (Melanitta nigra), breeding",
 			"pressures": [
 				{
@@ -1598,7 +1611,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112072"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 9187,

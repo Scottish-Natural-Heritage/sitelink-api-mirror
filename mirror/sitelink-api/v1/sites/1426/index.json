@@ -533,6 +533,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA179299",
+			"receivedDate": "2025-02-27",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CEA179514",
 			"receivedDate": "2025-03-14",
 			"response": "Advice only",
@@ -899,9 +905,9 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-06-22",
+			"lastVisitDate": "2017-02-09",
 			"name": "Breeding bird assemblage",
 			"pressures": [
 				{
@@ -911,17 +917,17 @@
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106340"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2007-06-13",
+			"lastVisitDate": "2009-04-21",
 			"name": "Blanket bog",
 			"pressures": [
 				{
-					"name": "Infrastructure\r\n"
+					"name": "Infrastructure "
 				},
 				{
 					"name": "Trampling"
@@ -930,7 +936,7 @@
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102112"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1426,

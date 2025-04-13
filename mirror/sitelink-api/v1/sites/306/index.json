@@ -146,6 +146,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179542",
+			"receivedDate": "2025-03-19",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CGS168116",
 			"receivedDate": "2022-07-08",
 			"response": "Advice only",
@@ -290,22 +296,22 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-02-14",
+			"lastVisitDate": "2017-03-17",
 			"name": "Pink-footed goose (Anser brachyrhynchus), non-breeding",
 			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				},
 				{
 					"keywords": [
 						"Dog walking"
 					],
 					"name": "Recreation/disturbance"
-				},
-				{
-					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105515"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 306,

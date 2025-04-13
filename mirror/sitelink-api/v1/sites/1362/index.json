@@ -80,16 +80,19 @@
 	"features": [
 		{
 			"category": "Vascular plants",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-01",
+			"lastVisitDate": "2018-06-20",
 			"name": "Whorled Solomon's-seal (Polygonatum verticillatum)",
 			"pressures": [
+				{
+					"name": "Invasive species"
+				},
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111913"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1362,

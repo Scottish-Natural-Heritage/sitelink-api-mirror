@@ -1100,6 +1100,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA179525",
+			"receivedDate": "2025-03-17",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS162471",
 			"receivedDate": "2021-03-19",
 			"response": "Advice only",
@@ -1620,11 +1626,12 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-10-21",
+			"lastVisitDate": "2018-03-19",
 			"name": "Taiga bean goose (Anser fabalis fabalis), non-breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111949"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 9184,

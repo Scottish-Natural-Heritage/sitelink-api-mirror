@@ -326,6 +326,18 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179591",
+			"receivedDate": "2025-03-20",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
+			"code": "CDM179596",
+			"receivedDate": "2025-03-21",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CEA132432",
 			"receivedDate": "2014-07-31",
 			"response": "Advice only",
@@ -592,16 +604,16 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2020-10-18",
+			"lastVisitDate": "2020-12-16",
 			"name": "Blanket bog",
 			"pressures": [
 				{
 					"name": "Trampling"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111967"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8324,

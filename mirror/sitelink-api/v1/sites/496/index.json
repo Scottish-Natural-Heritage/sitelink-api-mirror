@@ -142,17 +142,11 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Favourable Declining",
+			"conditionLatest": "Favourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2021-05-19",
+			"lastVisitDate": "2024-08-16",
 			"name": "Fen woodland",
 			"pressures": [
-				{
-					"keywords": [
-						"Birch"
-					],
-					"name": "Invasive species"
-				},
 				{
 					"keywords": [
 						"Conifers",
@@ -162,12 +156,21 @@
 				},
 				{
 					"keywords": [
+						"Birch"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"keywords": [
 						"Deer"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112432"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 496,

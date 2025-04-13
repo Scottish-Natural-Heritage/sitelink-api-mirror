@@ -332,9 +332,9 @@
 	"features": [
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-07-01",
+			"lastVisitDate": "2015-03-20",
 			"name": "Active raised bog",
 			"pressures": [
 				{
@@ -344,7 +344,18 @@
 					"name": "Game/ fisheries management"
 				},
 				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
 					"name": "Grazing - other"
+				},
+				{
+					"keywords": [
+						"Birch",
+						"Scots pine"
+					],
+					"name": "Invasive species"
 				},
 				{
 					"keywords": [
@@ -357,22 +368,19 @@
 					"name": "Invasive species"
 				},
 				{
-					"name": "Invasive species"
-				},
-				{
 					"name": "No proactive management"
 				},
 				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106760"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Wetlands",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-07-01",
+			"lastVisitDate": "2015-03-18",
 			"name": "Degraded raised bog",
 			"pressures": [
 				{
@@ -386,6 +394,10 @@
 					"name": "Invasive species"
 				},
 				{
+					"keywords": [
+						"Birch",
+						"Scots pine"
+					],
 					"name": "Invasive species"
 				},
 				{
@@ -395,7 +407,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=111047"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8258,

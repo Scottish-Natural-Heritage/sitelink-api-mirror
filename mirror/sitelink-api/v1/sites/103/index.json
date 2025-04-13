@@ -74,6 +74,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA178243",
+			"receivedDate": "2024-12-09",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CGS159351",
 			"receivedDate": "2020-05-25",
 			"response": "Advice only",
@@ -128,9 +134,9 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-09-02",
+			"lastVisitDate": "2024-02-28",
 			"name": "Subalpine dry heath",
 			"pressures": [
 				{
@@ -143,7 +149,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112568"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 103,

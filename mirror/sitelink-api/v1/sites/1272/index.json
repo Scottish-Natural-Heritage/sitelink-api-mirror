@@ -3210,6 +3210,12 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC179625",
+			"receivedDate": "2025-03-26",
+			"response": "S.12 SSSI consent not required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "COR110823",
 			"receivedDate": "2012-01-05",
 			"response": "Information only",
@@ -3856,17 +3862,18 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2022-07-19",
+			"lastVisitDate": "2022-12-12",
 			"name": "Fluvial Geomorphology of Scotland",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005369"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Partially destroyed",
+			"conditionLatest": "Partially destroyed, favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2022-07-19",
+			"lastVisitDate": "2023-02-10",
 			"name": "Quaternary of Scotland",
 			"pressures": [
 				{
@@ -3876,7 +3883,7 @@
 					"name": "Dumping/ storage of materials"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5005370"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 1272,

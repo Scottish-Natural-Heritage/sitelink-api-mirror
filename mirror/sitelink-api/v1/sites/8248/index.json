@@ -534,6 +534,12 @@
 			"type": "Oil spill contingency plan"
 		},
 		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
 			"code": "GEN112521",
 			"receivedDate": "2012-03-08",
 			"response": "Advice only",
@@ -578,21 +584,21 @@
 	"features": [
 		{
 			"category": "Coast",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-07-09",
+			"lastVisitDate": "2009-11-24",
 			"name": "Vegetated sea cliffs",
 			"pressures": [
 				{
 					"name": "Dumping/ storage of materials"
 				},
 				{
-					"keywords": [
-						"Bracken"
-					],
 					"name": "Invasive species"
 				},
 				{
+					"keywords": [
+						"Bracken"
+					],
 					"name": "Invasive species"
 				},
 				{
@@ -605,7 +611,7 @@
 					"name": "Under grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=101925"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8248,

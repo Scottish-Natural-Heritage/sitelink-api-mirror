@@ -788,6 +788,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179606",
+			"receivedDate": "2025-03-24",
+			"response": "Advice only",
+			"type": "Application related advice"
+		},
+		{
 			"code": "CEA120971",
 			"receivedDate": "2013-02-04",
 			"response": "Advice only",
@@ -1536,19 +1542,25 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2008-05-15",
+			"lastVisitDate": "2009-02-03",
 			"name": "Capercaillie (Tetrao urogallus), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=100913"
+			"pressures": [
+				{
+					"name": "Not to be reported "
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-03-27",
+			"lastVisitDate": "2016-01-14",
 			"name": "Scottish crossbill (Loxia scotica), breeding",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105100"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8519,

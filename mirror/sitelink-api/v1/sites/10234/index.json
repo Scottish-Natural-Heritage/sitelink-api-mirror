@@ -1609,6 +1609,12 @@
 			"type": "SSSI Consultation (s.12 - from a public body)"
 		},
 		{
+			"code": "CLC179545",
+			"receivedDate": "2025-03-19",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "COR136556",
 			"receivedDate": "2015-05-11",
 			"response": "Information only",
@@ -1991,6 +1997,12 @@
 			"receivedDate": "2025-03-06",
 			"response": "Advice only",
 			"type": "Grants pre-application enquiry"
+		},
+		{
+			"code": "CPA179488",
+			"receivedDate": "2025-03-14",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
 		},
 		{
 			"code": "CPA179578",
@@ -2477,16 +2489,16 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-07-31",
+			"lastVisitDate": "2017-03-20",
 			"name": "Golden eagle (Aquila chrysaetos), breeding",
 			"pressures": [
 				{
 					"name": "Proactive on-site management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107650"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 10234,

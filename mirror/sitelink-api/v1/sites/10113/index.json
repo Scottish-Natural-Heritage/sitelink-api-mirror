@@ -1554,6 +1554,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM178214",
+			"receivedDate": "2024-12-06",
+			"response": "Advice only",
+			"type": "Post Application"
+		},
+		{
 			"code": "CDM178607",
 			"receivedDate": "2025-01-14",
 			"response": "Advice only",
@@ -1569,6 +1575,18 @@
 			"code": "CDM178841",
 			"receivedDate": "2025-01-29",
 			"response": "Holding objection",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM179180",
+			"receivedDate": "2025-02-20",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
+			"code": "CDM179408",
+			"receivedDate": "2025-03-07",
+			"response": "Conditioned objection",
 			"type": "Planning Application"
 		},
 		{
@@ -3268,16 +3286,16 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-07-31",
+			"lastVisitDate": "2018-01-24",
 			"name": "Golden eagle (Aquila chrysaetos), breeding",
 			"pressures": [
 				{
 					"name": "Recreation/disturbance"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107653"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 10113,

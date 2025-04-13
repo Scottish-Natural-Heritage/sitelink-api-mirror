@@ -368,6 +368,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM179795",
+			"receivedDate": "2025-04-07",
+			"response": "Advice only",
+			"type": "Planning Application"
+		},
+		{
 			"code": "CEA113080",
 			"receivedDate": "2012-03-30",
 			"response": "Advice only",
@@ -782,9 +788,9 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-07-31",
+			"lastVisitDate": "2016-03-29",
 			"name": "Breeding bird assemblage",
 			"pressures": [
 				{
@@ -797,13 +803,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=107660"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-07-15",
+			"lastVisitDate": "2010-04-29",
 			"name": "Hen harrier (Circus cyaneus), breeding",
 			"pressures": [
 				{
@@ -813,13 +819,13 @@
 					"name": "Invasive species"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=102497"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable No change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-08-17",
+			"lastVisitDate": "2017-03-17",
 			"name": "Upland assemblage",
 			"pressures": [
 				{
@@ -841,7 +847,7 @@
 					"name": "To be identified"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106618"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8167,

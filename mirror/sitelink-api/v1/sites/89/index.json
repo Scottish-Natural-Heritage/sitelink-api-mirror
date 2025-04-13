@@ -18,6 +18,12 @@
 			"receivedDate": "2008-10-09",
 			"response": "Information/Advice only",
 			"type": "Felling Licence"
+		},
+		{
+			"code": "CDM179390",
+			"receivedDate": "2025-03-07",
+			"response": "Advice only",
+			"type": "S.36 Application"
 		}
 	],
 	"designation": {
@@ -38,9 +44,9 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Recovering",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-05-27",
+			"lastVisitDate": "2014-06-04",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -56,7 +62,7 @@
 					"name": "Over grazing"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=105350"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 89,

@@ -364,9 +364,9 @@
 	"features": [
 		{
 			"category": "Invertebrates",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2012-09-13",
+			"lastVisitDate": "2015-03-31",
 			"name": "Freshwater pearl mussel (Margaritifera margaritifera)",
 			"pressures": [
 				{
@@ -374,6 +374,12 @@
 				},
 				{
 					"name": "Extraction"
+				},
+				{
+					"name": "Game/ fisheries management"
+				},
+				{
+					"name": "Over grazing"
 				},
 				{
 					"name": "To be identified"
@@ -389,9 +395,12 @@
 				},
 				{
 					"name": "Water management"
+				},
+				{
+					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=106633"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8191,

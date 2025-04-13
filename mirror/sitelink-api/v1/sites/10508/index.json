@@ -3494,6 +3494,12 @@
 			"type": "Licence to disturb European Protected Species"
 		},
 		{
+			"code": "CLC175801",
+			"receivedDate": "2024-06-05",
+			"response": "Advice only",
+			"type": "CAR Licence"
+		},
+		{
 			"code": "CLC176054",
 			"receivedDate": "2024-06-19",
 			"response": "Advice only",
@@ -3718,6 +3724,18 @@
 		{
 			"code": "CLC179263",
 			"receivedDate": "2025-02-27",
+			"response": "Advice only",
+			"type": "Other"
+		},
+		{
+			"code": "CLC179537",
+			"receivedDate": "2025-03-11",
+			"response": "No objection",
+			"type": "Licence to disturb European Protected Species"
+		},
+		{
+			"code": "CLC179582",
+			"receivedDate": "2025-03-20",
 			"response": "Advice only",
 			"type": "Other"
 		},
@@ -4280,6 +4298,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA179453",
+			"receivedDate": "2025-03-12",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP140850",
 			"receivedDate": "2016-04-11",
 			"response": "Advice only",
@@ -4332,6 +4356,18 @@
 			"receivedDate": "2023-01-10",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP178318",
+			"receivedDate": "2024-12-12",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
+		},
+		{
+			"code": "CPP179736",
+			"receivedDate": "2025-04-02",
+			"response": "Advice only",
+			"type": "Oil spill contingency plan"
 		},
 		{
 			"code": "GEN144493",
@@ -4432,11 +4468,12 @@
 	"features": [
 		{
 			"category": "Marine (including marine mammals)",
-			"conditionLatest": "Favourable Maintained",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-12-31",
+			"lastVisitDate": "2020-04-29",
 			"name": "Harbour porpoise (Phocoena phocoena)",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=112131"
+			"pressures": [],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 10508,

@@ -424,9 +424,9 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable Declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2023-05-17",
+			"lastVisitDate": "2023-10-09",
 			"name": "Alder woodland on floodplains",
 			"pressures": [
 				{
@@ -439,10 +439,13 @@
 					"name": "Plant pests and diseases"
 				},
 				{
+					"name": "Plant pests and diseases"
+				},
+				{
 					"name": "Water management"
 				}
 			],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=5007339"
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
 	"id": 8332,
