@@ -1,4 +1,4 @@
 {
-	"message": "An error occurred accessing the Insight API: Read timed out",
+	"message": "An error occurred accessing the Insight API: 504 Gateway Timeout\nGET https://summary-api.monitoring.nature.scot/v1/summaries/sites/292/assets?page=1&pageSize=50\n{\"message\": \"Network error communicating with endpoint\"}",
 	"url": "/sitelink-api/v1/sites/undefined"
 }
