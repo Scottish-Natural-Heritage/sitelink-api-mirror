@@ -1,4 +1,4 @@
 {
-	"message": "An error occurred accessing the Insight API: connect timed out",
+	"message": "An error occurred accessing the Insight API: 500 Internal Server Error\nGET https://summary-api.monitoring.nature.scot/v1/summaries/sites/292/assets?page=1&pageSize=50\n{\"type\":\"https://datatracker.ietf.org/doc/html/rfc7231#section-6.6.1\",\"title\":\"Internal Server Error.\",\"status\":500,\"instance\":\"/v1/summaries/sites/292/assets\"}",
 	"url": "/sitelink-api/v1/sites/undefined"
 }
