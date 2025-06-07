@@ -183,19 +183,31 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-11-25",
+			"lastVisitDate": "2025-06-04",
 			"name": "Blanket bog",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
 				},
 				{
+					"name": "Burning"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Game/ fisheries management"
+				},
+				{
 					"name": "Recreation/disturbance"
 				},
 				{
 					"name": "Trampling"
+				},
+				{
+					"name": "Water management"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
