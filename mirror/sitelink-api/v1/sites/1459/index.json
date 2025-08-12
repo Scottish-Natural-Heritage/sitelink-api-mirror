@@ -87,29 +87,29 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-04-23",
+			"lastVisitDate": "2025-08-11",
 			"name": "Alpine heath",
 			"pressures": [
 				{
 					"name": "Natural event"
-				},
-				{
-					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-04-27",
+			"lastVisitDate": "2025-08-11",
 			"name": "Blanket bog",
 			"pressures": [
 				{
-					"name": "Burning"
+					"keywords": [
+						"Drainage ditches"
+					],
+					"name": "Agricultural operations"
 				},
 				{
 					"keywords": [
@@ -117,6 +117,12 @@
 						"Sheep"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"

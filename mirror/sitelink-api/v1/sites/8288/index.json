@@ -339,18 +339,15 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable declining",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2025-08-11",
 			"name": "Dry heaths",
 			"pressures": [
 				{
-					"name": "Burning"
-				},
-				{
-					"name": "Invasive species"
-				},
-				{
+					"keywords": [
+						"Sheep"
+					],
 					"name": "Over grazing"
 				}
 			],
