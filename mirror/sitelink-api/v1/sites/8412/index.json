@@ -2617,6 +2617,12 @@
 			"type": "Planning Application"
 		},
 		{
+			"code": "CDM181600",
+			"receivedDate": "2025-09-03",
+			"response": "Outright objection",
+			"type": "S.37 Application"
+		},
+		{
 			"code": "CDM181625",
 			"receivedDate": "2025-09-05",
 			"response": "Conditioned objection",
@@ -4177,6 +4183,12 @@
 			"type": "Development pre-application enquiry"
 		},
 		{
+			"code": "CPA181769",
+			"receivedDate": "2025-09-19",
+			"response": "Advice only",
+			"type": "Development pre-application enquiry"
+		},
+		{
 			"code": "CPP112458",
 			"receivedDate": "2012-03-06",
 			"response": "Advice only",
@@ -4484,6 +4496,12 @@
 	"features": [
 		{
 			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Black-throated diver (Gavia arctica), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2012-01-19",
@@ -4512,6 +4530,18 @@
 		},
 		{
 			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Golden plover (Pluvialis apricaria), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Greenshank (Tringa nebularia), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2018-11-09",
@@ -4521,6 +4551,36 @@
 					"name": "Burning"
 				}
 			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Red-throated diver (Gavia stellata), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Wigeon (Anas penelope), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Wood sandpiper (Tringa glareola), breeding",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Freshwater habitats",
+			"conditionSummary": "Not Assessed",
+			"name": "Oligotrophic loch",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Mammals (except marine)",
+			"conditionSummary": "Not Assessed",
+			"name": "Otter (Lutra lutra)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -4540,6 +4600,12 @@
 					"name": "Trampling"
 				}
 			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Vascular plants",
+			"conditionSummary": "Not Assessed",
+			"name": "Bog orchid (Hammarbya paludosa)",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
