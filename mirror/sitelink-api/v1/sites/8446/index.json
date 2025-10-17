@@ -344,6 +344,12 @@
 			"type": "EIA"
 		},
 		{
+			"code": "CEA181858",
+			"receivedDate": "2025-09-25",
+			"response": "Advice only",
+			"type": "EIA"
+		},
+		{
 			"code": "CLC121651",
 			"receivedDate": "2013-02-22",
 			"response": "S.12 SSSI consent required",
@@ -529,24 +535,12 @@
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
-			"category": "Coast",
-			"conditionSummary": "Not Assessed",
-			"name": "Saltmarsh",
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
 			"category": "Marine (including marine mammals)",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2010-08-18",
 			"name": "Intertidal mudflats and sandflats",
 			"pressures": [],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Wetlands",
-			"conditionSummary": "Not Assessed",
-			"name": "Transition saltmarsh",
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],

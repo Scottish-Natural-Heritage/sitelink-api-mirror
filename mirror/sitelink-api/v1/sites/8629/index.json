@@ -1,0 +1,48 @@
+{
+	"area": 291.11,
+	"designation": {
+		"code": "SSSI",
+		"date": "2025-10-16",
+		"link": "https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-areas/national-designations/sites-special-scientific-interest",
+		"status": "Current",
+		"type": "Site of Special Scientific Interest"
+	},
+	"dffcSite": true,
+	"documents": [
+		{
+			"type": "Scotland's Environment - Feature Condition",
+			"url": "https://www.environment.gov.scot/data/data-analysis/protected-nature-sites/?pagenumber=1&resetmap=true&siteid=8629"
+		}
+	],
+	"features": [
+		{
+			"category": "Birds",
+			"conditionSummary": "Not Assessed",
+			"name": "Breeding bird assemblage",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Wetlands",
+			"conditionSummary": "Not Assessed",
+			"name": "Flood-plain fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Wetlands",
+			"conditionSummary": "Not Assessed",
+			"name": "Open water transition fen",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Wetlands",
+			"conditionSummary": "Not Assessed",
+			"name": "Raised bog",
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		}
+	],
+	"id": 8629,
+	"localAuthority": "East Ayrshire",
+	"name": "Doon Valley Wetlands",
+	"snhArea": "National Operations West Central",
+	"url": "/sitelink-api/v1/sites/8629"
+}
