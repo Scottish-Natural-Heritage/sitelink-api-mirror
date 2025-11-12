@@ -74,13 +74,31 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2025-11-11",
 			"name": "Upland oak woodland",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
