@@ -60,11 +60,18 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-02-20",
+			"lastVisitDate": "2025-12-08",
 			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Invasive species"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
