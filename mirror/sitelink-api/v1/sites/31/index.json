@@ -84,11 +84,18 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable declining",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2007-02-12",
+			"lastVisitDate": "2026-01-05",
 			"name": "Calaminarian grassland and serpentine heath",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
