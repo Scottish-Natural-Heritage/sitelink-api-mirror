@@ -1751,13 +1751,22 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2026-02-12",
 			"name": "Subalpine dry heath",
 			"pressures": [
 				{
-					"name": "Burning"
+					"keywords": [
+						"Birch"
+					],
+					"name": "Natural event"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
 				},
 				{
 					"name": "Under grazing"
