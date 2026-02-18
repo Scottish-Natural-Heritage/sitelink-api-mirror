@@ -912,13 +912,20 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-12-20",
+			"lastVisitDate": "2026-02-17",
 			"name": "Capercaillie (Tetrao urogallus), breeding",
 			"pressures": [
 				{
 					"name": "Plant pests and diseases"
+				},
+				{
+					"keywords": [
+						"Cycling",
+						"Dog walking"
+					],
+					"name": "Recreation/disturbance"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"

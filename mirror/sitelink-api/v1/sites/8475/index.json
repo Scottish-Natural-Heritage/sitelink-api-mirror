@@ -3584,9 +3584,13 @@
 			"category": "Birds",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-12-24",
+			"lastVisitDate": "2026-02-17",
 			"name": "Capercaillie (Tetrao urogallus), breeding",
-			"pressures": [],
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
