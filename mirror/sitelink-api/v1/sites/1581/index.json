@@ -272,9 +272,17 @@
 			"category": "Birds",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-02-24",
+			"lastVisitDate": "2026-02-19",
 			"name": "Cormorant (Phalacrocorax carbo), breeding",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Kayaking",
+						"Wild camping"
+					],
+					"name": "Recreation/disturbance"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -297,9 +305,9 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-03-17",
+			"lastVisitDate": "2026-02-19",
 			"name": "Shag (Phalacrocorax aristotelis), breeding",
 			"pressures": [
 				{
