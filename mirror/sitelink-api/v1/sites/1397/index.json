@@ -244,16 +244,22 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-04-21",
+			"lastVisitDate": "2026-02-25",
 			"name": "Blanket bog",
 			"pressures": [
 				{
 					"keywords": [
 						"Deer"
 					],
-					"name": "Under grazing"
+					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
 				},
 				{
 					"name": "Water management"
