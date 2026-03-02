@@ -48,30 +48,13 @@
 	"features": [
 		{
 			"category": "Coast",
-			"conditionLatest": "Unfavourable declining",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2015-01-06",
+			"lastVisitDate": "2026-02-27",
 			"name": "Shingle",
 			"pressures": [
 				{
-					"name": "Agricultural operations"
-				},
-				{
-					"name": "Dumping/ storage of materials"
-				},
-				{
 					"name": "Extraction"
-				},
-				{
-					"name": "Flood defence/coastal defence works"
-				},
-				{
-					"keywords": [
-						"Nettles",
-						"Other (add species to the pressure comment)",
-						"Thistles"
-					],
-					"name": "Invasive species"
 				},
 				{
 					"keywords": [
@@ -81,9 +64,11 @@
 				},
 				{
 					"keywords": [
-						"Cattle"
+						"Nettles",
+						"Other (add species to the pressure comment)",
+						"Thistles"
 					],
-					"name": "Over grazing"
+					"name": "Invasive species"
 				},
 				{
 					"keywords": [
