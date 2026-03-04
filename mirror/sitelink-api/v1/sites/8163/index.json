@@ -6746,6 +6746,12 @@
 			"type": "Construction projects (e.g. outfalls, slipways, jetties, breakwaters etc)"
 		},
 		{
+			"code": "CLC183585",
+			"receivedDate": "2026-02-27",
+			"response": "S.12 SSSI consent required",
+			"type": "SSSI Consultation (s.12 - from a public body)"
+		},
+		{
 			"code": "COR132954",
 			"receivedDate": "2014-09-30",
 			"response": "Resolved",
@@ -7656,6 +7662,12 @@
 			"receivedDate": "2025-11-27",
 			"response": "Advice only",
 			"type": "Forest design plan"
+		},
+		{
+			"code": "CPP183561",
+			"receivedDate": "2026-02-26",
+			"response": "Advice only",
+			"type": "Other"
 		},
 		{
 			"code": "GEN117039",
@@ -8700,6 +8712,7 @@
 			"category": "Marine (including marine mammals)",
 			"conditionSummary": "Not Assessed",
 			"name": "Mudflats",
+			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{

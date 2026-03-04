@@ -1144,6 +1144,12 @@
 			"type": "Regional forest strategy"
 		},
 		{
+			"code": "CPP183238",
+			"receivedDate": "2026-02-02",
+			"response": "Advice only",
+			"type": "Forest design plan"
+		},
+		{
 			"code": "GEN116470",
 			"receivedDate": "2012-08-06",
 			"response": "Advice only",
@@ -1421,12 +1427,14 @@
 			"category": "Mammals (except marine)",
 			"conditionSummary": "Not Assessed",
 			"name": "Otter (Lutra lutra)",
+			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Marine (including marine mammals)",
 			"conditionSummary": "Not Assessed",
 			"name": "Harbour seal (Phoca vitulina)",
+			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
