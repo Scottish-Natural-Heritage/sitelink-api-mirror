@@ -987,13 +987,19 @@
 	"features": [
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2026-03-20",
 			"name": "Mixed woodland on base-rich soils associated with rocky slopes",
 			"pressures": [
 				{
 					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
