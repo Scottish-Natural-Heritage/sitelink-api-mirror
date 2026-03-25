@@ -96,13 +96,16 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2026-03-23",
 			"name": "Lower Carboniferous [Dinantian - Namurian (part)]",
 			"pressures": [
 				{
-					"name": "Recreation/disturbance"
+					"name": "Dumping/ storage of materials"
+				},
+				{
+					"name": "Invasive species"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"

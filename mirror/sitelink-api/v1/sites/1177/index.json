@@ -174,11 +174,18 @@
 	"features": [
 		{
 			"category": "Earth sciences",
-			"conditionLatest": "Favourable recovered",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2013-03-20",
+			"lastVisitDate": "2026-03-23",
 			"name": "Carboniferous - Permian Igneous",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Other (add species to the pressure comment)"
+					],
+					"name": "Natural event"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],

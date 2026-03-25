@@ -689,22 +689,16 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-03-13",
+			"lastVisitDate": "2026-03-23",
 			"name": "Upland assemblage",
 			"pressures": [
 				{
-					"name": "Burning"
-				},
-				{
-					"keywords": [
-						"Bracken"
-					],
-					"name": "Invasive species"
-				},
-				{
 					"name": "Over grazing"
+				},
+				{
+					"name": "Water management"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
