@@ -1477,13 +1477,16 @@
 		},
 		{
 			"category": "Birds",
-			"conditionLatest": "Favourable declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-02-10",
+			"lastVisitDate": "2026-03-27",
 			"name": "Dotterel (Charadrius morinellus), breeding",
 			"pressures": [
 				{
 					"name": "Over grazing"
+				},
+				{
+					"name": "Recreation/disturbance"
 				},
 				{
 					"name": "Recreation/disturbance"
@@ -1530,16 +1533,9 @@
 			"category": "Birds",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2026-03-27",
 			"name": "Snow bunting (Plectrophenax nivalis), breeding",
-			"pressures": [
-				{
-					"name": "Other"
-				},
-				{
-					"name": "Recreation/disturbance"
-				}
-			],
+			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{

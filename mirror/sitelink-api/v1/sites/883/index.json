@@ -64,7 +64,7 @@
 			"category": "Lowland grassland",
 			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-03-19",
+			"lastVisitDate": "2026-03-27",
 			"name": "Fen meadow",
 			"pressures": [
 				{
@@ -73,20 +73,26 @@
 						"Gorse"
 					],
 					"name": "Invasive species"
+				},
+				{
+					"name": "Other"
+				},
+				{
+					"keywords": [
+						"Cattle"
+					],
+					"name": "Under grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2021-03-19",
+			"lastVisitDate": "2026-03-27",
 			"name": "Lowland neutral grassland",
 			"pressures": [
-				{
-					"name": "Dumping/ storage of materials"
-				},
 				{
 					"keywords": [
 						"Bracken",

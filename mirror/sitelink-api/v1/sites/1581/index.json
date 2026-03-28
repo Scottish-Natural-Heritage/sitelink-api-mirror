@@ -439,11 +439,17 @@
 		},
 		{
 			"category": "Non-vascular plants",
-			"conditionLatest": "Unfavourable recovering due to management, Unfavourable declining",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2009-11-19",
+			"lastVisitDate": "2026-03-27",
 			"name": "Bryophyte assemblage",
 			"pressures": [
+				{
+					"name": "Forestry operations"
+				},
+				{
+					"name": "Over grazing"
+				},
 				{
 					"name": "Under grazing"
 				}

@@ -247,13 +247,19 @@
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-09-25",
+			"lastVisitDate": "2026-03-27",
 			"name": "Wet woodland",
 			"pressures": [
 				{
 					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"

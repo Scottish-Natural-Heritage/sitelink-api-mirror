@@ -378,11 +378,15 @@
 	"features": [
 		{
 			"category": "Birds",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-11-25",
+			"lastVisitDate": "2026-03-27",
 			"name": "Dotterel (Charadrius morinellus), breeding",
-			"pressures": [],
+			"pressures": [
+				{
+					"name": "Recreation/disturbance"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
