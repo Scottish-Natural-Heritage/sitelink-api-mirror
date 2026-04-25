@@ -146,11 +146,15 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-08-13",
+			"lastVisitDate": "2026-04-23",
 			"name": "Blanket bog",
-			"pressures": [],
+			"pressures": [
+				{
+					"name": "Burning"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
