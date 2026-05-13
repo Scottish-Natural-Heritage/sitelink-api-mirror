@@ -1,4 +1,4 @@
 {
-	"message": "An error occurred accessing the Insight API: 500 Internal Server Error\nGET https://summary-api.monitoring.nature.scot/v1/summaries/sites/292/assets?page=1&pageSize=50\n{\"type\":\"https://datatracker.ietf.org/doc/html/rfc7231#section-6.6.1\",\"title\":\"Internal Server Error.\",\"status\":500,\"instance\":\"/v1/summaries/sites/292/assets\"}",
+	"message": "An error occurred accessing the Insight API: 502 Bad Gateway\nGET https://summary-api.monitoring.nature.scot/v1/summaries/sites/292/assets?page=1&pageSize=50\n<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n",
 	"url": "/sitelink-api/v1/sites/undefined"
 }
