@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2186,
+	"total": 2188,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -7323,6 +7323,19 @@
 			"snhArea": "National Operations South"
 		},
 		{
+			"url": "/sitelink-api/v1/sites/10603",
+			"id": 10603,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Glasgow City",
+			"name": "Crookston Wood",
+			"snhArea": "National Operations West Central"
+		},
+		{
 			"url": "/sitelink-api/v1/sites/470",
 			"id": 470,
 			"designation": {
@@ -13028,6 +13041,19 @@
 			"localAuthority": "Argyll and Bute",
 			"name": "Hough Bay and Balevullin Machair",
 			"snhArea": "National Operations West"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10601",
+			"id": 10601,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Glasgow City",
+			"name": "Househill Park",
+			"snhArea": "National Operations West Central"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/795",
