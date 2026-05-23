@@ -320,7 +320,17 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2026-03-30",
 			"name": "Acidic scree",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Deer",
+						"Sheep",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -333,9 +343,11 @@
 				{
 					"keywords": [
 						"Deer",
+						"Deer",
+						"Sheep",
 						"Sheep"
 					],
-					"name": "Under grazing"
+					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -350,9 +362,11 @@
 				{
 					"keywords": [
 						"Deer",
+						"Deer",
+						"Sheep",
 						"Sheep"
 					],
-					"name": "Trampling"
+					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -383,7 +397,11 @@
 			"name": "Mountain willow scrub",
 			"pressures": [
 				{
-					"name": "No proactive management"
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -394,7 +412,15 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2026-03-30",
 			"name": "Plants in crevices on acid rocks",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -412,15 +438,7 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2026-03-30",
 			"name": "Species-rich grassland with mat-grass in upland areas",
-			"pressures": [
-				{
-					"keywords": [
-						"Deer",
-						"Sheep"
-					],
-					"name": "Under grazing"
-				}
-			],
+			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -429,7 +447,15 @@
 			"conditionSummary": "Favourable",
 			"lastVisitDate": "2026-03-30",
 			"name": "Tall herb communities",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
@@ -441,6 +467,8 @@
 			"pressures": [
 				{
 					"keywords": [
+						"Deer",
+						"Sheep",
 						"Sheep"
 					],
 					"name": "Over grazing"
