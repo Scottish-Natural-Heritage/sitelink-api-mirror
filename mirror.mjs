@@ -332,7 +332,7 @@ while (siteQueue.length != 0) {
 
         // Add the site back on to the end of the queue again for later
         // consumption.
-        siteQueue.push(indexSite);
+        // siteQueue.push(indexSite);
 
         // Let the server catch it's breath for a couple of seconds in case
         // we're hammering it in to the ground.
