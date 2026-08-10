@@ -1,7 +1,7 @@
 {
 	"first": 1,
 	"pageSize": 0,
-	"total": 2188,
+	"total": 2190,
 	"sites": [
 		{
 			"url": "/sitelink-api/v1/sites/1",
@@ -951,6 +951,19 @@
 			"localAuthority": "North Ayrshire",
 			"name": "Ardeer Quarry",
 			"snhArea": "National Operations West Central"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10614",
+			"id": 10614,
+			"designation": {
+				"code": "LNR",
+				"status": "Current",
+				"type": "Local Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Highland",
+			"name": "Ardersier Common",
+			"snhArea": "National Operations Central Highland"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/71",
@@ -26587,6 +26600,19 @@
 			"localAuthority": "Aberdeenshire",
 			"name": "Tore of Troup",
 			"snhArea": "National Operations North"
+		},
+		{
+			"url": "/sitelink-api/v1/sites/10613",
+			"id": 10613,
+			"designation": {
+				"code": "NNR",
+				"status": "Current",
+				"type": "National Nature Reserve"
+			},
+			"dffcSite": false,
+			"localAuthority": "Highland",
+			"name": "Torridon",
+			"snhArea": "National Operations Central Highland"
 		},
 		{
 			"url": "/sitelink-api/v1/sites/1550",
