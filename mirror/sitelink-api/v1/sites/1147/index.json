@@ -122,11 +122,18 @@
 	"features": [
 		{
 			"category": "Lowland grassland",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-11-10",
+			"lastVisitDate": "2026-10-13",
 			"name": "Fen meadow",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Scrub"
+					],
+					"name": "Invasive species"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{

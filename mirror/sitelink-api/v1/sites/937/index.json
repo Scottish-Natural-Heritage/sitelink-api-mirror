@@ -124,9 +124,9 @@
 		},
 		{
 			"category": "Woodland",
-			"conditionLatest": "Favourable recovered",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-12-19",
+			"lastVisitDate": "2026-10-13",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -134,6 +134,12 @@
 						"Beech"
 					],
 					"name": "Invasive species"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
