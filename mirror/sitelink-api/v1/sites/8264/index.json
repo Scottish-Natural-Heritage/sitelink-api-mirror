@@ -607,9 +607,9 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable, no change",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-10-19",
+			"lastVisitDate": "2026-10-21",
 			"name": "Acidic scree",
 			"pressures": [
 				{
@@ -625,6 +625,12 @@
 						"Sheep"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Walking"
+					],
+					"name": "Recreation/disturbance"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -633,7 +639,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2020-10-21",
+			"lastVisitDate": "2026-10-21",
 			"name": "Alpine and subalpine calcareous grasslands",
 			"pressures": [
 				{
@@ -647,31 +653,22 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-28",
+			"lastVisitDate": "2026-10-21",
 			"name": "Alpine and subalpine heaths",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
-			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-09-28",
-			"name": "Base-rich fens",
-			"pressures": [],
-			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
-		},
-		{
-			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable declining",
-			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-04-25",
-			"name": "Dry heaths",
+			"conditionSummary": "Favourable",
+			"lastVisitDate": "2026-10-21",
+			"name": "Base-rich fens",
 			"pressures": [
 				{
-					"name": "Over grazing"
+					"name": "Under grazing"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -680,7 +677,26 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2011-09-23",
+			"lastVisitDate": "2026-10-21",
+			"name": "Dry heaths",
+			"pressures": [
+				{
+					"keywords": [
+						"Bracken"
+					],
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				}
+			],
+			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
+		},
+		{
+			"category": "Upland habitat",
+			"conditionLatest": "Favourable recovered",
+			"conditionSummary": "Unfavourable",
+			"lastVisitDate": "2026-10-21",
 			"name": "High-altitude plant communities associated with areas of water seepage",
 			"pressures": [
 				{
@@ -691,9 +707,9 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2005-03-31",
+			"lastVisitDate": "2026-10-21",
 			"name": "Montane acid grasslands",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -702,7 +718,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable recovering",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2017-10-17",
+			"lastVisitDate": "2026-10-21",
 			"name": "Mountain willow scrub",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -711,7 +727,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2011-08-25",
+			"lastVisitDate": "2026-10-21",
 			"name": "Plants in crevices on acid rocks",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -720,7 +736,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2015-12-21",
+			"lastVisitDate": "2026-10-21",
 			"name": "Plants in crevices on base-rich rocks",
 			"pressures": [
 				{
@@ -733,7 +749,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2016-02-05",
+			"lastVisitDate": "2026-10-21",
 			"name": "Species-rich grassland with mat-grass in upland areas",
 			"pressures": [
 				{
@@ -746,7 +762,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2016-01-20",
+			"lastVisitDate": "2026-10-21",
 			"name": "Tall herb communities",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"

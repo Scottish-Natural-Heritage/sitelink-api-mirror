@@ -688,21 +688,27 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-12-01",
+			"lastVisitDate": "2026-10-21",
 			"name": "Blanket bog",
 			"pressures": [
 				{
 					"name": "Burning"
 				},
 				{
+					"keywords": [
+						"Deer"
+					],
 					"name": "Over grazing"
 				},
 				{
 					"name": "Recreation/disturbance"
 				},
 				{
+					"keywords": [
+						"Deer"
+					],
 					"name": "Trampling"
 				}
 			],
@@ -710,13 +716,22 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-11",
+			"lastVisitDate": "2026-10-21",
 			"name": "Depressions on peat substrates",
 			"pressures": [
 				{
+					"keywords": [
+						"Deer"
+					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -725,7 +740,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-03-23",
+			"lastVisitDate": "2026-10-21",
 			"name": "Dry heaths",
 			"pressures": [
 				{
@@ -742,9 +757,8 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Favourable maintained",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2009-08-11",
+			"lastVisitDate": "2026-10-21",
 			"name": "Very wet mires often identified by an unstable 'quaking' surface",
 			"pressures": [],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
@@ -753,7 +767,7 @@
 			"category": "Upland habitat",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2017-03-23",
+			"lastVisitDate": "2026-10-21",
 			"name": "Wet heathland with cross-leaved heath",
 			"pressures": [
 				{
@@ -761,9 +775,15 @@
 				},
 				{
 					"keywords": [
-						"Cattle"
+						"Deer"
 					],
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Deer"
+					],
+					"name": "Trampling"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
