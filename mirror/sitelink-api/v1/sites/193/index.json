@@ -92,11 +92,17 @@
 	"features": [
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering due to management, Unfavourable, no change",
+			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Recovering",
-			"lastVisitDate": "2010-01-28",
+			"lastVisitDate": "2026-10-28",
 			"name": "Alpine flush",
 			"pressures": [
+				{
+					"name": "Invasive species"
+				},
+				{
+					"name": "Over grazing"
+				},
 				{
 					"name": "Over grazing"
 				}
@@ -105,13 +111,23 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2014-11-19",
+			"lastVisitDate": "2026-10-28",
 			"name": "Subalpine wet heath",
 			"pressures": [
 				{
 					"name": "Agricultural operations"
+				},
+				{
+					"name": "Agricultural operations"
+				},
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
 				},
 				{
 					"keywords": [
@@ -125,11 +141,19 @@
 		},
 		{
 			"category": "Upland habitat",
-			"conditionLatest": "Unfavourable recovering",
+			"conditionLatest": "Unfavourable declining",
 			"conditionSummary": "Favourable",
-			"lastVisitDate": "2012-09-19",
+			"lastVisitDate": "2026-10-28",
 			"name": "Tall herb ledge",
-			"pressures": [],
+			"pressures": [
+				{
+					"keywords": [
+						"Deer",
+						"Sheep"
+					],
+					"name": "Over grazing"
+				}
+			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
 		}
 	],
