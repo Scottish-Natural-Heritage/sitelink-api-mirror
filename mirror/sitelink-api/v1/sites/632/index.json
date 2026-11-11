@@ -169,7 +169,7 @@
 			"category": "Woodland",
 			"conditionLatest": "Unfavourable, no change",
 			"conditionSummary": "Unfavourable",
-			"lastVisitDate": "2014-02-26",
+			"lastVisitDate": "2026-11-10",
 			"name": "Upland mixed ash woodland",
 			"pressures": [
 				{
@@ -177,6 +177,12 @@
 				},
 				{
 					"name": "Over grazing"
+				},
+				{
+					"keywords": [
+						"Chalara fraxinea"
+					],
+					"name": "Plant pests and diseases"
 				}
 			],
 			"scmAssessmentLink": "http://gateway.snh.gov.uk/pls/apex_cagdb2/DFFC.scm_pkg.SHOW_CMF_FORM?p_monitored_feature_id=0"
